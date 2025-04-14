@@ -5,13 +5,13 @@
 
 **Ingeniería de Software**
 
-**Ciclo:** 2024-2
+**Ciclo:** 2025-1
 
-**Curso:** Aplicaciones para Dispositivos Móviles (CC238)
+**Curso:** Desarrollo de Soluciones IOT (1ASI0572)
 
-**Sección:** SW63
+**Sección:** 2942
 
-**Profesor:** Jorge Luis Mayta Guillermo
+**Profesor:** Marco Antonio Leon Baca
 
 ----
 ## Informe del Trabajo Final
@@ -25,12 +25,12 @@
 | Mendoza Carrion, Mathias Andre          | U202216282     |
 | Quispe Andia, Jeremy Joel      | U202216279     |
 | Santisteban Palomino, Ian Haziel Donato | U202214059     |
-| Pin Matallna, Augusto Jose | U202210257     |
+| Pin Matallana, Augusto Jose  | U202210257     |
 
 </div>
 
 
-<br><div align="center"><h3>Noviembre 2024</h3></div><br>
+<br><div align="center"><h3>Abril 2025</h3></div><br>
 
 
 
