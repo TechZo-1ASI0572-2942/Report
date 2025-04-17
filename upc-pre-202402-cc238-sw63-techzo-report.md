@@ -231,33 +231,7 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    - [5.2.2. Sprint 2](#522-sprint-2)
-      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
-    - [5.2.3. Sprint 3](#523-sprint-3)
-      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
-      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
-      - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
-      - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
-      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-    - [5.2.4. Sprint 4](#524-sprint-4)
-      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
-      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
-      - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
-      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
-      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
-      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
-      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
-      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+    
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-Registro-de-entrevistas)
@@ -297,7 +271,9 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
   </thead>
   <tbody>
     <tr>
-	<td colspan="3">Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.</td>
+	<td colspan="3">Trabaja en equipo para
+proporcionar liderazgo en
+forma conjunta</td>
       <td colspan="3" align = "justify">
       <h3>Joseph Alexis Huamani Mandujano</h3> 
       <b>TB1</b> 
@@ -320,7 +296,10 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
   </td>
     </tr>
     <tr>
-      <td colspan="3">Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</td>
+      <td colspan="3">Crea un entorno colaborativo e
+inclusivo, establece metas,
+planifica tareas y cumple
+objetivos.</td>
       <td colspan="3" align = "justify">
       <h3>Joseph Alexis Huamani Mandujano</h3>
     <b>TB1</b>
@@ -356,8 +335,8 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Descripción del objetivo**      | Mejorar competencias en comunicación efectiva dentro de equipos de desarrollo y clientes para roles de consultoría tecnológica.                       |
-| **Fecha de inicio**               | 9/05/24                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 9/28/24                                                                                                                                              |
+| **Fecha de inicio**               | 4/2/25                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 4/25/25                                                                                                                                              |
 | **S - Specific** | Joseph fortalecerá su habilidad para comunicar soluciones técnicas complejas de manera clara y efectiva tanto a miembros del equipo como a clientes, utilizando técnicas de comunicación enfocadas en el usuario.                                      |
 | **M - Measurable** | Realizar cinco presentaciones y reuniones de seguimiento con clientes y equipos internos, midiendo la comprensión del cliente y el equipo a través de encuestas de satisfacción al final de cada interacción.                                          |
 | **A - Achievable** | Utilizará herramientas y técnicas de presentación visual (como diagramas y esquemas) para mejorar la comprensión de conceptos técnicos y facilitar la toma de decisiones informadas por parte de los clientes.                                        |
@@ -369,8 +348,8 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Descripción del objetivo**      | Desarrollar habilidades avanzadas en liderazgo de equipos multidisciplinarios para mejorar la gestión de proyectos de software.                       |
-| **Fecha de inicio**               | 9/01/24                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 9/30/24                                                                                                                                              |
+| **Fecha de inicio**               | 4/01/25                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 4/24/25                                                                                                                                              |
 | **S - Specific** | Mathias mejorará sus habilidades de liderazgo colaborando con equipos de desarrollo, diseño y marketing, utilizando metodologías ágiles para garantizar la entrega exitosa de proyectos de software en tiempo y forma.                                    |
 | **M - Measurable** | Liderar dos proyectos de software desde la planificación hasta la entrega, midiendo el éxito a través de la satisfacción del cliente y el cumplimiento de los plazos establecidos.                                                                      |
 | **A - Achievable** | Implementará técnicas avanzadas de gestión de proyectos y herramientas como Jira o Trello para monitorear el progreso y garantizar la colaboración efectiva del equipo, mejorando su capacidad de coordinar equipos multidisciplinarios.                          |
@@ -382,8 +361,8 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Descripción del objetivo**      | Desarrollar habilidades en análisis de datos avanzados y ciencia de datos aplicables a la mejora continua de productos digitales.                     |
-| **Fecha de inicio**               | 9/02/24                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 9/30/24                                                                                                                                              |
+| **Fecha de inicio**               | 4/02/25                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 4/25/25                                                                                                                                              |
 | **S - Specific** | Jeremy adquirirá conocimientos en herramientas avanzadas de análisis de datos como Python, R y SQL, para analizar grandes volúmenes de datos y descubrir insights clave que contribuyan a la toma de decisiones de producto.                               |
 | **M - Measurable** | Completar dos análisis de conjuntos de datos grandes y generar informes con recomendaciones basadas en datos que mejoren la experiencia del usuario y el rendimiento del producto, midiendo el impacto a través de métricas clave de producto.             |
 | **A - Achievable** | Participará en programas de capacitación de ciencia de datos y aplicará el conocimiento adquirido en los proyectos actuales, mejorando sus habilidades técnicas en análisis de datos.                                                                   |
@@ -395,8 +374,8 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Descripción del objetivo**      | Desarrollar competencias en automatización de pruebas para garantizar la calidad continua de los proyectos de software.                              |
-| **Fecha de inicio**               | 9/03/24                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 9/29/24                                                                                                                                              |
+| **Fecha de inicio**               | 4/03/25                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 4/26/25                                                                                                                                              |
 | **S - Specific** | Ian aprenderá a diseñar y ejecutar pruebas automatizadas utilizando herramientas como Selenium y JUnit, para garantizar que el software desarrollado funcione correctamente y mantenga su calidad en cada iteración de desarrollo.                         |
 | **M - Measurable** | Crear y ejecutar 15 casos de pruebas automatizadas en dos proyectos, midiendo el éxito en términos de cobertura de pruebas y reducción de defectos reportados en las etapas finales del ciclo de desarrollo.                                             |
 | **A - Achievable** | Participará en un curso intensivo de pruebas automatizadas y aplicará el conocimiento adquirido en proyectos actuales, mejorando su capacidad para diseñar pruebas eficientes y efectivas.                                                             |
@@ -407,8 +386,8 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 | **Campo**                         | **Descripción**                                                                                                                                     |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Descripción del objetivo**      | Fortalecer habilidades en revisión y validación de pruebas funcionales, contribuyendo al aseguramiento de la calidad en los desarrollos del equipo. |
-| **Fecha de inicio**               | 12/04/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 15/04/25                                                                                                                                              |
+| **Fecha de inicio**               | 4/4/25                                                                                                                                              |
+| **Fecha de cumplimiento esperada** | 4/27/25                                                                                                                                              |
 | **S - Specific** | Augusto se enfocará en validar los resultados de pruebas funcionales realizadas por sus compañeros, asegurándose de que las funcionalidades cumplan con los criterios de aceptación establecidos en las User Stories.                         |
 | **M - Measurable** | Revisar y validar al menos 10 funcionalidades desarrolladas, documentando observaciones y colaborando con el equipo para corregir errores antes de las entregas finales.                                             |
 | **A - Achievable** | Utilizará herramientas como Jira y GitHub para registrar y dar seguimiento a los resultados de pruebas, aplicando buenas prácticas en la revisión de entregables.                                                             |
@@ -465,7 +444,7 @@ A continuación, presentaremos los perfiles de los integrantes del equipo encarg
 | **Mendoza Carrión, Mathias André - u202216282** |Soy Mathias Andre Mendoza Carrión, un estudiante de 20 años de Ingeniería de Software en el sexto ciclo. Me caracterizo por ser organizado, trabajar bien en equipo y ser responsable. Actualmente, mi enfoque principal es el aprendizaje profundo y práctico en el desarrollo de software, con habilidades en lenguajes de programación como C++, Python, Java, C#, y JavaScript. También tengo conocimientos en frameworks como Angular y Vue, desarrollo web con HTML y CSS, así como en la gestión de bases de datos SQL y MongoDB. Aspiro a dominar nuevas tecnologías y comprender en detalle los principios fundamentales detrás del desarrollo de aplicaciones, con el objetivo de convertirme en un profesional capaz de crear soluciones innovadoras y eficientes en el campo del desarrollo de software.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/mathiasmendoza.png?raw=true" alt="Imagen de Mathias Mendoza"/> |
 | **Quispe Andia, Jeremy Joel - u202216279** |Mi nombre es Jeremy Joel Quispe Andia, soy estudiante de 6to ciclo de la carrera de Ingeniería de Software. Tengo una gran pasión por la programación competitiva y aspiro a convertirme en desarrollador Full Stack. Me gusta emplear soluciones creativas y eficientes para abordar cualquier desafío de la mejor manera posible. Como miembro del grupo, pretendo aportar todos mis conocimientos en el desarrollo móvil. Además, siempre colaboro con ideas y soluciones ante cualquier dificultad que se presente durante el desarrollo. Espero aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del proyecto.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/jeremyquispe.jpeg?raw=true" alt="Imagen de Jeremy Quispe"/>                 |
 | **Santisteban Palomino, Ian Haziel Donato - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino, tengo 19 años y estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web utilizando HTML, CSS y JavaScript, y manejo frameworks como Vue y Angular. También tengo conocimientos en bases de datos con MySQL y en el uso de Figma para prototipado. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/iansantisteban.png?raw=true" alt="Imagen de Ian Santisteban"/> |
-| **Pin Matallana, Augusto Jose - u202210257**     |Mi nombre es Augusto Jose Pin Matallana, tengo 19 años y estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web frontend, especialmente utilizando Vue.js, TailwindCSS y Sass, así como tecnologías base como HTML, CSS y JavaScript. Como miembro del equipo, aporto un sólido enfoque en el desarrollo frontend, siempre comprometido con la calidad visual, funcional y de experiencia de usuario. Estoy emocionado por aprender y colaborar con el equipo, y por seguir desarrollando mis habilidades técnicas en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/augustopin.png?raw=true" alt="Imagen de Augusto Pin"/> |
+| **Pin Matallana, Augusto Jose - u202210257**     |Mi nombre es Augusto Jose Pin Matallana, tengo 19 años y estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web frontend, especialmente utilizando Vue.js, TailwindCSS y Sass, así como tecnologías base como HTML, CSS y JavaScript. Como miembro del equipo, aporto un sólido enfoque en el desarrollo frontend, siempre comprometido con la calidad visual, funcional y de experiencia de usuario. Estoy emocionado por aprender y colaborar con el equipo, y por seguir desarrollando mis habilidades técnicas en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="Resources/Chapter-I/Profiles/augustopin.jpg" alt="Imagen de Augusto Pin"/> |
 
 <br><br>
 
@@ -3913,12 +3892,6 @@ En el cuarto capítulo, se abarcó la implementación del backend, destacando la
 
 En el quinto capítulo, se abordó el desarollo de una primera versión de la aplicación móvil y de la landing page para ofrecer una experiencia de usuario intuitiva. Se aseguraron una navegación clara y accesible, así como secciones informativas sobre las características clave de la aplicación, precios y opciones de suscripción. Además, se desarrollaron las funcionalidades clave de la app móvil, como el registro de usuarios, el inicio de sesión y la visualización y filtrado de objetos disponibles para intercambio. Durante el proceso, se gestionaron cuidadosamente tanto los aspectos visuales como los de contenido, asegurando que el diseño reflejara los objetivos del proyecto. Asimismo, se realizaron pruebas continuas para verificar el correcto funcionamiento y cumplimiento de los requisitos, logrando una implementación efectiva alineada con las historias de usuario.
 
-En el Sprint 2, el equipo alcanzó importantes avances en CambiaZo, implementando funciones esenciales como la edición de perfil, gestión de publicaciones y visualización de reseñas, lo cual mejoró significativamente la experiencia de usuario y el valor de la aplicación. La planificación detallada y el uso de Lean UX y GitFlow permitieron optimizar el flujo de trabajo y facilitar una colaboración efectiva, con cada entrega validada a través de pruebas de integración y documentación continua en el Testing Suite, asegurando calidad y consistencia en cada fase. La actualización constante en tecnologías, incluyendo despliegue en Azure y metodologías de arquitectura moderna, consolidó una base técnica sólida y escalable, preparada para soportar el crecimiento de CambiaZo en los próximos sprints y alineada con las necesidades del usuario, logrando así una aplicación robusta y adaptable.
-
-En el Sprint 3, se ha logrado avances clave que fortalecen la experiencia de usuario, como la integración de suscripciones premium, reseñas, gestión de publicaciones y mayor seguridad con el cambio de contraseña. Estas mejoras refuerzan la funcionalidad de la aplicación, alineándose con las necesidades del mercado y las expectativas de los usuarios. El uso de metodologías ágiles como Lean UX y GitFlow permitió una planificación eficiente, una integración continua y la validación exhaustiva de cada entrega. Además, la arquitectura sólida y el enfoque en pruebas garantizaron estabilidad y escalabilidad, sentando una base técnica preparada para el crecimiento futuro. Este sprint refleja un progreso significativo hacia una plataforma robusta y adaptable, asegurando el éxito de CambiaZo a largo plazo.
-
-Finalmente, nuestro trabajo final evidencia el esfuerzo significativo que hemos dedicado para abordar problemas críticos de sostenibilidad y fomentar una economía circular a través de la tecnología. Nuestra solución, CambiaZo, no solo facilita el intercambio directo y seguro de bienes entre usuarios, sino que también integra una función de donación que busca apoyar a las comunidades más vulnerables, consolidando así un impacto social positivo desde múltiples perspectivas.
-
 Como equipo, hemos demostrado habilidades avanzadas en diversas áreas, desde la implementación técnica hasta la investigación de mercado, adoptando herramientas modernas como Azure y GitHub Actions para garantizar la escalabilidad y eficiencia del proyecto. La integración de metodologías ágiles, un diseño centrado en el usuario y la adopción de estándares actuales en UX/UI reflejan nuestra capacidad de trabajar de forma colaborativa y proactiva, lo que ha sido fundamental para desarrollar una solución de alta calidad y con un impacto tangible.
 
 El aprendizaje continuo ha sido un pilar esencial en nuestro proceso. Cada uno de nosotros ha actualizado sus conocimientos para adaptarse a las demandas del mercado y superar los desafíos técnicos, lo que no solo ha asegurado el éxito del proyecto, sino que también nos ha permitido crecer como profesionales listos para contribuir significativamente a la industria tecnológica. Este enfoque ha destacado nuestra capacidad de innovación, compromiso social y excelencia técnica.
@@ -4015,7 +3988,6 @@ Enlace: [About the Team](https://www.youtube.com/watch?v=H_yaHEgbpuc)
 
 Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz)
 
-
 ## Prototype Navigation
 
   <div align="center">
@@ -4024,7 +3996,6 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022140
 
 
 Enlace: [Prototype Navigation](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ETDFKlDociZGsi_Dgr-d7HkBE3-AouvlOTfvXGrnDqsphg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PWZXDX)
-
 
 ## Execution Evidence for Sprint 1 - Backend
 
@@ -4041,57 +4012,3 @@ Enlace: [Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:
   <div align="center">
     <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/product-sprint-1.png?raw=true">
  </div>
-
-
-Enlace: [Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EVYXrW-IDaNOn5b8AKu1MAEBvUv4tubPri0uW8cEW5IVsA?e=3rOfT0)
-
-
-## Video de Exposición TP1
-
-  <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Insights/expo-tp1.png?raw=true">
- </div>
-
-
-Enlace: [Video de Exposición TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Eez2_6PljytLnqWa_ob5Vg0BFm4G-jDTj1G9k1iZZPfTiQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=f0Ac6i)
-
-
-
-## Execution Evidence for Sprint 2 - Product
-
-  <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-2/Execution-Evidence/product-sprint-2.png?raw=true">
- </div>
-
-
-Enlace: [Execution Evidence for Sprint 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EfeRV4ADYJdAlSCmTxYqkfABx_yTC7bf8zHBAanqGrJUlQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GxAORd)
-
-
-## Execution Evidence for Sprint 3 - Product
-
-  <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Execution-Evidence/product-sprint-3.png?raw=true">
- </div>
-
-
-Enlace: [Execution Evidence for Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ESMI2_GdUhhHu4sYMbP_4ikBzwXpXoiC7KI9TmGwYFA9xA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4NyFTS)
-
-
-## Execution Evidence for Sprint 4 - Product
-
-  <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Execution-Evidence/product-sprint-4.png?raw=true">
- </div>
-
-
-Enlace: [Execution Evidence for Sprint 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EawBBbii9-pPspfOBkGKNDIBtEhPWg5lr0NyKrnMsu22TA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=L1hN29)
-
-
-## Video de Exposición TF1
-
-  <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-4/Insights/expo-tf1.png?raw=true">
- </div>
-
-
-Enlace: [Video de Exposición TF1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaKkhjBeCG5HuMMr0edKzegBqXWP5sb7czx5SqlikdPTig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=i9Fvv9)
