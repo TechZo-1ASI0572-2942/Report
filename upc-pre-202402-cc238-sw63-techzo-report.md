@@ -127,7 +127,7 @@
     - [4.1.3.2. Software Architecture Container Level Diagrams](#4132-software-architecture-container-level-diagrams)
     - [4.1.3.3. Software Architecture Deployment Diagrams](#4133-software-architecture-deployment-diagrams)
 - [4.2. Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
-  - [4.2.1. Bounded Context: <Bounded Context Name>](#421-bounded-context--bounded-context-name)
+  - [4.2.1. Bounded Context:](#421-bounded-context)
     - [4.2.1.1. Domain Layer](#4211-domain-layer)
     - [4.2.1.2. Interface Layer](#4212-interface-layer)
     - [4.2.1.3. Application Layer](#4213-application-layer)
@@ -136,6 +136,15 @@
     - [4.2.1.6. Bounded Context Software Architecture Code Level Diagrams](#4216-bounded-context-software-architecture-code-level-diagrams)
       - [4.2.1.6.1. Bounded Context Domain Layer Class Diagrams](#42161-bounded-context-domain-layer-class-diagrams)
       - [4.2.1.6.2. Bounded Context Database Design Diagram](#42162-bounded-context-database-design-diagram)
+  - [4.2.2. Bounded Context: Exchanges](#422-bounded-context-exchanges)
+    - [4.2.2.1. Domain Layer](#4221-domain-layer)
+    - [4.2.2.2. Interface Layer](#4222-interface-layer)
+    - [4.2.2.3. Application Layer](#4223-application-layer)
+    - [4.2.2.4. Infrastructure Layer](#4224-infrastructure-layer)
+    - [4.2.2.5. Bounded Context Software Architecture Component Level Diagrams](#4225-bounded-context-software-architecture-component-level-diagrams)
+    - [4.2.2.6. Bounded Context Software Architecture Code Level Diagrams](#4226-bounded-context-software-architecture-code-level-diagrams)
+      - [4.2.2.6.1. Bounded Context Domain Layer Class Diagrams](#42261-bounded-context-domain-layer-class-diagrams)
+      - [4.2.2.6.2. Bounded Context Database Design Diagram](#42262-bounded-context-database-design-diagram)
 
 ### [Bibliografía](#bibliografía)
 
@@ -2405,3 +2414,125 @@ Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/pro
 ##### 4.2.1.6.1 Bounded Context Domain Layer Class Diagrams
 
 ##### 4.2.1.6.2 Bounded Context Database Design Diagram
+
+### 4.2.2 Bounded Context: Exchanges
+
+#### 4.2.2.1 Domain Layer
+
+<table>
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Tipo</th>
+      <th>Propósito</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Exchange</td>
+      <td>Entity</td>
+      <td>Representa el intercambio entre usuarios.</td>
+    </tr>
+    <tr>
+      <td>Item</td>
+      <td>Value Object</td>
+      <td>Representa el objeto ofertado en el intercambio.</td>
+    </tr>
+    <tr>
+      <td>ExchangeRepo</td>
+      <td>Interface</td>
+      <td>Abstracción para guardar intercambios.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 4.2.2.2 Interface Layer
+
+<table>
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Tipo</th>
+      <th>Propósito</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ExchangeController</td>
+      <td>Controller</td>
+      <td>Expone los endpoints HTTP para crear, aceptar, rechazar o listar intercambios.</td>
+    </tr>
+    <tr>
+      <td>ExchangeQueryController</td>
+      <td>Controller</td>
+      <td>Permite consultar intercambios por usuario o estado.</td>
+    </tr>
+    <tr>
+      <td>ExchangeConsumer</td>
+      <td>Consumer</td>
+      <td>Escucha eventos desde otros servicios (por ejemplo, confirmaciones externas).</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+#### 4.2.2.3 Application Layer
+
+<table>
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Tipo</th>
+      <th>Propósito</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CreateExchangeCommand</td>
+      <td>Command</td>
+      <td>Representa la intención del usuario de iniciar un nuevo intercambio.</td>
+    </tr>
+    <tr>
+      <td>CreateExchangeHandler</td>
+      <td>CommandHandler</td>
+      <td>Contiene la lógica de negocio para validar y crear un intercambio.</td>
+    </tr>
+    <tr>
+      <td>AcceptExchangeCommand</td>
+      <td>Command</td>
+      <td>Solicita la aceptación de un intercambio por el usuario receptor.</td>
+    </tr>
+    <tr>
+      <td>AcceptExchangeHandler</td>
+      <td>CommandHandler</td>
+      <td>Procesa la aceptación y notifica al dominio para cambiar estado.</td>
+    </tr>
+    <tr>
+      <td>ExchangeConfirmedEvent</td>
+      <td>Event</td>
+      <td>Se lanza cuando ambas partes confirman un intercambio.</td>
+    </tr>
+    <tr>
+      <td>ExchangeConfirmedHandler</td>
+      <td>EventHandler</td>
+      <td>Ejecuta lógica adicional al confirmar el intercambio (notificaciones, etc).</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 4.2.2.4 Infrastructure Layer
+
+#### 4.2.2.5 Bounded Context Software Architecture Component Level Diagrams
+
+<img src="/Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Component-002.png" alt="exchange-c4-model">
+
+#### 4.2.2.6 Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.2.6.1 Bounded Context Domain Layer Class Diagrams
+
+<img src="/Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/exchange-class-diagram.png" alt="exchange-c4-model">
+
+##### 4.2.2.6.2 Bounded Context Database Design Diagram
+
+<img src="/Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/exchange-database-diagram.png" alt="exchange-c4-model">
