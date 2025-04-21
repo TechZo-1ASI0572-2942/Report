@@ -77,118 +77,69 @@
 ### [Objetivos SMART](#objetivos-smart)
 
 ### [Capítulo I: Presentación](#capítulo-i-presentación)
-  - [1.1. Startup Profile](#11-startup-profile)
-    - [1.1.1. Descripción de la StartUp](#111-descripción-de-la-startup)
-    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2 Lean UX Process](#122-lean-ux-process)
-      - [1.2.2.1 Lean UX Problem Statement](#1221-lean-ux-problem-statement)
-      - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
-      - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
-  - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
+
+- [1.1. Startup Profile](#11-startup-profile)
+  - [1.1.1. Descripción de la StartUp](#111-descripción-de-la-startup)
+  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+- [1.2. Solution Profile](#12-solution-profile)
+  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+  - [1.2.2 Lean UX Process](#122-lean-ux-process)
+    - [1.2.2.1 Lean UX Problem Statement](#1221-lean-ux-problem-statement)
+    - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
+- [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
 
 ### [Capítulo II: Needfinding](#capítulo-ii-needfinding)
-  - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2 Entrevistas](#22-entrevistas)
-    - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2 Registro de Entrevistas](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2 User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Requirements Specification](#24-requirements-specification)
-    - [2.4.1. To-Be Scenario Mapping](#241-to-be-scenario-mapping)
-    - [2.4.2. User Stories](#242-user-stories)
-    - [2.4.3. Impact Mapping](#243-impact-mapping)
-    - [2.4.4. Product Backlog](#244-product-backlog)
+
+- [2.1. Competidores](#21-competidores)
+  - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+  - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+- [2.2 Entrevistas](#22-entrevistas)
+  - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
+  - [2.2.2 Registro de Entrevistas](#222-registro-de-entrevistas)
+  - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+- [2.3. Needfinding](#23-needfinding)
+  - [2.3.1. User Personas](#231-user-personas)
+  - [2.3.2 User Task Matrix](#232-user-task-matrix)
+  - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+  - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+- [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
 ### [Capítulo III: Arquitectura](#capítulo-iii-arquitectura)
-- [3.1. Product Design](#31-product-design)
-  - [3.1.1. Style Guidelines](#311-style-guidelines)
-    - [3.1.1.1. General  Style Guidelines](#3111-general-style-guidelines)
-  - [3.1.2. Information Architecture](#312-information-architecture)
-    - [3.1.2.1. Organization Systems](#3121-organization-systems)
-    - [3.1.2.2. Labelling Systems](#3122-labelling-systems)
-    - [3.1.2.3. SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)
-    - [3.1.2.4. Searching Systems](#3124-searching-systems)
-    - [3.1.2.5. Navigation Systems](#3125-navigation-systems)
-  - [3.1.3 Landing Page UI Design](#313-landing-page-ui-design)
-    - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)
-    - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock-up)
-  - [3.1.4 Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)
-    - [3.1.4.1. Mobile Applications Wireframes](#3141-mobile-applications-wireframes)
-    - [3.1.4.2. Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)
-    - [3.1.4.3. Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)
-    - [3.1.4.4. Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)
-    - [3.1.4.5. Mobile Applications Prototyping](#3145-mobile-applications-prototyping)
-- [3.2. Architecture Overview](#32-architecture-overview)
-  - [3.2.1. Domain-Driven Software Architecture](#321-domain-driven-software-architecture)
-    - [3.2.1.1. Software Architecture Context Level Diagram](#3211-software-architecture-context-level-diagram)
-    - [3.2.1.2. Software Architecture Container Level Diagram](#3212-software-architecture-container-level-diagram)
-    - [3.2.1.3. Software Architecture Components Diagram](#3213-software-architecture-components-diagram)
-  - [3.2.2. Software Object-Oriented Design](#322-software-object-oriented-design)
-    - [3.2.2.1. Class Diagrams](#3221-class-diagrams)
-    - [3.2.2.2. Class Dictionary](#3222-class-dictionary)
-    - [3.2.2.3. Database Design](#3223-database-design)
-    - [3.2.2.4. Database Diagram](#3224-database-diagram)
 
-### [Capítulo IV: Backend Product Implementation & Validation](#capítulo-iv-backend-product-implementation--validation)
-  - [4.1. Software Configuration Management](#41-software-configuration-management)
-    - [4.1.1. Software Development Environment Configuration](#411-software-development-environment-configuration)
-    - [4.1.2. Source Code Management](#412-source-code-management)
-    - [4.1.3. Source Code Style Guide & Conventions](#413-source-code-style-guide--conventions)
-    - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
-  - [4.2. Software Development & Implementation](#42-software-development--implementation)
-    - [4.2.1. Sprint 1](#421-sprint-1)
-      - [4.2.1.1. Sprint Planning 1](#4211-sprint-planning-1)
-      - [4.2.1.2. Sprint Backlog 1](#4212-sprint-backlog-1)
-      - [4.2.1.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
-      - [4.2.1.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
-      - [4.2.1.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
-      - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
-      - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
-      - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
-
-### [Capítulo V: Product Implementation & Validation](#capítulo-v-product-implementation--validation)
-  - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-    - [5.1.2. Source Code Management](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2. Landing Page & Mobile Application Implementation](#52-landing-page--mobile-application-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
-      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-      - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-Registro-de-entrevistas)
-    - [5.3.3. Evaluaciones Según Heurísticas](#533-evaluaciones-segun-heuristicas)
-  - [5.4. Video About-the-Product](#54-video-about-the-product)
-
-### [Conclusiones](#conclusiones)
-  - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video App Validation](#video-app-validation)
-  - [Video About the product](#video-about-the-product)
-  - [Video About the team](#video-about-the-team)
+- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+- [3.2. User Stories](#32-user-stories)
+- [3.3. Impact Mapping](#33-impact-mapping)
+- [3.4. Product Backlog](#34-product-backlog)
+  
+### [Capítulo IV: Solution Software Design](#capítulo-iv-solution-software-design)
+- [4.1. Strategic-Level Domain-Driven Design](#41-strategic-level-domain-driven-design)
+  - [4.1.1. EventStorming](#411-eventstorming)
+    - [4.1.1.1. Candidate Context Discovery](#4111-candidate-context-discovery)
+    - [4.1.1.2. Domain Message Flows Modeling](#4112-domain-message-flows-modeling)
+    - [4.1.1.3. Bounded Context Canvases](#4113-bounded-context-canvases)
+  - [4.1.2. Context Mapping](#412-context-mapping)
+  - [4.1.3. Software Architecture](#413-software-architecture)
+    - [4.1.3.1. Software Architecture System Landscape Diagram](#4131-software-architecture-system-landscape-diagram)
+    - [4.1.3.2. Software Architecture Context Level Diagrams](#4132-software-architecture-context-level-diagrams)
+    - [4.1.3.2. Software Architecture Container Level Diagrams](#4132-software-architecture-container-level-diagrams)
+    - [4.1.3.3. Software Architecture Deployment Diagrams](#4133-software-architecture-deployment-diagrams)
+- [4.2. Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
+  - [4.2.1. Bounded Context: <Bounded Context Name>](#421-bounded-context--bounded-context-name)
+    - [4.2.1.1. Domain Layer](#4211-domain-layer)
+    - [4.2.1.2. Interface Layer](#4212-interface-layer)
+    - [4.2.1.3. Application Layer](#4213-application-layer)
+    - [4.2.1.4. Infrastructure Layer](#4214-infrastructure-layer)
+    - [4.2.1.5. Bounded Context Software Architecture Component Level Diagrams](#4215-bounded-context-software-architecture-component-level-diagrams)
+    - [4.2.1.6. Bounded Context Software Architecture Code Level Diagrams](#4216-bounded-context-software-architecture-code-level-diagrams)
+      - [4.2.1.6.1. Bounded Context Domain Layer Class Diagrams](#42161-bounded-context-domain-layer-class-diagrams)
+      - [4.2.1.6.2. Bounded Context Database Design Diagram](#42162-bounded-context-database-design-diagram)
 
 ### [Bibliografía](#bibliografía)
 
 ### [Anexos](#anexos)
-
 
 <div align="justify">
 	
@@ -605,8 +556,7 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 
 <div style="page-break-after: always;"></div>
 
-# Capítulo II: Needfinding
-
+# Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1 Competidores
 
@@ -1948,9 +1898,11 @@ Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWd
 <br><br>
 
 
-## 2.4 Requirements Specification
+## 2.4 Ubiquitous Language.
 
-###  2.4.1. To-Be Scenario Mapping
+# Capítulo III: Requirements Specification
+
+###  3.1. To-Be Scenario Mapping
 
 En esta sección, visualizaremos los escenarios futuros propuestos para nuestros usuarios, ilustrando cómo deberían evolucionar los procesos y herramientas para mejorar la experiencia en nuestra plataforma. El To-Be Scenario Mapping nos ayudará a diseñar soluciones optimizadas que respondan a las necesidades identificadas y faciliten un flujo de trabajo más eficiente y satisfactorio.
 
@@ -1977,7 +1929,7 @@ Enlace: [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZ
 
 
 
-## 2.4.2 User Stories
+## 3.2. User Stories
 
 En esta sección, profundizaremos en la definición y elaboración de las User Stories relacionadas con nuestro proyecto. Las User Stories son una herramienta fundamental en el desarrollo de software y proyectos de diseño centrados en el usuario.
 
@@ -2096,7 +2048,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**TS05**|API Object|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.|**Escenario 1: Diseño de la API de Objetos**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Objetos para gestionar los objetos que suben los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarios para permitir a los usuarios subir sus objetos que ya no usan, cancelar la subida y obtener información sobre sus objetos, y establece los requisitos de requerimiento y tipo de archivo.<br><br>**Escenario 2: Obtener información de un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del objeto,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los detalles del objeto solicitado.<br><br>**Escenario 3: Objeto no encontrado**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de un objeto que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No se encontró el objeto solicitado".<br><br>**Escenario 4: Creación de un nuevo objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se registra el objeto con un nuevo ID y los detalles registrados.<br><br>**Escenario 5: Crear un objeto ya existente**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se intenta crear un nuevo objeto para un usuario que ya registró este objeto,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "El usuario ya registró este objeto".<br><br>**Escenario 6: Eliminar un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se elimina el objeto con su ID y los detalles registrados.<br><br>**Escenario 7: Editar un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud PUT con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se editarán los detalles previamente registrados del objeto.|**EP05**|
 
 
-## 2.4.3. Impact Mapping
+## 3.3. Impact Mapping
 En esta sección, presentaremos el Impact Mapping, una herramienta esencial para alinear nuestras iniciativas con los objetivos estratégicos del proyecto. El Impact Mapping nos permitirá identificar y conectar los impactos esperados de nuestras soluciones con los resultados deseados, asegurando que cada acción y decisión contribuyan a alcanzar los objetivos clave y maximizar el valor para nuestros usuarios.
 
 <b>Segmento Intercambiadores</b><br>
@@ -2120,7 +2072,7 @@ Enlace: [Impact Mappping en UXPRESSIA]()
 
 Enlace: [Impact Mapping en UXPRESSIA]()
 
-## 2.4.4 Product Backlog
+## 3.4. Product Backlog
 En el Product Backlog presentaremos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*.Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).
 <br><br>
 Tomamos como historia de usuario base la historia de usuario US12: Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar
@@ -2400,7 +2352,6 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
 </table>
 <br>
 
-
 A continuación se presenta una representación gráfica del mismo en la plataforma Pivotal Tracker:
 
 <div align="center">
@@ -2410,3 +2361,47 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 
 
 Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
+
+# Capítulo IV: Solution Software Design
+
+## 4.1 Strategic-Level Domain-Driven Design
+
+### 4.1.1 EventStorming
+
+#### 4.1.1.1 Candidate Context Discovery
+
+#### 4.1.1.2 Domain Message Flows Modeling
+
+#### 4.1.1.3 Bounded Context Canvases
+
+### 4.1.2 Context Mapping
+
+### 4.1.3 Software Architecture
+
+#### 4.1.3.1 Software Architecture System Landscape Diagram
+
+#### 4.1.3.2 Software Architecture Context Level Diagrams
+
+#### 4.1.3.2 Software Architecture Container Level Diagrams
+
+#### 4.1.3.3 Software Architecture Deployment Diagrams
+
+## 4.2 Tactical-Level Domain-Driven Design
+
+### 4.2.1 Bounded Context:
+
+#### 4.2.1.1 Domain Layer
+
+#### 4.2.1.2 Interface Layer
+
+#### 4.2.1.3 Application Layer
+
+#### 4.2.1.4 Infrastructure Layer
+
+#### 4.2.1.5 Bounded Context Software Architecture Component Level Diagrams
+
+#### 4.2.1.6 Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.1.6.1 Bounded Context Domain Layer Class Diagrams
+
+##### 4.2.1.6.2 Bounded Context Database Design Diagram
