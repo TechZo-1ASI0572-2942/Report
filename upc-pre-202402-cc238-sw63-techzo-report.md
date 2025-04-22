@@ -2523,16 +2523,55 @@ Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/pro
 
 #### 4.2.2.4 Infrastructure Layer
 
+#### 4.2.2.4 Infrastructure Layer
+
+<table>
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Tipo</th>
+      <th>Propósito</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>MySQLExchangeRepository</td>
+      <td>Repository Implementation</td>
+      <td>Implementa <code>ExchangeRepo</code> utilizando MySQL para la persistencia de datos, inicializada mediante contenedor Docker.</td>
+    </tr>
+    <tr>
+      <td>RabbitMQExchangePublisher</td>
+      <td>Message Publisher</td>
+      <td>Publica eventos del dominio en una cola RabbitMQ para procesamiento asíncrono.</td>
+    </tr>
+    <tr>
+      <td>EmailJsNotifierService</td>
+      <td>Email Service</td>
+      <td>Utiliza la API de EmailJS para enviar notificaciones por correo a los usuarios sobre cambios en el estado del intercambio.</td>
+    </tr>
+    <tr>
+      <td>GoogleAuthService</td>
+      <td>External Authentication</td>
+      <td>Integra la autenticación de usuarios mediante la API de Google OAuth 2.0.</td>
+    </tr>
+    <tr>
+      <td>DockerDatabaseInitializer</td>
+      <td>DevOps Tool</td>
+      <td>Contenedor Docker que inicializa y configura la base de datos MySQL con esquemas y datos base.</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 4.2.2.5 Bounded Context Software Architecture Component Level Diagrams
 
-<img src="/Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Component-002.png" alt="exchange-c4-model">
+<img src="./Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Component-002.png" alt="exchange-c4-model">
 
 #### 4.2.2.6 Bounded Context Software Architecture Code Level Diagrams
 
 ##### 4.2.2.6.1 Bounded Context Domain Layer Class Diagrams
 
-<img src="/Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/exchange-class-diagram.png" alt="exchange-c4-model">
+<img src="./Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/exchange-class-diagram.png" alt="exchange-c4-model">
 
 ##### 4.2.2.6.2 Bounded Context Database Design Diagram
 
-<img src="/Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/exchange-database-diagram.png" alt="exchange-c4-model">
+<img src="./Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/exchange-database-diagram.png" alt="exchange-c4-model">
