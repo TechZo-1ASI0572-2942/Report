@@ -1714,7 +1714,7 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 ![User Persona 1](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-1.PNG?raw=true)
 </div>
 
-Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
+**Enlace:** [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
 <br><br>
 
 <b>Usuario Donador</b><br>
@@ -1724,7 +1724,7 @@ Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
 ![User Persona 2](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-2.PNG?raw=true)
 </div>
 
-Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/5DZd7/p/C7wKs)
+**Enlace:** [User Persona en UXPRESSIA](https://uxpressia.com/w/5DZd7/p/C7wKs)
 <br><br>
 
 ### 2.3.2 User Task Matrix
@@ -1842,7 +1842,7 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 ![User Journey Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png?raw=true)
 </div>
 
-Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/85V7e)<br><br>
+**Enlace:** [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/85V7e)<br><br>
 
 <b>Segmento Donadores</b><br>
 
@@ -1853,7 +1853,7 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 ![User Journey Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-2.png?raw=true)
 </div>
 
-Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/ZJfdG)<br><br>
+**Enlace:** [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/ZJfdG)<br><br>
 
 ### 2.3.4 Empathy Mapping
 
@@ -1866,7 +1866,7 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 ![Empathy Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-1.PNG?raw=true)
 </div>
 
-Enlace: [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/lPmO3)
+**Enlace:** [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/lPmO3)
 
 <br><br>
 
@@ -1877,7 +1877,7 @@ Enlace: [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/lPmO3)
 ![Empathy Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-2.PNG?raw=true)
 </div>
 
-Enlace: [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/pKfKi)
+**Enlace:** [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/pKfKi)
 
 <br><br>
 
@@ -1893,7 +1893,7 @@ En esta sección, exploraremos los escenarios actuales de los usuarios, mapeando
 ![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG?raw=true)
 </div>
 
-Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
+**Enlace:** [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
 <br><br>
 
 <b>Segmento Donadores</b><br>
@@ -1903,7 +1903,7 @@ Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWd
 ![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-2.PNG?raw=true)
 </div>
 
-Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
+**Enlace:** [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
 <br><br>
 
 
@@ -1923,7 +1923,7 @@ En esta sección, visualizaremos los escenarios futuros propuestos para nuestros
 ![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-1.png?raw=true)
 </div>
 
-Enlace: [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
+**Enlace:** [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
 <br><br>
 
 <b>Segmento Donadores</b><br>
@@ -1933,7 +1933,7 @@ Enlace: [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZ
 ![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-2.png?raw=true)
 </div>
 
-Enlace: [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
+**Enlace:** [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
 <br><br>
 
 
@@ -2068,7 +2068,7 @@ En esta sección, presentaremos el Impact Mapping, una herramienta esencial para
 </div>
 
 
-Enlace: [Impact Mappping en UXPRESSIA]()
+**Enlace:** [Impact Mappping en UXPRESSIA]()
 
 
 <b>Segmento Donadores</b><br>
@@ -2079,7 +2079,7 @@ Enlace: [Impact Mappping en UXPRESSIA]()
 </div>
 
 
-Enlace: [Impact Mapping en UXPRESSIA]()
+**Enlace:** [Impact Mapping en UXPRESSIA]()
 
 ## 3.4. Product Backlog
 En el Product Backlog presentaremos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*.Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).
@@ -2369,7 +2369,7 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 </div>
 
 
-Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
+****Enlace:**** [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
 
 # Capítulo IV: Solution Software Design
 
@@ -2440,7 +2440,7 @@ Evidencia del desarrollo del Event Storming:
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-8.png?raw=true" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
 </div>
 
-Enlace: [Event Storming [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+****Enlace:**** [Event Storming [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
 
 #### 4.1.1.2 Domain Message Flows Modeling
 
@@ -2470,7 +2470,7 @@ En esta seccion, se identificaron y priorizaron los flujos de mensajería más r
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/intercambios.png?raw=true" alt="intercambios" style="width: 600px; height: auto;"><br><br>
 </div>
 
-Enlace: [Domain Message Flows Modeling [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+****Enlace:**** [Domain Message Flows Modeling [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
 
 #### 4.1.1.3 Bounded Context Canvases
 
@@ -2494,7 +2494,7 @@ De acuerdo con los bounded contexts definidos previamente, se desarrollaron sus 
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/bounded-intercambios.png?raw=true" alt="bounded-intercambios" style="width: 600px; height: auto;"><br><br>
 </div>
 
-Enlace: [Bounded Context Canvases [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+****Enlace:**** [Bounded Context Canvases [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
 
 ### 4.1.2 Context Mapping
 
@@ -2537,7 +2537,7 @@ Aunque se enfocan en funcionalidades distintas, ambos contextos comparten elemen
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/event-evidence.png?raw=true" alt="event-evidence" style="width: 600px; height: auto;"><br><br>
 </div>
 
-Enlace: [Mejor visualización [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+**Enlace:** [Mejor visualización [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
 
 ### 4.1.3 Software Architecture
 
