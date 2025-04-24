@@ -2377,13 +2377,167 @@ Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/pro
 
 ### 4.1.1 EventStorming
 
+Nuestro proceso de Event Storming se llevó a cabo utilizando la herramienta MIRO, donde desarrollamos de forma colaborativa todo el flujo visual. Iniciamos con la fase de Exploración No Estructurada, en la cual analizamos y compartimos diferentes perspectivas sobre los eventos del dominio, siguiendo las recomendaciones metodológicas correspondientes. Para la selección de los eventos, consideramos criterios clave como su relevancia, frecuencia y temporalidad, asegurando así una representación coherente del comportamiento del sistema.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/EventStorming-1.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**Evidencia del desarrollo del flujo de autenticación**
+
+Como parte del proceso de modelado de dominio, representamos mediante MIRO el flujo de autenticación de usuarios en CambiaZo, permitiendo visualizar de forma clara las decisiones clave involucradas.
+
+El diagrama describe el recorrido que realiza un usuario desde su registro en la plataforma, pasando por el inicio de sesión, hasta la verificación de sus credenciales. A partir de este punto, el sistema evalúa si el usuario está correctamente autenticado, lo cual determina si se le concede el acceso a la plataforma o si se genera un error de autenticación. Esta representación nos permitió identificar los puntos de validación críticos y las condiciones necesarias para garantizar la seguridad del ingreso a la aplicación.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/evidence-1.png?raw=true" alt="evidence/1" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Este diagrama inicia con una decisión del usuario respecto a si desea intercambiar o donar un artículo. En caso de seleccionar la opción de intercambio, el usuario procede a elegir un artículo disponible para ese propósito. A continuación, el sistema evalúa la disponibilidad del artículo en tiempo real. Si el artículo está disponible, se procede a iniciar el intercambio; de lo contrario, el sistema notifica automáticamente al usuario, garantizando una experiencia clara y eficiente. Este flujo nos permitió mapear las decisiones clave y validar la lógica condicional detrás de los intercambios dentro del ecosistema de CambiaZo.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/evidence-2.png?raw=true" alt="evidence/2" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Este diagrama representa el proceso mediante el cual un usuario registra una donación en CambiaZo, la agenda para ser depositada en un locker y el sistema verifica si hay disponibilidad. Si hay lockers libres, se asigna uno; de lo contrario, se muestran alternativas cercanas.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/evidence-3.png?raw=true" alt="evidence/3" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Este diagrama muestra el proceso que sigue un usuario al solicitar un intercambio en CambiaZo. Si el usuario B acepta la solicitud, se procede a asignar un locker mutuo para el intercambio. Luego, el sistema verifica que ambos productos hayan sido depositados correctamente para completar la operación. En caso contrario, el intercambio no se realiza.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/evidence-4.png?raw=true" alt="evidence/4" style="width: 600px; height: auto;"><br><br>
+</div>
+
+
 #### 4.1.1.1 Candidate Context Discovery
+
+Para hallar a nuestros Candidate Contexts, continuamos con el paso 3: Pain Points, donde analizamos eventos del flujo que podrían ser cuellos de botella o pasos manuales que requieren automatización.
+
+En este timeline, un pain point es la falta de validación automática sobre el resultado del intercambio. Si bien se confirma el intercambio, no se verifica con sensores o confirmaciones externas si este fue realmente exitoso. Esto puede provocar errores de calificación o reclamos mal gestionados.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/evidence-7.png?raw=true" alt="evidence/6" style="width: 600px; height: auto;"><br><br>
+</div> 
+
+En este timeline, un pain point es el momento en que el sistema debe identificar si el usuario es nuevo o no. Esta validación puede requerir pasos manuales o generar duplicidad de datos si no se implementa correctamente. También puede generar fricción si el flujo de configuración del perfil es obligatorio incluso para usuarios recurrentes.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/evidence-6.png?raw=true" alt="evidence/6" style="width: 600px; height: auto;"><br><br>
+</div>
+
+En este timeline, el pain point se encuentra en la verificación de disponibilidad del artículo durante la búsqueda. Este paso puede generar frustración si no se actualiza en tiempo real o si no hay una forma clara de sugerir automáticamente otros artículos. Además, el flujo de búsqueda puede resultar repetitivo para el usuario si debe reiniciar la búsqueda manualmente.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/evidence-5.png?raw=true" alt="evidence/5" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Evidencia del desarrollo del Event Storming:
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/evidence-8.png?raw=true" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Enlace: [Event Storming [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
 
 #### 4.1.1.2 Domain Message Flows Modeling
 
+En esta seccion, se identificaron y priorizaron los flujos de mensajería más relevantes para el funcionamiento de la plataforma, en especial aquellos relacionados con la gestión de lockers inteligentes y los permisos de los usuarios. Estos flujos son fundamentales para garantizar la seguridad, trazabilidad y control de acceso durante los procesos de intercambio y donación de productos.
+
+**1. Inicio de sesión del usuario-cliente** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/inicio-sesion.png?raw=true" alt="inicio-sesion" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**2. Registro del usuario-cliente** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/registro.png?raw=true" alt="registro" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**3. Donación con lockers inteligentes** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/donacion.png?raw=true" alt="donacion" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**4. Intercambios con lockers inteligentes** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/intercambios.png?raw=true" alt="intercambios" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Enlace: [Domain Message Flows Modeling [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+
 #### 4.1.1.3 Bounded Context Canvases
 
+De acuerdo con los bounded contexts definidos previamente, se desarrollaron sus respectivos Context Canvases, con el fin de profundizar en sus responsabilidades, relaciones, mensajes clave y decisiones estratégicas dentro del dominio de CambiaZo.
+
+**1. Bounded Context: IAM (Identidad y Acceso)** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/bounded-iam.png?raw=true" alt="bounded-iam" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**2. Bounded Context: Donaciones (Donations)** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/bounded-donaciones.png?raw=true" alt="bounded-donaciones" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**3. Bounded Context: Intercambios (Exchanges)** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/bounded-intercambios.png?raw=true" alt="bounded-intercambios" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Enlace: [Bounded Context Canvases [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+
 ### 4.1.2 Context Mapping
+
+En esta sección explicamos y evidenciamos el proceso de elaboración de un conjunto de mapas de contexto aplicados a nuestro proyecto CambiaZo, los cuales representan visualmente las relaciones estructurales entre los bounded contexts identificados. Para ello, analizamos detalladamente la información recolectada a lo largo del diseño del sistema, proponiendo y refinando diseños candidatos que ilustran cómo interactúan los contextos de Intercambios, Donaciones, Gestión de Lockers e Identidad de Usuario. Este análisis nos permitió alinear estratégicamente las responsabilidades y colaboraciones entre contextos, garantizando así una arquitectura coherente con los objetivos operativos y sociales de CambiaZo.
+
+**Identity and Access Management Context**
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/context-iam.png?raw=true" alt="context-iam" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**Donations Context**
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/context-donation.png?raw=true" alt="context-donation" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**Exchanges Context**
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/context-exchange.png?raw=true" alt="context-exchange" style="width: 600px; height: auto;"><br><br>
+</div>
+
+
+**Context Mapping**
+
+**Identity and Access Management Context ↔ Donations Context**
+Relación clave:
+El Donations Context depende del Identity and Access Management (IAM) Context para validar la identidad y los permisos de los usuarios que desean registrar o agendar donaciones en lockers inteligentes. Esta integración garantiza que solo usuarios autenticados y autorizados puedan participar en procesos sensibles como la asignación de lockers y la trazabilidad de productos donados.
+
+**Identity and Access Management Context ↔ Exchanges Context**
+Relación clave:
+El Exchanges Context requiere del IAM Context para verificar la validez de los usuarios involucrados en un intercambio. Esto asegura que tanto el solicitante como el receptor del intercambio cuenten con sesiones activas y permisos válidos antes de proceder con acciones como aceptar el intercambio o realizar depósitos en lockers mutuos. Esta dependencia refuerza la seguridad en las transacciones entre usuarios.
+
+**Donations Context ↔ Exchanges Context**
+Relación clave:
+Aunque se enfocan en funcionalidades distintas, ambos contextos comparten elementos operativos como el uso de lockers inteligentes y la gestión de artículos. El Exchanges Context puede reutilizar reglas de disponibilidad de lockers y validaciones logísticas definidas en el Donations Context, lo que permite mantener una experiencia de usuario coherente y optimizar el uso del sistema físico compartido.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven Design/event-evidence.png?raw=true" alt="event-evidence" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Enlace: [Mejor visualización [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
 
 ### 4.1.3 Software Architecture
 
