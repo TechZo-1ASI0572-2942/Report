@@ -1808,12 +1808,6 @@ Este diagrama inicia con una decisión del usuario respecto a si desea intercamb
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-2.png?raw=true" alt="evidence/2" style="width: 600px; height: auto;"><br><br>
 </div>
 
-Este diagrama representa el proceso mediante el cual un usuario registra una donación en CambiaZo, la agenda para ser depositada en un locker y el sistema verifica si hay disponibilidad. Si hay lockers libres, se asigna uno; de lo contrario, se muestran alternativas cercanas.
-
-<div align="center">
-	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-3.png?raw=true" alt="evidence/3" style="width: 600px; height: auto;"><br><br>
-</div>
-
 Este diagrama muestra el proceso que sigue un usuario al solicitar un intercambio en CambiaZo. Si el usuario B acepta la solicitud, se procede a asignar un locker mutuo para el intercambio. Luego, el sistema verifica que ambos productos hayan sido depositados correctamente para completar la operación. En caso contrario, el intercambio no se realiza.
 
 <div align="center">
@@ -1921,7 +1915,7 @@ Relación clave:
 Aunque se enfocan en funcionalidades distintas, ambos contextos comparten elementos operativos como el uso de lockers inteligentes y la gestión de artículos. El Exchanges Context puede reutilizar reglas de disponibilidad de lockers y validaciones logísticas definidas en el Donations Context, lo que permite mantener una experiencia de usuario coherente y optimizar el uso del sistema físico compartido.
 
 <div align="center">
-	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/event-evidence.png?raw=true" alt="event-evidence" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-8.png?raw=true" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **Enlace:** [Mejor visualización [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
