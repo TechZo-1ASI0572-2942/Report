@@ -527,7 +527,7 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
 
 ## 1.3 Segmentos Objetivo
 
-Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto que satisfaga las necesidades de nuestros clientes, TechZo se enfocará en los siguientes segmentos de la población:
+Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto que satisfaga las necesidades de nuestros clientes, TechZo se enfocará en el siguiente segmento: 
 
 + **Personas adultas que desean obtener nuevos artículos (Intercambiadores):**<br>
 Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos artículos de su interés mediante intercambios.
@@ -547,20 +547,6 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 	
     </div>
   + **Preferencias de Uso:** Valoran una plataforma intuitiva que facilite la búsqueda y el intercambio de productos. Prefieren opciones que ofrezcan seguridad y transparencia en las transacciones.<br><br>
-
-
-+ **Personas adultas que desean donar artículos que ya no utilizan (Donadores):**<br>
-“Cambiazo” es fundamental como herramienta para realizar donaciones, ya que permite que personas de escasos recursos puedan recibir donaciones de objetos de personas que ya no utilizan sus artículos y desean donarlos.
-
-    + **Características demográficas:** Personas entre 15 y 60 años de edad con la voluntad de donar objetos propios que ya no utilizan a personas de escasos recursos económicos.
-
-    + **Características geográficas:** Personas que residen en Perú.
-
-    + **Motivaciones y Comportamientos:** Buscan contribuir a la comunidad y ayudar a quienes están en situación de necesidad. Valoran plataformas que les permitan realizar donaciones de manera sencilla y eficiente.
-
-    + **Preferencias de Uso:** Prefieren una aplicación que facilite el proceso de donación, ofreciendo una lista de organizaciones benéficas y un sistema fácil de utilizar para coordinar las donaciones.
-
-<br><br>
 
 
 <div style="page-break-after: always;"></div>
@@ -1230,291 +1216,6 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </table><br>
 
 
-
-### **Segmento Donadores**<br>
-
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #1<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Ian Joaquin</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Sanchez Alva</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>22 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Los Olivos</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Ayudar a las personas más necesitadas</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>No saber qué necesitan las ONG’s para realizar su donación</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Jeremy Joel Quispe Andia</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/iansanchez_interview.png?raw=true" alt="Entrevista Ian Sanchez"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>35:46 min - 40:00 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Ian Joaquin Sanchez Alva ha realizado donaciones directas a personas y contribuciones a organizaciones benéficas, describiendo su experiencia como positiva y gratificante. Considera que ropa, alimentos no perecederos y artículos de higiene personal son los más adecuados para donar a través de CambiaZo. Sus principales preocupaciones al usar la aplicación por primera vez son la seguridad y privacidad de sus datos. Busca una aplicación fácil de usar, con opciones de seguimiento de donaciones y robusta en seguridad. Cree que CambiaZo puede aumentar las donaciones en Perú facilitando el proceso y visibilizando necesidades urgentes. Valora la transparencia y autenticidad en las donaciones, y considera esencial la posibilidad de seguir el destino de sus contribuciones. Para verificar la confiabilidad de CambiaZo, confía en evaluaciones de usuarios y certificaciones de seguridad. Espera que CambiaZo ofrezca mayor eficiencia y comodidad, permitiendo rastrear el impacto de sus donaciones, y sugiere una mejor integración con redes sociales para ampliar el alcance. Considera que CambiaZo puede contribuir al desarrollo de una comunidad más solidaria y conectada en Lima al fomentar la colaboración y el apoyo mutuo entre los ciudadanos.
-</td>
-  </tr>
-</tbody>
-</table>
-
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #2<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Mathias Adriano</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Hidalgo Lopez</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Sanntiago de Surco</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Donar su ropa a personas necesitadas</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Limitaciones de tiempo para buscar alguna ong</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Laptop Windows, Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Mathias Andre Mendoza Carrion</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/mathiashidalgo_interview.png?raw=true" alt="Entrevista Mathias Hidalgo"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duracion<br></td>
-    <td>40:01 min - 51:34 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Mathias Hidalgo ha participado en donaciones a través de centros de caridad y páginas web, aunque siempre ha tenido cierta inseguridad debido a la posibilidad de estafas y a la falta de confianza que le generaban algunos lugares. A pesar de estas preocupaciones, Mathias está profundamente comprometido con causas benéficas y tiene la intención de seguir donando, específicamente ropa, recursos alimenticios y juguetes para ayudar a quienes lo necesitan. Para la aplicación Cambiazo, Mathias busca una mayor confiabilidad en todo el proceso de donación. Considera esencial que la aplicación ofrezca funcionalidades de seguridad robustas, como un sistema de mapeo o seguimiento en tiempo real de los productos donados, así como la certificación de las donaciones para garantizar su transparencia y autenticidad. Estas medidas no solo le darían mayor tranquilidad, sino que también incrementarían la confianza en la plataforma. Además, espera que Cambiazo le permita ahorrar tiempo en los trámites burocráticos y el papeleo, haciendo que el proceso sea más eficiente y fácil de manejar para cualquier usuario, independientemente de su nivel de experiencia con la tecnología. Mathias cree firmemente que, aunque el impacto de la aplicación podría no ser masivo, sí tiene el potencial de generar un cambio positivo y significativo en la vida de muchas personas, contribuyendo de manera valiosa al desarrollo social y económico del país. Considera que una plataforma como Cambiazo, con las características adecuadas, podría convertirse en una herramienta poderosa para canalizar la generosidad de la gente y facilitar el acceso a bienes esenciales para quienes más lo necesitan.
-</td>
-  </tr>
-</tbody>
-</table>
-
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #3<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Beth Shantal</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Oneglio De Paz</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>San Borja</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Donar a lo mas necesitados a traves de la iglesias</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Experimenta dificultades al llevar un canasto lleno de ropa para donar.</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Smatphone IOS, Laptop Windows</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Firefox</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Jeremy Joel Quispe Andia</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/bethoneglio_interview.png?raw=true" alt="Entrevista Beth Oneglio"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>51:35 min - 55:46 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Beth Oneglio menciona que ha realizado donaciones a personas con escasos recursos mediante eventos comunitarios y colaboraciones con escuelas y hospitales locales, describiendo su experiencia como organizada y eficiente. Considera que juguetes, libros educativos y equipos electrónicos en buen estado son ideales para donar a través de CambiaZo. Sus principales preocupaciones al usar CambiaZo incluyen la eficacia en la entrega y el impacto en la comunidad, valorando la transparencia y la facilidad para seleccionar beneficiarios y métodos de pago seguros. Cree que CambiaZo podría aumentar las donaciones en Perú al concienciar sobre las necesidades específicas y conectar directamente a donadores con beneficiarios. Sugiere el uso de tecnología blockchain en CambiaZo para garantizar la transparencia y da mucha importancia a seguir el destino de sus donaciones. Prefiere la rapidez y facilidad de donar desde cualquier lugar y espera informes y testimonios para medir el impacto. También le gustaría ver una mejor personalización del perfil de donante y cree que CambiaZo puede contribuir a una comunidad más solidaria y conectada en Lima.
-</td>
-  </tr>
-</tbody>
-</table>
-
-
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #4<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Andrea Milagros</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Cabanillas Gora</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Santiago de Surco</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Contribuir con los mas necesitados, donando alimentos y ropa</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Preocupaciones sobre el destino de las donaciones.</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Firefox</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Jeremy Joel Quispe Andia</td>
-  </tr>
-    <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/andreacabanillas_interview.png?raw=true" alt="Entrevista Andrea Cabanillas"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>55:47 min - 60:05 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Andrea Cabanillas nos menciona que ha realizado donaciones mediante transferencias y recolección local, y ha encontrado la experiencia gratificante, especialmente al colaborar con organizaciones confiables. Prefiere donar artículos de primera necesidad, ropa y material educativo a través de plataformas como CambiaZo. Sus principales preocupaciones al usar CambiaZo son la seguridad de sus datos y la eficacia del sistema, por lo que considera esenciales una interfaz fácil de usar, seguimiento de donaciones y opciones detalladas para seleccionar proyectos o beneficiarios. Valora la transparencia y los informes sobre el uso de fondos como cruciales para verificar la confiabilidad de CambiaZo. Aprecia la facilidad y rapidez en el proceso de donación, así como la posibilidad de ver el impacto directo de sus contribuciones. Además, cree que una mejor personalización de las donaciones y opciones de interacción con los beneficiarios en CambiaZo mejorarían la cohesión social y aumentarían la conciencia sobre las necesidades locales.
-</td>
-  </tr>
-</tbody>
-</table>
-<br>
-
 ### 2.2.3 Análisis de entrevistas
 
 En esta sección presentaremos el análisis de cada entrevista realizada por cada segmento objetivo. Con el fin de tener una información concisa para el desarrollo de nuestra aplicación.
@@ -1578,84 +1279,6 @@ La plataforma debe ser intuitiva y fácil de usar, para que los intercambiadores
 Al implementar estas mejoras, CambiaZo estará bien posicionada para ofrecer una solución valiosa a los intercambiadores, promoviendo un entorno de intercambio seguro, eficiente y confiable.<br><br>
 
 
-### **Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donadores).<br>
-
-Los donadores tienen entre 15 y 60 años y residen mayoritariamente en Lima, Perú. Su principal motivación es el deseo genuino de ayudar a los demás. Sin embargo, enfrentan varios problemas que dificultan el proceso de donación, como la necesidad de llevar los artículos a lugares lejanos y la falta de evidencia de recepción.
-
-**Hallazgos Claves:**
-
-- Los donadores enfrentan dificultades significativas en el proceso de donación. Estos problemas incluyen la necesidad de transportar los artículos a ubicaciones distantes y la ausencia de evidencia de recepción, lo que hace que el proceso sea tedioso y poco satisfactorio.
-
-
-- Todos los donadores consideran que CambiaZo podría simplificar el proceso de donación. Proponen funcionalidades como el rastreo de donaciones, la confirmación de recepción y la opción de programar la recolección de artículos. Estas características ayudarían a superar las dificultades actuales y mejorar la experiencia de donación.
-
-
-- Los donadores sugieren la realización de campañas de sensibilización y colaboraciones con influencers para aumentar la participación y la frecuencia de las donaciones. Estas estrategias podrían amplificar el alcance de la plataforma y fomentar un mayor compromiso con la causa de la donación.<br><br>
-
-**Análisis por medio de herramientas estadísticas:**
-
-<div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-1.PNG?raw=true" alt="Estadistica 7" style="width: 600px; height: auto;"><br><br>
-</div>
-
-El gráfico de frecuencia de donaciones revela que los donadores realizan donaciones en intervalos que van de mensuales a anuales. Este patrón sugiere una disposición a donar con regularidad, siempre que el proceso sea simplificado y más accesible.
-
-<div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-2.PNG?raw=true" alt="Estadistica 8" style="width: 600px; height: auto;"><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-3.PNG?raw=true" alt="Estadistica 9" style="width: 600px; height: auto;"><br><br>
-</div>
-
-El 100% de los donadores considera que el proceso de donación es complicado. Esta percepción subraya la necesidad de una plataforma que simplifique y facilite cada paso del proceso de donación. Además, todos creen que el proceso es complicado, lo que destaca la urgencia de implementar soluciones que aborden estos problemas y mejoren la experiencia general.
-
-<div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-4.PNG?raw=true" alt="Estadistica 10" style="width: 600px; height: auto;"><br><br>
-</div>
-
-La mayoría de los donadores considera que los juguetes y la ropa son los objetos más adecuados para donar. Esta preferencia puede guiar a la plataforma en la priorización de categorías de donación.
-
-<div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-5.PNG?raw=true" alt="Estadistica 11" style="width: 600px; height: auto;"><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-6.PNG?raw=true" alt="Estadistica 12" style="width: 600px; height: auto;"><br><br>
-</div>
-
-Todos los entrevistados mostraron su disposición para utilizar CambiaZo como su principal medio de donación. Además, creen que CambiaZo podría aumentar la frecuencia de sus donaciones, lo que resalta el potencial de la plataforma para facilitar y promover la donación.<br><br>
-
-**Estrategias para Abordar las Necesidades de los Donadores:**
-
-Para atender las necesidades de los donadores, CambiaZo debe enfocarse en simplificar el proceso de donación mediante la implementación de funcionalidades esenciales como la confirmación de recepción de artículos. Esta característica no solo proporciona tranquilidad a los donadores, sino que también cierra el ciclo de la donación de manera satisfactoria.
-
-Además, el rastreo de donaciones es fundamental para asegurar que los artículos lleguen a sus destinatarios y para proporcionar a los donadores visibilidad sobre el impacto de sus contribuciones. La programación de recolección de artículos es otra funcionalidad crucial que facilita el proceso logístico y elimina la necesidad de desplazamientos complicados.
-
-Garantizar la transparencia en el destino de las donaciones es vital para mantener la confianza de los donadores, permitiéndoles ver claramente cómo y a quién se destinan los artículos donados. Igualmente importante es la protección de los datos personales, que asegura la seguridad y privacidad de la información de los usuarios.
-
-La aplicación web debe ser intuitiva y fácil de usar para no agregar barreras tecnológicas adicionales. Además, la implementación de campañas de sensibilización y colaboraciones con influencers ayudará a ampliar el alcance de la plataforma y a fomentar una mayor participación en las donaciones.
-
-Al abordar estos aspectos, CambiaZo no solo mejorará la experiencia de donación, sino que también incrementará la frecuencia y el impacto de las contribuciones, haciendo que la plataforma sea una solución eficaz y apreciada por la comunidad.<br><br>
-
-
-### Análisis General para Ambos Segmentos
-
-<div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/sistemas-operativos-grafica.png?raw=truee" alt="Estadistica Android vs IOS" style="width: 600px; height: auto;"><br><br>
-</div>
-
-Como podemos observar en la gráfica obtenida de las entrevistas sobre los sistemas operativos de los smartphones utilizados por los entrevistados, se evidencia una clara predominancia de Android. De acuerdo con los datos recopilados, el 80% de los entrevistados utiliza este sistema operativo. 
-
-Este alto porcentaje subraya la necesidad crítica de que CambiaZo sea completamente compatible con Android. La plataforma debe estar optimizada para aprovechar al máximo las características y capacidades de este sistema operativo, garantizando un rendimiento fluido y una experiencia de usuario sin interrupciones para la mayoría de los usuarios.
-
-En contraste, el 20% de los entrevistados utiliza iOS. Aunque esta proporción es menor, sigue siendo significativa y no debe ser pasada por alto. Para asegurar que la plataforma sea accesible para todos, CambiaZo debe desarrollar y mantener una versión optimizada para dispositivos Apple. Esta atención a ambos sistemas operativos es crucial para proporcionar una experiencia uniforme y satisfactoria a todos los usuarios.
-
-
-<div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/android-ios.png?raw=true" alt="Imagen Android y IOS"><br><br>
-</div>
-
-Para abordar adecuadamente estas necesidades, CambiaZo debe enfocarse en ofrecer una plataforma completamente funcional tanto para Android como para iOS. Esta estrategia no solo garantizará que la aplicación funcione de manera efectiva en ambos sistemas operativos, sino que también permitirá que todos los entrevistados, independientemente del dispositivo que utilicen, accedan a todas las funcionalidades y características de CambiaZo.
-
-Además, la interfaz de CambiaZo debe ser intuitiva y fácil de usar. La simplicidad en el diseño y una navegación fluida son cruciales para garantizar que todos los usuarios, independientemente de su nivel de experiencia tecnológica, puedan utilizar la plataforma de manera efectiva. Al ofrecer una experiencia de usuario accesible y libre de complicaciones, CambiaZo podrá satisfacer las necesidades y expectativas de todos los entrevistados.<br><br>
-
-
-
 ## 2.3 Needfinding
 
 En CambiaZo, entendemos que para desarrollar una plataforma que realmente responda a las necesidades de nuestros usuarios, es crucial conocerlas a fondo. La sección de Needfinding refleja nuestro compromiso con este objetivo a través de una investigación detallada.
@@ -1676,16 +1299,6 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 </div>
 
 **Enlace:** [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
-<br><br>
-
-<b>Usuario Donador</b><br>
-
-<div align="center">
-
-![User Persona 2](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-2.PNG?raw=true)
-</div>
-
-**Enlace:** [User Persona en UXPRESSIA](https://uxpressia.com/w/5DZd7/p/C7wKs)
 <br><br>
 
 ### 2.3.2 User Task Matrix
@@ -1743,52 +1356,6 @@ En esta sección, presentamos un análisis detallado de las tareas que los usuar
 </table>
 </div><br><br>
 
-<b>Usuario Donador</b><br>
-
-<div align="center">
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th rowspan="2"><div align="center">USER TASK</div><br></th>
-    <th colspan="2"><div align="center">Donador <br>Mariana Okinawa<br></div></th>
-   
-  </tr>
-  <tr>
-    <th>Frecuencia</th>
-    <th>Importancia</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Buscar organizaciones para donar<br></td>
-    <td>Media</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-     <td>Seleccionar Artículo para Donar<br></td>
-    <td>Media</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Coordinar Entrega de Donación<br></td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Preparar Artículos para Donación<br></td>
-    <td>Media</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>Entregar Donación a la Organización<br></td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-</tbody>
-</table>
-</div>
 
 ### 2.3.3 User Journey Mapping
 
@@ -1804,17 +1371,6 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 </div>
 
 **Enlace:** [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/85V7e)<br><br>
-
-<b>Segmento Donadores</b><br>
-
-Mediante este artefacto se explicará y comprenderá como los usuarios del segmento Empresa realizan sus actividades para alcanzar sus objetivos desde su persepctiva.
-
-<div align="center">
-
-![User Journey Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-2.png?raw=true)
-</div>
-
-**Enlace:** [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/ZJfdG)<br><br>
 
 ### 2.3.4 Empathy Mapping
 
@@ -2031,16 +1587,6 @@ En esta sección, presentaremos el Impact Mapping, una herramienta esencial para
 
 **Enlace:** [Impact Mappping en UXPRESSIA]()
 
-
-<b>Segmento Donadores</b><br>
-
-<div align="center">
-
-[![Impact Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-2.png?raw=true)](https://uxpressia.com/w/ODLU6/i/M9ikH)
-</div>
-
-
-**Enlace:** [Impact Mapping en UXPRESSIA]()
 
 ## 3.4. Product Backlog
 En el Product Backlog presentaremos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*.Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).
@@ -2419,13 +1965,7 @@ En esta seccion, se identificaron y priorizaron los flujos de mensajería más r
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/registro.png?raw=true" alt="registro" style="width: 600px; height: auto;"><br><br>
 </div>
 
-**3. Donación con lockers inteligentes** 
-
-<div align="center">
-	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/donacion.png?raw=true" alt="donacion" style="width: 600px; height: auto;"><br><br>
-</div>
-
-**4. Intercambios con lockers inteligentes** 
+**3. Intercambios con lockers inteligentes** 
 
 <div align="center">
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/intercambios.png?raw=true" alt="intercambios" style="width: 600px; height: auto;"><br><br>
@@ -2443,13 +1983,7 @@ De acuerdo con los bounded contexts definidos previamente, se desarrollaron sus 
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/bounded-iam.png?raw=true" alt="bounded-iam" style="width: 600px; height: auto;"><br><br>
 </div>
 
-**2. Bounded Context: Donaciones (Donations)** 
-
-<div align="center">
-	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/bounded-donaciones.png?raw=true" alt="bounded-donaciones" style="width: 600px; height: auto;"><br><br>
-</div>
-
-**3. Bounded Context: Intercambios (Exchanges)** 
+**2. Bounded Context: Intercambios (Exchanges)** 
 
 <div align="center">
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/bounded-intercambios.png?raw=true" alt="bounded-intercambios" style="width: 600px; height: auto;"><br><br>
@@ -2465,12 +1999,6 @@ En esta sección explicamos y evidenciamos el proceso de elaboración de un conj
 
 <div align="center">
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/context-iam.png?raw=true" alt="context-iam" style="width: 600px; height: auto;"><br><br>
-</div>
-
-**Donations Context**
-
-<div align="center">
-	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/context-donation.png?raw=true" alt="context-donation" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **Exchanges Context**
