@@ -228,74 +228,6 @@ objetivos.</td>
 
 <div style="page-break-after: always;"></div>
 
-# Objetivos SMART
-
-Los objetivos SMART son una herramienta esencial para establecer metas claras y alcanzables en cualquier proyecto. SMART es un acrónimo que significa Specific (Específico), Measurable (Medible), Achievable (Alcanzable), Relevant (Relevante) y Time-bound (Con un plazo definido). Este enfoque asegura que cada objetivo esté bien definido y sea cuantificable, lo que facilita el seguimiento y la evaluación del progreso. Al ser alcanzables y relevantes, estos objetivos están alineados con las estrategias del proyecto, mientras que el establecimiento de plazos garantiza un enfoque constante y un sentido de urgencia para lograr los resultados deseados.
-
-### Huamani Mandujano, Joseph Alexis
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Mejorar competencias en comunicación efectiva dentro de equipos de desarrollo y clientes para roles de consultoría tecnológica.                       |
-| **Fecha de inicio**               | 4/2/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/25/25                                                                                                                                              |
-| **S - Specific** | Joseph fortalecerá su habilidad para comunicar soluciones técnicas complejas de manera clara y efectiva tanto a miembros del equipo como a clientes, utilizando técnicas de comunicación enfocadas en el usuario.                                      |
-| **M - Measurable** | Realizar cinco presentaciones y reuniones de seguimiento con clientes y equipos internos, midiendo la comprensión del cliente y el equipo a través de encuestas de satisfacción al final de cada interacción.                                          |
-| **A - Achievable** | Utilizará herramientas y técnicas de presentación visual (como diagramas y esquemas) para mejorar la comprensión de conceptos técnicos y facilitar la toma de decisiones informadas por parte de los clientes.                                        |
-| **R - Relevant** | La capacidad de comunicar de manera efectiva es esencial para el éxito en roles de consultoría, donde es clave garantizar que tanto el equipo como los clientes comprendan y compartan los mismos objetivos.                                          |
-| **T - Time-bound** | Desarrollar estas habilidades y completar las presentaciones antes del final de septiembre, con revisiones periódicas después de cada presentación para evaluar y mejorar el enfoque de comunicación.                                                  |
-<br>
-
-### Mendoza Carrión, Mathias Andre
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Desarrollar habilidades avanzadas en liderazgo de equipos multidisciplinarios para mejorar la gestión de proyectos de software.                       |
-| **Fecha de inicio**               | 4/01/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/24/25                                                                                                                                              |
-| **S - Specific** | Mathias mejorará sus habilidades de liderazgo colaborando con equipos de desarrollo, diseño y marketing, utilizando metodologías ágiles para garantizar la entrega exitosa de proyectos de software en tiempo y forma.                                    |
-| **M - Measurable** | Liderar dos proyectos de software desde la planificación hasta la entrega, midiendo el éxito a través de la satisfacción del cliente y el cumplimiento de los plazos establecidos.                                                                      |
-| **A - Achievable** | Implementará técnicas avanzadas de gestión de proyectos y herramientas como Jira o Trello para monitorear el progreso y garantizar la colaboración efectiva del equipo, mejorando su capacidad de coordinar equipos multidisciplinarios.                          |
-| **R - Relevant** | Las habilidades de liderazgo y gestión de proyectos son fundamentales para su crecimiento en roles de dirección y manejo de equipos en el sector tecnológico.                                                  |
-| **T - Time-bound** | Completar estos dos proyectos dentro de un plazo de un mes, con revisiones semanales para asegurar que los plazos se cumplan y el equipo mantenga una alta productividad.                                                                           |
-<br>
-
-### Quispe Andia, Jeremy Joel
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Desarrollar habilidades en análisis de datos avanzados y ciencia de datos aplicables a la mejora continua de productos digitales.                     |
-| **Fecha de inicio**               | 4/02/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/25/25                                                                                                                                              |
-| **S - Specific** | Jeremy adquirirá conocimientos en herramientas avanzadas de análisis de datos como Python, R y SQL, para analizar grandes volúmenes de datos y descubrir insights clave que contribuyan a la toma de decisiones de producto.                               |
-| **M - Measurable** | Completar dos análisis de conjuntos de datos grandes y generar informes con recomendaciones basadas en datos que mejoren la experiencia del usuario y el rendimiento del producto, midiendo el impacto a través de métricas clave de producto.             |
-| **A - Achievable** | Participará en programas de capacitación de ciencia de datos y aplicará el conocimiento adquirido en los proyectos actuales, mejorando sus habilidades técnicas en análisis de datos.                                                                   |
-| **R - Relevant** | Estas habilidades son esenciales para el desarrollo de productos en el sector digital, donde el análisis basado en datos es clave para mejorar continuamente la experiencia del usuario y la calidad del producto.                                         |
-| **T - Time-bound** | Completar estos análisis antes del final de septiembre, con revisiones quincenales para ajustar el enfoque según los resultados y las métricas de impacto obtenidas.                                                                                      |
-<br>
-
-### Santisteban Palomino, Ian Haziel Donato
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Desarrollar competencias en automatización de pruebas para garantizar la calidad continua de los proyectos de software.                              |
-| **Fecha de inicio**               | 4/03/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/26/25                                                                                                                                              |
-| **S - Specific** | Ian aprenderá a diseñar y ejecutar pruebas automatizadas utilizando herramientas como Selenium y JUnit, para garantizar que el software desarrollado funcione correctamente y mantenga su calidad en cada iteración de desarrollo.                         |
-| **M - Measurable** | Crear y ejecutar 15 casos de pruebas automatizadas en dos proyectos, midiendo el éxito en términos de cobertura de pruebas y reducción de defectos reportados en las etapas finales del ciclo de desarrollo.                                             |
-| **A - Achievable** | Participará en un curso intensivo de pruebas automatizadas y aplicará el conocimiento adquirido en proyectos actuales, mejorando su capacidad para diseñar pruebas eficientes y efectivas.                                                             |
-| **R - Relevant** | La automatización de pruebas es una habilidad crucial para garantizar la calidad continua en proyectos de software, especialmente en entornos ágiles donde las iteraciones rápidas requieren verificaciones constantes.                                   |
-| **T - Time-bound** | Completar el diseño y ejecución de las pruebas automatizadas antes del 29 de septiembre, con revisiones periódicas para ajustar el enfoque de prueba en función de los resultados obtenidos.   
-
-### Augusto Jose, Pin Matallana  
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Fortalecer habilidades en revisión y validación de pruebas funcionales, contribuyendo al aseguramiento de la calidad en los desarrollos del equipo. |
-| **Fecha de inicio**               | 4/4/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/27/25                                                                                                                                              |
-| **S - Specific** | Augusto se enfocará en validar los resultados de pruebas funcionales realizadas por sus compañeros, asegurándose de que las funcionalidades cumplan con los criterios de aceptación establecidos en las User Stories.                         |
-| **M - Measurable** | Revisar y validar al menos 10 funcionalidades desarrolladas, documentando observaciones y colaborando con el equipo para corregir errores antes de las entregas finales.                                             |
-| **A - Achievable** | Utilizará herramientas como Jira y GitHub para registrar y dar seguimiento a los resultados de pruebas, aplicando buenas prácticas en la revisión de entregables.                                                             |
-| **R - Relevant** | La revisión de pruebas es clave para garantizar productos funcionales y confiables, especialmente en entornos colaborativos y de desarrollo ágil.                                   |
-| **T - Time-bound** | Completar la validación y revisión de funcionalidades dentro del plazo establecido, con sesiones de retroalimentación que permitan mejorar la calidad de los desarrollos futuros. |
-                                                         |
-
 <br><br>
 
 
@@ -309,31 +241,32 @@ Los objetivos SMART son una herramienta esencial para establecer metas claras y 
 
 **Área:**  Innovación tecnológica y Reutilización
 
-TechZo es una startup dedicada a la innovación tecnológica y la reutilización de recursos, fundada por un grupo de estudiantes comprometidos de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra misión es abordar desafíos críticos relacionados con la sostenibilidad y el consumo responsable, fomentando la transición hacia una economía circular en nuestro país.
+# TechZo - Proyecto CambiaZo
 
-Nuestra principal solución, CambiaZo, es una aplicación web diseñada para transformar la forma en que las personas gestionan y comparten sus bienes. A través de CambiaZo, facilitamos el intercambio directo, seguro y sin transacciones monetarias de artículos entre usuarios, promoviendo la reutilización y el aprovechamiento óptimo de recursos disponibles. Además, la aplicación ofrece una funcionalidad especial que permite a los usuarios donar productos directamente a personas de bajos recursos, apoyando así a las comunidades más necesitadas.
+TechZo es una startup dedicada a la innovación tecnológica y la optimización de recursos mediante el uso de lockers inteligentes, fundada por un grupo de estudiantes comprometidos de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra misión es abordar desafíos críticos relacionados con la sostenibilidad, la eficiencia logística y el consumo responsable, fomentando la transición hacia una economía circular en nuestro país.
 
-En TechZo, estamos comprometidos con la seguridad, transparencia y justicia en cada transacción. Trabajamos constantemente para garantizar que los usuarios tengan acceso a información clara y detallada sobre los productos disponibles, fomentando una experiencia de intercambio confiable y satisfactoria. Al combinar tecnología de vanguardia con un enfoque en la responsabilidad social, buscamos impulsar un cambio positivo en la forma en que consumimos y reutilizamos.
+Nuestra principal solución, **CambiaZo**, es una plataforma de intercambio de productos apoyada en lockers inteligentes. A través de CambiaZo, facilitamos el intercambio seguro y automatizado de artículos, utilizando validaciones fotográficas, códigos de seguridad y notificaciones instantáneas. Además, la aplicación permite a los usuarios donar productos a comunidades necesitadas, fortaleciendo nuestro compromiso social.
 
-* **Misión:**<br>  La misión de TechZo como empresa es promover un estilo de vida sostenible y consciente, proporcionando a los usuarios una plataforma accesible y segura para intercambiar y donar bienes de manera justa y responsable. Buscamos reducir el impacto ambiental fomentando la reutilización, al tiempo que apoyamos a las comunidades más vulnerables a través de un modelo inclusivo de donaciones.<br><br>
+En TechZo, estamos comprometidos con la seguridad, la transparencia y la eficiencia en cada transacción. Nos esforzamos para que cada usuario tenga acceso a una experiencia confiable de intercambio, apoyada en la tecnología de lockers inteligentes, garantizando un proceso sencillo, seguro y satisfactorio. Al integrar innovación tecnológica con responsabilidad social, impulsamos un cambio positivo en la forma de consumir y reutilizar.
 
+* **Misión:**<br>
+La misión de TechZo es revolucionar el intercambio de bienes mediante lockers inteligentes, proporcionando a los usuarios una plataforma segura, automatizada y sostenible para intercambiar productos de forma justa y eficiente.<br><br>
 
-* **Visión:** <br>
-La visión de TechZo es convertirnos en la plataforma líder de intercambio y donación de productos básicos a nivel global. Queremos ser reconocidos por nuestra capacidad de conectar a las personas y comunidades, fomentando una economía circular que minimice el desperdicio y promueva la solidaridad. Aspiramos a liderar el camino hacia un futuro más sostenible, donde cada acto de intercambio y donación contribuya a un impacto ambiental positivo.<br><br>
+* **Visión:**<br>
+La visión de TechZo es liderar la transformación del intercambio de productos a nivel global a través de lockers inteligentes, conectando personas y comunidades para fomentar una economía circular basada en confianza, tecnología y solidaridad.<br><br>
 
-* **Valores:**  
+* **Valores:**
+  * **Seguridad y privacidad:** Nuestra prioridad es proteger los datos y transacciones de nuestros usuarios, implementando medidas sólidas de cifrado y control de accesos mediante códigos PIN y validaciones fotográficas en los lockers.
 
-  *  **Seguridad y privacidad:** La privacidad es prioritaria, nos preocupamos para que nuestros usuarios sientan que los datos que nos otorgan están seguros y mantenidos en privacidad. Por ello, les otorgamos a nuestros usuarios control sobre ello. Además, sabemos que las medidas sólidas de seguridad, incluido el cifrado de datos en tránsito y reposo, junto con prácticas sólidas en el diseño de la base de datos, resguardan la información sobre nuestros usuarios.
+  * **Innovación:** Buscamos constantemente nuevas maneras de mejorar la experiencia de intercambio, utilizando tecnologías como algoritmos de localización de lockers cercanos y validaciones inteligentes.
 
-  * **Innovación:** Estar en constante búsqueda de nuevas formas de mejorar la experiencia de los usuarios a través de la tecnología y la creatividad, manteniendo la aplicación a la vanguardia.
+  * **Aprendizaje Continuo:** Promovemos el crecimiento de nuestro equipo en tecnologías emergentes, logística inteligente y estrategias de sostenibilidad.
 
-  * **Aprendizaje Continuo:** Fomentar un ambiente en el que los miembros del equipo estén dispuestos a aprender y mejorar constantemente, tanto en términos de sostenibilidad como de consumo responsable.
+  * **Calidad:** Nos comprometemos a ofrecer una experiencia fluida en la asignación de lockers, validación de objetos y notificaciones, asegurando la máxima satisfacción de los usuarios.
 
-  * **Calidad:** Compromiso con la excelencia en el diseño de la aplicación movil y la funcionalidad de esta misma, asegurándonos de que cumpla con las expectativas más altas de nuestros usuarios.
+  * **Compromiso con el usuario:** Escuchamos activamente las necesidades de nuestros usuarios, adaptando nuestro sistema de lockers y plataforma digital para que cada intercambio sea sencillo y seguro.
 
-  * **Compromiso con el usuario:** Poner las necesidades y deseos de los usuarios en el centro de todas las decisiones, asegurando que la aplicación satisfaga sus expectativas y mejore su experiencia realizando intercambios.
-
-  * **Respeto a la diversidad:**  Valorar y respetar las diferencias culturales, étnicas, de género y de opinión, tanto en el equipo interno como en la comunidad de usuarios.<br><br>
+  * **Respeto a la diversidad:** Fomentamos la inclusión, la equidad y el respeto entre todos los usuarios y miembros de nuestra comunidad, promoviendo un ecosistema de intercambio basado en valores sólidos.<br><br>
 
  ### 1.1.2 Perfiles de integrantes del equipo
 
@@ -353,108 +286,113 @@ A continuación, presentaremos los perfiles de los integrantes del equipo encarg
 
 ### 1.2.1 Antecedentes y problemática
 
-La economía lineal actual, caracterizada por el modelo de producir, usar y desechar, está generando un aumento preocupante en la acumulación de residuos y el uso insostenible de recursos naturales. Morseletto (2023) destaca que esta estructura económica predominante contribuye significativamente al aumento de residuos y la degradación ambiental. 
+# 1.2.1 Contexto y Problemática
 
-Esta forma de consumo no solo incrementa la cantidad de desechos sólidos, contamina los océanos y provoca la pérdida de biodiversidad, sino que también intensifica el cambio climático debido a las emisiones significativas de gases de efecto invernadero asociadas con la fabricación, transporte y eliminación de productos (Madaan et al., 2024). 
+La economía lineal actual, caracterizada por el modelo de producir, usar y desechar, está generando un aumento preocupante en la acumulación de residuos y el uso insostenible de recursos naturales. Morseletto (2023) destaca que esta estructura económica contribuye significativamente al aumento de residuos y la degradación ambiental.
 
-Según Liu y Zhong (2023), la extracción intensiva de materias primas para la producción de nuevos bienes está agotando los recursos naturales a un ritmo alarmante, lo que agrava aún más la situación ambiental. A esto se suma el crecimiento continuo de la población mundial, que se espera que aumente en 2000 millones de personas para el año 2050, multiplicando aún más la generación de residuos (Kruse-Andersen, 2023). 
+Esta forma de consumo no solo incrementa los desechos sólidos, contamina océanos y provoca pérdida de biodiversidad, sino que también intensifica el cambio climático debido a las emisiones de gases de efecto invernadero asociadas a la fabricación, transporte y eliminación de productos (Madaan et al., 2024).
 
-Frente a esta problemática, nuestra aplicación propone una solución basada en la economía circular, que busca mantener los productos, materiales y recursos en uso durante el mayor tiempo posible.
+Según Liu y Zhong (2023), la extracción intensiva de materias primas para nuevos productos está agotando los recursos naturales rápidamente. A esto se suma el crecimiento continuo de la población mundial, que se espera aumente en 2000 millones de personas para el 2050, lo que generará aún más residuos (Kruse-Andersen, 2023).
 
-Para explicar con más detalle esta situación, como grupo, usaremos la metodología de las 5W y 2H para darle más énfasis a los antecedentes y problemáticas a las que se enfrenta nuestra iniciativa de cambio:
+Frente a esta problemática, **nuestra aplicación propone una solución basada en lockers inteligentes**, que permiten mantener los productos en circulación más tiempo mediante intercambios seguros y automatizados, reduciendo residuos y promoviendo la economía circular.
 
+Para explicar más detalladamente esta situación, como grupo, usaremos la metodología de las **5W y 2H** para analizar los antecedentes y la problemática que enfrentamos:
 
-**5W's y 2H's**
+## 5W's y 2H's
 
-* **WHAT?** <br>
-La acumulación diaria de residuos a nivel global está generando un impacto negativo en el medio ambiente y en la conservación de los recursos naturales del planeta. Este problema se debe a la falta de iniciativas para dar una segunda vida a los objetos en lugar de desecharlos, lo que contribuye a la sobrecarga de vertederos y al agotamiento de recursos.<br><br>
-
+* **WHAT?**<br>
+La acumulación diaria de residuos a nivel global impacta negativamente al medio ambiente y agota los recursos naturales. La falta de iniciativas para reutilizar o intercambiar productos contribuye al colapso de vertederos y desperdicio de materiales.<br><br>
 
 * **WHY?**<br>
-Muchas personas no toman la iniciativa de reutilizar o intercambiar objetos que ya no necesitan, y en lugar de eso, optan por desecharlos. Esta falta de conciencia sobre las consecuencias ambientales a largo plazo resulta en un aumento de desechos y en el agotamiento de recursos naturales..<br><br>
+Muchas personas no reutilizan o intercambian objetos debido a la falta de sistemas seguros y sencillos. La falta de confianza en intercambios tradicionales frena las prácticas de reutilización, perpetuando el modelo de descarte.<br><br>
 
 * **WHO?**<br>
-El problema afecta al público en general, pero en particular a aquellos que más necesitan apoyo en términos de recursos y asistencia. La aplicación está dirigida a usuarios interesados en adoptar prácticas de reutilización y sostenibilidad.<br><br>
+El problema afecta a toda la población, especialmente a quienes buscan opciones responsables para reducir su impacto ambiental. CambiaZo se dirige a usuarios interesados en un modelo más seguro de intercambio de bienes.<br><br>
 
 * **WHEN?**<br>
-Esta problemática es una constante con el pasar de los años ya que recién es que se está popularizando la cultura de reutilización y desarrollo sostenible, debido a que desde siempre se ha optado en primera instancia por solo desechar y no reutilizar.<br><br>
+Esta problemática es continua. A pesar de un creciente interés por la sostenibilidad, aún falta infraestructura segura para facilitar intercambios responsables de bienes en el día a día.<br><br>
 
 * **WHERE?**<br>
-Aunque la problemática de los residuos y la falta de reutilización es global, la aplicación se enfocará inicialmente en la población peruana, con planes de expansión a otras regiones en función de los resultados y la demanda.<br><br>
+Aunque el problema es global, CambiaZo se enfocará inicialmente en Perú, priorizando regiones urbanas donde la acumulación de residuos y la falta de reutilización son más evidentes.<br><br>
 
 * **HOW?**<br>
-Se implementará una propuesta de solución mediante el desarrollo de una aplicación web que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias, además de permitir realizar donaciones a organizaciones benéficas. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.<br><br>
+Se implementará un sistema de lockers inteligentes donde los usuarios podrán dejar sus objetos de intercambio. El sistema validará el depósito mediante fotos, asignará códigos de seguridad, y notificará a los usuarios de cada paso.<br><br>
 
 * **HOW MUCH?**<br>
-El presupuesto para el desarrollo de la aplicación web varía en función de los requisitos específicos del proyecto. Se estima que podría oscilar entre S/. 20,000 y S/. 50,000, dependiendo de la complejidad y las características de la aplicación.<br><br>
+El presupuesto estimado para el despliegue inicial de la red de lockers inteligentes y la aplicación web oscila entre S/. 50,000 y S/. 100,000, dependiendo de la cantidad de lockers, su tecnología integrada y el desarrollo de la plataforma.<br><br>
 
-### 1.2.2 Lean UX Process
-#### 1.2.2.1 Lean UX Problem Statement
-**Problem Statement 1:**  El contexto actual en el que nos encontramos nos demuestra que a diario se ve mucho más en práctica modelos de vida sostenible y que incluso se popularizan de manera más rápida por las redes sociales. De acuerdo a esto, cada vez la población busca darle una nueva vida a sus pertenencias y así evitar el desechar tantos objetos y de este modo contribuir con la disminución de residuos en el planeta.
+# 1.2.2 Lean UX Process
 
-Sin embargo, hemos notado que hay una gran dificultad al que este sector de la población tiene, el cual es que no hay una forma sencilla y práctica de darle un segundo uso a sus pertenencias, en este caso, enfocándonos en el intercambio de bienes. 
-¿Cómo implementamos de manera eficaz un modelo de intercambio de pertenencias?<br><br>
+## 1.2.2.1 Lean UX Problem Statement
 
+**Problem Statement 1:**  
+Actualmente, existe un crecimiento en la conciencia sobre la sostenibilidad y la reutilización de bienes. Sin embargo, no existe un sistema automatizado y seguro que permita intercambiar objetos de manera simple.  
+La falta de confianza, la logística complicada y la inseguridad desalientan a los usuarios a dar una segunda vida a sus pertenencias.  
+¿Cómo podemos implementar un modelo eficiente, seguro y automatizado de intercambio de bienes mediante lockers inteligentes, validación de objetos y códigos de seguridad?<br><br>
 
-**Problem Statement 2:** En la actualidad, se puede observar que hay una base sólida de organizaciones benéficas que siempre apoyan a diversos sectores vulnerables de la población, ya sea con donaciones de víveres, ropa, objetos de primera necesidad y/o apoyo económico.
+**Problem Statement 2:**  
+Aunque existe una creciente voluntad de las personas por intercambiar bienes, actualmente no hay infraestructuras tecnológicas que organicen, validen y faciliten de forma segura estos intercambios entre particulares.  
+¿Cómo podemos facilitar el proceso de intercambio entre usuarios, garantizando seguridad, eficiencia y trazabilidad a través de lockers inteligentes y validaciones automáticas?<br><br>
 
-Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas organizaciones, es que no hay un modelo sólido que organice toda la información de estos grupos y que permita a los contribuidores tener un fácil acceso a todos los detalles correspondientes, ya sean campañas de donación o de aporte monetario benéfico.
-
-¿Cómo podemos desarrollar una funcionalidad que permita a los usuarios realizar aportes benéficos de manera sencilla e intuitiva, facilitando la conexión entre Donadores y organizaciones?
+**Problem Statement 3:**  
+Los intercambios tradicionales entre usuarios suelen carecer de seguimiento, confirmación y validación adecuada, generando desconfianza y riesgo en las transacciones.  
+¿Cómo podemos diseñar un sistema de intercambio que proporcione validación visual, confirmación automática y notificaciones en tiempo real para asegurar la transparencia y satisfacción de los usuarios?<br><br>
 
 #### 1.2.2.2 Lean UX Assumptions
 
- + **User Assumptions:** 
+# 1.2.2.2 User Assumptions & Business Outcomes
 
-    + **¿Quién es el usuario?** <br>Nuestros usuarios son personas interesadas en dar un nuevo uso a sus pertenencias mediante el intercambio o donación. Esto incluye tanto a individuos que desean intercambiar objetos como a aquellos que buscan apoyar a organizaciones benéficas registradas en la plataforma.<br><br>
+## User Assumptions
 
-    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?**<br> El producto se integra en la vida de los usuarios como una herramienta para fomentar un estilo de vida sostenible, permitiéndoles participar activamente en la economía circular y contribuir a la reducción de residuos.<br><br>
++ **¿Quién es el usuario?**<br>
+Nuestros usuarios son personas interesadas en reutilizar sus pertenencias mediante un sistema seguro de intercambio a través de lockers inteligentes. Incluye tanto a individuos que desean intercambiar objetos como a aquellos que desean donar artículos a comunidades necesitadas.<br><br>
 
-    + **¿Cuándo y cómo se utiliza nuestro producto?**<br> Nuestro producto es usado cuando los usuarios sientan que ya no necesitan más una pertenencia y en vez de solo desecharla, darle un nuevo uso para alguien más, intercambiándose por algo que sí necesite o realizando donaciones a organizaciones benéficas para aquellos que más lo necesitan.<br><br>
++ **¿Dónde encaja nuestro producto en su trabajo o en su vida?**<br>
+El producto se integra como una solución práctica y segura para fomentar un estilo de vida sostenible, permitiendo a los usuarios intercambiar y donar artículos de manera automatizada y sin necesidad de contacto directo.<br><br>
 
++ **¿Cuándo y cómo se utiliza nuestro producto?**<br>
+Nuestro sistema se utiliza cuando el usuario desea dar un nuevo uso a una pertenencia. El proceso consiste en registrar el objeto en la app, recibir un locker asignado, depositar el objeto, validar con foto automática, y completar el intercambio.<br><br>
 
-    + **¿Qué problemas resuelve nuestro producto?**<br>Cambiazo simplifica el intercambio y la donación de objetos, ofreciendo una plataforma segura y conveniente que promueve la reutilización y reduce el desperdicio. Con medidas de seguridad integradas, aborda las preocupaciones sobre transacciones fraudulentas, proporcionando una solución completa para una experiencia de intercambio confiable y sostenible.<br><br>
++ **¿Qué problemas resuelve nuestro producto?**<br>
+CambiaZo resuelve la falta de seguridad y logística en los intercambios tradicionales, ofreciendo un sistema automatizado de lockers, validación de objetos, códigos PIN y notificaciones, que asegura una experiencia confiable y sin fricciones.<br><br>
 
++ **¿Qué características son importantes?**<br>
+Facilidad de uso, asignación automática de lockers cercanos, generación de códigos PIN, validación fotográfica del objeto, sistema de notificaciones, y chat privado para coordinación opcional en intercambios tradicionales.<br><br>
 
-    + **¿Qué características son importantes?**<br> Que sea fácil de usar, intuitiva y que contenga las funcionalidades necesarias para que la experiencia del usuario sea la mejor, con opción de filtros para la búsqueda de ciertos artículos y/o también la inclusión de un chat privado entre usuarios para que puedan comunicarse y coordinar el intercambio, si es que ambos están de acuerdo con las pertenencias que ofrecen y desean recibir.<br><br>
++ **¿Cómo debe verse y comportarse nuestro producto?**<br>
+La plataforma debe ser intuitiva, amigable para el público en general, enfocada en lo esencial: registrar, intercambiar y validar objetos de forma rápida. Se deben evitar sobrecargas visuales y mantenerse siempre actualizada para optimizar la experiencia.<br><br>
 
-    + **¿Cómo debe verse y comportarse nuestro producto?**<br> Nuestro producto debe tener una interfaz amigable para todos el público en general, incluir solo funcionalidades básicas y necesarias para no saturar a los usuarios con demasiada información.Además de ello debe mantenerse siempre con actualizaciones que vayan mejorando la optimización del proyecto.<br><br>
+## Business Outcomes
 
- + **Business Outcomes:** 
+1. **Creo que nuestros usuarios necesitan** un medio seguro y automatizado para realizar intercambios y donaciones de forma sencilla y eficaz.
 
-    1. **Creo que nuestros usuarios necesitan** tener un medio seguro y fácil de usar para poder realizar intercambios y/o donaciones de manera sencilla y eficaz.
+2. **Estas necesidades se pueden resolver con** una plataforma que integre lockers inteligentes, validación de objetos mediante fotos y gestión automática de PINs.
 
-    2. **Estas necesidades se pueden resolver con** una aplicación movil que tenga una interfaz intuitiva y que ofrezca que usuarios del Perú puedan realizar publicaciones de intercambio de sus pertenencias y solicitar cierto producto a cambio.
+3. **Nuestros usuarios iniciales son** personas de áreas urbanas en Perú comprometidas con el consumo responsable y la economía circular.
 
-    3. **Nuestros usuarios iniciales son** el público en general del Perú que desee ser parte del cambio por un estilo de vida sostenible.
+4. **El valor #1 que un cliente quiere de nuestro servicio es que** facilite un proceso de intercambio rápido, seguro y con mínima interacción física.
 
-    4. **El valor #1 que un cliente quiere de nuestro servicio es que** ofrezca una forma rápida y sencilla de realizar publicaciones de intercambio y que tenga un sistema sólido para que los involucrados puedan coordinar el proceso respectivo con facilidad.
+5. **El usuario también puede obtener beneficios adicionales como** poder realizar intercambios sin límite, recibir un "Boost" para destacar sus objetos en búsquedas, y acceder a lockers premium de mayor conveniencia.
 
-    5. **El usuario también puede obtener beneficios adicionales como**  tener un número ilimitado de publicaciones sobre intercambios que pueda realizar, además de poder obtener un “Boost” diario para que sus publicaciones siempre tengan preferencia al momento que aparezca tras una búsqueda por algún otro usuario.
+6. **Vamos a adquirir la mayoría de nuestros clientes a través de** campañas en Instagram, TikTok y Facebook, enfocadas en destacar el impacto positivo de la reutilización mediante lockers inteligentes.
 
-    6. **Vamos a adquirir la mayoría de nuestros clientes a través de** publicidad en redes sociales tales como Instagram, Tiktok y Facebook, con una estrategia que promocione principalmente el impacto positivo que generaría el aplicar esta práctica de reutilización en el medio ambiente a largo plazo.
+7. **Haremos dinero a través de** planes de suscripción premium que ofrezcan ventajas exclusivas como prioridad en asignación de lockers y aumento de visibilidad de publicaciones.
 
-    7. **Haremos dinero a través de** ofrecer una suscripción premium que ofrecerá ciertos beneficios que hagan de su experiencia en CambiaZo mucho más satisfactoria y fácil.
+8. **Nuestras competencias principales son** plataformas tradicionales de trueques en Facebook y grupos como Me Sirve, HazTruequing y Trueques.
 
-    8. **Nuestras competencias principales son** grupos de Facebook que se dedican al intercambio, Me Sirve, HazTruequing y Trueques.
+9. **Los venceremos debido a** nuestra propuesta de intercambio seguro, validado, automatizado y basado en tecnología de lockers inteligentes, ofreciendo mayor seguridad y confianza que los métodos tradicionales.
 
-    9. **Los venceremos debido a** las funcionalidades que incluimos en nuestra propuesta de solución, además de la propia diferenciación de CambiaZo que tiene como logo principal, el ser un impulso para un cambio en la sociedad, el tener un estilo de vida sostenible.
+10. **Nuestro mayor riesgo es** que los usuarios perciban dificultad para encontrar intercambios justos o convenientes.
 
-    10. **Nuestro mayor riesgo es** que los usuarios no encuentren intercambios justos y puedan llegar a frustrarse por ello.
+11. **Resolveremos esto a través de** filtros de búsqueda avanzados, procesos de validación de publicaciones, y mecanismos de retroalimentación para mantener la calidad de los objetos ofrecidos.
 
-    11. **Resolveremos esto a través de** un proceso de verificación y control sobre la información que cada usuario coloca al momento de hacer un intercambio, para que no haya inconvenientes de posibles intercambios injustos o de broma.
+# 1.2.2.3 Lean UX Hypothesis Statements
 
+**Creemos que** al implementar una red de lockers inteligentes y una plataforma sólida de intercambio automatizado, los usuarios podrán contribuir significativamente a la economía circular y adoptar un estilo de vida sostenible.<br>
+**Sabremos que es cierto** cuando el número de intercambios diarios supere los 30, confirmando la aceptación de nuestro modelo.<br><br>
 
-#### 1.2.2.3 Lean UX Hypothesis Statements
-**Creemos que** al tener una plataforma sólida para  poder realizar publicaciones de intercambios, los usuarios podrán contribuir con la metodología de una economía cíclica y de formar parte de un estilo de vida sostenible.
-**Sabremos que es cierto** cuando las estadísticas de cuántos intercambios se van realizando al día sean más de 30, esto demostrará que nuestra propuesta de solución realmente está fomentando la reutilización de los objetos de las personas en general.
-
-**Creemos que**  permitir la interacción entre los usuarios al momento de mostrar interés por un artículo, ayudará a que puedan coordinar el intercambio de mejor manera <br>**Sabremos que lo habremos logrado**  cuando se refleje a través de los comentarios, que más del 50% de los usuarios resalte el sistema de comunicación entre usuarios, previo al intercambio.
-
-
-**Creemos que**  al tener la opción de realizar donaciones a personas de escasos recursos económicos, facilitará a los usuarios que deseen donar objetos que ya no utilizan, a hacerlo y a contribuir con este acto solidario.<br>**Sabremos que esto es cierto**  cuando la cantidad de usuarios que han donado a través de nuestra plataforma, supere el 10% de usuarios registrados dentro de la aplicación cada mes.
-
-
+**Creemos que** permitir la interacción entre usuarios mediante notificaciones y validaciones automáticas mejorará la confianza y la eficiencia de los intercambios.<br>
+**Sabremos que lo habremos logrado** cuando más del 50% de los usuarios mencione positivamente la facilidad y seguridad del sistema de lockers y validaciones automáticas en sus comentarios.
 
 #### 1.2.2.4 Lean UX Canvas
 La aplicación **CambiaZo**  es una plataforma digital diseñada para que los usuarios puedan deshacerse de los objetos que ya no desean tener, intercambiándolos por otros artículos que desean de otros usuarios. Además, tiene como objetivo principal convertirse en la plataforma digital líder de intercambio de productos, promoviendo una vida consciente y sostenible a nivel mundial.
@@ -463,23 +401,21 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
     <tr>
         <td valign="top">
             <div align="center"><br><b>Business Problem</b></div><br>
-            <p>El modelo de economía lineal actual causa acumulación de residuos y un uso insostenible de recursos. Falta una solución accesible para el intercambio y donación de bienes.<br><br>¿Cómo podemos facilitar un sistema sencillo y eficiente para que las personas intercambien y donen bienes?</p><br>
+            <p>El modelo de economía lineal actual causa acumulación de residuos y un uso insostenible de recursos. Falta una solución accesible y automatizada para el intercambio de bienes mediante lockers inteligentes.<br><br>¿Cómo podemos facilitar un sistema sencillo, seguro y eficiente para que las personas intercambien sus pertenencias usando lockers inteligentes?</p><br>
         </td>
         <td rowspan="2" valign="top">
             <div align="center"><br><b>Solutions</b></div><br>
             <ul>
-            <li>Desarrollar una aplicación web para facilitar el intercambio de objetos entre usuarios.</li><br>
-            <li>Permitir la donación de bienes a organizaciones benéficas.</li><br>
-            <li>Implementar opciones de búsqueda y comunicación entre usuarios para coordinar intercambios.</li><br>
-            <li>Incluir funcionalidades para registrar donaciones y asegurar transacciones seguras.</li><br>
+                <li>Desarrollar una aplicación web integrada con lockers inteligentes para intercambio de objetos.</li><br>
+                <li>Implementar validación automática de objetos mediante fotos y encendido de luces en el locker.</li><br>
+                <li>Incorporar búsqueda del locker más cercano utilizando el algoritmo de Dijkstra y generación de códigos PIN para acceso.</li><br>
             </ul><br>
         </td>
         <td valign="top">
             <div align="center"><br><b>Business Outcomes</b></div><br>
             <ul>
-              <li>Satisfacción del usuario en intercambios y donaciones.</li><br>
-              <li>Obtener financiamiento para expandir la app.</li><br>
-              <li>Aumentar la visibilidad y alcance con marketing en redes sociales.</li>
+                <li>Obtener financiamiento para expandir la red de lockers inteligentes.</li><br>
+                <li>Aumentar la visibilidad y alcance mediante marketing en redes sociales.</li><br>
             </ul><br>
         </td>
     </tr>
@@ -487,36 +423,37 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
         <td valign="top">
             <div align="center"><br><b>Users</b></div><br>
             <ul>
-              <li>Personas interesadas en intercambiar bienes no necesarios</li><br>
-              <li>Personas interesadas en donar a organizaciones benéficas.</li>
+                <li>Personas interesadas en intercambiar bienes no deseados de manera segura.</li><br>
+                <li>Usuarios comprometidos con prácticas sostenibles mediante el uso de lockers inteligentes.</li><br>
             </ul><br>
         </td>
         <td valign="top">
             <div align="center"><br><b>User Outcomes & Benefits</b></div><br>
-            <ul><li>Ahorro de dinero al obtener productos sin costo</li><br>
-            <li>Deshacerse de objetos no deseados de manera útil.</li><br>
-            <li>Acceso a nuevos artículos a través del intercambio y contribución a causas benéficas.</li>
+            <ul>
+                <li>Ahorro de dinero al intercambiar productos sin costo.</li><br>
+                <li>Deshacerse de objetos no deseados de manera útil.</li><br>
+                <li>Acceso rápido y seguro a nuevos artículos mediante lockers cercanos.</li><br>
             </ul><br>
         </td>
     </tr>
     <tr>
         <td valign="top">
             <div align="center"><br><b>Hypotheses</b></div><br>
-            <p>Creemos que nuestra aplicación promoverá la economía circular y un estilo de vida sostenible, facilitando el intercambio y la donación de bienes.<br><br>Sabemos que esto es cierto cuando los usuarios realicen más de 30 intercambios diarios y más del 10% de los usuarios registrados participen en donaciones mensuales.</p><br>
+            <p>Creemos que nuestra plataforma basada en lockers inteligentes promoverá la economía circular y un estilo de vida sostenible, facilitando el intercambio de bienes.<br><br>Sabremos que esto es cierto cuando los usuarios realicen más de 30 intercambios diarios.</p><br>
         </td>
         <td valign="top">
             <div align="center"><br><b>What's the most important thing we need to learn first?</b></div><br>
             <ul>
-            <li>Comprender las necesidades y expectativas de los usuarios sobre el intercambio y la donación de bienes.</li><br>
-            <li>Identificar las características más valoradas de la aplicación y cómo garantizar la seguridad en las transacciones.</li>
-            <br>
-            <li>Recopilar feedback sobre las funcionalidades y posibles mejoras.</li>
+                <li>Comprender las necesidades y expectativas de los usuarios sobre el intercambio de bienes mediante lockers inteligentes.</li><br>
+                <li>Identificar las características más valoradas de la validación automática y la asignación de lockers.</li><br>
+                <li>Recopilar feedback sobre la experiencia de uso del PIN y notificaciones automáticas.</li><br>
             </ul><br>
         </td>
         <td valign="top">
             <div align="center"><br><b>What's the least amount of work we need to do to learn the next most important thing?</b></div><br>
-            <ul><li>Incorporar una función de comentarios y sugerencias. </li><br>
-            <li>Realizar encuestas regulares para ajustar la app según el feedback.</li>
+            <ul>
+                <li>Incorporar una función de comentarios dentro de la app para feedback rápido.</li><br>
+                <li>Realizar encuestas breves tras cada intercambio para ajustar la experiencia.</li><br>
             </ul><br>
         </td>
     </tr>
@@ -527,7 +464,7 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
 
 ## 1.3 Segmentos Objetivo
 
-Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto que satisfaga las necesidades de nuestros clientes, TechZo se enfocará en los siguientes segmentos de la población:
+Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características geográficas y demográficas. Por lo tanto, con el fin de desarrollar un producto que satisfaga las necesidades de nuestros clientes, TechZo se enfocará en el siguiente segmento: 
 
 + **Personas adultas que desean obtener nuevos artículos (Intercambiadores):**<br>
 Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos artículos de su interés mediante intercambios.
@@ -547,20 +484,6 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 	
     </div>
   + **Preferencias de Uso:** Valoran una plataforma intuitiva que facilite la búsqueda y el intercambio de productos. Prefieren opciones que ofrezcan seguridad y transparencia en las transacciones.<br><br>
-
-
-+ **Personas adultas que desean donar artículos que ya no utilizan (Donadores):**<br>
-“Cambiazo” es fundamental como herramienta para realizar donaciones, ya que permite que personas de escasos recursos puedan recibir donaciones de objetos de personas que ya no utilizan sus artículos y desean donarlos.
-
-    + **Características demográficas:** Personas entre 15 y 60 años de edad con la voluntad de donar objetos propios que ya no utilizan a personas de escasos recursos económicos.
-
-    + **Características geográficas:** Personas que residen en Perú.
-
-    + **Motivaciones y Comportamientos:** Buscan contribuir a la comunidad y ayudar a quienes están en situación de necesidad. Valoran plataformas que les permitan realizar donaciones de manera sencilla y eficiente.
-
-    + **Preferencias de Uso:** Prefieren una aplicación que facilite el proceso de donación, ofreciendo una lista de organizaciones benéficas y un sistema fácil de utilizar para coordinar las donaciones.
-
-<br><br>
 
 
 <div style="page-break-after: always;"></div>
@@ -635,7 +558,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td>Aplicación web que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios o donaciones, enfocándose en la sostenibilidad y la economía circular.
+    <td>Aplicación web que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios, enfocándose en la sostenibilidad y la economía circular.
 	</td>
     <td>Página Web para intercambio de bienes y servicios entre usuarios, fomentando la economía colaborativa y la reutilización de recursos.</td>
     <td>Plataforma para intercambiar servicios y artículos de segunda mano de manera gratuita, promoviendo un estilo de vida sostenible y consciente.</td>
@@ -643,7 +566,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
   </tr>
   <tr>
     <td>Ventaja Competitiva <br>¿Qué valor ofrece a los clientes?</td>
-    <td>Intercambio de productos o servicios. <br><br>Donación de objetos a ONGs afiliadas</td>
+    <td>Intercambio de productos o servicios. <br><br></td>
     <td>Intercambio directo de bienes y servicios sin dinero, fomentando la reutilización y colaboración.</td>
     <td>Intercambio de servicios y artículos de segunda mano, promoviendo un estilo de vida sostenible.</td>
     <td>Intercambio bienes y servicios, promoviendo la reutilización y la solidaridad.
@@ -721,33 +644,30 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
-En esta sección se analizarán las estrategias y tácticas que se usarán para aprovechas las debilidades de la competencia y afrontar sus fortalezas. De la misma forma con las amenazas y oportunidades de la competencia.
+# 1.2.3 Estrategias y Tácticas
 
-Hemos empleado el análisis FODA para identificar las oportunidades y amenazas en el mercado, así como para evaluar nuestras fortalezas y debilidades internas. Este enfoque nos ha permitido concebir estrategias y tácticas adecuadas en consonancia con nuestro entorno y los recursos disponibles en base a nuestros dos segmentos objetivos.
+En esta sección se analizarán las estrategias y tácticas que se usarán para aprovechar las debilidades de la competencia y afrontar sus fortalezas. De la misma forma con las amenazas y oportunidades del mercado.
 
+Hemos empleado el análisis FODA para identificar las oportunidades y amenazas en el mercado, así como para evaluar nuestras fortalezas y debilidades internas. Este enfoque nos ha permitido concebir estrategias y tácticas adecuadas en consonancia con nuestro entorno y los recursos disponibles, basados en nuestro segmento objetivo de usuarios de lockers inteligentes para intercambio.
 
-**Estrategia de Diferenciación:** 
+## Estrategia de Diferenciación
 
-+ Para satisfacer las necesidades del **Segmento de Intercambiadores**, nos enfocamos en ofrecer una plataforma de intercambio intuitiva y dinámica que permita a los usuarios encontrar fácilmente los artículos deseados y realizar intercambios de manera rápida y segura. Implementaremos funciones avanzadas de búsqueda y filtros personalizables para facilitar la búsqueda de nuevos artículos.
++ Para satisfacer las necesidades del **Segmento de Intercambiadores**, nos enfocamos en ofrecer una plataforma intuitiva que permita a los usuarios encontrar lockers disponibles de manera rápida y realizar intercambios seguros y validados. Incorporaremos funciones de búsqueda de lockers más cercanos, validación fotográfica automática y notificaciones en tiempo real para facilitar todo el proceso.
 
-+ Para el **Segmento de Donadores**, nos distinguimos al proporcionar una experiencia de donación gratificante y transparente. Estableceremos alianzas con organizaciones benéficas para ampliar las opciones de donación.
+## Estrategia de Liderazgo en Costos
 
-**Estrategia de Liderazgo en Costos:** 
++ Para el **Segmento de Intercambiadores**, nos comprometemos a mantener los costos de uso del sistema de lockers competitivos, transparentes y accesibles, además de ofrecer promociones especiales como "Boosts gratuitos" y descuentos en planes premium para incentivar la participación activa en la plataforma.
 
-+ Para el **Segmento de Intercambiadores**, nos comprometemos a mantener tarifas de intercambio competitivas y transparentes, y a ofrecer promociones especiales y descuentos para incentivar la participación activa en la plataforma.
+## Estrategia de Marketing
 
-+ En cuanto al **Segmento de Donaciones**, nuestra estrategia se centra en ofrecer una plataforma de donación sin costos ocultos ni tarifas adicionales. Nos comprometemos a garantizar que el proceso de donación sea completamente gratuito y accesible para todos los usuarios.
+Para nuestro segmento, implementaremos una estrategia de marketing centrada en la sensibilización y educación sobre los beneficios de intercambiar objetos mediante lockers inteligentes. Crearemos contenido informativo y atractivo que destaque las ventajas económicas, ambientales y de seguridad de participar en CambiaZo.
 
-**Estrategia de Marketing:**
+## Tácticas
 
-Para ambos segmentos, implementaremos una estrategia de marketing centrada en la sensibilización y la educación sobre los beneficios del intercambio y la donación. Desarrollaremos contenido informativo y atractivo que destaque las ventajas económicas, ambientales y sociales de participar en nuestra plataforma.
-
-**Tácticas:**
-- Creación de campañas publicitarias dirigidas a cada segmento objetivo para resaltar los beneficios específicos de la plataforma de intercambio y donación.
-- Implementación de programas de referidos para incentivar la participación de usuarios existentes y expandir nuestra base de usuarios.
-- Desarrollo de funciones adicionales en la plataforma, como sistemas de valoración y comentarios, para aumentar la confianza y la participación de los usuarios.
-- Establecimiento de alianzas con organizaciones locales y empresas para promover eventos de intercambio y donación, generando así mayor visibilidad y compromiso con la comunidad.
-
+- Creación de campañas publicitarias en redes sociales dirigidas al segmento objetivo, resaltando la facilidad, seguridad y conveniencia del intercambio mediante lockers inteligentes.
+- Implementación de programas de referidos para incentivar la participación de usuarios existentes y expandir rápidamente la base de usuarios activos.
+- Desarrollo de funciones adicionales en la plataforma como sistemas de valoración de intercambios y comentarios sobre la experiencia, para aumentar la confianza y transparencia entre usuarios.
+- Establecimiento de alianzas con centros comerciales, universidades y espacios públicos para instalar lockers inteligentes y aumentar la visibilidad y acceso al servicio.
 
 ## 2.2 Entrevistas
 
@@ -765,8 +685,7 @@ En esta sección se abordará la investigación en base a la información que se
 *	¿En qué ciudad resides?
 *	¿Eres extrovertido o calmado?
 *	¿Eres una persona que toma decisiones analizando los hechos o te dejas llevar por tus sentimientos?
-*	¿Qué smartphone posee? ¿Android o IOS?
-*	¿Usas aplicaciones o programas en especial? ¿Cuáles?<br><br>
+*	¿Sueles usar más apps móviles o plataformas web en tu día a día? ¿Para qué casos?<br><br>
 
 
 **Segmento objetivo 1:** Personas adultas que desean obtener nuevos artículos (Intercambiadores)
@@ -778,70 +697,32 @@ Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
 
 **Inmersión:**
 
-1. ¿De qué forma se contacta con otras personas al momento de querer intercambiar alguno de los objetos que ya no usa?
-2. ¿Cómo ha sido su experiencia previa con aplicaciones de intercambio de productos?
-3. ¿Qué tipo de productos considera más viables para intercambiar a través de una aplicación movil?
+1. ¿Alguna vez has intercambiado objetos con otras personas? ¿Cómo fue esa experiencia?
+2. ¿Qué tipo de objetos crees que son ideales para intercambiar con otros usuarios?
+3. ¿Cuál es el método que suele utilizar para contactar y acordar intercambios?
 
 **Indagación:**
 
-4. ¿Cuáles son las principales preocupaciones o dudas que tendría al utilizar una aplicación de intercambio de productos por primera vez?
-5. ¿Qué características o funciones consideraría primordiales para sentirse seguro y cómodo al realizar intercambios en línea?
-6. ¿Cómo cree usted que una aplicación movil de intercambio de objetos podría fomentar la confianza entre los usuarios para realizar intercambios justos y seguros?
-7. ¿Qué tipo de productos considera que tendrían mayor demanda por parte de personas de su edad y ubicación geográfica?
+4. ¿Qué aspectos te harían sentir inseguro o con dudas al intercambiar algo por primera vez usando una aplicación web o móvil?
+5.  ¿Qué características considera esenciales en una aplicación para garantizar que el intercambio sea justo y sin inconvenientes?
+6. En relación al proceso de intercambio, ¿qué opina sobre la posibilidad de utilizar lockers inteligentes en lugar de encuentros presenciales para dejar y recoger los objetos?
 
 **Verificación:**
 
-8. ¿Qué medidas tomaría para estar seguro de que los productos que está intercambiando cumplen con sus expectativas?
-9. ¿Cómo cree que la comunidad de usuarios podría contribuir a garantizar la veracidad de los productos ofrecidos dentro de la aplicación?
-10. ¿Qué fuentes utilizaría para verificar la confiabilidad de una aplicación movil de intercambios en línea como CambiaZo?
+7. ¿Cómo podría asegurarse de que el objeto depositado en el locker es el correcto antes de proceder a recogerlo?
+8. ¿Qué tipo de información o asistencia adicional le gustaría recibir a través de la aplicación para sentirse completamente seguro con lo que está recibiendo?
+9. ¿Qué le parecería contar con una imagen del objeto dentro del locker antes de abrirlo para garantizar que coincide con el ofrecido en la plataforma?
 
 **Medición:**
 
-11. ¿Qué beneficios espera obtener al utilizar una aplicación como CambiaZo en comparación con otros métodos de adquisición de productos?
-12. ¿Cómo considera que las personas pueden contribuir al desarrollo de una comunidad más sostenible y consciente en su ciudad?
-13. ¿Cuál considera que es el mayor desafío que enfrenta la sociedad en Lima en la actualidad para mantener un consumo consciente, y cómo cree que podría tratarse?
+10. ¿Qué beneficios esperas obtener al usar una app como CambiaZo para hacer intercambios?
+11. ¿Con qué frecuencia cree que utilizaría una aplicación de este tipo para intercambiar productos?
+12. ¿Qué sugerencias o mejoras consideraría necesarias para que una plataforma de intercambios como CambiaZo sea aún más útil y confiable para sus necesidades?
 
 **Cierre:**
 
-Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por su tiempo, muchas gracias y hasta luego.<br><br>
-
-
-**Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donadores)
-
-**Introducción:**
-
-Buenos días/tardes/noches, mi nombre es [Nombre del entrevistador], y en esta ocasión tengo el agrado de poder entrevistar a [Nombre del entrevistado], quien es una persona que le gusta realizar donaciones a personas de escasos recursos.
-Desde ya quiero agradecerle por su presencia y tiempo que me está brindando.
-
-**Inmersión:**
-
-1. ¿De qué forma ha realizado donaciones a personas con escasos recursos económicos?
-2. ¿Cómo ha sido su experiencia previa con la donación de artículos a personas necesitadas o a organizaciones benéficas?
-3. ¿Qué tipo de artículos consideraría más adecuados para donar a través de una aplicación movil como CambiaZo?
-
-**Indagación:**
-
-4. ¿Cuáles son las principales preocupaciones que tendría al utilizar una aplicación como CambiaZo por primera vez?
-5. ¿Qué funciones o características buscaría en una aplicación movil al momento de querer realizar una donación en línea?
-6. ¿Cómo cree que una aplicación movil como CambiaZo podría aumentar la cantidad de donaciones en el Perú?
-
-**Verificación:**
-
-7. ¿Cómo podría una aplicación como CambiaZo garantizar la transparencia y autenticidad de las donaciones realizadas?
-8. ¿Qué importancia le otorgaría a la posibilidad de seguir el destino de sus donaciones y conocer el impacto que tienen en la comunidad receptora?
-9. ¿Qué criterios utilizaría para verificar la confiabilidad y legitimidad de una plataforma de donaciones en línea como CambiaZo?
-
-**Medición:**
-
-10. ¿Qué beneficios espera obtener al realizar donaciones utilizando CambiaZo en comparación con otros métodos de donación tradicionales?
-11. ¿Cómo mediría el impacto de sus donaciones a través de una aplicación movil como CambiaZo en términos de ayudar a personas necesitadas?
-12. ¿Qué cambios o mejoras le gustaría ver en la funcionalidad de CambiaZo para que se convierta en una herramienta más efectiva para donar artículos?
-13. ¿Cómo cree que el uso de aplicaciones en las que puede donar, como CambiaZo, podría contribuir al desarrollo de una comunidad más solidaria y conectada en Lima?
-
-**Cierre:**
-
-Bueno esto ha sido todo por esta ocasión, una vez más quisiera agradecerle por su tiempo, muchas gracias y hasta luego.<br><br>
-
+Le agradezco nuevamente por su tiempo y por compartir su experiencia con nosotros. ¡Muchas gracias y hasta pronto!
+<br><br>
 
 ### 2.2.2 Registro de entrevistas
 
@@ -1268,359 +1149,6 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </tbody>
 </table><br>
 
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #7<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Mathias Tsuneo</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Kunimoto Watanabe</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>20 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Jesus Maria</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Seguridad y calidad en intercambios de productos</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Inseguridad de que lo estafen</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Laptop Windows, Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome, Firefox</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Augusto Jose Pin Matallana</td>
-  </tr>
-  <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="/Resources/Chapter-II/Interviews/mathiaskunimoto_interview.png"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210257_upc_edu_pe/Ecnefubz4ApEp2BqZkx4de8BxLePMHiBR4gSE1YtjLPR6Q?e=bvxfC9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duracion<br></td>
-    <td>4:33 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>En la entrevista, Mathias comentó que ya había realizado algunos intercambios con amigos por temas de negocio. Sin embargo, mencionó que este tipo de procesos le parecían algo inseguros, ya que implicaban reunirse con desconocidos o arriesgarse a recibir productos defectuosos.
-    Al conocer Cambiazo, le pareció una muy buena idea, ya que ayudaría a reducir estas incertidumbres. Le gustó especialmente el uso de lockers para entregar los productos, ya que considera que brindan mayor seguridad y evitan encuentros innecesarios. Además, sugirió que sería útil recibir notificaciones y contar con una imagen del locker que contenga el objeto para dar más confianza al usuario.
-    </td>
-  </tr>
-</tbody>
-</table>
-
-### **Segmento Donadores**<br>
-
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #1<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Ian Joaquin</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Sanchez Alva</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>22 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Los Olivos</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Ayudar a las personas más necesitadas</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>No saber qué necesitan las ONG’s para realizar su donación</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Jeremy Joel Quispe Andia</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/iansanchez_interview.png?raw=true" alt="Entrevista Ian Sanchez"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>35:46 min - 40:00 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Ian Joaquin Sanchez Alva ha realizado donaciones directas a personas y contribuciones a organizaciones benéficas, describiendo su experiencia como positiva y gratificante. Considera que ropa, alimentos no perecederos y artículos de higiene personal son los más adecuados para donar a través de CambiaZo. Sus principales preocupaciones al usar la aplicación por primera vez son la seguridad y privacidad de sus datos. Busca una aplicación fácil de usar, con opciones de seguimiento de donaciones y robusta en seguridad. Cree que CambiaZo puede aumentar las donaciones en Perú facilitando el proceso y visibilizando necesidades urgentes. Valora la transparencia y autenticidad en las donaciones, y considera esencial la posibilidad de seguir el destino de sus contribuciones. Para verificar la confiabilidad de CambiaZo, confía en evaluaciones de usuarios y certificaciones de seguridad. Espera que CambiaZo ofrezca mayor eficiencia y comodidad, permitiendo rastrear el impacto de sus donaciones, y sugiere una mejor integración con redes sociales para ampliar el alcance. Considera que CambiaZo puede contribuir al desarrollo de una comunidad más solidaria y conectada en Lima al fomentar la colaboración y el apoyo mutuo entre los ciudadanos.
-</td>
-  </tr>
-</tbody>
-</table>
-
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #2<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Mathias Adriano</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Hidalgo Lopez</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Sanntiago de Surco</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Donar su ropa a personas necesitadas</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Limitaciones de tiempo para buscar alguna ong</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Laptop Windows, Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Mathias Andre Mendoza Carrion</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/mathiashidalgo_interview.png?raw=true" alt="Entrevista Mathias Hidalgo"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duracion<br></td>
-    <td>40:01 min - 51:34 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Mathias Hidalgo ha participado en donaciones a través de centros de caridad y páginas web, aunque siempre ha tenido cierta inseguridad debido a la posibilidad de estafas y a la falta de confianza que le generaban algunos lugares. A pesar de estas preocupaciones, Mathias está profundamente comprometido con causas benéficas y tiene la intención de seguir donando, específicamente ropa, recursos alimenticios y juguetes para ayudar a quienes lo necesitan. Para la aplicación Cambiazo, Mathias busca una mayor confiabilidad en todo el proceso de donación. Considera esencial que la aplicación ofrezca funcionalidades de seguridad robustas, como un sistema de mapeo o seguimiento en tiempo real de los productos donados, así como la certificación de las donaciones para garantizar su transparencia y autenticidad. Estas medidas no solo le darían mayor tranquilidad, sino que también incrementarían la confianza en la plataforma. Además, espera que Cambiazo le permita ahorrar tiempo en los trámites burocráticos y el papeleo, haciendo que el proceso sea más eficiente y fácil de manejar para cualquier usuario, independientemente de su nivel de experiencia con la tecnología. Mathias cree firmemente que, aunque el impacto de la aplicación podría no ser masivo, sí tiene el potencial de generar un cambio positivo y significativo en la vida de muchas personas, contribuyendo de manera valiosa al desarrollo social y económico del país. Considera que una plataforma como Cambiazo, con las características adecuadas, podría convertirse en una herramienta poderosa para canalizar la generosidad de la gente y facilitar el acceso a bienes esenciales para quienes más lo necesitan.
-</td>
-  </tr>
-</tbody>
-</table>
-
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #3<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Beth Shantal</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Oneglio De Paz</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>San Borja</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Donar a lo mas necesitados a traves de la iglesias</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Experimenta dificultades al llevar un canasto lleno de ropa para donar.</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Smatphone IOS, Laptop Windows</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Firefox</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Jeremy Joel Quispe Andia</td>
-  </tr>
-   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/bethoneglio_interview.png?raw=true" alt="Entrevista Beth Oneglio"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>51:35 min - 55:46 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Beth Oneglio menciona que ha realizado donaciones a personas con escasos recursos mediante eventos comunitarios y colaboraciones con escuelas y hospitales locales, describiendo su experiencia como organizada y eficiente. Considera que juguetes, libros educativos y equipos electrónicos en buen estado son ideales para donar a través de CambiaZo. Sus principales preocupaciones al usar CambiaZo incluyen la eficacia en la entrega y el impacto en la comunidad, valorando la transparencia y la facilidad para seleccionar beneficiarios y métodos de pago seguros. Cree que CambiaZo podría aumentar las donaciones en Perú al concienciar sobre las necesidades específicas y conectar directamente a donadores con beneficiarios. Sugiere el uso de tecnología blockchain en CambiaZo para garantizar la transparencia y da mucha importancia a seguir el destino de sus donaciones. Prefiere la rapidez y facilidad de donar desde cualquier lugar y espera informes y testimonios para medir el impacto. También le gustaría ver una mejor personalización del perfil de donante y cree que CambiaZo puede contribuir a una comunidad más solidaria y conectada en Lima.
-</td>
-  </tr>
-</tbody>
-</table>
-
-
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #4<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Andrea Milagros</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Cabanillas Gora</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Santiago de Surco</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Contribuir con los mas necesitados, donando alimentos y ropa</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Preocupaciones sobre el destino de las donaciones.</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Firefox</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Jeremy Joel Quispe Andia</td>
-  </tr>
-    <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/andreacabanillas_interview.png?raw=true" alt="Entrevista Andrea Cabanillas"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>55:47 min - 60:05 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Andrea Cabanillas nos menciona que ha realizado donaciones mediante transferencias y recolección local, y ha encontrado la experiencia gratificante, especialmente al colaborar con organizaciones confiables. Prefiere donar artículos de primera necesidad, ropa y material educativo a través de plataformas como CambiaZo. Sus principales preocupaciones al usar CambiaZo son la seguridad de sus datos y la eficacia del sistema, por lo que considera esenciales una interfaz fácil de usar, seguimiento de donaciones y opciones detalladas para seleccionar proyectos o beneficiarios. Valora la transparencia y los informes sobre el uso de fondos como cruciales para verificar la confiabilidad de CambiaZo. Aprecia la facilidad y rapidez en el proceso de donación, así como la posibilidad de ver el impacto directo de sus contribuciones. Además, cree que una mejor personalización de las donaciones y opciones de interacción con los beneficiarios en CambiaZo mejorarían la cohesión social y aumentarían la conciencia sobre las necesidades locales.
-</td>
-  </tr>
-</tbody>
-</table>
-<br>
 
 ### 2.2.3 Análisis de entrevistas
 
@@ -1685,89 +1213,11 @@ La plataforma debe ser intuitiva y fácil de usar, para que los intercambiadores
 Al implementar estas mejoras, CambiaZo estará bien posicionada para ofrecer una solución valiosa a los intercambiadores, promoviendo un entorno de intercambio seguro, eficiente y confiable.<br><br>
 
 
-### **Segmento objetivo 2:** Personas adultas que desean donar artículos que ya no utilizan (Donadores).<br>
-
-Los donadores tienen entre 15 y 60 años y residen mayoritariamente en Lima, Perú. Su principal motivación es el deseo genuino de ayudar a los demás. Sin embargo, enfrentan varios problemas que dificultan el proceso de donación, como la necesidad de llevar los artículos a lugares lejanos y la falta de evidencia de recepción.
-
-**Hallazgos Claves:**
-
-- Los donadores enfrentan dificultades significativas en el proceso de donación. Estos problemas incluyen la necesidad de transportar los artículos a ubicaciones distantes y la ausencia de evidencia de recepción, lo que hace que el proceso sea tedioso y poco satisfactorio.
-
-
-- Todos los donadores consideran que CambiaZo podría simplificar el proceso de donación. Proponen funcionalidades como el rastreo de donaciones, la confirmación de recepción y la opción de programar la recolección de artículos. Estas características ayudarían a superar las dificultades actuales y mejorar la experiencia de donación.
-
-
-- Los donadores sugieren la realización de campañas de sensibilización y colaboraciones con influencers para aumentar la participación y la frecuencia de las donaciones. Estas estrategias podrían amplificar el alcance de la plataforma y fomentar un mayor compromiso con la causa de la donación.<br><br>
-
-**Análisis por medio de herramientas estadísticas:**
-
-<div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-1.PNG?raw=true" alt="Estadistica 7" style="width: 600px; height: auto;"><br><br>
-</div>
-
-El gráfico de frecuencia de donaciones revela que los donadores realizan donaciones en intervalos que van de mensuales a anuales. Este patrón sugiere una disposición a donar con regularidad, siempre que el proceso sea simplificado y más accesible.
-
-<div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-2.PNG?raw=true" alt="Estadistica 8" style="width: 600px; height: auto;"><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-3.PNG?raw=true" alt="Estadistica 9" style="width: 600px; height: auto;"><br><br>
-</div>
-
-El 100% de los donadores considera que el proceso de donación es complicado. Esta percepción subraya la necesidad de una plataforma que simplifique y facilite cada paso del proceso de donación. Además, todos creen que el proceso es complicado, lo que destaca la urgencia de implementar soluciones que aborden estos problemas y mejoren la experiencia general.
-
-<div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-4.PNG?raw=true" alt="Estadistica 10" style="width: 600px; height: auto;"><br><br>
-</div>
-
-La mayoría de los donadores considera que los juguetes y la ropa son los objetos más adecuados para donar. Esta preferencia puede guiar a la plataforma en la priorización de categorías de donación.
-
-<div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-5.PNG?raw=true" alt="Estadistica 11" style="width: 600px; height: auto;"><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-2-grafica-6.PNG?raw=true" alt="Estadistica 12" style="width: 600px; height: auto;"><br><br>
-</div>
-
-Todos los entrevistados mostraron su disposición para utilizar CambiaZo como su principal medio de donación. Además, creen que CambiaZo podría aumentar la frecuencia de sus donaciones, lo que resalta el potencial de la plataforma para facilitar y promover la donación.<br><br>
-
-**Estrategias para Abordar las Necesidades de los Donadores:**
-
-Para atender las necesidades de los donadores, CambiaZo debe enfocarse en simplificar el proceso de donación mediante la implementación de funcionalidades esenciales como la confirmación de recepción de artículos. Esta característica no solo proporciona tranquilidad a los donadores, sino que también cierra el ciclo de la donación de manera satisfactoria.
-
-Además, el rastreo de donaciones es fundamental para asegurar que los artículos lleguen a sus destinatarios y para proporcionar a los donadores visibilidad sobre el impacto de sus contribuciones. La programación de recolección de artículos es otra funcionalidad crucial que facilita el proceso logístico y elimina la necesidad de desplazamientos complicados.
-
-Garantizar la transparencia en el destino de las donaciones es vital para mantener la confianza de los donadores, permitiéndoles ver claramente cómo y a quién se destinan los artículos donados. Igualmente importante es la protección de los datos personales, que asegura la seguridad y privacidad de la información de los usuarios.
-
-La aplicación web debe ser intuitiva y fácil de usar para no agregar barreras tecnológicas adicionales. Además, la implementación de campañas de sensibilización y colaboraciones con influencers ayudará a ampliar el alcance de la plataforma y a fomentar una mayor participación en las donaciones.
-
-Al abordar estos aspectos, CambiaZo no solo mejorará la experiencia de donación, sino que también incrementará la frecuencia y el impacto de las contribuciones, haciendo que la plataforma sea una solución eficaz y apreciada por la comunidad.<br><br>
-
-
-### Análisis General para Ambos Segmentos
-
-<div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/sistemas-operativos-grafica.png?raw=truee" alt="Estadistica Android vs IOS" style="width: 600px; height: auto;"><br><br>
-</div>
-
-Como podemos observar en la gráfica obtenida de las entrevistas sobre los sistemas operativos de los smartphones utilizados por los entrevistados, se evidencia una clara predominancia de Android. De acuerdo con los datos recopilados, el 80% de los entrevistados utiliza este sistema operativo. 
-
-Este alto porcentaje subraya la necesidad crítica de que CambiaZo sea completamente compatible con Android. La plataforma debe estar optimizada para aprovechar al máximo las características y capacidades de este sistema operativo, garantizando un rendimiento fluido y una experiencia de usuario sin interrupciones para la mayoría de los usuarios.
-
-En contraste, el 20% de los entrevistados utiliza iOS. Aunque esta proporción es menor, sigue siendo significativa y no debe ser pasada por alto. Para asegurar que la plataforma sea accesible para todos, CambiaZo debe desarrollar y mantener una versión optimizada para dispositivos Apple. Esta atención a ambos sistemas operativos es crucial para proporcionar una experiencia uniforme y satisfactoria a todos los usuarios.
-
-
-<div align="center">
-	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/android-ios.png?raw=true" alt="Imagen Android y IOS"><br><br>
-</div>
-
-Para abordar adecuadamente estas necesidades, CambiaZo debe enfocarse en ofrecer una plataforma completamente funcional tanto para Android como para iOS. Esta estrategia no solo garantizará que la aplicación funcione de manera efectiva en ambos sistemas operativos, sino que también permitirá que todos los entrevistados, independientemente del dispositivo que utilicen, accedan a todas las funcionalidades y características de CambiaZo.
-
-Además, la interfaz de CambiaZo debe ser intuitiva y fácil de usar. La simplicidad en el diseño y una navegación fluida son cruciales para garantizar que todos los usuarios, independientemente de su nivel de experiencia tecnológica, puedan utilizar la plataforma de manera efectiva. Al ofrecer una experiencia de usuario accesible y libre de complicaciones, CambiaZo podrá satisfacer las necesidades y expectativas de todos los entrevistados.<br><br>
-
-
-
 ## 2.3 Needfinding
 
 En CambiaZo, entendemos que para desarrollar una plataforma que realmente responda a las necesidades de nuestros usuarios, es crucial conocerlas a fondo. La sección de Needfinding refleja nuestro compromiso con este objetivo a través de una investigación detallada.
 
-Nos dedicamos a identificar y analizar a nuestros usuarios mediante la creación de User Persona, User Task Matrix, User Journey Maps, Empathy , As-Is Scenario Mapping y To-Be Scenario Mapping. Este enfoque nos permite diseñar una experiencia de intercambio y donación que sea tanto efectiva como alineada con las expectativas de quienes utilizan nuestra plataforma.
+Nos dedicamos a identificar y analizar a nuestros usuarios mediante la creación de User Persona, User Task Matrix, User Journey Maps, Empathy , As-Is Scenario Mapping y To-Be Scenario Mapping. Este enfoque nos permite diseñar una experiencia de intercambio que sea tanto efectiva como alineada con las expectativas de quienes utilizan nuestra plataforma.
 
 A continuación, exploraremos cómo estos métodos nos ayudarán a construir una solución que satisfaga y supere las demandas de nuestros usuarios.
 
@@ -1782,24 +1232,14 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 ![User Persona 1](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-1.PNG?raw=true)
 </div>
 
-Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
-<br><br>
-
-<b>Usuario Donador</b><br>
-
-<div align="center">
-
-![User Persona 2](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-2.PNG?raw=true)
-</div>
-
-Enlace: [User Persona en UXPRESSIA](https://uxpressia.com/w/5DZd7/p/C7wKs)
+**Enlace:** [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
 <br><br>
 
 ### 2.3.2 User Task Matrix
 
 Para diseñar una plataforma que responda eficazmente a las necesidades de nuestros usuarios, en CambiaZo hemos desarrollado una User Task Matrix. 
 
-En esta sección, presentamos un análisis detallado de las tareas que los usuarios, tanto Intercambiadores como Donadores, realizan para alcanzar sus objetivos. Cada tarea se evalúa en función de su frecuencia y la importancia que los usuarios le atribuyen, permitiéndonos enfocar el diseño de nuestra aplicación en lo que realmente importa para ellos.
+En esta sección, presentamos un análisis detallado de las tareas que los usuarios, Intercambiadores, realizan para alcanzar sus objetivos. Cada tarea se evalúa en función de su frecuencia y la importancia que los usuarios le atribuyen, permitiéndonos enfocar el diseño de nuestra aplicación en lo que realmente importa para ellos.
 
 
 
@@ -1850,52 +1290,6 @@ En esta sección, presentamos un análisis detallado de las tareas que los usuar
 </table>
 </div><br><br>
 
-<b>Usuario Donador</b><br>
-
-<div align="center">
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th rowspan="2"><div align="center">USER TASK</div><br></th>
-    <th colspan="2"><div align="center">Donador <br>Mariana Okinawa<br></div></th>
-   
-  </tr>
-  <tr>
-    <th>Frecuencia</th>
-    <th>Importancia</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Buscar organizaciones para donar<br></td>
-    <td>Media</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-     <td>Seleccionar Artículo para Donar<br></td>
-    <td>Media</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Coordinar Entrega de Donación<br></td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Preparar Artículos para Donación<br></td>
-    <td>Media</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>Entregar Donación a la Organización<br></td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-</tbody>
-</table>
-</div>
 
 ### 2.3.3 User Journey Mapping
 
@@ -1910,18 +1304,7 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 ![User Journey Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png?raw=true)
 </div>
 
-Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/85V7e)<br><br>
-
-<b>Segmento Donadores</b><br>
-
-Mediante este artefacto se explicará y comprenderá como los usuarios del segmento Empresa realizan sus actividades para alcanzar sus objetivos desde su persepctiva.
-
-<div align="center">
-
-![User Journey Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-2.png?raw=true)
-</div>
-
-Enlace: [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/ZJfdG)<br><br>
+**Enlace:** [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/85V7e)<br><br>
 
 ### 2.3.4 Empathy Mapping
 
@@ -1934,18 +1317,7 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 ![Empathy Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-1.PNG?raw=true)
 </div>
 
-Enlace: [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/lPmO3)
-
-<br><br>
-
-<b>Segmento Donadores</b><br>
-
-<div align="center">
-
-![Empathy Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-2.PNG?raw=true)
-</div>
-
-Enlace: [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/pKfKi)
+**Enlace:** [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/lPmO3)
 
 <br><br>
 
@@ -1961,17 +1333,7 @@ En esta sección, exploraremos los escenarios actuales de los usuarios, mapeando
 ![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG?raw=true)
 </div>
 
-Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
-<br><br>
-
-<b>Segmento Donadores</b><br>
-
-<div align="center">
-
-![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-2.PNG?raw=true)
-</div>
-
-Enlace: [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
+**Enlace:** [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
 <br><br>
 
 
@@ -1991,19 +1353,8 @@ En esta sección, visualizaremos los escenarios futuros propuestos para nuestros
 ![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-1.png?raw=true)
 </div>
 
-Enlace: [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
+**Enlace:** [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
 <br><br>
-
-<b>Segmento Donadores</b><br>
-
-<div align="center">
-
-![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-2.png?raw=true)
-</div>
-
-Enlace: [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
-<br><br>
-
 
 
 ## 3.2. User Stories
@@ -2102,7 +1453,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**US19**|Ver la información detallada de un producto publicado| Como usuario de la aplicación, quiero poder ver la información completa de un producto en el que estoy interesado, para poder decidir si quiero guardarlo en mis favoritos o proponer un intercambio. | **Escenario 1: Ver la información detallada del producto**<br><br>**Dado que** he seleccionado una publicación de un objeto, **Cuando** se me abre la pantalla de información del artículo, **Entonces** debo poder ver los siguientes detalles del producto: la imagen del objeto (e.g., Chocolate MrBeast Bar), el valor aproximado del objeto, el nombre del usuario que publicó el producto, la calificación del usuario que lo publicó, el título del producto, la descripción del producto, la ubicación aproximada donde se puede intercambiar el objeto, y la lista de artículos que le interesa recibir a cambio.<br><br>**Escenario 2: Ver más información del usuario que publicó el producto**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el nombre o la imagen del usuario que lo publicó, **Entonces** se me redirigirá a una pantalla con más información sobre ese usuario, incluyendo su perfil, su calificación general y sus reseñas recibidas.<br><br>**Escenario 3: Guardar el producto en mis favoritos**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el ícono de favoritos (corazón), **Entonces** el objeto se guardará en mi lista de favoritos, **y** el ícono de corazón cambiará para indicar que el producto ya está guardado.<br><br>**Escenario 4: Proponer un intercambio**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el botón "Intercambiar", **Entonces** se me redirigirá a una pantalla donde podré hacer una oferta de intercambio, seleccionando el objeto que quiero ofrecer a cambio del artículo publicado. | **EP02** |
 |**US20**|Adquirir la suscripción premium|Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.|**Escenario 1: Localizar la sección para adquirir una suscripción.**<br><br>**Dado que** el usuario desea adquirir una suscripción para CambiaZo,<br><br>**Cuando** pulsa a la sección de configuración,<br><br>**Entonces**, le aparecerán varias opciones, entre las que figura “Ser premium”.<br><br>**Cuando** el usuario pulsa al botón,<br>será redirigido a una nueva ventana que le mostrará las suscripciones disponibles.<br><br>**Escenario 2: Visualizar los beneficios de la suscripción.**<br><br>**Dado que** el usuario se encuentra en la ventana correspondiente sobre las suscripciones,<br><br>**Entonces** cuando pulsa a una en específico podrá ver el precio por mes de cada una de ellas<br><br>**Y** los beneficios que incluyen cada una de estas.<br><br>**Escenario 3: Compra de la suscripción.**<br><br>**Dado que** el usuario ha decidido una suscripción de su interés,<br><br>**Entonces**, cuando pulsa a “Suscribirse”, se le redireccionará a una pasarela de pago para que pueda introducir su método de pago<br><br>**Y** procesar el pago respectivo y adquirir los nuevos beneficios.|**EP01**|
 |**US21**|Cancelar una suscripción|<p>Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente</p><p></p>|**Escenario 1: Acceso a la ventana de suscripciones.**<br><br>**Dado que** el usuario desea verificar la información del estado de su suscripción,<br><br>**Cuando** se dirige a la sección de configuración,<br><br>**Entonces**, observará un botón que dice “Mi suscripción”<br><br>**Y** al pulsar podrá ver los detalles de su suscripción.<br><br>**Escenario 2: Verificación de los detalles de la suscripción.**<br><br>**Dado que** el usuario se encuentra en la ventana que muestra el estado de su suscripción,<br><br>**Entonces**, podrá visualizar la fecha en la que se renueva su suscripción, los beneficios que obtiene<br><br>**Y** si es que se encuentra en un plan mensual o semianual.<br><br>**Escenario 3: Proceder a la cancelación.**<br><br>**Dado que** el usuario se encuentra en la ventana que muestra el estado de la suscripción,<br><br>**Entonces**, al tener ya la decisión de no continuar con el premium de CambiaZo,<br><br>**Y** podrá pulsar a un botón rojo que dice “Anular suscripción”<br><br>**Y** así terminaría la suscripción que no se renovará hasta su próxima fecha.|**EP01**|
-|**US22**|Visualizar el perfil de las ONG’S registradas|Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.|**Escenario 1: Acceso a la pestaña de ONG's**<br>**Dado que** el usuario se encuentra en la pestaña principal<br><br>**Cuando** pulsa a la etiqueta "ONG's"<br><br>**Entonces** se mostrarán todas las ONG's registradas dentro de la aplicación<br><br>**Escenario 2: Ver perfil de una ONG**<br><br>**Dado que** el usuario se encuentra dentro de la pestaña "ONG'S"<br><br>**Cuando** pulsa al recuadro que muestra el perfil de la ONG que desea visualizar<br><br>**Entonces** aparecerán los datos y características de la ONG seleccionada.<br><br>**Escenario 3: Donar a una ONG**<br><br>**Dado que** el usuario se encuentra en el perfil de la ONG seleccionada<br><br>**Cuando** pulsa a la opción “Donar”<br><br>**Entonces** aparecerán las opciones de donación (objetos o dinero)<br>**Y** el usuario podrá seleccionar la opción que desea donar<br>**Y** realizar la donación.|**EP03**|
+|**US22**|Visualizar el perfil de las ONG’S registradas|Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar .|**Escenario 1: Acceso a la pestaña de ONG's**<br>**Dado que** el usuario se encuentra en la pestaña principal<br><br>**Cuando** pulsa a la etiqueta "ONG's"<br><br>**Entonces** se mostrarán todas las ONG's registradas dentro de la aplicación<br><br>**Escenario 2: Ver perfil de una ONG**<br><br>**Dado que** el usuario se encuentra dentro de la pestaña "ONG'S"<br><br>**Cuando** pulsa al recuadro que muestra el perfil de la ONG que desea visualizar<br><br>**Entonces** aparecerán los datos y características de la ONG seleccionada.<br><br>**Escenario 3: Donar a una ONG**<br><br>**Dado que** el usuario se encuentra en el perfil de la ONG seleccionada<br><br>**Cuando** pulsa a la opción “Donar”<br><br>**Entonces** aparecerán las opciones de donación (objetos o dinero)<br>**Y** el usuario podrá seleccionar la opción que desea donar<br>**Y** realizar la donación.|**EP03**|
 |**US23**|Gestionar mis favoritos en la aplicación| Como usuario de la aplicación, quiero poder acceder a los objetos que he guardado como favoritos, para poder visualizarlos y eliminar los que ya no me interesen. | **Escenario 1: Ver objetos guardados como favoritos**<br><br>**Dado que** estoy en mi perfil, **Cuando** selecciono la opción "Favoritos", **Entonces** se me mostrará una lista de los objetos que he guardado como favoritos, incluyendo la imagen del objeto, el nombre del objeto, la descripción breve del objeto y el valor aproximado del objeto.<br><br>**Escenario 2: Eliminar un objeto de mis favoritos**<br><br>**Dado que** estoy visualizando la lista de favoritos, **Cuando** selecciono el botón de favoritos (ícono de corazón) de un objeto para eliminarlo, **Entonces** se mostrará un popup de confirmación con el mensaje: "¿Estás seguro de que deseas eliminar este objeto de tus favoritos?" **Y** podré seleccionar entre eliminar, que eliminará el objeto de mi lista de favoritos, o cancelar, que cerrará el popup sin realizar ninguna acción. **Y** si selecciono "Eliminar", el objeto desaparecerá de la lista de favoritos después de la confirmación. | **EP01** |
 |**US24**|Ver reseñas recibidas| Como usuario de la aplicación, quiero poder ver las reseñas y calificaciones que he recibido, para tener una referencia de mi reputación en la plataforma. | **Escenario 1: Ver la calificación general y reseñas recibidas**<br><br>**Dado que** estoy en mi perfil, **cuando** selecciono la opción "Mis Reseñas", **entonces** se me mostrará mi calificación general (promedio de estrellas), el número total de reseñas recibidas y una lista de las reseñas, mostrando el nombre del usuario que dejó la reseña, su calificación (número de estrellas) y el comentario de la reseña. | **EP01** |
 |**US25**|Visualización de la Historia de la Startup|<p>Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.</p><p></p>|**Escenario 1: Acceso a la historia de TechZo**<br><br>**Dado que** soy un visitante de la landing page<br><br>**Cuando** navegue por la página de inicio<br>**Y** encuentre la sección titulada “Quiénes Somos”<br><br>**Entonces** podré obtener información detallada sobre la historia de la startup.<br><br>**Escenario 2: Acceso a las redes sociales de TechZo**<br><br>**Dado que** el visitante se encuentra en el landing page<br><br>**Cuando** el visitante pulsa en la etiqueta “Contáctanos”<br>**Y** encuentre los botones con los logos de las redes sociales en las que puede encontrar la página de TechZo<br>**Y** pulsa encima del botón con el logo de la red social que desee ver<br><br>**Entonces** el usuario será redireccionado a la red social que seleccionó previamente.<br><br>**Escenario 3: Acceso a información de contacto**<br><br>**Dado que** el visitante se encuentra en la parte inferior de la landing page<br><br>**Cuando** el visitante se acerque a la sección “Comunícate con nosotros”<br><br>**Entonces** el visitante podrá observar los métodos de contacto de la startup “(01) 5718202, 992113864, 933960189, cambiazo@TechZo.pe”.|**EP04**|
@@ -2136,18 +1487,8 @@ En esta sección, presentaremos el Impact Mapping, una herramienta esencial para
 </div>
 
 
-Enlace: [Impact Mappping en UXPRESSIA]()
+**Enlace:** [Impact Mappping en UXPRESSIA]()
 
-
-<b>Segmento Donadores</b><br>
-
-<div align="center">
-
-[![Impact Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-2.png?raw=true)](https://uxpressia.com/w/ODLU6/i/M9ikH)
-</div>
-
-
-Enlace: [Impact Mapping en UXPRESSIA]()
 
 ## 3.4. Product Backlog
 En el Product Backlog presentaremos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*.Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).
@@ -2340,7 +1681,7 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
     <td>24</td>
     <td><strong>US22</strong></td>
     <td>Visualizar el perfil de las ONG’s registradas</td>
-    <td>Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.</td>
+    <td>Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar .</td>
     <td>3</td>
   </tr>
 
@@ -2437,7 +1778,7 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 </div>
 
 
-Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
+****Enlace:**** [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
 
 # Capítulo IV: Solution Software Design
 
@@ -2445,25 +1786,181 @@ Enlace: [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/pro
 
 ### 4.1.1 EventStorming
 
+Nuestro proceso de Event Storming se llevó a cabo utilizando la herramienta MIRO, donde desarrollamos de forma colaborativa todo el flujo visual. Iniciamos con la fase de Exploración No Estructurada, en la cual analizamos y compartimos diferentes perspectivas sobre los eventos del dominio, siguiendo las recomendaciones metodológicas correspondientes. Para la selección de los eventos, consideramos criterios clave como su relevancia, frecuencia y temporalidad, asegurando así una representación coherente del comportamiento del sistema.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-1.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**Evidencia del desarrollo del flujo de autenticación**
+
+Como parte del proceso de modelado de dominio, representamos mediante MIRO el flujo de autenticación de usuarios en CambiaZo, permitiendo visualizar de forma clara las decisiones clave involucradas.
+
+El diagrama describe el recorrido que realiza un usuario desde su registro en la plataforma, pasando por el inicio de sesión, hasta la verificación de sus credenciales. A partir de este punto, el sistema evalúa si el usuario está correctamente autenticado, lo cual determina si se le concede el acceso a la plataforma o si se genera un error de autenticación. Esta representación nos permitió identificar los puntos de validación críticos y las condiciones necesarias para garantizar la seguridad del ingreso a la aplicación.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-1.png?raw=true" alt="evidence/1" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Este diagrama inicia con una decisión del usuario respecto a si desea intercambiar o donar un artículo. En caso de seleccionar la opción de intercambio, el usuario procede a elegir un artículo disponible para ese propósito. A continuación, el sistema evalúa la disponibilidad del artículo en tiempo real. Si el artículo está disponible, se procede a iniciar el intercambio; de lo contrario, el sistema notifica automáticamente al usuario, garantizando una experiencia clara y eficiente. Este flujo nos permitió mapear las decisiones clave y validar la lógica condicional detrás de los intercambios dentro del ecosistema de CambiaZo.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-2.png?raw=true" alt="evidence/2" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Este diagrama muestra el proceso que sigue un usuario al solicitar un intercambio en CambiaZo. Si el usuario B acepta la solicitud, se procede a asignar un locker mutuo para el intercambio. Luego, el sistema verifica que ambos productos hayan sido depositados correctamente para completar la operación. En caso contrario, el intercambio no se realiza.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-4.png?raw=true" alt="evidence/4" style="width: 600px; height: auto;"><br><br>
+</div>
+
+
 #### 4.1.1.1 Candidate Context Discovery
+
+Para hallar a nuestros Candidate Contexts, continuamos con el paso 3: Pain Points, donde analizamos eventos del flujo que podrían ser cuellos de botella o pasos manuales que requieren automatización.
+
+En este timeline, un pain point es la falta de validación automática sobre el resultado del intercambio. Si bien se confirma el intercambio, no se verifica con sensores o confirmaciones externas si este fue realmente exitoso. Esto puede provocar errores de calificación o reclamos mal gestionados.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-7.png?raw=true" alt="evidence/6" style="width: 600px; height: auto;"><br><br>
+</div> 
+
+En este timeline, un pain point es el momento en que el sistema debe identificar si el usuario es nuevo o no. Esta validación puede requerir pasos manuales o generar duplicidad de datos si no se implementa correctamente. También puede generar fricción si el flujo de configuración del perfil es obligatorio incluso para usuarios recurrentes.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-6.png?raw=true" alt="evidence/6" style="width: 600px; height: auto;"><br><br>
+</div>
+
+En este timeline, el pain point se encuentra en la verificación de disponibilidad del artículo durante la búsqueda. Este paso puede generar frustración si no se actualiza en tiempo real o si no hay una forma clara de sugerir automáticamente otros artículos. Además, el flujo de búsqueda puede resultar repetitivo para el usuario si debe reiniciar la búsqueda manualmente.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-5.png?raw=true" alt="evidence/5" style="width: 600px; height: auto;"><br><br>
+</div>
+
+Evidencia del desarrollo del Event Storming:
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-8.png?raw=true" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+</div>
+
+****Enlace:**** [Event Storming [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
 
 #### 4.1.1.2 Domain Message Flows Modeling
 
+En esta seccion, se identificaron y priorizaron los flujos de mensajería más relevantes para el funcionamiento de la plataforma, en especial aquellos relacionados con la gestión de lockers inteligentes y los permisos de los usuarios. Estos flujos son fundamentales para garantizar la seguridad, trazabilidad y control de acceso durante los procesos de intercambio y donación de productos.
+
+**1. Inicio de sesión del usuario-cliente** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/inicio-sesion.png?raw=true" alt="inicio-sesion" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**2. Registro del usuario-cliente** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/registro.png?raw=true" alt="registro" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**3. Intercambios con lockers inteligentes** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/intercambios.png?raw=true" alt="intercambios" style="width: 600px; height: auto;"><br><br>
+</div>
+
+****Enlace:**** [Domain Message Flows Modeling [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+
 #### 4.1.1.3 Bounded Context Canvases
+
+De acuerdo con los bounded contexts definidos previamente, se desarrollaron sus respectivos Context Canvases, con el fin de profundizar en sus responsabilidades, relaciones, mensajes clave y decisiones estratégicas dentro del dominio de CambiaZo.
+
+**1. Bounded Context: IAM (Identidad y Acceso)** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/bounded-iam.png?raw=true" alt="bounded-iam" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**2. Bounded Context: Intercambios (Exchanges)** 
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/bounded-intercambios.png?raw=true" alt="bounded-intercambios" style="width: 600px; height: auto;"><br><br>
+</div>
+
+****Enlace:**** [Bounded Context Canvases [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
 
 ### 4.1.2 Context Mapping
 
+En esta sección explicamos y evidenciamos el proceso de elaboración de un conjunto de mapas de contexto aplicados a nuestro proyecto CambiaZo, los cuales representan visualmente las relaciones estructurales entre los bounded contexts identificados. Para ello, analizamos detalladamente la información recolectada a lo largo del diseño del sistema, proponiendo y refinando diseños candidatos que ilustran cómo interactúan los contextos de Intercambios, Gestión de Lockers e Identidad de Usuario. Este análisis nos permitió alinear estratégicamente las responsabilidades y colaboraciones entre contextos, garantizando así una arquitectura coherente con los objetivos operativos y sociales de CambiaZo.
+
+**Identity and Access Management Context**
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/context-iam.png?raw=true" alt="context-iam" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**Exchanges Context**
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/context-exchange.png?raw=true" alt="context-exchange" style="width: 600px; height: auto;"><br><br>
+</div>
+
+
+**Context Mapping**
+
+**Identity and Access Management Context ↔ Exchanges Context**
+Relación clave:
+El Exchanges Context requiere del IAM Context para verificar la validez de los usuarios involucrados en un intercambio. Esto asegura que tanto el solicitante como el receptor del intercambio cuenten con sesiones activas y permisos válidos antes de proceder con acciones como aceptar el intercambio o realizar depósitos en lockers mutuos. Esta dependencia refuerza la seguridad en las transacciones entre usuarios.
+
+**Donations Context ↔ Exchanges Context**
+Relación clave:
+Aunque se enfocan en funcionalidades distintas, ambos contextos comparten elementos operativos como el uso de lockers inteligentes y la gestión de artículos. El Exchanges Context puede reutilizar reglas de disponibilidad de lockers y validaciones logísticas definidas en el Donations Context, lo que permite mantener una experiencia de usuario coherente y optimizar el uso del sistema físico compartido.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-8.png?raw=true" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**Enlace:** [Mejor visualización [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+
 ### 4.1.3 Software Architecture
 
-#### 4.1.3.1 Software Architecture System Landscape Diagram
+En esta sección emplearemos el modelo C4 para crear la arquitectura de software, considerando aspectos como el contexto, los recipientes, los elementos y la implementación. Este enfoque permite una comprensión sencilla de la arquitectura, tanto para los miembros del equipo como para las partes interesadas externas.
 
-#### 4.1.3.2 Software Architecture Context Level Diagrams
+#### 4.1.3.1 Software Architecture Context Level Diagrams
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/context-diagram.png?raw=true" alt="Context Diagram" style="width: 600px; height: auto;"><br><br>
+</div>
 
 #### 4.1.3.2 Software Architecture Container Level Diagrams
 
-#### 4.1.3.3 Software Architecture Deployment Diagrams
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/container-diagram.png?raw=true" alt="Container Diagram" style="width: 600px; height: auto;"><br><br>
+</div>
+
+#### 4.1.3.3 Software Architecture Component Level Diagrams
+
+**Exchange Component Diagram**
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/exchange-component-diagram.png?raw=true" alt="Exchange Component Diagram" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**Donation Component Diagram**
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/donation-component-diagram.png?raw=true" alt="Donation Component Diagram" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**User Management Component Diagram**
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/user-component-diagram.png?raw=true" alt="User Component Diagram" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**Configuration and Settings Component Diagram**
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/configuration-component-diagram.png?raw=true" alt="Configuration Component Diagram" style="width: 600px; height: auto;"><br><br>
+</div>
 
 ## 4.2 Tactical-Level Domain-Driven Design
+
+En este capítulo exponemos y detallamos nuestra propuesta para la perspectiva táctica del diseño de la solución de software.
 
 ### 4.2.1 Bounded Context:
 
