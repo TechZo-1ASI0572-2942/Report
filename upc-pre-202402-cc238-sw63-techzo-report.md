@@ -241,31 +241,32 @@ objetivos.</td>
 
 **Área:**  Innovación tecnológica y Reutilización
 
-TechZo es una startup dedicada a la innovación tecnológica y la reutilización de recursos, fundada por un grupo de estudiantes comprometidos de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra misión es abordar desafíos críticos relacionados con la sostenibilidad y el consumo responsable, fomentando la transición hacia una economía circular en nuestro país.
+# TechZo - Proyecto CambiaZo
 
-Nuestra principal solución, CambiaZo, es una aplicación web diseñada para transformar la forma en que las personas gestionan y comparten sus bienes. A través de CambiaZo, facilitamos el intercambio directo, seguro y sin transacciones monetarias de artículos entre usuarios, promoviendo la reutilización y el aprovechamiento óptimo de recursos disponibles. Además, la aplicación ofrece una funcionalidad especial que permite a los usuarios donar productos directamente a personas de bajos recursos, apoyando así a las comunidades más necesitadas.
+TechZo es una startup dedicada a la innovación tecnológica y la optimización de recursos mediante el uso de lockers inteligentes, fundada por un grupo de estudiantes comprometidos de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra misión es abordar desafíos críticos relacionados con la sostenibilidad, la eficiencia logística y el consumo responsable, fomentando la transición hacia una economía circular en nuestro país.
 
-En TechZo, estamos comprometidos con la seguridad, transparencia y justicia en cada transacción. Trabajamos constantemente para garantizar que los usuarios tengan acceso a información clara y detallada sobre los productos disponibles, fomentando una experiencia de intercambio confiable y satisfactoria. Al combinar tecnología de vanguardia con un enfoque en la responsabilidad social, buscamos impulsar un cambio positivo en la forma en que consumimos y reutilizamos.
+Nuestra principal solución, **CambiaZo**, es una plataforma de intercambio de productos apoyada en lockers inteligentes. A través de CambiaZo, facilitamos el intercambio seguro y automatizado de artículos, utilizando validaciones fotográficas, códigos de seguridad y notificaciones instantáneas. Además, la aplicación permite a los usuarios donar productos a comunidades necesitadas, fortaleciendo nuestro compromiso social.
 
-* **Misión:**<br>  La misión de TechZo como empresa es promover un estilo de vida sostenible y consciente, proporcionando a los usuarios una plataforma accesible y segura para intercambiar y donar bienes de manera justa y responsable.<br><br>
+En TechZo, estamos comprometidos con la seguridad, la transparencia y la eficiencia en cada transacción. Nos esforzamos para que cada usuario tenga acceso a una experiencia confiable de intercambio, apoyada en la tecnología de lockers inteligentes, garantizando un proceso sencillo, seguro y satisfactorio. Al integrar innovación tecnológica con responsabilidad social, impulsamos un cambio positivo en la forma de consumir y reutilizar.
 
+* **Misión:**<br>
+La misión de TechZo es revolucionar el intercambio de bienes mediante lockers inteligentes, proporcionando a los usuarios una plataforma segura, automatizada y sostenible para intercambiar productos de forma justa y eficiente.<br><br>
 
-* **Visión:** <br>
-La visión de TechZo es convertirnos en la plataforma líder de intercambio y donación de productos básicos a nivel global. Queremos ser reconocidos por nuestra capacidad de conectar a las personas y comunidades, fomentando una economía circular que minimice el desperdicio y promueva la solidaridad. Aspiramos a liderar el camino hacia un futuro más sostenible, donde cada acto de intercambio y donación contribuya a un impacto ambiental positivo.<br><br>
+* **Visión:**<br>
+La visión de TechZo es liderar la transformación del intercambio de productos a nivel global a través de lockers inteligentes, conectando personas y comunidades para fomentar una economía circular basada en confianza, tecnología y solidaridad.<br><br>
 
-* **Valores:**  
+* **Valores:**
+  * **Seguridad y privacidad:** Nuestra prioridad es proteger los datos y transacciones de nuestros usuarios, implementando medidas sólidas de cifrado y control de accesos mediante códigos PIN y validaciones fotográficas en los lockers.
 
-  *  **Seguridad y privacidad:** La privacidad es prioritaria, nos preocupamos para que nuestros usuarios sientan que los datos que nos otorgan están seguros y mantenidos en privacidad. Por ello, les otorgamos a nuestros usuarios control sobre ello. Además, sabemos que las medidas sólidas de seguridad, incluido el cifrado de datos en tránsito y reposo, junto con prácticas sólidas en el diseño de la base de datos, resguardan la información sobre nuestros usuarios.
+  * **Innovación:** Buscamos constantemente nuevas maneras de mejorar la experiencia de intercambio, utilizando tecnologías como algoritmos de localización de lockers cercanos y validaciones inteligentes.
 
-  * **Innovación:** Estar en constante búsqueda de nuevas formas de mejorar la experiencia de los usuarios a través de la tecnología y la creatividad, manteniendo la aplicación a la vanguardia.
+  * **Aprendizaje Continuo:** Promovemos el crecimiento de nuestro equipo en tecnologías emergentes, logística inteligente y estrategias de sostenibilidad.
 
-  * **Aprendizaje Continuo:** Fomentar un ambiente en el que los miembros del equipo estén dispuestos a aprender y mejorar constantemente, tanto en términos de sostenibilidad como de consumo responsable.
+  * **Calidad:** Nos comprometemos a ofrecer una experiencia fluida en la asignación de lockers, validación de objetos y notificaciones, asegurando la máxima satisfacción de los usuarios.
 
-  * **Calidad:** Compromiso con la excelencia en el diseño de la aplicación movil y la funcionalidad de esta misma, asegurándonos de que cumpla con las expectativas más altas de nuestros usuarios.
+  * **Compromiso con el usuario:** Escuchamos activamente las necesidades de nuestros usuarios, adaptando nuestro sistema de lockers y plataforma digital para que cada intercambio sea sencillo y seguro.
 
-  * **Compromiso con el usuario:** Poner las necesidades y deseos de los usuarios en el centro de todas las decisiones, asegurando que la aplicación satisfaga sus expectativas y mejore su experiencia realizando intercambios.
-
-  * **Respeto a la diversidad:**  Valorar y respetar las diferencias culturales, étnicas, de género y de opinión, tanto en el equipo interno como en la comunidad de usuarios.<br><br>
+  * **Respeto a la diversidad:** Fomentamos la inclusión, la equidad y el respeto entre todos los usuarios y miembros de nuestra comunidad, promoviendo un ecosistema de intercambio basado en valores sólidos.<br><br>
 
  ### 1.1.2 Perfiles de integrantes del equipo
 
@@ -285,102 +286,113 @@ A continuación, presentaremos los perfiles de los integrantes del equipo encarg
 
 ### 1.2.1 Antecedentes y problemática
 
-La economía lineal actual, caracterizada por el modelo de producir, usar y desechar, está generando un aumento preocupante en la acumulación de residuos y el uso insostenible de recursos naturales. Morseletto (2023) destaca que esta estructura económica predominante contribuye significativamente al aumento de residuos y la degradación ambiental. 
+# 1.2.1 Contexto y Problemática
 
-Esta forma de consumo no solo incrementa la cantidad de desechos sólidos, contamina los océanos y provoca la pérdida de biodiversidad, sino que también intensifica el cambio climático debido a las emisiones significativas de gases de efecto invernadero asociadas con la fabricación, transporte y eliminación de productos (Madaan et al., 2024). 
+La economía lineal actual, caracterizada por el modelo de producir, usar y desechar, está generando un aumento preocupante en la acumulación de residuos y el uso insostenible de recursos naturales. Morseletto (2023) destaca que esta estructura económica contribuye significativamente al aumento de residuos y la degradación ambiental.
 
-Según Liu y Zhong (2023), la extracción intensiva de materias primas para la producción de nuevos bienes está agotando los recursos naturales a un ritmo alarmante, lo que agrava aún más la situación ambiental. A esto se suma el crecimiento continuo de la población mundial, que se espera que aumente en 2000 millones de personas para el año 2050, multiplicando aún más la generación de residuos (Kruse-Andersen, 2023). 
+Esta forma de consumo no solo incrementa los desechos sólidos, contamina océanos y provoca pérdida de biodiversidad, sino que también intensifica el cambio climático debido a las emisiones de gases de efecto invernadero asociadas a la fabricación, transporte y eliminación de productos (Madaan et al., 2024).
 
-Frente a esta problemática, nuestra aplicación propone una solución basada en la economía circular, que busca mantener los productos, materiales y recursos en uso durante el mayor tiempo posible.
+Según Liu y Zhong (2023), la extracción intensiva de materias primas para nuevos productos está agotando los recursos naturales rápidamente. A esto se suma el crecimiento continuo de la población mundial, que se espera aumente en 2000 millones de personas para el 2050, lo que generará aún más residuos (Kruse-Andersen, 2023).
 
-Para explicar con más detalle esta situación, como grupo, usaremos la metodología de las 5W y 2H para darle más énfasis a los antecedentes y problemáticas a las que se enfrenta nuestra iniciativa de cambio:
+Frente a esta problemática, **nuestra aplicación propone una solución basada en lockers inteligentes**, que permiten mantener los productos en circulación más tiempo mediante intercambios seguros y automatizados, reduciendo residuos y promoviendo la economía circular.
 
+Para explicar más detalladamente esta situación, como grupo, usaremos la metodología de las **5W y 2H** para analizar los antecedentes y la problemática que enfrentamos:
 
-**5W's y 2H's**
+## 5W's y 2H's
 
-* **WHAT?** <br>
-La acumulación diaria de residuos a nivel global está generando un impacto negativo en el medio ambiente y en la conservación de los recursos naturales del planeta. Este problema se debe a la falta de iniciativas para dar una segunda vida a los objetos en lugar de desecharlos, lo que contribuye a la sobrecarga de vertederos y al agotamiento de recursos.<br><br>
-
+* **WHAT?**<br>
+La acumulación diaria de residuos a nivel global impacta negativamente al medio ambiente y agota los recursos naturales. La falta de iniciativas para reutilizar o intercambiar productos contribuye al colapso de vertederos y desperdicio de materiales.<br><br>
 
 * **WHY?**<br>
-Muchas personas no toman la iniciativa de reutilizar o intercambiar objetos que ya no necesitan, y en lugar de eso, optan por desecharlos. Esta falta de conciencia sobre las consecuencias ambientales a largo plazo resulta en un aumento de desechos y en el agotamiento de recursos naturales..<br><br>
+Muchas personas no reutilizan o intercambian objetos debido a la falta de sistemas seguros y sencillos. La falta de confianza en intercambios tradicionales frena las prácticas de reutilización, perpetuando el modelo de descarte.<br><br>
 
 * **WHO?**<br>
-El problema afecta al público en general, pero en particular a aquellos que más necesitan apoyo en términos de recursos y asistencia. La aplicación está dirigida a usuarios interesados en adoptar prácticas de reutilización y sostenibilidad.<br><br>
+El problema afecta a toda la población, especialmente a quienes buscan opciones responsables para reducir su impacto ambiental. CambiaZo se dirige a usuarios interesados en un modelo más seguro de intercambio de bienes.<br><br>
 
 * **WHEN?**<br>
-Esta problemática es una constante con el pasar de los años ya que recién es que se está popularizando la cultura de reutilización y desarrollo sostenible, debido a que desde siempre se ha optado en primera instancia por solo desechar y no reutilizar.<br><br>
+Esta problemática es continua. A pesar de un creciente interés por la sostenibilidad, aún falta infraestructura segura para facilitar intercambios responsables de bienes en el día a día.<br><br>
 
 * **WHERE?**<br>
-Aunque la problemática de los residuos y la falta de reutilización es global, la aplicación se enfocará inicialmente en la población peruana, con planes de expansión a otras regiones en función de los resultados y la demanda.<br><br>
+Aunque el problema es global, CambiaZo se enfocará inicialmente en Perú, priorizando regiones urbanas donde la acumulación de residuos y la falta de reutilización son más evidentes.<br><br>
 
 * **HOW?**<br>
-Se implementará una propuesta de solución mediante el desarrollo de una aplicación web que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.<br><br>
+Se implementará un sistema de lockers inteligentes donde los usuarios podrán dejar sus objetos de intercambio. El sistema validará el depósito mediante fotos, asignará códigos de seguridad, y notificará a los usuarios de cada paso.<br><br>
 
 * **HOW MUCH?**<br>
-El presupuesto para el desarrollo de la aplicación web varía en función de los requisitos específicos del proyecto. Se estima que podría oscilar entre S/. 20,000 y S/. 50,000, dependiendo de la complejidad y las características de la aplicación.<br><br>
+El presupuesto estimado para el despliegue inicial de la red de lockers inteligentes y la aplicación web oscila entre S/. 50,000 y S/. 100,000, dependiendo de la cantidad de lockers, su tecnología integrada y el desarrollo de la plataforma.<br><br>
 
-### 1.2.2 Lean UX Process
-#### 1.2.2.1 Lean UX Problem Statement
-**Problem Statement 1:**  El contexto actual en el que nos encontramos nos demuestra que a diario se ve mucho más en práctica modelos de vida sostenible y que incluso se popularizan de manera más rápida por las redes sociales. De acuerdo a esto, cada vez la población busca darle una nueva vida a sus pertenencias y así evitar el desechar tantos objetos y de este modo contribuir con la disminución de residuos en el planeta.
+# 1.2.2 Lean UX Process
 
-Sin embargo, hemos notado que hay una gran dificultad al que este sector de la población tiene, el cual es que no hay una forma sencilla y práctica de darle un segundo uso a sus pertenencias, en este caso, enfocándonos en el intercambio de bienes. 
-¿Cómo implementamos de manera eficaz un modelo de intercambio de pertenencias?<br><br>
+## 1.2.2.1 Lean UX Problem Statement
 
+**Problem Statement 1:**  
+Actualmente, existe un crecimiento en la conciencia sobre la sostenibilidad y la reutilización de bienes. Sin embargo, no existe un sistema automatizado y seguro que permita intercambiar objetos de manera simple.  
+La falta de confianza, la logística complicada y la inseguridad desalientan a los usuarios a dar una segunda vida a sus pertenencias.  
+¿Cómo podemos implementar un modelo eficiente, seguro y automatizado de intercambio de bienes mediante lockers inteligentes, validación de objetos y códigos de seguridad?<br><br>
 
-**Problem Statement 2:** En la actualidad, se puede observar que hay una base sólida de organizaciones benéficas que siempre apoyan a diversos sectores vulnerables de la población.
+**Problem Statement 2:**  
+Aunque existe una creciente voluntad de las personas por intercambiar bienes, actualmente no hay infraestructuras tecnológicas que organicen, validen y faciliten de forma segura estos intercambios entre particulares.  
+¿Cómo podemos facilitar el proceso de intercambio entre usuarios, garantizando seguridad, eficiencia y trazabilidad a través de lockers inteligentes y validaciones automáticas?<br><br>
 
-Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas organizaciones, es que no hay un modelo sólido que organice toda la información de estos grupos y que permita a los contribuidores tener un fácil acceso a todos los detalles correspondientes, ya sean campañas de donación o de aporte monetario benéfico.
+**Problem Statement 3:**  
+Los intercambios tradicionales entre usuarios suelen carecer de seguimiento, confirmación y validación adecuada, generando desconfianza y riesgo en las transacciones.  
+¿Cómo podemos diseñar un sistema de intercambio que proporcione validación visual, confirmación automática y notificaciones en tiempo real para asegurar la transparencia y satisfacción de los usuarios?<br><br>
 
 #### 1.2.2.2 Lean UX Assumptions
 
- + **User Assumptions:** 
+# 1.2.2.2 User Assumptions & Business Outcomes
 
-    + **¿Quién es el usuario?** <br>Nuestros usuarios son personas interesadas en dar un nuevo uso a sus pertenencias mediante el intercambio o donación. Esto incluye tanto a individuos que desean intercambiar objetos como a aquellos que buscan apoyar a organizaciones benéficas registradas en la plataforma.<br><br>
+## User Assumptions
 
-    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?**<br> El producto se integra en la vida de los usuarios como una herramienta para fomentar un estilo de vida sostenible, permitiéndoles participar activamente en la economía circular y contribuir a la reducción de residuos.<br><br>
++ **¿Quién es el usuario?**<br>
+Nuestros usuarios son personas interesadas en reutilizar sus pertenencias mediante un sistema seguro de intercambio a través de lockers inteligentes. Incluye tanto a individuos que desean intercambiar objetos como a aquellos que desean donar artículos a comunidades necesitadas.<br><br>
 
-    + **¿Cuándo y cómo se utiliza nuestro producto?**<br> Nuestro producto es usado cuando los usuarios sientan que ya no necesitan más una pertenencia y en vez de solo desecharla, darle un nuevo uso para alguien más, intercambiándose por algo que sí necesite.<br><br>
++ **¿Dónde encaja nuestro producto en su trabajo o en su vida?**<br>
+El producto se integra como una solución práctica y segura para fomentar un estilo de vida sostenible, permitiendo a los usuarios intercambiar y donar artículos de manera automatizada y sin necesidad de contacto directo.<br><br>
 
++ **¿Cuándo y cómo se utiliza nuestro producto?**<br>
+Nuestro sistema se utiliza cuando el usuario desea dar un nuevo uso a una pertenencia. El proceso consiste en registrar el objeto en la app, recibir un locker asignado, depositar el objeto, validar con foto automática, y completar el intercambio.<br><br>
 
-    + **¿Qué problemas resuelve nuestro producto?**<br>Cambiazo simplifica el intercambio y la donación de objetos, ofreciendo una plataforma segura y conveniente que promueve la reutilización y reduce el desperdicio. Con medidas de seguridad integradas, aborda las preocupaciones sobre transacciones fraudulentas, proporcionando una solución completa para una experiencia de intercambio confiable y sostenible.<br><br>
++ **¿Qué problemas resuelve nuestro producto?**<br>
+CambiaZo resuelve la falta de seguridad y logística en los intercambios tradicionales, ofreciendo un sistema automatizado de lockers, validación de objetos, códigos PIN y notificaciones, que asegura una experiencia confiable y sin fricciones.<br><br>
 
++ **¿Qué características son importantes?**<br>
+Facilidad de uso, asignación automática de lockers cercanos, generación de códigos PIN, validación fotográfica del objeto, sistema de notificaciones, y chat privado para coordinación opcional en intercambios tradicionales.<br><br>
 
-    + **¿Qué características son importantes?**<br> Que sea fácil de usar, intuitiva y que contenga las funcionalidades necesarias para que la experiencia del usuario sea la mejor, con opción de filtros para la búsqueda de ciertos artículos y/o también la inclusión de un chat privado entre usuarios para que puedan comunicarse y coordinar el intercambio, si es que ambos están de acuerdo con las pertenencias que ofrecen y desean recibir.<br><br>
++ **¿Cómo debe verse y comportarse nuestro producto?**<br>
+La plataforma debe ser intuitiva, amigable para el público en general, enfocada en lo esencial: registrar, intercambiar y validar objetos de forma rápida. Se deben evitar sobrecargas visuales y mantenerse siempre actualizada para optimizar la experiencia.<br><br>
 
-    + **¿Cómo debe verse y comportarse nuestro producto?**<br> Nuestro producto debe tener una interfaz amigable para todos el público en general, incluir solo funcionalidades básicas y necesarias para no saturar a los usuarios con demasiada información.Además de ello debe mantenerse siempre con actualizaciones que vayan mejorando la optimización del proyecto.<br><br>
+## Business Outcomes
 
- + **Business Outcomes:** 
+1. **Creo que nuestros usuarios necesitan** un medio seguro y automatizado para realizar intercambios y donaciones de forma sencilla y eficaz.
 
-    1. **Creo que nuestros usuarios necesitan** tener un medio seguro y fácil de usar para poder realizar intercambios de manera sencilla y eficaz.
+2. **Estas necesidades se pueden resolver con** una plataforma que integre lockers inteligentes, validación de objetos mediante fotos y gestión automática de PINs.
 
-    2. **Estas necesidades se pueden resolver con** una aplicación movil que tenga una interfaz intuitiva y que ofrezca que usuarios del Perú puedan realizar publicaciones de intercambio de sus pertenencias y solicitar cierto producto a cambio.
+3. **Nuestros usuarios iniciales son** personas de áreas urbanas en Perú comprometidas con el consumo responsable y la economía circular.
 
-    3. **Nuestros usuarios iniciales son** el público en general del Perú que desee ser parte del cambio por un estilo de vida sostenible.
+4. **El valor #1 que un cliente quiere de nuestro servicio es que** facilite un proceso de intercambio rápido, seguro y con mínima interacción física.
 
-    4. **El valor #1 que un cliente quiere de nuestro servicio es que** ofrezca una forma rápida y sencilla de realizar publicaciones de intercambio y que tenga un sistema sólido para que los involucrados puedan coordinar el proceso respectivo con facilidad.
+5. **El usuario también puede obtener beneficios adicionales como** poder realizar intercambios sin límite, recibir un "Boost" para destacar sus objetos en búsquedas, y acceder a lockers premium de mayor conveniencia.
 
-    5. **El usuario también puede obtener beneficios adicionales como**  tener un número ilimitado de publicaciones sobre intercambios que pueda realizar, además de poder obtener un “Boost” diario para que sus publicaciones siempre tengan preferencia al momento que aparezca tras una búsqueda por algún otro usuario.
+6. **Vamos a adquirir la mayoría de nuestros clientes a través de** campañas en Instagram, TikTok y Facebook, enfocadas en destacar el impacto positivo de la reutilización mediante lockers inteligentes.
 
-    6. **Vamos a adquirir la mayoría de nuestros clientes a través de** publicidad en redes sociales tales como Instagram, Tiktok y Facebook, con una estrategia que promocione principalmente el impacto positivo que generaría el aplicar esta práctica de reutilización en el medio ambiente a largo plazo.
+7. **Haremos dinero a través de** planes de suscripción premium que ofrezcan ventajas exclusivas como prioridad en asignación de lockers y aumento de visibilidad de publicaciones.
 
-    7. **Haremos dinero a través de** ofrecer una suscripción premium que ofrecerá ciertos beneficios que hagan de su experiencia en CambiaZo mucho más satisfactoria y fácil.
+8. **Nuestras competencias principales son** plataformas tradicionales de trueques en Facebook y grupos como Me Sirve, HazTruequing y Trueques.
 
-    8. **Nuestras competencias principales son** grupos de Facebook que se dedican al intercambio, Me Sirve, HazTruequing y Trueques.
+9. **Los venceremos debido a** nuestra propuesta de intercambio seguro, validado, automatizado y basado en tecnología de lockers inteligentes, ofreciendo mayor seguridad y confianza que los métodos tradicionales.
 
-    9. **Los venceremos debido a** las funcionalidades que incluimos en nuestra propuesta de solución, además de la propia diferenciación de CambiaZo que tiene como logo principal, el ser un impulso para un cambio en la sociedad, el tener un estilo de vida sostenible.
+10. **Nuestro mayor riesgo es** que los usuarios perciban dificultad para encontrar intercambios justos o convenientes.
 
-    10. **Nuestro mayor riesgo es** que los usuarios no encuentren intercambios justos y puedan llegar a frustrarse por ello.
+11. **Resolveremos esto a través de** filtros de búsqueda avanzados, procesos de validación de publicaciones, y mecanismos de retroalimentación para mantener la calidad de los objetos ofrecidos.
 
-    11. **Resolveremos esto a través de** un proceso de verificación y control sobre la información que cada usuario coloca al momento de hacer un intercambio, para que no haya inconvenientes de posibles intercambios injustos o de broma.
+# 1.2.2.3 Lean UX Hypothesis Statements
 
+**Creemos que** al implementar una red de lockers inteligentes y una plataforma sólida de intercambio automatizado, los usuarios podrán contribuir significativamente a la economía circular y adoptar un estilo de vida sostenible.<br>
+**Sabremos que es cierto** cuando el número de intercambios diarios supere los 30, confirmando la aceptación de nuestro modelo.<br><br>
 
-#### 1.2.2.3 Lean UX Hypothesis Statements
-**Creemos que** al tener una plataforma sólida para  poder realizar publicaciones de intercambios, los usuarios podrán contribuir con la metodología de una economía cíclica y de formar parte de un estilo de vida sostenible.
-**Sabremos que es cierto** cuando las estadísticas de cuántos intercambios se van realizando al día sean más de 30, esto demostrará que nuestra propuesta de solución realmente está fomentando la reutilización de los objetos de las personas en general.
-
-**Creemos que**  permitir la interacción entre los usuarios al momento de mostrar interés por un artículo, ayudará a que puedan coordinar el intercambio de mejor manera <br>**Sabremos que lo habremos logrado**  cuando se refleje a través de los comentarios, que más del 50% de los usuarios resalte el sistema de comunicación entre usuarios, previo al intercambio.
-
+**Creemos que** permitir la interacción entre usuarios mediante notificaciones y validaciones automáticas mejorará la confianza y la eficiencia de los intercambios.<br>
+**Sabremos que lo habremos logrado** cuando más del 50% de los usuarios mencione positivamente la facilidad y seguridad del sistema de lockers y validaciones automáticas en sus comentarios.
 
 #### 1.2.2.4 Lean UX Canvas
 La aplicación **CambiaZo**  es una plataforma digital diseñada para que los usuarios puedan deshacerse de los objetos que ya no desean tener, intercambiándolos por otros artículos que desean de otros usuarios. Además, tiene como objetivo principal convertirse en la plataforma digital líder de intercambio de productos, promoviendo una vida consciente y sostenible a nivel mundial.
@@ -389,21 +401,21 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
     <tr>
         <td valign="top">
             <div align="center"><br><b>Business Problem</b></div><br>
-            <p>El modelo de economía lineal actual causa acumulación de residuos y un uso insostenible de recursos. Falta una solución accesible para el intercambio y donación de bienes.<br><br>¿Cómo podemos facilitar un sistema sencillo y eficiente para que las personas intercambien y donen bienes?</p><br>
+            <p>El modelo de economía lineal actual causa acumulación de residuos y un uso insostenible de recursos. Falta una solución accesible y automatizada para el intercambio de bienes mediante lockers inteligentes.<br><br>¿Cómo podemos facilitar un sistema sencillo, seguro y eficiente para que las personas intercambien sus pertenencias usando lockers inteligentes?</p><br>
         </td>
         <td rowspan="2" valign="top">
             <div align="center"><br><b>Solutions</b></div><br>
             <ul>
-            <li>Desarrollar una aplicación web para facilitar el intercambio de objetos entre usuarios.</li><br>
-            <li>Permitir la donación de bienes a organizaciones benéficas.</li><br>
-            <li>Implementar opciones de búsqueda y comunicación entre usuarios para coordinar intercambios.</li><br>
+                <li>Desarrollar una aplicación web integrada con lockers inteligentes para intercambio de objetos.</li><br>
+                <li>Implementar validación automática de objetos mediante fotos y encendido de luces en el locker.</li><br>
+                <li>Incorporar búsqueda del locker más cercano utilizando el algoritmo de Dijkstra y generación de códigos PIN para acceso.</li><br>
             </ul><br>
         </td>
         <td valign="top">
             <div align="center"><br><b>Business Outcomes</b></div><br>
             <ul>
-              <li>Obtener financiamiento para expandir la app.</li><br>
-              <li>Aumentar la visibilidad y alcance con marketing en redes sociales.</li>
+                <li>Obtener financiamiento para expandir la red de lockers inteligentes.</li><br>
+                <li>Aumentar la visibilidad y alcance mediante marketing en redes sociales.</li><br>
             </ul><br>
         </td>
     </tr>
@@ -411,36 +423,37 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
         <td valign="top">
             <div align="center"><br><b>Users</b></div><br>
             <ul>
-              <li>Personas interesadas en intercambiar bienes no necesarios</li><br>
-              <li>Personas interesadas en donar a organizaciones benéficas.</li>
+                <li>Personas interesadas en intercambiar bienes no deseados de manera segura.</li><br>
+                <li>Usuarios comprometidos con prácticas sostenibles mediante el uso de lockers inteligentes.</li><br>
             </ul><br>
         </td>
         <td valign="top">
             <div align="center"><br><b>User Outcomes & Benefits</b></div><br>
-            <ul><li>Ahorro de dinero al obtener productos sin costo</li><br>
-            <li>Deshacerse de objetos no deseados de manera útil.</li><br>
-            <li>Acceso a nuevos artículos a través del intercambio y contribución a causas benéficas.</li>
+            <ul>
+                <li>Ahorro de dinero al intercambiar productos sin costo.</li><br>
+                <li>Deshacerse de objetos no deseados de manera útil.</li><br>
+                <li>Acceso rápido y seguro a nuevos artículos mediante lockers cercanos.</li><br>
             </ul><br>
         </td>
     </tr>
     <tr>
         <td valign="top">
             <div align="center"><br><b>Hypotheses</b></div><br>
-            <p>Creemos que nuestra aplicación promoverá la economía circular y un estilo de vida sostenible, facilitando el intercambio y la donación de bienes.<br><br>Sabemos que esto es cierto cuando los usuarios realicen más de 30 intercambios diarios y más del 10% de los usuarios registrados participen en  mensuales.</p><br>
+            <p>Creemos que nuestra plataforma basada en lockers inteligentes promoverá la economía circular y un estilo de vida sostenible, facilitando el intercambio de bienes.<br><br>Sabremos que esto es cierto cuando los usuarios realicen más de 30 intercambios diarios.</p><br>
         </td>
         <td valign="top">
             <div align="center"><br><b>What's the most important thing we need to learn first?</b></div><br>
             <ul>
-            <li>Comprender las necesidades y expectativas de los usuarios sobre el intercambio y la donación de bienes.</li><br>
-            <li>Identificar las características más valoradas de la aplicación y cómo garantizar la seguridad en las transacciones.</li>
-            <br>
-            <li>Recopilar feedback sobre las funcionalidades y posibles mejoras.</li>
+                <li>Comprender las necesidades y expectativas de los usuarios sobre el intercambio de bienes mediante lockers inteligentes.</li><br>
+                <li>Identificar las características más valoradas de la validación automática y la asignación de lockers.</li><br>
+                <li>Recopilar feedback sobre la experiencia de uso del PIN y notificaciones automáticas.</li><br>
             </ul><br>
         </td>
         <td valign="top">
             <div align="center"><br><b>What's the least amount of work we need to do to learn the next most important thing?</b></div><br>
-            <ul><li>Incorporar una función de comentarios y sugerencias. </li><br>
-            <li>Realizar encuestas regulares para ajustar la app según el feedback.</li>
+            <ul>
+                <li>Incorporar una función de comentarios dentro de la app para feedback rápido.</li><br>
+                <li>Realizar encuestas breves tras cada intercambio para ajustar la experiencia.</li><br>
             </ul><br>
         </td>
     </tr>
@@ -553,7 +566,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
   </tr>
   <tr>
     <td>Ventaja Competitiva <br>¿Qué valor ofrece a los clientes?</td>
-    <td>Intercambio de productos o servicios. <br><br>Donación de objetos a ONGs afiliadas</td>
+    <td>Intercambio de productos o servicios. <br><br></td>
     <td>Intercambio directo de bienes y servicios sin dinero, fomentando la reutilización y colaboración.</td>
     <td>Intercambio de servicios y artículos de segunda mano, promoviendo un estilo de vida sostenible.</td>
     <td>Intercambio bienes y servicios, promoviendo la reutilización y la solidaridad.
@@ -631,29 +644,30 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
-En esta sección se analizarán las estrategias y tácticas que se usarán para aprovechas las debilidades de la competencia y afrontar sus fortalezas. De la misma forma con las amenazas y oportunidades de la competencia.
+# 1.2.3 Estrategias y Tácticas
 
-Hemos empleado el análisis FODA para identificar las oportunidades y amenazas en el mercado, así como para evaluar nuestras fortalezas y debilidades internas. Este enfoque nos ha permitido concebir estrategias y tácticas adecuadas en consonancia con nuestro entorno y los recursos disponibles en base a nuestros dos segmentos objetivos.
+En esta sección se analizarán las estrategias y tácticas que se usarán para aprovechar las debilidades de la competencia y afrontar sus fortalezas. De la misma forma con las amenazas y oportunidades del mercado.
 
+Hemos empleado el análisis FODA para identificar las oportunidades y amenazas en el mercado, así como para evaluar nuestras fortalezas y debilidades internas. Este enfoque nos ha permitido concebir estrategias y tácticas adecuadas en consonancia con nuestro entorno y los recursos disponibles, basados en nuestro segmento objetivo de usuarios de lockers inteligentes para intercambio.
 
-**Estrategia de Diferenciación:** 
+## Estrategia de Diferenciación
 
-+ Para satisfacer las necesidades del **Segmento de Intercambiadores**, nos enfocamos en ofrecer una plataforma de intercambio intuitiva y dinámica que permita a los usuarios encontrar fácilmente los artículos deseados y realizar intercambios de manera rápida y segura. Implementaremos funciones avanzadas de búsqueda y filtros personalizables para facilitar la búsqueda de nuevos artículos.
++ Para satisfacer las necesidades del **Segmento de Intercambiadores**, nos enfocamos en ofrecer una plataforma intuitiva que permita a los usuarios encontrar lockers disponibles de manera rápida y realizar intercambios seguros y validados. Incorporaremos funciones de búsqueda de lockers más cercanos, validación fotográfica automática y notificaciones en tiempo real para facilitar todo el proceso.
 
-**Estrategia de Liderazgo en Costos:** 
+## Estrategia de Liderazgo en Costos
 
-+ Para el **Segmento de Intercambiadores**, nos comprometemos a mantener tarifas de intercambio competitivas y transparentes, y a ofrecer promociones especiales y descuentos para incentivar la participación activa en la plataforma.
++ Para el **Segmento de Intercambiadores**, nos comprometemos a mantener los costos de uso del sistema de lockers competitivos, transparentes y accesibles, además de ofrecer promociones especiales como "Boosts gratuitos" y descuentos en planes premium para incentivar la participación activa en la plataforma.
 
-**Estrategia de Marketing:**
+## Estrategia de Marketing
 
-Para ambos segmentos, implementaremos una estrategia de marketing centrada en la sensibilización y la educación sobre los beneficios del intercambio y la donación. Desarrollaremos contenido informativo y atractivo que destaque las ventajas económicas, ambientales y sociales de participar en nuestra plataforma.
+Para nuestro segmento, implementaremos una estrategia de marketing centrada en la sensibilización y educación sobre los beneficios de intercambiar objetos mediante lockers inteligentes. Crearemos contenido informativo y atractivo que destaque las ventajas económicas, ambientales y de seguridad de participar en CambiaZo.
 
-**Tácticas:**
-- Creación de campañas publicitarias dirigidas a cada segmento objetivo para resaltar los beneficios específicos de la plataforma de intercambio y donación.
-- Implementación de programas de referidos para incentivar la participación de usuarios existentes y expandir nuestra base de usuarios.
-- Desarrollo de funciones adicionales en la plataforma, como sistemas de valoración y comentarios, para aumentar la confianza y la participación de los usuarios.
-- Establecimiento de alianzas con organizaciones locales y empresas para promover eventos de intercambio y donación, generando así mayor visibilidad y compromiso con la comunidad.
+## Tácticas
 
+- Creación de campañas publicitarias en redes sociales dirigidas al segmento objetivo, resaltando la facilidad, seguridad y conveniencia del intercambio mediante lockers inteligentes.
+- Implementación de programas de referidos para incentivar la participación de usuarios existentes y expandir rápidamente la base de usuarios activos.
+- Desarrollo de funciones adicionales en la plataforma como sistemas de valoración de intercambios y comentarios sobre la experiencia, para aumentar la confianza y transparencia entre usuarios.
+- Establecimiento de alianzas con centros comerciales, universidades y espacios públicos para instalar lockers inteligentes y aumentar la visibilidad y acceso al servicio.
 
 ## 2.2 Entrevistas
 
@@ -1203,7 +1217,7 @@ Al implementar estas mejoras, CambiaZo estará bien posicionada para ofrecer una
 
 En CambiaZo, entendemos que para desarrollar una plataforma que realmente responda a las necesidades de nuestros usuarios, es crucial conocerlas a fondo. La sección de Needfinding refleja nuestro compromiso con este objetivo a través de una investigación detallada.
 
-Nos dedicamos a identificar y analizar a nuestros usuarios mediante la creación de User Persona, User Task Matrix, User Journey Maps, Empathy , As-Is Scenario Mapping y To-Be Scenario Mapping. Este enfoque nos permite diseñar una experiencia de intercambio y donación que sea tanto efectiva como alineada con las expectativas de quienes utilizan nuestra plataforma.
+Nos dedicamos a identificar y analizar a nuestros usuarios mediante la creación de User Persona, User Task Matrix, User Journey Maps, Empathy , As-Is Scenario Mapping y To-Be Scenario Mapping. Este enfoque nos permite diseñar una experiencia de intercambio que sea tanto efectiva como alineada con las expectativas de quienes utilizan nuestra plataforma.
 
 A continuación, exploraremos cómo estos métodos nos ayudarán a construir una solución que satisfaga y supere las demandas de nuestros usuarios.
 
