@@ -1268,7 +1268,75 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </tbody>
 </table><br>
 
-
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #7<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Mathias Tsuneo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Kunimoto Watanabe</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Jesus Maria</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Seguridad y calidad en intercambios de productos</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>Inseguridad de que lo estafen</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome, Firefox</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Augusto Jose Pin Matallana</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="/Resources/Chapter-II/Interviews/mathiaskunimoto_interview.png"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210257_upc_edu_pe/Ecnefubz4ApEp2BqZkx4de8BxLePMHiBR4gSE1YtjLPR6Q?e=bvxfC9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>4:33 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>En la entrevista, Mathias comentó que ya había realizado algunos intercambios con amigos por temas de negocio. Sin embargo, mencionó que este tipo de procesos le parecían algo inseguros, ya que implicaban reunirse con desconocidos o arriesgarse a recibir productos defectuosos.
+    Al conocer Cambiazo, le pareció una muy buena idea, ya que ayudaría a reducir estas incertidumbres. Le gustó especialmente el uso de lockers para entregar los productos, ya que considera que brindan mayor seguridad y evitan encuentros innecesarios. Además, sugirió que sería útil recibir notificaciones y contar con una imagen del locker que contenga el objeto para dar más confianza al usuario.
+    </td>
+  </tr>
+</tbody>
+</table>
 
 ### **Segmento Donadores**<br>
 
