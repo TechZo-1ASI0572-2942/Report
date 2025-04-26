@@ -1356,75 +1356,77 @@ En esta sección, visualizaremos los escenarios futuros propuestos para nuestros
 **Enlace:** [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
 <br><br>
 
-
 ## 3.2. User Stories
 
 En esta sección, profundizaremos en la definición y elaboración de las User Stories relacionadas con nuestro proyecto. Las User Stories son una herramienta fundamental en el desarrollo de software y proyectos de diseño centrados en el usuario.
 
 ### EPICS
+
 | **EP01: Gestión de Cuenta de Usuario** | Como usuario, quiero tener el control total sobre mi cuenta para gestionarla según mis necesidades. |
 | :-- | :-- |
 | **User Story ID** | **Título** |
-| US01 | Registro de usuario |
-| US02 | Editar perfil del usuario |
-| US03 | Iniciar sesión en la aplicación |
-| US04 | Cambiar Contraseña |
-| US05 | Cerrar Sesión |
-| US09 | Eliminación de cuenta |
-| US20 | Adquirir la suscripción premium |
-| US21 | Cancelar una suscripción |
-| US23 | Gestionar mis favoritos en la aplicación |
-| US24 | Ver reseñas recibidas |
+| US01, US33 | Registro de usuario |
+| US02, US34 | Editar perfil del usuario |
+| US03, US35 | Iniciar sesión en la aplicación |
+| US04, US36 | Cambiar Contraseña |
+| US05, US37 | Cerrar Sesión |
+| US09, US41 | Eliminación de cuenta |
+| US20, US52 | Adquirir la suscripción premium |
+| US21, US53 | Cancelar una suscripción |
+| US23       | Gestionar mis favoritos en la aplicación |
+| US24       | Ver reseñas recibidas |
+| US55       | Acceder al centro de soporte para resolver cualquier problema técnico que se presente |
+| US56       | Acceder a la sección de preguntas frecuentes y comentarios |
 
 <br>
 
 | **EP02: Funcionalidades de Intercambio** | Como usuario de la aplicación, quiero acceder a una variedad de funcionalidades relacionadas con el intercambio de objetos, para facilitar la búsqueda, creación y gestión de publicaciones de intercambio. |
 | :-- | :-- |
 | **User Story ID** | **Título** |
-| US06 | Filtrado de Objetos |
-| US10 | Visualización de artículos publicados para intercambio |
-| US11 | Realización de una oferta de intercambio |
-| US12 | Crear publicación de intercambio |
-| US13 | Editar publicación de intercambio |
-| US14 | Eliminar publicación de intercambio |
-| US15 | Gestión de intercambios |
-| US16 | Visualización de objetos disponibles para intercambio |
-| US18 | Aceptar o Rechazar un Intercambio |
-| US19 | Ver la información detallada de un producto publicado |
+| US06, US38 | Filtrado de Objetos |
+| US10       | Visualización de artículos publicados para intercambio |
+| US11       | Realización de una oferta de intercambio |
+| US12, US44 | Crear publicación de intercambio |
+| US13, US45 | Editar publicación de intercambio |
+| US14, US46 | Eliminar publicación de intercambio |
+| US15       | Gestión de intercambios |
+| US16, US48 | Visualización de objetos disponibles para intercambio |
+| US18, US50 | Aceptar o Rechazar un Intercambio |
+| US19, US51 | Ver la información detallada de un producto publicado |
 
 <br>
 
-| **EP03: Funcionalidades de Reseñas y ONGs** | Como usuario de la aplicación, quiero interactuar con las ONGs y gestionar reseñas para mejorar la experiencia de intercambio y donación. |
+| **EP03: Funcionalidades de Reseñas y Procesos de Verificación de Intercambio** | Como usuario de la aplicación, quiero gestionar reseñas sobre las experiencias de intercambio y realizar procesos de verificación para garantizar la seguridad y confiabilidad en cada transacción realizada. |
 | :-- | :-- |
 | **User Story ID** | **Título** |
-| US07 | Visualización de ONGs registradas y filtrado |
-| US08 | Brindar reseña sobre el Intercambiador |
-| US17 | Visualizar el perfil del usuario que publique un producto |
-| US22 | Visualizar el perfil de las ONG’s registradas |
+| US07, US39  | Asignación de locker para intercambio |
+| US08, US40 | Brindar reseña sobre el Intercambiador |
+| US17, US49 | Visualizar el perfil del usuario que publique un producto |
+| US22, US54 | Recepción de PIN para apertura de locker |
+| US31, US57 | Confirmación de objeto depositado en locker |
+| US32, US58 | Validación final y desbloqueo del locker |
 
 <br>
 
-| **EP04: Información y Navegación de la Landing Page** | Como usuario visitante de la landing page de la aplicación web, deseo acceder a información relevante y navegar fácilmente para obtener una comprensión clara de las características y funcionalidades ofrecidas por la aplicación. |
+| **EP04: Información y Navegación de la Landing Page** | Como usuario visitante de la landing page de la aplicación web, deseo acceder a información relevante y navegar fácilmente para obtener una comprensión clara de las características y funcionalidades ofrecidas. |
 | :-- | :-- |
 | **User Story ID** | **Título** |
 | US25 | Visualización de la Historia de la Startup |
 | US26 | Visualizar las características clave de la aplicación |
-| US27 | Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo. |
-| US28 | Descargar la aplicación de CambiaZo |
+| US27 | Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo |
+| US28 | Descargar la aplicación de CambiaZo / Acceder a la página principal |
 | US29 | Ver los planes y precios |
 | US30 | Navegación en la Landing Page |
 
 <br>
 
-| **EP05: Desarrollo de Funcionalidades de la API de CambiaZo** | Como equipo de desarrollo, queremos implementar una serie de funcionalidades en la API de la aplicación para gestionar usuarios, reseñas, ONGs y suscripciones, con el fin de mejorar la experiencia del usuario y garantizar un funcionamiento eficiente de la plataforma. |
+| **EP05: Desarrollo de Funcionalidades de la API de CambiaZo** | Como equipo de desarrollo, queremos implementar una serie de funcionalidades en la API de la aplicación para gestionar usuarios, reseñas y suscripciones, con el fin de mejorar la experiencia del usuario y garantizar un funcionamiento eficiente de la plataforma. |
 | :-- | :-- |
 | **User Story ID** | **Título** |
 | TS01 | API User |
 | TS02 | API Review |
-| TS03 | API ONGs |
-| TS04 | API Memberships |
-| TS05 | API Object |
-
+| TS03 | API Memberships |
+| TS04 | API Object |
 
 <br><br>
 
@@ -1438,7 +1440,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**US04**|Cambiar Contraseña|Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.|**Escenario 1: Acceso del usuario a la configuración de la cuenta**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Cuando** acceda a la sección de configuración de la cuenta<br><br>**Entonces** la aplicación mostrará la opción para modificar la contraseña.<br><br>**Escenario 2: Cambio exitoso de la contraseña**<br><br>**Dado que** el usuario está en la página de cambio de contraseña<br><br>**Cuando** ingrese su contraseña actual y la nueva contraseña dos veces<br><br>**Y** pulse el botón "Cambiar Contraseña"<br><br>**Entonces** la aplicación ejecutará el cambio de contraseña<br><br>**Y** mostrará un mensaje de confirmación.<br><br>**Escenario 3: Intento de cambio de contraseña fallido**<br><br>**Dado que** el usuario se encuentre en la página de cambio de contraseña<br><br>**Cuando** ingrese una contraseña actual incorrecta o incompleta, seguida de la nueva contraseña dos veces<br><br>**Y** pulse el botón "Cambiar Contraseña"<br><br>**Entonces** la aplicación mostrará un mensaje de error indicando que la contraseña actual es incorrecta.|**EP01**|
 |**US05**|Cerrar Sesión|Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo web.|**Escenario 1: Acceso del usuario a la configuración de la cuenta**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Cuando** acceda a la sección de configuración de la cuenta<br><br>**Entonces** la aplicación mostrará la opción para cerrar sesión.<br><br>**Escenario 2: Cierre de sesión exitoso por parte del usuario**<br><br>**Dado que** el usuario se encuentra en la página de cierre de sesión<br><br>**Cuando** seleccione el botón "Cerrar Sesión"<br><br>**Entonces**, la aplicación concluirá la sesión del usuario y lo redirigirá a la página de inicio de sesión.|**EP01**|
 |**US06**|Filtrado de Objetos|Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.|**Escenario 1: Aplicación de Filtros**<br><br>**Dado que** el usuario intercambiador está en la sección de objetos disponibles para intercambio<br><br>**Cuando** el usuario selecciona filtros específicos, como categoría, estado del objeto y ubicación<br><br>**Y** pulsa el botón de "Aplicar Filtros"<br><br>**Entonces** la lista de objetos se ajustará automáticamente según los criterios seleccionados.<br><br>**Escenario 2:  Visualización de Resultados Filtrados**<br><br>**Dado que** el usuario ha aplicado filtros por estado a la lista de objetos disponibles<br><br>**Cuando** la aplicación muestra únicamente los objetos que cumplen con el estado seleccionado<br><br>**Entonces** el usuario puede ver y explorar los resultados filtrados según sus preferencias.<br><br>**Escenario 3: Filtrar por cantidad de Vistas**<br><br>**Dado que** el usuario está buscando objetos con la mayor cantidad de vistas para intercambiar<br><br>**Cuando** el usuario selecciona la opción de "Filtrar por Vistas"<br><br>**Y** pulsa el botón de "Aplicar Filtros"<br><br>**Entonces** la aplicación presenta los objetos más populares en la parte superior de la lista de resultados.|**EP02**|
-|**US07**|Visualización de ONGs registradas y filtrado | Como usuario Donante, quiero visualizar la lista de ONGs registradas y poder filtrarlas por nombre usando el buscador, para encontrar la ONG específica en la cual me gustaría hacer mi donación.|**Escenario 1: Visualización por Defecto de ONGs Registradas**<br><br>**Dado que** el usuario donante ha accedido a la sección de ONGs registradas para donación<br><br>**Cuando** el usuario ingresa a esta sección por primera vez o no ha aplicado ningún filtro<br><br>**Entonces** la aplicación muestra por defecto una lista de ONGs registradas con su imagen de logo, nombre, tipo de organización (ej. educación, salud), y ubicación (ej. San Borja, Lima).<br><br>**Escenario 2: Aplicación de Filtros por Nombre**<br><br>**Dado que** el usuario donante está en la sección de ONGs registradas para donación<br><br>**Cuando** el usuario escribe el nombre o parte del nombre de una ONG en el campo de búsqueda que se muestra en la parte superior<br><br>**Y** pulsa la tecla "Enter" o selecciona la opción de búsqueda<br><br>**Entonces** la lista de ONGs se ajustará automáticamente mostrando solo aquellas cuyo nombre coincida con el término ingresado.<br><br>**Escenario 3: Visualización de Resultados Filtrados por Nombre**<br><br>**Dado que** el usuario donante ha aplicado un filtro por nombre en el buscador<br><br>**Cuando** la aplicación muestra únicamente las ONGs cuyos nombres coincidan con el término buscado<br><br>**Entonces** el usuario podrá ver y explorar la ONG específica que busca o verificar si está registrada.|**EP03**|
+|**US07**|Asignación de locker para intercambio |Como usuario web quiero que la plataforma me sugiera un locker cercano para poder realizar el intercambio de manera sencilla.|**Escenario 1: Selección del método de intercambio en la web**<br><br>**Dado que** el usuario ha acordado un intercambio exitoso en la plataforma web<br><br>**Cuando** selecciona la opción "Intercambiar usando locker" desde la sección de acuerdos<br><br>**Entonces** el sistema muestra un mapa interactivo con lockers disponibles, resaltando de manera automática el más cercano basado en su ubicación registrada.<br><br>**Escenario 2: Confirmación visual del locker sugerido**<br><br>**Dado que** el usuario visualiza el locker sugerido en el mapa<br><br>**Cuando** presiona el botón “Confirmar locker” dentro de la plataforma web<br><br>**Entonces** el sistema registra la selección y presenta un mensaje de confirmación en pantalla.<br><br>**Escenario 3: Cambio manual de locker desde el listado**<br><br>**Dado que** el usuario desea seleccionar un locker distinto al sugerido inicialmente<br><br>**Cuando** elige otro locker desde el listado desplegable<br><br>**Entonces** el sistema actualiza la asignación y muestra una nueva confirmación en la interfaz.|**EP03**|
 |**US08**|Brindar reseña sobre el Intercambiador|Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar|**Escenario 1: Dejar una Reseña**<br><br>**Dado que** el usuario intercambiador ha completado un intercambio con otro usuario<br><br>**Cuando** visita la página de la experiencia de intercambio realizada<br><br>**Entonces** el usuario encuentra una opción para dejar una reseña sobre su experiencia con el intercambiador.<br><br>**Escenario 2: Visualización de Reseñas**<br><br>**Dado que** otros usuarios visitan la página de la experiencia de intercambio<br><br>**Cuando** exploran las reseñas dejadas por otros intercambiadores<br><br>**Entonces** pueden leer y considerar las opiniones de otros usuarios antes de realizar un intercambio con ese intercambiador.<br><br>**Escenario 3: Respuesta a Reseñas**<br><br>**Dado que** el usuario intercambiador ha dejado una reseña sobre su experiencia con otro intercambiador<br><br>**Cuando** el intercambiador revisado desea responder a la reseña<br><br>**Entonces** tiene la opción de dejar una respuesta o comentario en la reseña para interactuar con el usuario que dejó la reseña.|**EP03**|
 |**US09**|Eliminación de cuenta|Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación|**Escenario 1: Acceso a la Opción de Eliminación**<br><br>**Dado que** el usuario está registrado en la aplicación,<br><br>**Cuando** desee eliminar permanentemente su cuenta,<br><br>**Entonces** la aplicación proporciona una opción claramente visible en la configuración de la cuenta para eliminar la cuenta.<br><br>**Escenario 2: Confirmación de Eliminación**<br><br>**Dado que** el usuario selecciona la opción de eliminar su cuenta,<br><br>**Cuando** confirma su elección,<br><br>**Entonces** la aplicación muestra un mensaje de confirmación solicitando al usuario que confirme su decisión antes de proceder con la eliminación.<br><br>**Escenario 3: Eliminación Exitosa de la Cuenta**<br><br>**Dado que** el usuario ha confirmado su deseo de eliminar su cuenta,<br><br>**Cuando** la confirmación es recibida por la aplicación,<br><br>**Entonces** todos los datos asociados con la cuenta del usuario son eliminados permanentemente de la base de datos y la cuenta se cierra de forma definitiva.|**EP01**|
 |**US10**|Visualización de artículos publicados para intercambio | Como usuario de la aplicación de intercambio, quiero ver los artículos que he publicado, para revisar cuáles están disponibles para intercambio.|**Escenario 1: Sin artículos publicados**<br><br>**Dado que** no he publicado ningún artículo para intercambio<br><br>**Cuando** accedo a la sección "Mis Artículos"<br><br>**Entonces** no se mostrará ningún artículo y veré un mensaje que me invita a publicar uno.<br><br>**Y** habrá un botón destacado que diga “+ Publicar” para agregar nuevos artículos.<br><br>**Escenario 2: Con artículos publicados**<br><br>**Dado que** he publicado artículos para intercambio<br><br>**Cuando** accedo a la sección "Mis Artículos"<br><br>**Entonces** se mostrarán los artículos que he publicado en un formato de tarjetas, con una imagen representativa, el nombre del artículo, y el estado del mismo.<br><br>**Y** el botón “+ Publicar” seguirá disponible en la parte inferior para agregar más artículos.<br><br>**Escenario 3: Visualización de las opciones de un artículo**<br><br>**Dado que** he publicado uno o más artículos<br><br>**Cuando** presiono el botón de opciones (tres puntos) en una de las tarjetas de mis artículos<br><br>**Entonces** se desplegará un menú con las posibles acciones disponibles para ese artículo (acciones futuras).|**EP02**|
@@ -1453,15 +1455,44 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**US19**|Ver la información detallada de un producto publicado| Como usuario de la aplicación, quiero poder ver la información completa de un producto en el que estoy interesado, para poder decidir si quiero guardarlo en mis favoritos o proponer un intercambio. | **Escenario 1: Ver la información detallada del producto**<br><br>**Dado que** he seleccionado una publicación de un objeto, **Cuando** se me abre la pantalla de información del artículo, **Entonces** debo poder ver los siguientes detalles del producto: la imagen del objeto (e.g., Chocolate MrBeast Bar), el valor aproximado del objeto, el nombre del usuario que publicó el producto, la calificación del usuario que lo publicó, el título del producto, la descripción del producto, la ubicación aproximada donde se puede intercambiar el objeto, y la lista de artículos que le interesa recibir a cambio.<br><br>**Escenario 2: Ver más información del usuario que publicó el producto**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el nombre o la imagen del usuario que lo publicó, **Entonces** se me redirigirá a una pantalla con más información sobre ese usuario, incluyendo su perfil, su calificación general y sus reseñas recibidas.<br><br>**Escenario 3: Guardar el producto en mis favoritos**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el ícono de favoritos (corazón), **Entonces** el objeto se guardará en mi lista de favoritos, **y** el ícono de corazón cambiará para indicar que el producto ya está guardado.<br><br>**Escenario 4: Proponer un intercambio**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el botón "Intercambiar", **Entonces** se me redirigirá a una pantalla donde podré hacer una oferta de intercambio, seleccionando el objeto que quiero ofrecer a cambio del artículo publicado. | **EP02** |
 |**US20**|Adquirir la suscripción premium|Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.|**Escenario 1: Localizar la sección para adquirir una suscripción.**<br><br>**Dado que** el usuario desea adquirir una suscripción para CambiaZo,<br><br>**Cuando** pulsa a la sección de configuración,<br><br>**Entonces**, le aparecerán varias opciones, entre las que figura “Ser premium”.<br><br>**Cuando** el usuario pulsa al botón,<br>será redirigido a una nueva ventana que le mostrará las suscripciones disponibles.<br><br>**Escenario 2: Visualizar los beneficios de la suscripción.**<br><br>**Dado que** el usuario se encuentra en la ventana correspondiente sobre las suscripciones,<br><br>**Entonces** cuando pulsa a una en específico podrá ver el precio por mes de cada una de ellas<br><br>**Y** los beneficios que incluyen cada una de estas.<br><br>**Escenario 3: Compra de la suscripción.**<br><br>**Dado que** el usuario ha decidido una suscripción de su interés,<br><br>**Entonces**, cuando pulsa a “Suscribirse”, se le redireccionará a una pasarela de pago para que pueda introducir su método de pago<br><br>**Y** procesar el pago respectivo y adquirir los nuevos beneficios.|**EP01**|
 |**US21**|Cancelar una suscripción|<p>Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente</p><p></p>|**Escenario 1: Acceso a la ventana de suscripciones.**<br><br>**Dado que** el usuario desea verificar la información del estado de su suscripción,<br><br>**Cuando** se dirige a la sección de configuración,<br><br>**Entonces**, observará un botón que dice “Mi suscripción”<br><br>**Y** al pulsar podrá ver los detalles de su suscripción.<br><br>**Escenario 2: Verificación de los detalles de la suscripción.**<br><br>**Dado que** el usuario se encuentra en la ventana que muestra el estado de su suscripción,<br><br>**Entonces**, podrá visualizar la fecha en la que se renueva su suscripción, los beneficios que obtiene<br><br>**Y** si es que se encuentra en un plan mensual o semianual.<br><br>**Escenario 3: Proceder a la cancelación.**<br><br>**Dado que** el usuario se encuentra en la ventana que muestra el estado de la suscripción,<br><br>**Entonces**, al tener ya la decisión de no continuar con el premium de CambiaZo,<br><br>**Y** podrá pulsar a un botón rojo que dice “Anular suscripción”<br><br>**Y** así terminaría la suscripción que no se renovará hasta su próxima fecha.|**EP01**|
-|**US22**|Visualizar el perfil de las ONG’S registradas|Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar .|**Escenario 1: Acceso a la pestaña de ONG's**<br>**Dado que** el usuario se encuentra en la pestaña principal<br><br>**Cuando** pulsa a la etiqueta "ONG's"<br><br>**Entonces** se mostrarán todas las ONG's registradas dentro de la aplicación<br><br>**Escenario 2: Ver perfil de una ONG**<br><br>**Dado que** el usuario se encuentra dentro de la pestaña "ONG'S"<br><br>**Cuando** pulsa al recuadro que muestra el perfil de la ONG que desea visualizar<br><br>**Entonces** aparecerán los datos y características de la ONG seleccionada.<br><br>**Escenario 3: Donar a una ONG**<br><br>**Dado que** el usuario se encuentra en el perfil de la ONG seleccionada<br><br>**Cuando** pulsa a la opción “Donar”<br><br>**Entonces** aparecerán las opciones de donación (objetos o dinero)<br>**Y** el usuario podrá seleccionar la opción que desea donar<br>**Y** realizar la donación.|**EP03**|
+|**US22**|Recepción de PIN para apertura de locker (Web)|Como usuario web quiero recibir un PIN seguro desde la plataforma para abrir el locker de forma segura.|**Escenario 1: Visualización inmediata del PIN en la web**<br><br>**Dado que** el usuario ha confirmado un locker para su intercambio<br><br>**Cuando** finaliza el proceso de asignación<br><br>**Entonces** el sistema muestra de manera segura el PIN de apertura en la página de detalles del intercambio, visible solo una vez para proteger la seguridad.<br><br>**Escenario 2: Acceso seguro al PIN desde sección “Mis Intercambios”**<br><br>**Dado que** el usuario necesita revisar su PIN posteriormente<br><br>**Cuando** ingresa a la sección “Mis intercambios” en la web y selecciona el intercambio correspondiente<br><br>**Entonces** puede visualizar nuevamente el PIN bajo un proceso de autenticación adicional si es necesario.<br><br>**Escenario 3: Solicitud de nuevo PIN en caso de expiración**<br><br>**Dado que** el PIN inicial ha expirado o se ha perdido<br><br>**Cuando** el usuario solicita un nuevo PIN mediante el botón "Generar nuevo PIN"<br><br>**Entonces** el sistema invalida el anterior y genera un nuevo PIN único para el mismo intercambio.|**EP03**|
 |**US23**|Gestionar mis favoritos en la aplicación| Como usuario de la aplicación, quiero poder acceder a los objetos que he guardado como favoritos, para poder visualizarlos y eliminar los que ya no me interesen. | **Escenario 1: Ver objetos guardados como favoritos**<br><br>**Dado que** estoy en mi perfil, **Cuando** selecciono la opción "Favoritos", **Entonces** se me mostrará una lista de los objetos que he guardado como favoritos, incluyendo la imagen del objeto, el nombre del objeto, la descripción breve del objeto y el valor aproximado del objeto.<br><br>**Escenario 2: Eliminar un objeto de mis favoritos**<br><br>**Dado que** estoy visualizando la lista de favoritos, **Cuando** selecciono el botón de favoritos (ícono de corazón) de un objeto para eliminarlo, **Entonces** se mostrará un popup de confirmación con el mensaje: "¿Estás seguro de que deseas eliminar este objeto de tus favoritos?" **Y** podré seleccionar entre eliminar, que eliminará el objeto de mi lista de favoritos, o cancelar, que cerrará el popup sin realizar ninguna acción. **Y** si selecciono "Eliminar", el objeto desaparecerá de la lista de favoritos después de la confirmación. | **EP01** |
 |**US24**|Ver reseñas recibidas| Como usuario de la aplicación, quiero poder ver las reseñas y calificaciones que he recibido, para tener una referencia de mi reputación en la plataforma. | **Escenario 1: Ver la calificación general y reseñas recibidas**<br><br>**Dado que** estoy en mi perfil, **cuando** selecciono la opción "Mis Reseñas", **entonces** se me mostrará mi calificación general (promedio de estrellas), el número total de reseñas recibidas y una lista de las reseñas, mostrando el nombre del usuario que dejó la reseña, su calificación (número de estrellas) y el comentario de la reseña. | **EP01** |
 |**US25**|Visualización de la Historia de la Startup|<p>Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.</p><p></p>|**Escenario 1: Acceso a la historia de TechZo**<br><br>**Dado que** soy un visitante de la landing page<br><br>**Cuando** navegue por la página de inicio<br>**Y** encuentre la sección titulada “Quiénes Somos”<br><br>**Entonces** podré obtener información detallada sobre la historia de la startup.<br><br>**Escenario 2: Acceso a las redes sociales de TechZo**<br><br>**Dado que** el visitante se encuentra en el landing page<br><br>**Cuando** el visitante pulsa en la etiqueta “Contáctanos”<br>**Y** encuentre los botones con los logos de las redes sociales en las que puede encontrar la página de TechZo<br>**Y** pulsa encima del botón con el logo de la red social que desee ver<br><br>**Entonces** el usuario será redireccionado a la red social que seleccionó previamente.<br><br>**Escenario 3: Acceso a información de contacto**<br><br>**Dado que** el visitante se encuentra en la parte inferior de la landing page<br><br>**Cuando** el visitante se acerque a la sección “Comunícate con nosotros”<br><br>**Entonces** el visitante podrá observar los métodos de contacto de la startup “(01) 5718202, 992113864, 933960189, cambiazo@TechZo.pe”.|**EP04**|
 |**US26**|Visualizar las características clave de la aplicación|Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.|**Escenario 1: Conocer las secciones principales**</p><p>**Dado que** el visitante se encuentra en la landing page</p><p>**Cuando** se dirige a la sección “Puedes elegir entre…”</p><p>**Entonces** la landing page le muestra lo que puede realizar dentro de CambiaZo.</p><p></p><p>**Escenario 2: Conocer lo que puede intercambiar**</p><p>**Dado que** el visitante se encuentra en la landing page</p><p>**Cuando** se dirige a la sección “Si decides intercambiar, podrás encontrar una gran variedad de objetos”</p><p>**Entonces** la landing page muestra los diferentes tipos de artículos que puede intercambiar con CambiaZo.</p><p></p><p>**Escenario 3: Conocer las características principales**</p><p>**Dado que** el visitante se encuentra en la landing page</p><p>**Cuando** se dirige a la sección “En CambiaZo te ofrecemos…”</p><p>**Entonces** la landing page le muestra las características principales de CambiaZo.</p>|**EP04**|
 |**US27**|Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.|Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.|**Escenario 1: Información en el formulario**</p><p>**Dado que** soy un usuario interesado en CambiaZo que desea llenar el formulario de contacto</p><p>**Cuando** navegue por la Landing page</p><p>**Entonces** encontraré una sección que contendrá un formulario</p><p>**Y** en esa sección, debo colocar mi nombre, apellido y correo electrónico de contacto.</p><p></p><p>**Escenario 2: Envío de formulario con datos completos**</p><p>**Dado que** me encuentro en la sección del formulario de la Landing page</p><p>**Cuando**  termine de completar mi información de contacto</p><p>**Entonces** debo darle click al botón de “ENVIAR”</p><p>**Y** si he llenado todos los campos correspondientes, me saldrá un mensaje de registro exitoso.</p><p></p><p>**Escenario 3: Envío de formulario con datos incompletos**</p><p>**Dado que** me encuentro en la sección del formulario de la Landing page</p><p>**Cuando**  desee enviar el formulario con casillas en blanco</p><p>**Entonces** me saldrá un mensaje indicando que hay casillas que faltan completar.</p>|**EP04**|
-|**US28**|Descargar la aplicación de CambiaZo|<p>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo web.</p><p></p>|<p>**Escenario 1: Identificación de botones o enlaces para descargar la app**</p><p>**Dado que** el usuario está en la landing page de CambiaZo,<br><br>**Cuando** busque descargar la aplicación,<br><br>**Entonces** encontrará botones o enlaces fácilmente identificables que lo dirijan a la descarga de la aplicación.</p><p>**Escenario 2: Descarga rápida y sin problemas**</p><p>**Dado que** el usuario se dirige a un botón o enlace de descarga,<br><br>**Cuando** el usuario le dé clic al botón,<br><br>**Entonces** la aplicación de CambiaZo se descargará de manera rápida <br><br>**Y** sin problemas en su dispositivo web.</p><p></p>|**EP04**|
+|**US28**|Descargar la aplicación de CambiaZo|<p>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar artículos directamente desde mi dispositivo web.</p><p></p>|<p>**Escenario 1: Identificación de botones o enlaces para descargar la app**</p><p>**Dado que** el usuario está en la landing page de CambiaZo,<br><br>**Cuando** busque descargar la aplicación,<br><br>**Entonces** encontrará botones o enlaces fácilmente identificables que lo dirijan a la descarga de la aplicación.</p><p>**Escenario 2: Descarga rápida y sin problemas**</p><p>**Dado que** el usuario se dirige a un botón o enlace de descarga,<br><br>**Cuando** el usuario le dé clic al botón,<br><br>**Entonces** la aplicación de CambiaZo se descargará de manera rápida <br><br>**Y** sin problemas en su dispositivo web.</p><p></p>|**EP04**|
 |**US29**|Ver los planes y precios|Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de descargar la aplicación.|<p>**Escenario 1: Acceso a la sección de planes y servicios**</p><p>**Dado que** el usuario visita la landing page de Cambiazo,</p><p>**Cuando** busque información sobre los planes y servicios ofrecidos por la plataforma,</p><p>**Entonces** encontrará una sección dedicada que detalle estos aspectos.</p><p>**Escenario 2: Comparación de planes**</p><p>**Dado que** el usuario revisa la información sobre los planes ofrecidos,</p><p>**Cuando** busque tomar una decisión informada,</p><p>**Entonces** encontrará que puede comparar fácilmente los diferentes planes para evaluar cuál se ajusta mejor a sus necesidades.</p>|**EP04**|
-|**US30**|Navegación en la Landing Page|Como usuario visitante, quiero contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.|<p>**Escenario 1: Acceder a la información acerca de la startup**</p><p>**Dado que** el usuario se encuentra en la Landing Page</p><p>**Cuando** quiera acceder a la información acerca del equipo</p><p>**Entonces** podré darle click a la etiqueta “¿Quiénes somos?” de la barra navegadora</p><p>**Y** me redireccionará rápidamente a la parte de la Landing Page en la que se encuentra la información correspondiente.</p><p></p><p>**Escenario 2: Ver las ONG’s afiliadas a CambiaZo**</p><p>**Dado que** el usuario se encuentra en la Landing Page</p><p>**Cuando** quiera ver qué ONG’s están afiliadas con CambiaZo</p><p>**Entonces** podré darle click a la etiqueta “ONG’s” de la barra navegadora</p><p>**Y** me redireccionará rápidamente a la parte de la Landing Page en la que se encuentra la información correspondiente.</p><p></p><p>**Escenario 3: Buscar la sección de Contacto**</p><p>**Dado que** el usuario se encuentra en la Landing Page</p><p>**Cuando** quiera acceder a la sección para contactarme con la startup</p><p>**Entonces** le daré click a la etiqueta “Contáctanos” de la barra navegadora</p><p>**Y** me redireccionará rápidamente a la parte de la Landing Page en la que se encuentra el formulario para recibir notificaciones de CambiaZo y el pié de página en el cuál se encuentran los datos de contacto.</p><p></p><p>**Escenario 4: Llegar al inicio de la Landing Page rápidamente**</p><p>**Dado que** el usuario se encuentra en la Landing Page</p><p>**Cuando** quiera acceder rápidamente al inicio de esta</p><p>**Entonces** podré darle click a la etiqueta “Inicio” de la barra navegadora</p><p>**Y** me redireccionará inmediatamente a la parte superior de la Landing Page.</p>|**EP04**|
+|**US30**|Navegación en la Landing Page|Como usuario visitante, quiero contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.|<p>**Escenario 1: Acceder a la información acerca de la startup**</p><p>**Dado que** el usuario se encuentra en la Landing Page</p><p>**Cuando** quiera acceder a la información acerca del equipo</p><p>**Entonces** podré darle click a la etiqueta “¿Quiénes somos?” de la barra navegadora</p><p>**Y** me redireccionará rápidamente a la parte de la Landing Page en la que se encuentra la información correspondiente.</p><p></p><p>**Escenario 2: Buscar la sección de Contacto**</p><p>**Dado que** el usuario se encuentra en la Landing Page</p><p>**Cuando** quiera acceder a la sección para contactarme con la startup</p><p>**Entonces** le daré click a la etiqueta “Contáctanos” de la barra navegadora</p><p>**Y** me redireccionará rápidamente a la parte de la Landing Page en la que se encuentra el formulario para recibir notificaciones de CambiaZo y el pié de página en el cuál se encuentran los datos de contacto.</p><p></p><p>**Escenario 3: Llegar al inicio de la Landing Page rápidamente**</p><p>**Dado que** el usuario se encuentra en la Landing Page</p><p>**Cuando** quiera acceder rápidamente al inicio de esta</p><p>**Entonces** podré darle click a la etiqueta “Inicio” de la barra navegadora</p><p>**Y** me redireccionará inmediatamente a la parte superior de la Landing Page.</p>|**EP04**|
+|**US31**|Confirmación de objeto depositado en locker|Como usuario web quiero visualizar la imagen del objeto depositado para verificar que esté correctamente colocado.|**Escenario 1: Captura automática del objeto tras cierre**<br><br>**Dado que** el usuario ha cerrado el locker después de depositar su objeto<br><br>**Cuando** el sistema detecta el cierre exitoso<br><br>**Entonces** automáticamente captura una fotografía del interior del locker y la adjunta al registro del intercambio en la web.<br><br>**Escenario 2: Notificación de imagen disponible por correo electrónico**<br><br>**Dado que** la fotografía ha sido tomada y procesada<br><br>**Cuando** el sistema completa el procesamiento<br><br>**Entonces** envía un correo electrónico al usuario notificándole que puede revisar la imagen en la sección “Mis intercambios”.<br><br>**Escenario 3: Visualización manual de la imagen**<br><br>**Dado que** el usuario quiere comprobar el estado de su depósito<br><br>**Cuando** accede a la página del intercambio y selecciona “Ver imagen del objeto”<br><br>**Entonces** puede visualizar la foto como evidencia de la entrega en la plataforma.|**EP03**|
+|**US32**|Validación final y desbloqueo del locker |Como usuario web quiero validar el objeto depositado antes de generar el PIN final para su retiro y asegurar mi intercambio.|**Escenario 1: Confirmación manual del objeto**<br><br>**Dado que** el usuario ha recibido la fotografía del objeto depositado<br><br>**Cuando** confirma manualmente que el objeto corresponde al acordado<br><br>**Entonces** el sistema genera y despliega el PIN de retiro en la plataforma para que proceda a recogerlo.<br><br>**Escenario 2: Reporte de objeto incorrecto desde la plataforma**<br><br>**Dado que** el objeto capturado en la fotografía no coincide con el acordado<br><br>**Cuando** el usuario presiona la opción “Reportar problema”<br><br>**Entonces** el sistema bloquea el locker y alerta al equipo de soporte para iniciar el protocolo de resolución.<br><br>**Escenario 3: Recordatorio de validación por correo**<br><br>**Dado que** el usuario no ha realizado la validación después de un tiempo razonable<br><br>**Cuando** el sistema detecta la inactividad<br><br>**Entonces** envía un recordatorio vía correo electrónico solicitando que confirme o reporte el estado del objeto antes de una expiración automática.|**EP03**|
+|**US-33**|Registro de usuario|<p>Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.</p><p></p>|<p>**Escenario 1:** Acceso del usuario a la página de registro</p><p>Dado que el  usuario ha descargado la aplicación y la inicia,</p><p>Cuando se encuentra en la sección de "Inicio de sesión"</p><p>Y opta por hacer clic en el botón de "Registrarse",</p><p>Entonces, la aplicación desplegará la página de registro.</p><p></p><p>**Escenario 2:** Registro exitoso del usuario</p><p>Dado que el usuario esté en la página de registro,</p><p>Cuando introduce su información requerida</p><p>Y procede a hacer clic en el botón de "Registrarse”,</p><p>Entonces la aplicación llevará a cabo el registro del usuario y guardará su cuenta.</p><p></p><p>**Escenario 3**: Registro del usuario con datos inválidos</p><p>Considerando que el usuario está en la página de registro,</p><p>Cuando proporciona información incompleta o no válida</p><p>Y luego activa el botón de "Registrarse",</p><p>Entonces la aplicación mostrará un mensaje de error</p><p>Y eliminará los datos introducidos.</p><p></p>|**EP01**|
+|**US-34**|<p>Editar perfil del usuario</p><p></p>|Como usuario ya registrado realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.|<p>**Escenario 1:** Acceso del usuario a "Mi perfil"</p><p>Dado que el usuario está registrado en la aplicación,</p><p>Cuando acceda a su perfil,</p><p>Entonces el sistema presentará la página "Mi perfil".</p><p></p><p>**Escenario 2:** El usuario elige editar su perfil</p><p>Dado que el usuario se encuentra en la página "Mi perfil" con los datos personales visibles,</p><p>Cuando seleccione el botón "Editar perfil",</p><p>Entonces, el sistema mostrará la página de edición de perfil.</p><p></p><p>**Escenario 3:** Actualización exitosa de los datos del perfil del usuario</p><p>Dado que el usuario se encuentra en la página de edición de perfil con los datos personales visibles,</p><p>Cuando introduzca sus nuevos datos</p><p>Y seleccione el botón "Guardar cambios",</p><p>Entonces el sistema actualizará la información del perfil del usuario con los nuevos datos ingresados.</p><p></p><p>**Escenario 4:** Actualización de los datos del perfil del usuario con información inválida o incompleta</p><p>Dado que el usuario se encuentra en la página de edición de perfil con los datos personales visibles,</p><p>Cuando ingrese datos incompletos o inválidos</p><p>Y seleccione el botón "Actualizar",</p><p>Entonces la aplicación mostrará un mensaje de "Error"</p><p>Y borrará los datos ingresados.</p><p></p>|**EP01**|
+|**US-35**|Iniciar sesión en la aplicación|Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.|<p>**Escenario 1:** Acceso del usuario a la página de inicio de sesión</p><p>Dado que el usuario abre la aplicación</p><p>Y no ha iniciado sesión previamente o se ha desconectado</p><p>Cuando el usuario seleccione el botón "Iniciar Sesión"</p><p>Entonces, la aplicación mostrará la página de inicio de sesión.</p><p></p><p>**Escenario 2:** Inicio de sesión exitoso del usuario</p><p>Dado que el usuario se encuentra en la página de inicio de sesión</p><p>Cuando ingrese sus credenciales válidas</p><p>Y haga clic en el botón "Iniciar Sesión"</p><p>Entonces, el usuario será autenticado</p><p>Y dirigido a la página principal de la aplicación.</p><p></p><p>**Escenario 3:** Intento de inicio de sesión fallido</p><p>Dado que el usuario está en la página de inicio de sesión</p><p>Cuando ingrese credenciales inválidas</p><p>Y haga clic en el botón "Iniciar Sesión"</p><p>Entonces, la aplicación mostrará un mensaje de error indicando que las credenciales son incorrectas.</p><p></p>|**EP01**|
+|**US-36**|Cambiar Contraseña|<p>Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.</p><p></p>|<p>**Escenario 1:** Acceso del usuario a la configuración de la cuenta</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Cuando acceda a la sección de configuración de la cuenta</p><p>Entonces la aplicación mostrará la opción para modificar la contraseña.</p><p></p><p>**Escenario 2:** Cambio exitoso de la contraseña</p><p>Dado que el usuario está en la página de cambio de contraseña</p><p>Cuando ingrese su contraseña actual y la nueva contraseña dos veces</p><p>Y haga clic en el botón "Cambiar Contraseña"</p><p>Entonces la aplicación ejecutará el cambio de contraseña</p><p>Y mostrará un mensaje de confirmación.</p><p></p><p>**Escenario 3:** Intento de cambio de contraseña fallido</p><p>Dado que el usuario se encuentre en la página de cambio de contraseña</p><p>Cuando ingrese una contraseña actual incorrecta o incompleta, seguida de la nueva contraseña dos veces</p><p>Y seleccione el botón "Cambiar Contraseña"</p><p>Entonces la aplicación mostrará un mensaje de error indicando que la contraseña actual es incorrecta.</p><p></p>|**EP01**|
+|**US37**|<p>Cerrar Sesión</p><p></p>|<p>Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo móvil.</p><p></p>|<p>**Escenario 1:** Acceso del usuario a la configuración de la cuenta</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Cuando acceda a la sección de configuración de la cuenta</p><p>Entonces la aplicación mostrará la opción para cerrar sesión.</p><p></p><p>**Escenario 2:** Cierre de sesión exitoso por parte del usuario</p><p>Dado que el usuario se encuentra en la página de cierre de sesión</p><p>Cuando seleccione el botón "Cerrar Sesión"</p><p>Entonces, la aplicación concluirá la sesión del usuario y lo redirigirá a la página de inicio de sesión.</p><p></p>|**EP01**|
+|**US38**|Filtrado de Objetos|Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.|<p>**Escenario 1:** Aplicación de Filtros</p><p></p><p>Dado que el usuario intercambiador está en la sección de objetos disponibles para intercambio</p><p></p><p>Cuando el usuario selecciona filtros específicos, como categoría, estado del objeto y ubicación<br><br>Y presiona el botón de "Aplicar Filtros"</p><p></p><p>Entonces la lista de objetos se ajustará automáticamente según los criterios seleccionados.</p><p></p><p>**Escenario 2:**  Visualización de Resultados Filtrados</p><p><br>Dado que el usuario ha aplicado filtros por estado a la lista de objetos disponibles</p><p></p><p>Cuando la aplicación muestra únicamente los objetos que cumplen con el estado seleccionado</p><p></p><p>Entonces el usuario puede ver y explorar los resultados filtrados según sus preferencias.</p><p></p><p>**Escenario 3:** Filtrar por cantidad de Vistas<br><br>Dado que el usuario está buscando objetos con la mayot cantidad de vistas para intercambiar</p><p></p><p>Cuando el usuario selecciona la opción de "Filtrar por Vistas"</p><p></p><p>Y presiona el botón de "Aplicar Filtros"</p><p></p><p>Entonces la aplicación presenta los objetos más populares en la parte superior de la lista de resultados.</p>|**EP02**|
+|**US39**|Asignación de locker para intercambio |Como usuario móvil quiero que la app me sugiera un locker cercano para facilitar el intercambio rápidamente.|**Escenario 1: Asignación automática de locker en app**<br><br>**Dado que** el usuario ha confirmado un intercambio desde la app<br><br>**Cuando** selecciona “Intercambio en locker” dentro del flujo del intercambio<br><br>**Entonces** la app muestra directamente en pantalla el locker más cercano usando GPS del dispositivo móvil.<br><br>**Escenario 2: Visualización en lista de lockers cercanos**<br><br>**Dado que** el usuario desea ver más opciones<br><br>**Cuando** desliza hacia arriba en la sección de lockers<br><br>**Entonces** la app despliega una lista ordenada por distancia, permitiendo seleccionar otro locker manualmente.<br><br>**Escenario 3: Confirmación inmediata del locker**<br><br>**Dado que** el usuario ha elegido el locker deseado<br><br>**Cuando** presiona “Confirmar” dentro de la app<br><br>**Entonces** la selección queda registrada y la app muestra un mensaje de éxito.|**EP03**|
+|**US40**|Brindar reseña sobre el Intercambiador|Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar|<p>**Escenario 1:** Dejar una Reseña</p><p></p><p>Dado que el usuario intercambiador ha completado un intercambio con otro usuario,</p><p></p><p>Cuando visita la página de la experiencia de intercambio realizada,</p><p></p><p>Entonces el usuario encuentra una opción para dejar una reseña sobre su experiencia con el intercambiador.</p><p></p><p>**Escenario 2:** Visualización de Reseñas</p><p></p><p>Dado que otros usuarios visitan la página de la experiencia de intercambio,</p><p></p><p>Cuando exploran las reseñas dejadas por otros intercambiadores,</p><p></p><p>Entonces pueden leer y considerar las opiniones de otros usuarios antes de realizar un intercambio con ese intercambiador.</p><p></p><p>**Escenario 3:** Respuesta a Reseñas</p><p></p><p>Dado que el usuario intercambiador ha dejado una reseña sobre su experiencia con otro intercambiador,</p><p></p><p>Cuando el intercambiador revisado desea responder a la reseña,</p><p></p><p>Entonces tiene la opción de dejar una respuesta o comentario en la reseña para interactuar con el usuario que dejó la reseña.</p>|**EP02**|
+|**US41**|Eliminación de cuenta|Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación|<p>**Escenario 1:** Acceso a la Opción de Eliminación</p><p></p><p>Dado que el usuario está registrado en la aplicación</p><p></p><p>Cuando desea eliminar permanentemente su cuenta</p><p></p><p>Entonces la aplicación proporciona una opción claramente visible en la configuración de la cuenta para eliminar la cuenta.</p><p></p><p>**Escenario 2:** Confirmación de Eliminación</p><p></p><p>Dado que el usuario selecciona la opción de eliminar su cuenta</p><p></p><p>Cuando confirma su elección</p><p></p><p>Entonces la aplicación muestra un mensaje de confirmación solicitando al usuario que confirme su decisión antes de proceder con la eliminación.</p><p></p><p>**Escenario 3:** Eliminación Exitosa de la Cuenta</p><p></p><p>Dado que el usuario ha confirmado su deseo de eliminar su cuenta</p><p></p><p>Cuando la confirmación es recibida por la aplicación</p><p></p><p>Entonces todos los datos asociados con la cuenta del usuario son eliminados permanentemente de la base de datos y la cuenta se cierra de forma definitiva.</p>|**EP01**|
+|**US42**|Actualización de Correo Electrónico|Como usuario, quiero actualizar mi dirección de correo electrónico en mi perfil para asegurarme de que recibo notificaciones e información relevante|<p>**Escenario 1:** Acceso a la Configuración de Perfil</p><p></p><p>Dado que el usuario está autenticado en la aplicación,</p><p></p><p>Cuando desea actualizar su dirección de correo electrónico,</p><p></p><p>Entonces accede a la sección de configuración de perfil.</p><p></p><p>**Escenario 2:** Edición de la Dirección de Correo Electrónico</p><p></p><p>Dado que el usuario está en la sección de configuración de perfil,</p><p></p><p>Cuando selecciona la opción para editar su dirección de correo electrónico,</p><p></p><p>Entonces la aplicación le permite ingresar la nueva dirección de correo electrónico.</p><p></p><p>**Escenario 3:** Verificación del Nuevo Correo Electrónico</p><p></p><p>Dado que el usuario ha ingresado la nueva dirección de correo electrónico,</p><p></p><p>Cuando confirma la actualización de su dirección de correo electrónico,</p><p></p><p>Entonces la aplicación envía un correo electrónico de verificación a la nueva dirección proporcionada.</p><p></p><p>**Escenario 4:** Confirmación de Verificación</p><p></p><p>Dado que el usuario ha recibido el correo electrónico de verificación,</p><p></p><p>Cuando hace clic en el enlace de verificación dentro del correo electrónico,</p><p></p><p>Entonces la aplicación verifica la nueva dirección de correo electrónico</p><p>Y confirma la actualización en el perfil del usuario.</p>|**EP01**|
+|**US43**|Configuración de notificaciones|Como usuario , quiero tener control sobre las notificaciones que recibo para personalizar mi experiencia en la web.|<p>**Escenario 1:** Configuración de Notificaciones</p><p></p><p>Dado que el usuario ha iniciado sesión en la aplicación,</p><p></p><p>Cuando desea personalizar sus notificaciones desde su perfil,</p><p></p><p>Entonces la aplicación le ofrece una página de configuración de notificaciones donde puede elegir las categorías de notificaciones que desea recibir.</p><p></p><p>**Escenario 2:** Personalización de Notificaciones</p><p></p><p>Dado que el usuario se encuentra en la sección de configuración de notificaciones,</p><p></p><p>Cuando selecciona las categorías específicas de notificaciones que le interesan,</p><p></p><p>Entonces la aplicación ajusta sus notificaciones según las preferencias del usuario, enviando únicamente las alertas seleccionadas.</p><p></p><p>**Escenario 3:** Desactivación de Notificaciones</p><p></p><p>Dado que el usuario desea dejar de recibir ciertas notificaciones,</p><p></p><p>Cuando accede a la configuración de notificaciones,desmarcar las categorías de notificaciones no deseadas,</p><p></p><p>Entonces la aplicación adapta sus alertas según las preferencias del usuario.</p>|**EP01**|
+|**US44**|Crear publicación de intercambio|Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar|<p>**Escenario 1: Creación de una nueva publicación de intercambio**</p><p>Dado que el usuario accede a la opción de crear una nueva publicación de intercambio desde la interfaz de la aplicación,</p><p>Cuando completa el formulario con los detalles del artículo que desea intercambiar, incluyendo título, descripción, categoría, condición del artículo e información relevante,</p><p>Entonces se le permite adjuntar imágenes del artículo.</p><p></p><p>**Escenario 2: Publicación de intercambio creada**</p><p>Dado que el usuario está completando el formulario de creación de la publicación de intercambio,</p><p>Cuando intenta enviar la publicación,</p><p>Entonces el sistema valida los campos del formulario</p><p>Y crea la publicación de intercambio.</p><p></p><p>**Escenario 3: Visualización de publicación de intercambio**</p><p>Dado que la publicación de intercambio ha sido creada,</p><p>Cuando el usuario acceda a su perfil</p><p>Y vaya a la sección de mis publicaciones</p><p>Entonces el sistema le mostrará la publicación del artículo que desea intercambiar.</p>|**EP02**|
+|**US45**|Editar publicación de intercambio|Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.|<p>**Escenario 1: Acceso a la edición de una publicación de intercambio**</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Y tiene una publicación de intercambio existente,</p><p>Cuando el usuario hace click a la opción de editar la publicación desde la interfaz de la aplicación,</p><p>Entonces el sistema redirige a un formulario prellenado con los detalles actuales de la publicación para realizar cambios<br>Y dos botones “Cancelar” y “Publicar”</p><p></p><p>**Escenario 2: Edición de la publicación de intercambio confirmada**</p><p></p><p>Dado que el usuario está en el formulario de edición de la publicación de intercambio,</p><p>Cuando el usuario realiza cambios en los detalles del artículo que desea intercambiar, como título, descripción, categoría, condición del artículo u otra información relevante,</p><p>Y le da al botón de “Publicar</p><p>Entonces el sistema guardará los cambios realizados en la publicación.</p><p>Y la hará visible para todos los usuarios.</p><p></p><p>**Escenario 3: Edición de la publicación de intercambio cancelada**</p><p></p><p>Dado que el usuario está en el formulario de edición de la publicación de intercambio,</p><p>Cuando el usuario realiza cambios en los detalles del artículo que desea intercambiar, como título, descripción, categoría, condición del artículo u otra información relevante,</p><p>Y le da al botón de “Cancelar”</p><p>Entonces el sistema redirige al usuario al inicio de la aplicación.</p><p><br></p>|**EP02**|
+|**US46**|Eliminar publicación de intercambio|Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.|<p>**Escenario 1: Acceso a la eliminación de una publicación de intercambio**</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Y tiene una publicación de intercambio existente,</p><p>Cuando accede a la opción de eliminar la publicación desde la interfaz de la aplicación,</p><p>Entonces el sistema le muestra una confirmación para confirmar si realmente desea eliminar la publicación.</p><p></p><p>**Escenario 2: Confirmación de eliminación**</p><p>Dado que el usuario ha seleccionado eliminar una publicación de intercambio,</p><p>Cuando confirma la acción de eliminación,</p><p>Entonces el sistema elimina la publicación de manera permanente de la plataforma y se muestra un mensaje de confirmación al usuario.</p><p></p><p>**Escenario 3: Cancelación de la eliminación**</p><p>Dado que el usuario ha seleccionado eliminar una publicación de intercambio,</p><p>Cuando decide cancelar la eliminación,</p><p>Entonces la publicación no se elimina</p><p>Y el sistema redirige al usuario al inicio de la aplicación.</p><p></p>|**EP02**|
+|**US47**|Destacar publicación de intercambio|Como usuario, me gustaría poder resaltar una publicación de intercambio para aumentar su visibilidad entre otros usuarios.|<p>**Escenario 1: Acceso a la opción de destacar una publicación de intercambio**</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Y tiene una publicación de intercambio existente,</p><p>Cuando accede a la opción de destacar la publicación desde la interfaz de la aplicación,</p><p>Entonces el sistema le presenta la opción de resaltar la publicación mediante una función identificada como "Destacar" o "Boost",</p><p>Y indica que esta función está disponible para usuarios premium o mediante la compra de un servicio adicional.</p><p></p><p>**Escenario 2: Confirmación de destacar la publicación con membresía premium**</p><p>Dado que el usuario ha seleccionado destacar una publicación de intercambio</p><p>Y tiene una membresía premium activa,</p><p>Cuando confirma la acción de destacar,</p><p>Entonces el sistema resalta la publicación</p><p>Y le da mayor visibilidad dentro de la plataforma.</p><p></p><p>**Escenario 3: Confirmación de destacar la publicación con compra de boost**</p><p>Dado que el usuario ha seleccionado destacar una publicación de intercambio</p><p>Y no tiene membresía premium,</p><p>Cuando decide comprar un boost para destacar la publicación,</p><p>Entonces el sistema resalta la publicación temporalmente</p><p>Y le da mayor visibilidad dentro de la plataforma durante el período de tiempo especificado por el boost adquirido.</p>|**EP02**|
+|**US48**|Ampliar slots de publicación de intercambio|Como usuario, necesito la capacidad de aumentar el número de publicaciones de intercambio que puedo tener activas simultáneamente.|<p>**Escenario 1: Acceso a la opción de ampliar slots de publicación**</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Y desea aumentar el número de publicaciones de intercambio activas,</p><p>Cuando accede a la sección de configuración de la cuenta para ampliar los slots de publicación desde la interfaz de la aplicación,</p><p>Entonces el sistema le presenta la opción de aumentar el número de slots disponibles.</p><p></p><p>**Escenario 2: Confirmación de ampliar slots de publicación**</p><p>Dado que el usuario ha seleccionado la opción de ampliar los slots de publicación,</p><p>Cuando confirma la acción</p><p>Y realiza el pago correspondiente</p><p>Entonces el sistema incrementa el número de slots disponibles del usuario</p><p>Y el usuario puede tener más publicaciones de intercambio activas simultáneamente.</p><p></p><p>**Escenario 3: Visualización de slots de publicación disponibles**</p><p>Dado que el usuario ha ampliado los slots de publicación,</p><p>Cuando accede a la sección de creación de publicaciones de intercambio,</p><p>Entonces puede ver el nuevo número de slots disponibles para realizar más publicaciones simultáneas.</p><p></p><p>**Escenario 4: Cancelación de ampliar slots de publicación**</p><p>Dado que el usuario ha accedido a la opción de ampliar slots de publicación <br>Y decide no continuar con la acción,</p><p>Cuando cancela la operación,</p><p>Entonces el número de slots de publicación permanece sin cambios <br>Y se mantiene igual al estado anterior.</p>|**EP02**|
+|**US49**|Visualizar el perfil del usuario que publique un intercambio|Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.|<p>**Escenario 1:** **Acceso al perfil del creador de la publicación.**</p><p>Dado que el usuario se encuentra en la publicación de su interés</p><p>Cuando le de click al recuadro que muestran el perfil del autor de la publicación</p><p>Entonces, el usuario podrá visualizar su nombre completo, tiempo que lleva en la aplicación, la cantidad de intercambios exitosos realizado</p><p>Y valoraciones de otros usuarios</p><p></p><p>**Escenario 2: Visualizar reseñas de otros usuarios hacia un perfil en específico.**</p><p>Dado que el usuario se encuentra en el perfil del autor del intercambio</p><p>Cuando Se dirija a la sección llamada “Reseñas” es cuando</p><p>Entonces el usuario podrá visualizar todas las reseñas que dicho autor ha recibido por todas sus publicaciones exitosas</p><p>Y datos relevantes sobre el creador de la publicación.</p><p></p><p>**Escenario 3: Visualizar el tipo de productos que suele intercambiar el usuario.**</p><p>Dado que el usuario está en el perfil del intercambiador</p><p>Cuando se dirija a la sección “Preferencias” es</p><p>Entonces, donde podrá visualizar la variedad de productos que suele intercambiar el usuario, así cómo también si hace match con las preferencias del usuario interesado.</p>|**EP02**|
+|**US50**|Ponerse en contacto para pactar el intercambio|Como usuario, quiero tener la posibilidad de contactar directamente con el creador de una publicación de intercambio, para poder tener una comunicación más directa.|<p>**Escenario 1: Contactar con el vendedor por un chat de WhatsApp o Telegram.**</p><p>Dado que el usuario se encuentra en la publicación de su interés</p><p>Cuando le de click al botón de WhatsApp o Telegram que aparecerá en la parte lateral de la publicación</p><p>Entonces, se le redireccionará a una pestaña de WhatsApp y/o Telegram con un mensaje predeterminado para enviar</p><p>Y ponerse en contacto de manera directa con el intercambiador.</p><p></p><p>**Escenario 2: Verificar la información del vendedor en caso de no contar con un número de contacto registrado.**</p><p>Dado que el usuario se encuentra en la publicación de su interés</p><p>Y no logré encontrar algún botón para ser redireccionado a un chat privado con el intercambiador</p><p>Entonces, podrá verificar su información personal en los detalles de la publicación</p><p>Y así poder saber su correo electrónico y/o redes sociales.</p><p></p><p>**Escenario 3: Escribir un comentario en la publicación para poder obtener información adicional pertinente.**</p><p>Dado que el usuario se encuentra en la publicación de su interés</p><p>Y no logre poder contactar por ningún medio al autor de la publicación</p><p>Entonces, podrá dirigirse a la sección de comentarios, para poder escribir directamente de la página al usuario sobre ciertos detalles o métodos de contacto.</p>|**EP02**|
+|**US51**|Adquirir la suscripción premium|Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.|<p>**Escenario 1: Localizar la sección para adquirir una suscripción.**</p><p>Dado que el usuario desea adquirir una suscripción para CambiaZo</p><p>Cuando le de click a la sección de configuración</p><p>Entonces, le aparecerán varias opciones, entre las que figura “Ser premium”</p><p>Cuando el usuario le de click al botón,</p><p>será redirigido a una nueva ventana que le mostrará las suscripciones disponibles.</p><p></p><p>**Escenario 2: Visualizar los beneficios de la suscripción.**</p><p>Dado que el usuario se encuentra en la ventana correspondiente sobre las suscripciones,</p><p>Entonces cuando le de click a una en específico podrá ver el precio por mes de cada una de ellas</p><p>Y los beneficios que incluyen cada una de estas.</p><p></p><p>**Escenario 3: Compra de la suscripción.**</p><p>Dado que el usuario ha decidido una suscripción de su interés,</p><p>Entonces, cuando le de click a “Suscribirse”, se le redireccionará a una pasarela de pago para que pueda introducir su método de pago</p><p>Y procesar el pago respectivo y adquirir los nuevos beneficios.</p>|**EP04**|
+|**US52**|Cancelar una suscripción|<p>Como usuario quiero poder cancelar mi suscripción en cualquier momento para poder enfocarme más en las clases de la universidad</p><p></p>|<p>**Escenario 1: Acceso a la ventana de suscripciones.**</p><p>Dado que el usuario desea verificar la información del estado de su suscripción,</p><p>Cuando se dirija a la sección de configuración</p><p>Entonces, observará un botón que diga “Mi suscripción”</p><p>Y al darle click podrá ver los detalles de su suscripción.</p><p></p><p>**Escenario 2: Verificación de los detalles de la suscripción.**</p><p>Dado que el usuario se encuentra en la ventana que muestra el estado de su suscripción</p><p>Entonces, podrá visualizar la fecha en la que se renueva su suscripción, los beneficios que obtiene</p><p>Y si es que se encuentra en un plan mensual o semianual.</p><p></p><p>**Escenario 3: Proceder a la cancelación.**</p><p>Dado que el usuario se encuentra en la ventana que muestra el estado de la suscripción</p><p>Entonces, al tener ya la decisión de no continuar con el premium de CambiaZo</p><p>Y podrá darle click a un botón rojo que dice “Anular suscripción”</p><p>Y así terminaría la suscripción que no se renovará hasta su próxima fecha.</p>|**EP04**|
+|**US53**|Recepción de PIN para apertura de locker |Como usuario móvil quiero recibir un PIN en la app para abrir el locker de manera segura.|**Escenario 1: PIN mostrado justo al confirmar locker**<br><br>**Dado que** el usuario ha confirmado el locker desde la app<br><br>**Cuando** finaliza la asignación<br><br>**Entonces** se muestra automáticamente un PIN temporal en la pantalla, visible solo por tiempo limitado.<br><br>**Escenario 2: Reconsulta de PIN en sección de intercambio**<br><br>**Dado que** el usuario no anotó el PIN<br><br>**Cuando** ingresa nuevamente a la app en “Mis intercambios”<br><br>**Entonces** puede ver el PIN tras pasar una verificación biométrica o de PIN de la app.<br><br>**Escenario 3: Solicitud de regeneración de PIN**<br><br>**Dado que** el PIN expiró o fue perdido<br><br>**Cuando** solicita un nuevo PIN presionando “Generar nuevo PIN”<br><br>**Entonces** el sistema bloquea el PIN anterior y genera uno nuevo inmediatamente visible en la app.|**EP03**|
+|**US54**|Acceder al centro de soporte para resolver cualquier problema técnico que se presente.|**Como** usuario de CambiaZo, **quiero** tener la opción de acceder a un centro de soporte **para** reportar y resolver mis problemas técnicos.|<p>**Escenario 1:** Acceso a configuración</p><p>**Dado que** soy un usuario en el aplicativo móvil</p><p>**Cuando** le de click a la sección de configuración</p><p>**Entonces** se mostrará el apartado con los botones de configuración.</p><p></p><p>**Escenario 2:** Ingresar al **“**Centro de ayuda”</p><p>**Dado que** me encuentro en la sección de configuración</p><p>**Cuando** esté en la nueva ventana, podré escoger la opción que desee: “Problemas técnicos” o “Chatear con soporte”</p><p>**Entonces** podré** escoger la opción que desee</p><p></p><p>**Escenario 3:** Problemas técnicos</p><p>**Dado que** me encuentro en la sección de “Centro de Ayuda”</p><p>**Cuando** de click en “Problemas técnicos”</p><p>**Entonces** se mostrará una lista con los problemas técnicos más frecuentes con sus soluciones**.**</p><p></p><p>**Escenario 4:** Chatear con soporte</p><p>**Dado que** me encuentro en la sección de Centro de Ayuda</p><p>**Cuando** de click en “Chatear con soporte”</p><p>**Entonces** se mostrará un formulario en el cual podemos enviar nuestro problema para chatear con soporte</p>|**EP05**|
+|**US55**|Acceder dentro de la aplicación a la sección de preguntas frecuentes y comentarios|**Como** usuario de Cambiazo, **quiero** ver las preguntas frecuentes que tienen los demás usuarios y su opinión al usar la aplicación **para** poder ver si tienen mis mismas dudas y ver qué opinan de la aplicación.|<p>**Escenario 1:** Acceso a configuración</p><p>**Dado que** me encuentro en la pantalla principal de la aplicación</p><p>**Cuando** le de click a la sección de configuración</p><p>**Entonces** se mostrará el apartado con los botones de configuración.</p><p></p><p>**Escenario 2:** Preguntas frecuentes</p><p>**Dado que** me encuentro en la sección de configuración de la aplicación</p><p>**Cuando** de click en la sección de “Preguntas frecuentes”</p><p>**Entonces** se mostrará un apartado con las preguntas más frecuentes realizadas por los usuarios de la aplicación y sus respectivas respuestas.</p><p></p><p>**Escenario 2:** Comentarios de CambiaZo</p><p>**Dado que** me encuentro en la sección de configuración de la aplicación</p><p>**Cuando** de click en la sección de “Comentarios de CambiaZo”</p><p>**Entonces** se mostrará un apartado con los comentarios realizados por los usuarios de la aplicación, enseñando los comentarios más recientes.</p>|**EP05**|
+|**US56**|Confirmación de objeto depositado en locker |Como usuario móvil quiero recibir una foto del objeto que dejé en el locker para asegurar que se almacenó correctamente.|**Escenario 1: Recepción de foto al cerrar locker**<br><br>**Dado que** el usuario ha cerrado el locker luego de depositar su objeto<br><br>**Cuando** la app detecta el cierre exitoso<br><br>**Entonces** recibe una notificación automática con la foto del interior del locker.<br><br>**Escenario 2: Visualización de imagen desde notificación**<br><br>**Dado que** el usuario recibe la notificación<br><br>**Cuando** toca la notificación<br><br>**Entonces** la app lo redirige directamente a la sección donde puede visualizar la foto de su objeto depositado.<br><br>**Escenario 3: Acceso manual a la foto desde historial**<br><br>**Dado que** el usuario quiere revisar la foto después<br><br>**Cuando** ingresa a “Historial de intercambios” y selecciona el intercambio<br><br>**Entonces** puede visualizar la fotografía almacenada en el registro del intercambio.|**EP03**|
+|**US57**|Validación final y desbloqueo del locker |Como usuario móvil quiero validar el objeto depositado antes de poder desbloquear el locker para asegurarme que el intercambio está correcto.|**Escenario 1: Confirmación rápida desde notificación**<br><br>**Dado que** el usuario recibe una notificación de depósito<br><br>**Cuando** abre la notificación<br><br>**Entonces** la app le muestra directamente la foto para validar y un botón para confirmar si está correcto.<br><br>**Escenario 2: Reporte de problema inmediato en app**<br><br>**Dado que** el objeto no coincide<br><br>**Cuando** presiona el botón “Reportar problema” en la misma pantalla<br><br>**Entonces** la app bloquea el locker temporalmente y notifica al soporte.<br><br>**Escenario 3: Generación automática de PIN de retiro tras validación**<br><br>**Dado que** el usuario confirmó que el objeto es correcto<br><br>**Cuando** presiona “Confirmar objeto”<br><br>**Entonces** el sistema genera el PIN de desbloqueo y lo muestra en la app listo para ser usado.|**EP03**|
+
+
 
 <br><br>
 
@@ -1471,10 +1502,8 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 | :- | :- | :- | :- | :- |
 |**TS01**|API User|Como usuario desarrollador que configura la plataforma quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.|**Escenario 1: Diseño de la API User**<br><br>**Dado que** el usuario developer configura la plataforma<br><br>**Cuando** diseñe la API para gestionar usuarios en nuestra aplicación movil,<br><br>**Entonces** definirá los endpoints y rutas necesarias para manejar operaciones como registro de usuarios, inicio de sesión, actualización de datos de usuario, y recuperación de contraseñas y establecerá los requisitos de autenticación y seguridad necesarios para proteger la información de los usuarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API para gestionar usuarios en nuestra aplicación movil,<br><br>**Cuando** elija la tecnología para implementar la API REST,<br><br>**Entonces** considerará los requisitos de la aplicación y las preferencias del equipo de desarrollo para tomar una decisión informada.<br><br>**Escenario 3: Obtener información del usuario**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del usuario,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos del usuario solicitado.<br><br>**Escenario 4: Obtener usuario no disponible**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de usuario que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe un usuario con este identificador".<br><br>**Escenario 5: Registro de un nuevo usuario**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del usuario,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye un usuario con un nuevo ID y los detalles registrados.<br><br>**Escenario 6: Registro de un usuario ya existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos del usuario,<br><br>**Y** ya existe un usuario registrado con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "Un usuario con estos datos ya existe".<br><br>**Escenario 7: Actualizar un usuario existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud PUT con el id de un usuario,<br><br>**Y** ya existe un usuario registrado con ese id,<br><br>**Entonces** se recibe una respuesta con estado 202,<br><br>**Y** se muestra un mensaje que indica "Los datos del usuario han sido actualizados satisfactoriamente".<br><br>**Escenario 8: Actualizar un usuario no existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud PUT con el id de un usuario,<br><br>**Y** no existe un usuario registrado con ese id,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "No existe ese usuario".<br><br>**Escenario 9: Eliminar un usuario existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con el id de un usuario,<br><br>**Y** ya existe un usuario registrado con ese id,<br><br>**Entonces** se recibe una respuesta con estado 202,<br><br>**Y** se muestra un mensaje que indica "Se borró al usuario satisfactoriamente".<br><br>**Escenario 10: Eliminar un usuario no existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con el id de un usuario,<br><br>**Y** no existe un usuario registrado con ese id,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "No existe ese usuario".|**EP05**|
 |**TS02**|API Review|Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar reseñas a otros usuarios para mejorar la interacción entre usuarios y la plataforma.|**Escenario 1: Diseño de la API Review**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API para permitir a los usuarios dejar reseñas en nuestra aplicación,<br><br>**Entonces** se definen los endpoints y rutas necesarias para que los usuarios puedan crear, leer, actualizar y eliminar reseñas y establecen los requisitos de autenticación y seguridad para proteger la privacidad.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API de reseñas en nuestra aplicación,<br><br>**Cuando** elige la tecnología para implementar la API REST,<br><br>**Entonces** se consideran los requisitos de la aplicación, incluyendo la escalabilidad, el rendimiento y la facilidad de mantenimiento.<br><br>**Escenario 3: Obtener información de la reseña**<br><br>**Dado que** el endpoint "/reseñas" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador de la reseña,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos de la reseña solicitada.<br><br>**Escenario 4: Obtener reseña no disponible**<br><br>**Dado que** el endpoint "/reseñas" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de reseña que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe una reseña con este identificador".<br><br>**Escenario 5: Agregar una nueva reseña**<br><br>**Dado que** el endpoint "/reseñas" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores de la reseña,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye una reseña con un nuevo ID y los valores registrados.<br><br>**Escenario 6: Agregar una reseña ya existente**<br><br>**Dado que** el endpoint "/reseñas" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos de la reseña,<br><br>**Y** ya existe una reseña registrada con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Una reseña con estos datos ya existe".|**EP05**|
-|**TS03**|API ONGs|Como usuario developer que configura la plataforma quiero diseñar una API que simplifique la obtención de información sobre las ONGs para integrarla de manera efectiva en la aplicación.|**Escenario 1: Diseño de la API ONGs**<br><br>**Dado que** el usuario developer configura la plataforma,<br><br>**Cuando** diseñe la API para obtener información sobre las ONGs,<br><br>**Entonces** define los endpoints y rutas necesarias para recibir detalles sobre las ONGs y establece los requisitos de autenticación y seguridad necesarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API para obtener información sobre las ONGs,<br><br>**Cuando** elija la tecnología para implementar la API REST,<br><br>**Entonces** considerará los requisitos y preferencias de la organización para tomar una decisión informada.<br><br>**Escenario 3: Obtener información de la ONG**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador de la ONG,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos de la ONG solicitada.<br><br>**Escenario 4: Obtener ONG no disponible**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de ONG que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe una ONG con este identificador".<br><br>**Escenario 5: Agregar una nueva ONG**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores de la ONG,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye una ONG con un nuevo ID y sus valores registrados.<br><br>**Escenario 6: Agregar una ONG ya existente**<br><br>**Dado que** el endpoint "/ongs" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos de la ONG,<br><br>**Y** ya existe una ONG registrada con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Una ONG con estos datos ya existe".|**EP05**|
-|**TS04**|API Memberships|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.|**Escenario 1: Diseño de la API de Membresías**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Membresías para gestionar las membresías de los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarias para manejar las operaciones de membresías de usuarios y establece los requisitos de autenticación y seguridad necesarios para proteger la información de los usuarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API de Membresías en nuestra aplicación,<br><br>**Cuando** elige la tecnología para implementar la API REST,<br><br>**Entonces** considera los requisitos de la aplicación y las preferencias del equipo de desarrollo para tomar una decisión informada.<br><br>**Escenario 3: Obtener información de membresía del usuario**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador de la membresía,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos de la membresía solicitada.<br><br>**Escenario 4: Obtener membresía no disponible**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de membresía que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe una membresía con este identificador".<br><br>**Escenario 5: Agregar una nueva membresía**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores de la membresía,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye una membresía con un nuevo ID y los valores registrados.<br><br>**Escenario 6: Agregar una membresía ya existente**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos de la membresía,<br><br>**Y** ya existe una membresía registrada con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Una membresía con estos datos ya existe".|**EP05**|
-|**TS05**|API Object|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.|**Escenario 1: Diseño de la API de Objetos**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Objetos para gestionar los objetos que suben los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarios para permitir a los usuarios subir sus objetos que ya no usan, cancelar la subida y obtener información sobre sus objetos, y establece los requisitos de requerimiento y tipo de archivo.<br><br>**Escenario 2: Obtener información de un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del objeto,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los detalles del objeto solicitado.<br><br>**Escenario 3: Objeto no encontrado**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de un objeto que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No se encontró el objeto solicitado".<br><br>**Escenario 4: Creación de un nuevo objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se registra el objeto con un nuevo ID y los detalles registrados.<br><br>**Escenario 5: Crear un objeto ya existente**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se intenta crear un nuevo objeto para un usuario que ya registró este objeto,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "El usuario ya registró este objeto".<br><br>**Escenario 6: Eliminar un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se elimina el objeto con su ID y los detalles registrados.<br><br>**Escenario 7: Editar un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud PUT con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se editarán los detalles previamente registrados del objeto.|**EP05**|
-
+|**TS03**|API Memberships|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.|**Escenario 1: Diseño de la API de Membresías**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Membresías para gestionar las membresías de los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarias para manejar las operaciones de membresías de usuarios y establece los requisitos de autenticación y seguridad necesarios para proteger la información de los usuarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API de Membresías en nuestra aplicación,<br><br>**Cuando** elige la tecnología para implementar la API REST,<br><br>**Entonces** considera los requisitos de la aplicación y las preferencias del equipo de desarrollo para tomar una decisión informada.<br><br>**Escenario 3: Obtener información de membresía del usuario**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador de la membresía,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos de la membresía solicitada.<br><br>**Escenario 4: Obtener membresía no disponible**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de membresía que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe una membresía con este identificador".<br><br>**Escenario 5: Agregar una nueva membresía**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores de la membresía,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye una membresía con un nuevo ID y los valores registrados.<br><br>**Escenario 6: Agregar una membresía ya existente**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos de la membresía,<br><br>**Y** ya existe una membresía registrada con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Una membresía con estos datos ya existe".|**EP05**|
+|**TS04**|API Object|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.|**Escenario 1: Diseño de la API de Objetos**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Objetos para gestionar los objetos que suben los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarios para permitir a los usuarios subir sus objetos que ya no usan, cancelar la subida y obtener información sobre sus objetos, y establece los requisitos de requerimiento y tipo de archivo.<br><br>**Escenario 2: Obtener información de un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del objeto,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los detalles del objeto solicitado.<br><br>**Escenario 3: Objeto no encontrado**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de un objeto que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No se encontró el objeto solicitado".<br><br>**Escenario 4: Creación de un nuevo objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se registra el objeto con un nuevo ID y los detalles registrados.<br><br>**Escenario 5: Crear un objeto ya existente**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se intenta crear un nuevo objeto para un usuario que ya registró este objeto,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "El usuario ya registró este objeto".<br><br>**Escenario 6: Eliminar un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se elimina el objeto con su ID y los detalles registrados.<br><br>**Escenario 7: Editar un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud PUT con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se editarán los detalles previamente registrados del objeto.|**EP05**|
 
 ## 3.3. Impact Mapping
 En esta sección, presentaremos el Impact Mapping, una herramienta esencial para alinear nuestras iniciativas con los objetivos estratégicos del proyecto. El Impact Mapping nos permitirá identificar y conectar los impactos esperados de nuestras soluciones con los resultados deseados, asegurando que cada acción y decisión contribuyan a alcanzar los objetivos clave y maximizar el valor para nuestros usuarios.
@@ -1490,12 +1519,9 @@ En esta sección, presentaremos el Impact Mapping, una herramienta esencial para
 **Enlace:** [Impact Mappping en UXPRESSIA]()
 
 
-## 3.4. Product Backlog
-En el Product Backlog presentaremos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*.Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).
-<br><br>
-Tomamos como historia de usuario base la historia de usuario US12: Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar
-
-<br>
+## 3.3. Product Backlog
+En el Product Backlog presentamos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*. Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).  
+Tomamos como historia de usuario base la historia de usuario **US12 / US42**: *Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar*.
 
 <table>
   <tr>
@@ -1510,15 +1536,15 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
   <!-- EPIC ID: EP01 -->
   <tr>
     <td>1</td>
-    <td><strong>US20</strong></td>
+    <td><strong>US20 / US51</strong></td>
     <td>Adquirir la suscripción premium</td>
     <td>Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.</td>
     <td>8</td>
-    <td rowspan="10"><strong>EP01</strong></td>
+    <td rowspan="12"><strong>EP01</strong></td>
   </tr>
   <tr>
     <td>2</td>
-    <td><strong>US09</strong></td>
+    <td><strong>US09 / US41</strong></td>
     <td>Eliminación de cuenta</td>
     <td>Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación.</td>
     <td>3</td>
@@ -1540,154 +1566,183 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
   </tr>
   <tr>
     <td>5</td>
-    <td><strong>US01</strong></td>
+    <td><strong>US01 / US33</strong></td>
     <td>Registro de usuario</td>
     <td>Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.</td>
     <td>3</td>
   </tr>
   <tr>
     <td>6</td>
-    <td><strong>US21 </strong></td>
+    <td><strong>US21 / US52</strong></td>
     <td>Cancelar una suscripción</td>
     <td>Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente</td>
     <td>3</td>
   </tr>
   <tr>
     <td>7</td>
-    <td><strong>US02</strong></td>
+    <td><strong>US02 / US34</strong></td>
     <td>Editar perfil del usuario</td>
     <td>Como usuario ya registrado quiero realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.</td>
     <td>2</td>
   </tr>
   <tr>
     <td>8</td>
-    <td><strong>US04</strong></td>
+    <td><strong>US04 / US36</strong></td>
     <td>Cambiar Contraseña</td>
     <td>Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.</td>
     <td>2</td>
   </tr>
   <tr>
     <td>9</td>
-    <td><strong>US03</strong></td>
+    <td><strong>US03 / US35</strong></td>
     <td>Iniciar sesión en la aplicación</td>
     <td>Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.</td>
     <td>1</td>
   </tr>
   <tr>
     <td>10</td>
-    <td><strong>US05</strong></td>
+    <td><strong>US05 / US37</strong></td>
     <td>Cerrar Sesión</td>
     <td>Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo web.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td><strong>US54</strong></td>
+    <td>Gestionar mis favoritos en la aplicación</td>
+    <td>Como usuario de CambiaZo, quiero tener la opción de acceder a un centro de soporte para reportar y resolver mis problemas técnicos.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td><strong>US54 / US55</strong></td>
+    <td>Acceder a la sección de preguntas frecuentes y comentarios</td>
+    <td>Como</td>
     <td>1</td>
   </tr>
 
   <!-- EPIC ID: EP02 -->
   <tr>
-    <td>11</td>
-    <td><strong>US06</strong></td>
+    <td>13</td>
+    <td><strong>US06 / US38</strong></td>
     <td>Filtrado de Objetos</td>
     <td>Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.</td>
     <td>5</td>
     <td rowspan="10"><strong>EP02</strong></td>
   </tr>
   <tr>
-    <td>12</td>
-    <td><strong>US12</strong></td>
+  <tr>
+    <td>14</td>
+    <td><strong>US12 / US44</strong></td>
     <td>Crear publicación de intercambio</td>
     <td>Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>13</td>
+    <td>15</td>
     <td><strong>US16</strong></td>
     <td>Visualización de objetos disponibles para intercambio</td>
     <td>Como usuario, necesito poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>14</td>
+    <td>16</td>
     <td><strong>US19</strong></td>
     <td>Ver la información detallada de un producto publicado</td>
     <td>Como usuario de la aplicación, quiero poder ver la información completa de un producto en el que estoy interesado, para poder decidir si quiero guardarlo en mis favoritos o proponer un intercambio.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>15</td>
+    <td>17</td>
     <td><strong>US11</strong></td>
     <td>Realización de una oferta de intercambio</td>
     <td>Como usuario de la aplicación de intercambio, quiero seleccionar uno de mis artículos y enviarlo como oferta de intercambio, para poder ofrecerlo a cambio de otro artículo publicado por otro usuario.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>16</td>
-    <td><strong>US13</strong></td>
+    <td>18</td>
+    <td><strong>US13 / US45</strong></td>
     <td>Editar publicación de intercambio</td>
     <td>Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>17</td>
+    <td>19</td>
     <td><strong>US15</strong></td>
     <td>Gestión de intercambios</td>
     <td>Como usuario de la aplicación, quiero revisar el estado de los intercambios que he enviado, recibido o aceptado, para poder ver los detalles y gestionar mis transacciones de intercambio de manera eficiente.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>18</td>
-    <td><strong>US18</strong></td>
+    <td>20</td>
+    <td><strong>US18 / US50</strong></td>
     <td>Aceptar o Rechazar un Intercambio</td>
     <td>Como usuario que ha recibido una oferta de intercambio, quiero poder revisar los detalles de la oferta y tomar una decisión para aceptar o rechazar el intercambio, para poder gestionar mis transacciones de manera eficiente y asegurada.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>19</td>
+    <td>21</td>
     <td><strong>US10</strong></td>
     <td>Visualización de artículos publicados para intercambio</td>
     <td>Como usuario de la aplicación de intercambio, quiero ver los artículos que he publicado, para revisar cuáles están disponibles para intercambio.</td>
     <td>2</td>
   </tr>
-  <tr>
-    <td>20</td>
-    <td><strong>US14</strong></td>
+   <tr>
+    <td>22</td>
+    <td><strong>US14 / US46</strong></td>
     <td>Eliminar publicación de intercambio</td>
     <td>Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.</td>
     <td>2</td>
   </tr>
-
+   
   <!-- EPIC ID: EP03 -->
   <tr>
-    <td>21</td>
-    <td><strong>US07</strong></td>
-    <td>Visualización de ONGs registradas y filtrado</td>
-    <td>Como usuario Donante, quiero visualizar la lista de ONGs registradas y poder filtrarlas por nombre usando el buscador, para encontrar la ONG específica en la cual me gustaría hacer mi donación.</td>
+    <td>23</td>
+    <td><strong>US07 / US39</strong></td>
+    <td>Asignación de locker para intercambio</td>
+    <td>Como usuario quiero que la plataforma me sugiera un locker cercano para poder realizar el intercambio de manera sencilla.</td>
     <td>5</td>
-    <td rowspan="4"><strong>EP03</strong></td>
+      <td rowspan="6"><strong>EP03</strong></td>
   </tr>
   <tr>
-    <td>22</td>
-    <td><strong>US08</strong></td>
+    <td>24</td>
+    <td><strong>US08 / US40</strong></td>
     <td>Brindar reseña sobre el Intercambiador</td>
     <td>Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>23</td>
-    <td><strong>US17</strong></td>
+    <td>25</td>
+    <td><strong>US17 / US49</strong></td>
     <td>Visualizar el perfil del usuario que publique un producto</td>
     <td>Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>24</td>
-    <td><strong>US22</strong></td>
-    <td>Visualizar el perfil de las ONG’s registradas</td>
-    <td>Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar .</td>
-    <td>3</td>
+    <td>26</td>
+    <td><strong>US22 / US53</strong></td>
+    <td>Recepción de PIN para apertura de locker</td>
+    <td>Como usuario quiero recibir un PIN seguro desde la plataforma para abrir el locker de forma segura.</td>
+    <td>5</td>
   </tr>
-
+  <tr>
+    <td>27</td>
+    <td><strong>US31 / US56</strong></td>
+    <td>Confirmación de objeto depositado en locker</td>
+    <td>Como usuario quiero visualizar la imagen del objeto depositado para verificar que esté correctamente colocado.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td><strong>US32 / US57</strong></td>
+    <td>Validación final y desbloqueo del locker</td>
+    <td>Como usuario quiero validar el objeto depositado antes de generar el PIN final para su retiro y asegurar mi intercambio.</td>
+    <td>5</td>
+  </tr>
+  
   <!-- EPIC ID: EP04 -->
   <tr>
-    <td>25</td>
+    <td>29</td>
     <td><strong>US27</strong></td>
     <td>Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.</td>
     <td>Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.</td>
@@ -1695,35 +1750,35 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
     <td rowspan="6"><strong>EP04</strong></td>
   </tr>
   <tr>
-    <td>26</td>
+    <td>30</td>
     <td><strong>US30</strong></td>
     <td>Navegación en la Landing Page</td>
     <td>Como usuario visitante, deseo contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>27</td>
+    <td>31</td>
     <td><strong>US29</strong></td>
     <td>Ver los planes y precios</td>
     <td>Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de descargar la aplicación.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>28</td>
+    <td>32</td>
     <td><strong>US26</strong></td>
     <td>Visualizar las características clave de la aplicación</td>
     <td>Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.</td>
     <td>2</td>
   </tr>
   <tr>
-    <td>29</td>
+    <td>33</td>
     <td><strong>US28</strong></td>
     <td>Acceder a la página principal de CambiaZo</td>
-    <td>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo web.</td>
+    <td>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar artículos directamente desde mi dispositivo web.</td>
     <td>2</td>
   </tr>
   <tr>
-    <td>30</td>
+    <td>34</td>
     <td><strong>US25</strong></td>
     <td>Visualización de la Historia de la Startup</td>
     <td>Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.</td>
@@ -1732,53 +1787,36 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
 
   <!-- EPIC ID: EP05 -->
   <tr>
-    <td>31</td>
+    <td>35</td>
     <td><strong>TS01</strong></td>
     <td>API User</td>
     <td>Como usuario desarrollador que configura la plataforma quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.</td>
     <td>5</td>
-    <td rowspan="5"><strong>EP05</strong></td>
+    <td rowspan="4"><strong>EP05</strong></td>
   </tr>
   <tr>
-    <td>32</td>
+    <td>36</td>
     <td><strong>TS02</strong></td>
     <td>API Review</td>
     <td>Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar reseñas a otros usuarios para mejorar la interacción entre usuarios y la plataforma.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>33</td>
+    <td>37</td>
     <td><strong>TS03</strong></td>
-    <td>API ONGs</td>
-    <td>Como usuario developer que configura la plataforma quiero diseñar una API que simplifique la obtención de información sobre las ONGs para integrarla de manera efectiva en la aplicación.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>34</td>
-    <td><strong>TS04</strong></td>
     <td>API Memberships</td>
     <td>Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>35</td>
-    <td><strong>TS05</strong></td>
+    <td>38</td>
+    <td><strong>TS04</strong></td>
     <td>API Object</td>
     <td>Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.</td>
     <td>5</td>
   </tr>
 </table>
-<br>
 
-A continuación se presenta una representación gráfica del mismo en la plataforma Pivotal Tracker:
-
-<div align="center">
-
-[![Product Backlog.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Product-Backlog/pivotal.png?raw=true)](https://www.pivotaltracker.com/n/projects/2699481)
-</div>
-
-
-****Enlace:**** [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
 
 # Capítulo IV: Solution Software Design
 
