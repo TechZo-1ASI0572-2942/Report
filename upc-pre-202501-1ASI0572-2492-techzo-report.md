@@ -1371,12 +1371,12 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 | US04, US36 | Cambiar Contraseña |
 | US05, US37 | Cerrar Sesión |
 | US09, US41 | Eliminación de cuenta |
-| US20, US52 | Adquirir la suscripción premium |
-| US21, US53 | Cancelar una suscripción |
+| US20, US51 | Adquirir la suscripción premium |
+| US21, US52 | Cancelar una suscripción |
 | US23       | Gestionar mis favoritos en la aplicación |
 | US24       | Ver reseñas recibidas |
-| US55       | Acceder al centro de soporte para resolver cualquier problema técnico que se presente |
-| US56       | Acceder a la sección de preguntas frecuentes y comentarios |
+| US54      | Acceder al centro de soporte para resolver cualquier problema técnico que se presente |
+| US55       | Acceder a la sección de preguntas frecuentes y comentarios |
 
 <br>
 
@@ -1390,9 +1390,9 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 | US13, US45 | Editar publicación de intercambio |
 | US14, US46 | Eliminar publicación de intercambio |
 | US15       | Gestión de intercambios |
-| US16, US48 | Visualización de objetos disponibles para intercambio |
+| US16 | Visualización de objetos disponibles para intercambio |
 | US18, US50 | Aceptar o Rechazar un Intercambio |
-| US19, US51 | Ver la información detallada de un producto publicado |
+| US19 | Ver la información detallada de un producto publicado |
 
 <br>
 
@@ -1608,16 +1608,16 @@ Tomamos como historia de usuario base la historia de usuario **US12 / US42**: *C
   </tr>
   <tr>
     <td>11</td>
-    <td><strong>US54</strong></td>
+    <td><strong>US23</strong></td>
     <td>Gestionar mis favoritos en la aplicación</td>
     <td>Como usuario de CambiaZo, quiero tener la opción de acceder a un centro de soporte para reportar y resolver mis problemas técnicos.</td>
     <td>1</td>
   </tr>
   <tr>
     <td>12</td>
-    <td><strong>US54 / US55</strong></td>
+    <td><strong>US55</strong></td>
     <td>Acceder a la sección de preguntas frecuentes y comentarios</td>
-    <td>Como</td>
+    <td>Como usuario de CambiaZo, quiero tener la opción de acceder a un centro de soporte para reportar y resolver mis problemas técnicos.</td>
     <td>1</td>
   </tr>
 
