@@ -1885,6 +1885,12 @@ De acuerdo con los bounded contexts definidos previamente, se desarrollaron sus 
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/bounded-intercambios.png?raw=true" alt="bounded-intercambios" style="width: 600px; height: auto;"><br><br>
 </div>
 
+**3. Bounded Context: Lockers Management**
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/canvases-locker.png?raw=true" alt="canvases-locker" style="width: 600px; height: auto;"><br><br>
+</div>
+
 ****Enlace:**** [Bounded Context Canvases [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
 
 ### 4.1.2 Context Mapping
@@ -1901,6 +1907,12 @@ En esta sección explicamos y evidenciamos el proceso de elaboración de un conj
 
 <div align="center">
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/context-exchange.png?raw=true" alt="context-exchange" style="width: 600px; height: auto;"><br><br>
+</div>
+
+**Locker Management**
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/locker-management.png?raw=true" alt="locker-management" style="width: 600px; height: auto;"><br><br>
 </div>
 
 
