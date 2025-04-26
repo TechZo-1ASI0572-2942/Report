@@ -228,74 +228,6 @@ objetivos.</td>
 
 <div style="page-break-after: always;"></div>
 
-# Objetivos SMART
-
-Los objetivos SMART son una herramienta esencial para establecer metas claras y alcanzables en cualquier proyecto. SMART es un acrónimo que significa Specific (Específico), Measurable (Medible), Achievable (Alcanzable), Relevant (Relevante) y Time-bound (Con un plazo definido). Este enfoque asegura que cada objetivo esté bien definido y sea cuantificable, lo que facilita el seguimiento y la evaluación del progreso. Al ser alcanzables y relevantes, estos objetivos están alineados con las estrategias del proyecto, mientras que el establecimiento de plazos garantiza un enfoque constante y un sentido de urgencia para lograr los resultados deseados.
-
-### Huamani Mandujano, Joseph Alexis
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Mejorar competencias en comunicación efectiva dentro de equipos de desarrollo y clientes para roles de consultoría tecnológica.                       |
-| **Fecha de inicio**               | 4/2/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/25/25                                                                                                                                              |
-| **S - Specific** | Joseph fortalecerá su habilidad para comunicar soluciones técnicas complejas de manera clara y efectiva tanto a miembros del equipo como a clientes, utilizando técnicas de comunicación enfocadas en el usuario.                                      |
-| **M - Measurable** | Realizar cinco presentaciones y reuniones de seguimiento con clientes y equipos internos, midiendo la comprensión del cliente y el equipo a través de encuestas de satisfacción al final de cada interacción.                                          |
-| **A - Achievable** | Utilizará herramientas y técnicas de presentación visual (como diagramas y esquemas) para mejorar la comprensión de conceptos técnicos y facilitar la toma de decisiones informadas por parte de los clientes.                                        |
-| **R - Relevant** | La capacidad de comunicar de manera efectiva es esencial para el éxito en roles de consultoría, donde es clave garantizar que tanto el equipo como los clientes comprendan y compartan los mismos objetivos.                                          |
-| **T - Time-bound** | Desarrollar estas habilidades y completar las presentaciones antes del final de septiembre, con revisiones periódicas después de cada presentación para evaluar y mejorar el enfoque de comunicación.                                                  |
-<br>
-
-### Mendoza Carrión, Mathias Andre
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Desarrollar habilidades avanzadas en liderazgo de equipos multidisciplinarios para mejorar la gestión de proyectos de software.                       |
-| **Fecha de inicio**               | 4/01/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/24/25                                                                                                                                              |
-| **S - Specific** | Mathias mejorará sus habilidades de liderazgo colaborando con equipos de desarrollo, diseño y marketing, utilizando metodologías ágiles para garantizar la entrega exitosa de proyectos de software en tiempo y forma.                                    |
-| **M - Measurable** | Liderar dos proyectos de software desde la planificación hasta la entrega, midiendo el éxito a través de la satisfacción del cliente y el cumplimiento de los plazos establecidos.                                                                      |
-| **A - Achievable** | Implementará técnicas avanzadas de gestión de proyectos y herramientas como Jira o Trello para monitorear el progreso y garantizar la colaboración efectiva del equipo, mejorando su capacidad de coordinar equipos multidisciplinarios.                          |
-| **R - Relevant** | Las habilidades de liderazgo y gestión de proyectos son fundamentales para su crecimiento en roles de dirección y manejo de equipos en el sector tecnológico.                                                  |
-| **T - Time-bound** | Completar estos dos proyectos dentro de un plazo de un mes, con revisiones semanales para asegurar que los plazos se cumplan y el equipo mantenga una alta productividad.                                                                           |
-<br>
-
-### Quispe Andia, Jeremy Joel
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Desarrollar habilidades en análisis de datos avanzados y ciencia de datos aplicables a la mejora continua de productos digitales.                     |
-| **Fecha de inicio**               | 4/02/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/25/25                                                                                                                                              |
-| **S - Specific** | Jeremy adquirirá conocimientos en herramientas avanzadas de análisis de datos como Python, R y SQL, para analizar grandes volúmenes de datos y descubrir insights clave que contribuyan a la toma de decisiones de producto.                               |
-| **M - Measurable** | Completar dos análisis de conjuntos de datos grandes y generar informes con recomendaciones basadas en datos que mejoren la experiencia del usuario y el rendimiento del producto, midiendo el impacto a través de métricas clave de producto.             |
-| **A - Achievable** | Participará en programas de capacitación de ciencia de datos y aplicará el conocimiento adquirido en los proyectos actuales, mejorando sus habilidades técnicas en análisis de datos.                                                                   |
-| **R - Relevant** | Estas habilidades son esenciales para el desarrollo de productos en el sector digital, donde el análisis basado en datos es clave para mejorar continuamente la experiencia del usuario y la calidad del producto.                                         |
-| **T - Time-bound** | Completar estos análisis antes del final de septiembre, con revisiones quincenales para ajustar el enfoque según los resultados y las métricas de impacto obtenidas.                                                                                      |
-<br>
-
-### Santisteban Palomino, Ian Haziel Donato
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Desarrollar competencias en automatización de pruebas para garantizar la calidad continua de los proyectos de software.                              |
-| **Fecha de inicio**               | 4/03/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/26/25                                                                                                                                              |
-| **S - Specific** | Ian aprenderá a diseñar y ejecutar pruebas automatizadas utilizando herramientas como Selenium y JUnit, para garantizar que el software desarrollado funcione correctamente y mantenga su calidad en cada iteración de desarrollo.                         |
-| **M - Measurable** | Crear y ejecutar 15 casos de pruebas automatizadas en dos proyectos, midiendo el éxito en términos de cobertura de pruebas y reducción de defectos reportados en las etapas finales del ciclo de desarrollo.                                             |
-| **A - Achievable** | Participará en un curso intensivo de pruebas automatizadas y aplicará el conocimiento adquirido en proyectos actuales, mejorando su capacidad para diseñar pruebas eficientes y efectivas.                                                             |
-| **R - Relevant** | La automatización de pruebas es una habilidad crucial para garantizar la calidad continua en proyectos de software, especialmente en entornos ágiles donde las iteraciones rápidas requieren verificaciones constantes.                                   |
-| **T - Time-bound** | Completar el diseño y ejecución de las pruebas automatizadas antes del 29 de septiembre, con revisiones periódicas para ajustar el enfoque de prueba en función de los resultados obtenidos.   
-
-### Augusto Jose, Pin Matallana  
-| **Campo**                         | **Descripción**                                                                                                                                     |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Descripción del objetivo**      | Fortalecer habilidades en revisión y validación de pruebas funcionales, contribuyendo al aseguramiento de la calidad en los desarrollos del equipo. |
-| **Fecha de inicio**               | 4/4/25                                                                                                                                              |
-| **Fecha de cumplimiento esperada** | 4/27/25                                                                                                                                              |
-| **S - Specific** | Augusto se enfocará en validar los resultados de pruebas funcionales realizadas por sus compañeros, asegurándose de que las funcionalidades cumplan con los criterios de aceptación establecidos en las User Stories.                         |
-| **M - Measurable** | Revisar y validar al menos 10 funcionalidades desarrolladas, documentando observaciones y colaborando con el equipo para corregir errores antes de las entregas finales.                                             |
-| **A - Achievable** | Utilizará herramientas como Jira y GitHub para registrar y dar seguimiento a los resultados de pruebas, aplicando buenas prácticas en la revisión de entregables.                                                             |
-| **R - Relevant** | La revisión de pruebas es clave para garantizar productos funcionales y confiables, especialmente en entornos colaborativos y de desarrollo ágil.                                   |
-| **T - Time-bound** | Completar la validación y revisión de funcionalidades dentro del plazo establecido, con sesiones de retroalimentación que permitan mejorar la calidad de los desarrollos futuros. |
-                                                         |
-
 <br><br>
 
 
@@ -315,7 +247,7 @@ Nuestra principal solución, CambiaZo, es una aplicación web diseñada para tra
 
 En TechZo, estamos comprometidos con la seguridad, transparencia y justicia en cada transacción. Trabajamos constantemente para garantizar que los usuarios tengan acceso a información clara y detallada sobre los productos disponibles, fomentando una experiencia de intercambio confiable y satisfactoria. Al combinar tecnología de vanguardia con un enfoque en la responsabilidad social, buscamos impulsar un cambio positivo en la forma en que consumimos y reutilizamos.
 
-* **Misión:**<br>  La misión de TechZo como empresa es promover un estilo de vida sostenible y consciente, proporcionando a los usuarios una plataforma accesible y segura para intercambiar y donar bienes de manera justa y responsable. Buscamos reducir el impacto ambiental fomentando la reutilización, al tiempo que apoyamos a las comunidades más vulnerables a través de un modelo inclusivo de donaciones.<br><br>
+* **Misión:**<br>  La misión de TechZo como empresa es promover un estilo de vida sostenible y consciente, proporcionando a los usuarios una plataforma accesible y segura para intercambiar y donar bienes de manera justa y responsable.<br><br>
 
 
 * **Visión:** <br>
@@ -383,7 +315,7 @@ Esta problemática es una constante con el pasar de los años ya que recién es 
 Aunque la problemática de los residuos y la falta de reutilización es global, la aplicación se enfocará inicialmente en la población peruana, con planes de expansión a otras regiones en función de los resultados y la demanda.<br><br>
 
 * **HOW?**<br>
-Se implementará una propuesta de solución mediante el desarrollo de una aplicación web que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias, además de permitir realizar donaciones a organizaciones benéficas. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.<br><br>
+Se implementará una propuesta de solución mediante el desarrollo de una aplicación web que permita a los usuarios publicar posts de objetos que deseen intercambiar por otras pertenencias. Todo ello en una plataforma intuitiva, fácil de manejar y con opciones de personalización.<br><br>
 
 * **HOW MUCH?**<br>
 El presupuesto para el desarrollo de la aplicación web varía en función de los requisitos específicos del proyecto. Se estima que podría oscilar entre S/. 20,000 y S/. 50,000, dependiendo de la complejidad y las características de la aplicación.<br><br>
@@ -396,11 +328,9 @@ Sin embargo, hemos notado que hay una gran dificultad al que este sector de la p
 ¿Cómo implementamos de manera eficaz un modelo de intercambio de pertenencias?<br><br>
 
 
-**Problem Statement 2:** En la actualidad, se puede observar que hay una base sólida de organizaciones benéficas que siempre apoyan a diversos sectores vulnerables de la población, ya sea con donaciones de víveres, ropa, objetos de primera necesidad y/o apoyo económico.
+**Problem Statement 2:** En la actualidad, se puede observar que hay una base sólida de organizaciones benéficas que siempre apoyan a diversos sectores vulnerables de la población.
 
 Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas organizaciones, es que no hay un modelo sólido que organice toda la información de estos grupos y que permita a los contribuidores tener un fácil acceso a todos los detalles correspondientes, ya sean campañas de donación o de aporte monetario benéfico.
-
-¿Cómo podemos desarrollar una funcionalidad que permita a los usuarios realizar aportes benéficos de manera sencilla e intuitiva, facilitando la conexión entre Donadores y organizaciones?
 
 #### 1.2.2.2 Lean UX Assumptions
 
@@ -410,7 +340,7 @@ Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas 
 
     + **¿Dónde encaja nuestro producto en su trabajo o en su vida?**<br> El producto se integra en la vida de los usuarios como una herramienta para fomentar un estilo de vida sostenible, permitiéndoles participar activamente en la economía circular y contribuir a la reducción de residuos.<br><br>
 
-    + **¿Cuándo y cómo se utiliza nuestro producto?**<br> Nuestro producto es usado cuando los usuarios sientan que ya no necesitan más una pertenencia y en vez de solo desecharla, darle un nuevo uso para alguien más, intercambiándose por algo que sí necesite o realizando donaciones a organizaciones benéficas para aquellos que más lo necesitan.<br><br>
+    + **¿Cuándo y cómo se utiliza nuestro producto?**<br> Nuestro producto es usado cuando los usuarios sientan que ya no necesitan más una pertenencia y en vez de solo desecharla, darle un nuevo uso para alguien más, intercambiándose por algo que sí necesite.<br><br>
 
 
     + **¿Qué problemas resuelve nuestro producto?**<br>Cambiazo simplifica el intercambio y la donación de objetos, ofreciendo una plataforma segura y conveniente que promueve la reutilización y reduce el desperdicio. Con medidas de seguridad integradas, aborda las preocupaciones sobre transacciones fraudulentas, proporcionando una solución completa para una experiencia de intercambio confiable y sostenible.<br><br>
@@ -422,7 +352,7 @@ Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas 
 
  + **Business Outcomes:** 
 
-    1. **Creo que nuestros usuarios necesitan** tener un medio seguro y fácil de usar para poder realizar intercambios y/o donaciones de manera sencilla y eficaz.
+    1. **Creo que nuestros usuarios necesitan** tener un medio seguro y fácil de usar para poder realizar intercambios de manera sencilla y eficaz.
 
     2. **Estas necesidades se pueden resolver con** una aplicación movil que tenga una interfaz intuitiva y que ofrezca que usuarios del Perú puedan realizar publicaciones de intercambio de sus pertenencias y solicitar cierto producto a cambio.
 
@@ -452,10 +382,6 @@ Pese a ello, hemos identificado un factor crítico que afecta a muchas de estas 
 **Creemos que**  permitir la interacción entre los usuarios al momento de mostrar interés por un artículo, ayudará a que puedan coordinar el intercambio de mejor manera <br>**Sabremos que lo habremos logrado**  cuando se refleje a través de los comentarios, que más del 50% de los usuarios resalte el sistema de comunicación entre usuarios, previo al intercambio.
 
 
-**Creemos que**  al tener la opción de realizar donaciones a personas de escasos recursos económicos, facilitará a los usuarios que deseen donar objetos que ya no utilizan, a hacerlo y a contribuir con este acto solidario.<br>**Sabremos que esto es cierto**  cuando la cantidad de usuarios que han donado a través de nuestra plataforma, supere el 10% de usuarios registrados dentro de la aplicación cada mes.
-
-
-
 #### 1.2.2.4 Lean UX Canvas
 La aplicación **CambiaZo**  es una plataforma digital diseñada para que los usuarios puedan deshacerse de los objetos que ya no desean tener, intercambiándolos por otros artículos que desean de otros usuarios. Además, tiene como objetivo principal convertirse en la plataforma digital líder de intercambio de productos, promoviendo una vida consciente y sostenible a nivel mundial.
 
@@ -471,13 +397,11 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
             <li>Desarrollar una aplicación web para facilitar el intercambio de objetos entre usuarios.</li><br>
             <li>Permitir la donación de bienes a organizaciones benéficas.</li><br>
             <li>Implementar opciones de búsqueda y comunicación entre usuarios para coordinar intercambios.</li><br>
-            <li>Incluir funcionalidades para registrar donaciones y asegurar transacciones seguras.</li><br>
             </ul><br>
         </td>
         <td valign="top">
             <div align="center"><br><b>Business Outcomes</b></div><br>
             <ul>
-              <li>Satisfacción del usuario en intercambios y donaciones.</li><br>
               <li>Obtener financiamiento para expandir la app.</li><br>
               <li>Aumentar la visibilidad y alcance con marketing en redes sociales.</li>
             </ul><br>
@@ -502,7 +426,7 @@ La aplicación **CambiaZo**  es una plataforma digital diseñada para que los us
     <tr>
         <td valign="top">
             <div align="center"><br><b>Hypotheses</b></div><br>
-            <p>Creemos que nuestra aplicación promoverá la economía circular y un estilo de vida sostenible, facilitando el intercambio y la donación de bienes.<br><br>Sabemos que esto es cierto cuando los usuarios realicen más de 30 intercambios diarios y más del 10% de los usuarios registrados participen en donaciones mensuales.</p><br>
+            <p>Creemos que nuestra aplicación promoverá la economía circular y un estilo de vida sostenible, facilitando el intercambio y la donación de bienes.<br><br>Sabemos que esto es cierto cuando los usuarios realicen más de 30 intercambios diarios y más del 10% de los usuarios registrados participen en  mensuales.</p><br>
         </td>
         <td valign="top">
             <div align="center"><br><b>What's the most important thing we need to learn first?</b></div><br>
@@ -621,7 +545,7 @@ En esta sección se realizará el análisis competitivo de los competidores iden
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td>Aplicación web que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios o donaciones, enfocándose en la sostenibilidad y la economía circular.
+    <td>Aplicación web que conecta a personas interesadas en darle un nuevo uso a sus pertenencias mediante intercambios, enfocándose en la sostenibilidad y la economía circular.
 	</td>
     <td>Página Web para intercambio de bienes y servicios entre usuarios, fomentando la economía colaborativa y la reutilización de recursos.</td>
     <td>Plataforma para intercambiar servicios y artículos de segunda mano de manera gratuita, promoviendo un estilo de vida sostenible y consciente.</td>
@@ -716,13 +640,9 @@ Hemos empleado el análisis FODA para identificar las oportunidades y amenazas e
 
 + Para satisfacer las necesidades del **Segmento de Intercambiadores**, nos enfocamos en ofrecer una plataforma de intercambio intuitiva y dinámica que permita a los usuarios encontrar fácilmente los artículos deseados y realizar intercambios de manera rápida y segura. Implementaremos funciones avanzadas de búsqueda y filtros personalizables para facilitar la búsqueda de nuevos artículos.
 
-+ Para el **Segmento de Donadores**, nos distinguimos al proporcionar una experiencia de donación gratificante y transparente. Estableceremos alianzas con organizaciones benéficas para ampliar las opciones de donación.
-
 **Estrategia de Liderazgo en Costos:** 
 
 + Para el **Segmento de Intercambiadores**, nos comprometemos a mantener tarifas de intercambio competitivas y transparentes, y a ofrecer promociones especiales y descuentos para incentivar la participación activa en la plataforma.
-
-+ En cuanto al **Segmento de Donaciones**, nuestra estrategia se centra en ofrecer una plataforma de donación sin costos ocultos ni tarifas adicionales. Nos comprometemos a garantizar que el proceso de donación sea completamente gratuito y accesible para todos los usuarios.
 
 **Estrategia de Marketing:**
 
@@ -1305,7 +1225,7 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 
 Para diseñar una plataforma que responda eficazmente a las necesidades de nuestros usuarios, en CambiaZo hemos desarrollado una User Task Matrix. 
 
-En esta sección, presentamos un análisis detallado de las tareas que los usuarios, tanto Intercambiadores como Donadores, realizan para alcanzar sus objetivos. Cada tarea se evalúa en función de su frecuencia y la importancia que los usuarios le atribuyen, permitiéndonos enfocar el diseño de nuestra aplicación en lo que realmente importa para ellos.
+En esta sección, presentamos un análisis detallado de las tareas que los usuarios, Intercambiadores, realizan para alcanzar sus objetivos. Cada tarea se evalúa en función de su frecuencia y la importancia que los usuarios le atribuyen, permitiéndonos enfocar el diseño de nuestra aplicación en lo que realmente importa para ellos.
 
 
 
@@ -1387,17 +1307,6 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 
 <br><br>
 
-<b>Segmento Donadores</b><br>
-
-<div align="center">
-
-![Empathy Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-2.PNG?raw=true)
-</div>
-
-**Enlace:** [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/pKfKi)
-
-<br><br>
-
 ### 2.3.5 As-Is Scenario Mapping
 
 En esta sección, exploraremos los escenarios actuales de los usuarios, mapeando cómo interactúan con los procesos y herramientas existentes. El As-Is Scenario Mapping nos permitirá entender las prácticas actuales y detectar áreas de mejora para optimizar la experiencia del usuario en nuestra plataforma.<br><br>
@@ -1408,16 +1317,6 @@ En esta sección, exploraremos los escenarios actuales de los usuarios, mapeando
 <div align="center">
 
 ![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG?raw=true)
-</div>
-
-**Enlace:** [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
-<br><br>
-
-<b>Segmento Donadores</b><br>
-
-<div align="center">
-
-![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-2.PNG?raw=true)
 </div>
 
 **Enlace:** [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
@@ -1442,17 +1341,6 @@ En esta sección, visualizaremos los escenarios futuros propuestos para nuestros
 
 **Enlace:** [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
 <br><br>
-
-<b>Segmento Donadores</b><br>
-
-<div align="center">
-
-![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-2.png?raw=true)
-</div>
-
-**Enlace:** [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
-<br><br>
-
 
 
 ## 3.2. User Stories
@@ -1551,7 +1439,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**US19**|Ver la información detallada de un producto publicado| Como usuario de la aplicación, quiero poder ver la información completa de un producto en el que estoy interesado, para poder decidir si quiero guardarlo en mis favoritos o proponer un intercambio. | **Escenario 1: Ver la información detallada del producto**<br><br>**Dado que** he seleccionado una publicación de un objeto, **Cuando** se me abre la pantalla de información del artículo, **Entonces** debo poder ver los siguientes detalles del producto: la imagen del objeto (e.g., Chocolate MrBeast Bar), el valor aproximado del objeto, el nombre del usuario que publicó el producto, la calificación del usuario que lo publicó, el título del producto, la descripción del producto, la ubicación aproximada donde se puede intercambiar el objeto, y la lista de artículos que le interesa recibir a cambio.<br><br>**Escenario 2: Ver más información del usuario que publicó el producto**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el nombre o la imagen del usuario que lo publicó, **Entonces** se me redirigirá a una pantalla con más información sobre ese usuario, incluyendo su perfil, su calificación general y sus reseñas recibidas.<br><br>**Escenario 3: Guardar el producto en mis favoritos**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el ícono de favoritos (corazón), **Entonces** el objeto se guardará en mi lista de favoritos, **y** el ícono de corazón cambiará para indicar que el producto ya está guardado.<br><br>**Escenario 4: Proponer un intercambio**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el botón "Intercambiar", **Entonces** se me redirigirá a una pantalla donde podré hacer una oferta de intercambio, seleccionando el objeto que quiero ofrecer a cambio del artículo publicado. | **EP02** |
 |**US20**|Adquirir la suscripción premium|Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.|**Escenario 1: Localizar la sección para adquirir una suscripción.**<br><br>**Dado que** el usuario desea adquirir una suscripción para CambiaZo,<br><br>**Cuando** pulsa a la sección de configuración,<br><br>**Entonces**, le aparecerán varias opciones, entre las que figura “Ser premium”.<br><br>**Cuando** el usuario pulsa al botón,<br>será redirigido a una nueva ventana que le mostrará las suscripciones disponibles.<br><br>**Escenario 2: Visualizar los beneficios de la suscripción.**<br><br>**Dado que** el usuario se encuentra en la ventana correspondiente sobre las suscripciones,<br><br>**Entonces** cuando pulsa a una en específico podrá ver el precio por mes de cada una de ellas<br><br>**Y** los beneficios que incluyen cada una de estas.<br><br>**Escenario 3: Compra de la suscripción.**<br><br>**Dado que** el usuario ha decidido una suscripción de su interés,<br><br>**Entonces**, cuando pulsa a “Suscribirse”, se le redireccionará a una pasarela de pago para que pueda introducir su método de pago<br><br>**Y** procesar el pago respectivo y adquirir los nuevos beneficios.|**EP01**|
 |**US21**|Cancelar una suscripción|<p>Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente</p><p></p>|**Escenario 1: Acceso a la ventana de suscripciones.**<br><br>**Dado que** el usuario desea verificar la información del estado de su suscripción,<br><br>**Cuando** se dirige a la sección de configuración,<br><br>**Entonces**, observará un botón que dice “Mi suscripción”<br><br>**Y** al pulsar podrá ver los detalles de su suscripción.<br><br>**Escenario 2: Verificación de los detalles de la suscripción.**<br><br>**Dado que** el usuario se encuentra en la ventana que muestra el estado de su suscripción,<br><br>**Entonces**, podrá visualizar la fecha en la que se renueva su suscripción, los beneficios que obtiene<br><br>**Y** si es que se encuentra en un plan mensual o semianual.<br><br>**Escenario 3: Proceder a la cancelación.**<br><br>**Dado que** el usuario se encuentra en la ventana que muestra el estado de la suscripción,<br><br>**Entonces**, al tener ya la decisión de no continuar con el premium de CambiaZo,<br><br>**Y** podrá pulsar a un botón rojo que dice “Anular suscripción”<br><br>**Y** así terminaría la suscripción que no se renovará hasta su próxima fecha.|**EP01**|
-|**US22**|Visualizar el perfil de las ONG’S registradas|Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.|**Escenario 1: Acceso a la pestaña de ONG's**<br>**Dado que** el usuario se encuentra en la pestaña principal<br><br>**Cuando** pulsa a la etiqueta "ONG's"<br><br>**Entonces** se mostrarán todas las ONG's registradas dentro de la aplicación<br><br>**Escenario 2: Ver perfil de una ONG**<br><br>**Dado que** el usuario se encuentra dentro de la pestaña "ONG'S"<br><br>**Cuando** pulsa al recuadro que muestra el perfil de la ONG que desea visualizar<br><br>**Entonces** aparecerán los datos y características de la ONG seleccionada.<br><br>**Escenario 3: Donar a una ONG**<br><br>**Dado que** el usuario se encuentra en el perfil de la ONG seleccionada<br><br>**Cuando** pulsa a la opción “Donar”<br><br>**Entonces** aparecerán las opciones de donación (objetos o dinero)<br>**Y** el usuario podrá seleccionar la opción que desea donar<br>**Y** realizar la donación.|**EP03**|
+|**US22**|Visualizar el perfil de las ONG’S registradas|Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar .|**Escenario 1: Acceso a la pestaña de ONG's**<br>**Dado que** el usuario se encuentra en la pestaña principal<br><br>**Cuando** pulsa a la etiqueta "ONG's"<br><br>**Entonces** se mostrarán todas las ONG's registradas dentro de la aplicación<br><br>**Escenario 2: Ver perfil de una ONG**<br><br>**Dado que** el usuario se encuentra dentro de la pestaña "ONG'S"<br><br>**Cuando** pulsa al recuadro que muestra el perfil de la ONG que desea visualizar<br><br>**Entonces** aparecerán los datos y características de la ONG seleccionada.<br><br>**Escenario 3: Donar a una ONG**<br><br>**Dado que** el usuario se encuentra en el perfil de la ONG seleccionada<br><br>**Cuando** pulsa a la opción “Donar”<br><br>**Entonces** aparecerán las opciones de donación (objetos o dinero)<br>**Y** el usuario podrá seleccionar la opción que desea donar<br>**Y** realizar la donación.|**EP03**|
 |**US23**|Gestionar mis favoritos en la aplicación| Como usuario de la aplicación, quiero poder acceder a los objetos que he guardado como favoritos, para poder visualizarlos y eliminar los que ya no me interesen. | **Escenario 1: Ver objetos guardados como favoritos**<br><br>**Dado que** estoy en mi perfil, **Cuando** selecciono la opción "Favoritos", **Entonces** se me mostrará una lista de los objetos que he guardado como favoritos, incluyendo la imagen del objeto, el nombre del objeto, la descripción breve del objeto y el valor aproximado del objeto.<br><br>**Escenario 2: Eliminar un objeto de mis favoritos**<br><br>**Dado que** estoy visualizando la lista de favoritos, **Cuando** selecciono el botón de favoritos (ícono de corazón) de un objeto para eliminarlo, **Entonces** se mostrará un popup de confirmación con el mensaje: "¿Estás seguro de que deseas eliminar este objeto de tus favoritos?" **Y** podré seleccionar entre eliminar, que eliminará el objeto de mi lista de favoritos, o cancelar, que cerrará el popup sin realizar ninguna acción. **Y** si selecciono "Eliminar", el objeto desaparecerá de la lista de favoritos después de la confirmación. | **EP01** |
 |**US24**|Ver reseñas recibidas| Como usuario de la aplicación, quiero poder ver las reseñas y calificaciones que he recibido, para tener una referencia de mi reputación en la plataforma. | **Escenario 1: Ver la calificación general y reseñas recibidas**<br><br>**Dado que** estoy en mi perfil, **cuando** selecciono la opción "Mis Reseñas", **entonces** se me mostrará mi calificación general (promedio de estrellas), el número total de reseñas recibidas y una lista de las reseñas, mostrando el nombre del usuario que dejó la reseña, su calificación (número de estrellas) y el comentario de la reseña. | **EP01** |
 |**US25**|Visualización de la Historia de la Startup|<p>Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.</p><p></p>|**Escenario 1: Acceso a la historia de TechZo**<br><br>**Dado que** soy un visitante de la landing page<br><br>**Cuando** navegue por la página de inicio<br>**Y** encuentre la sección titulada “Quiénes Somos”<br><br>**Entonces** podré obtener información detallada sobre la historia de la startup.<br><br>**Escenario 2: Acceso a las redes sociales de TechZo**<br><br>**Dado que** el visitante se encuentra en el landing page<br><br>**Cuando** el visitante pulsa en la etiqueta “Contáctanos”<br>**Y** encuentre los botones con los logos de las redes sociales en las que puede encontrar la página de TechZo<br>**Y** pulsa encima del botón con el logo de la red social que desee ver<br><br>**Entonces** el usuario será redireccionado a la red social que seleccionó previamente.<br><br>**Escenario 3: Acceso a información de contacto**<br><br>**Dado que** el visitante se encuentra en la parte inferior de la landing page<br><br>**Cuando** el visitante se acerque a la sección “Comunícate con nosotros”<br><br>**Entonces** el visitante podrá observar los métodos de contacto de la startup “(01) 5718202, 992113864, 933960189, cambiazo@TechZo.pe”.|**EP04**|
@@ -1779,7 +1667,7 @@ Tomamos como historia de usuario base la historia de usuario US12: Como usuario 
     <td>24</td>
     <td><strong>US22</strong></td>
     <td>Visualizar el perfil de las ONG’s registradas</td>
-    <td>Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar donaciones.</td>
+    <td>Como usuario de la aplicación, quiero tener la opción de ver todas las ONG's disponibles para realizar .</td>
     <td>3</td>
   </tr>
 
@@ -1993,7 +1881,7 @@ De acuerdo con los bounded contexts definidos previamente, se desarrollaron sus 
 
 ### 4.1.2 Context Mapping
 
-En esta sección explicamos y evidenciamos el proceso de elaboración de un conjunto de mapas de contexto aplicados a nuestro proyecto CambiaZo, los cuales representan visualmente las relaciones estructurales entre los bounded contexts identificados. Para ello, analizamos detalladamente la información recolectada a lo largo del diseño del sistema, proponiendo y refinando diseños candidatos que ilustran cómo interactúan los contextos de Intercambios, Donaciones, Gestión de Lockers e Identidad de Usuario. Este análisis nos permitió alinear estratégicamente las responsabilidades y colaboraciones entre contextos, garantizando así una arquitectura coherente con los objetivos operativos y sociales de CambiaZo.
+En esta sección explicamos y evidenciamos el proceso de elaboración de un conjunto de mapas de contexto aplicados a nuestro proyecto CambiaZo, los cuales representan visualmente las relaciones estructurales entre los bounded contexts identificados. Para ello, analizamos detalladamente la información recolectada a lo largo del diseño del sistema, proponiendo y refinando diseños candidatos que ilustran cómo interactúan los contextos de Intercambios, Gestión de Lockers e Identidad de Usuario. Este análisis nos permitió alinear estratégicamente las responsabilidades y colaboraciones entre contextos, garantizando así una arquitectura coherente con los objetivos operativos y sociales de CambiaZo.
 
 **Identity and Access Management Context**
 
@@ -2009,10 +1897,6 @@ En esta sección explicamos y evidenciamos el proceso de elaboración de un conj
 
 
 **Context Mapping**
-
-**Identity and Access Management Context ↔ Donations Context**
-Relación clave:
-El Donations Context depende del Identity and Access Management (IAM) Context para validar la identidad y los permisos de los usuarios que desean registrar o agendar donaciones en lockers inteligentes. Esta integración garantiza que solo usuarios autenticados y autorizados puedan participar en procesos sensibles como la asignación de lockers y la trazabilidad de productos donados.
 
 **Identity and Access Management Context ↔ Exchanges Context**
 Relación clave:
