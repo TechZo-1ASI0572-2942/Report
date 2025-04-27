@@ -2109,6 +2109,12 @@ En esta capa, se gestionan las interacciones entre los usuarios y el sistema den
 <img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/interfacelayer_iam.png" alt="iam">
 
 
+#### 4.2.1.3 Application Layer
+
+En la Capa de Aplicación del Bounded Context de IAM, se gestionan los flujos de procesos de negocio relacionados con la autenticación, el registro y la actualización de usuarios. A través de Command Handlers como SignInCommandHandler, SignUpCommandHandler y UpdateProfileUserCommandHandler, se coordinan las acciones de escritura y se gestionan los comandos para la creación, actualización y autenticación de usuarios. Estos handlers facilitan la validación de datos y la manipulación de la información, trabajando de la mano con las entidades y servicios de la capa de dominio para garantizar la correcta gestión de usuarios en el sistema.
+
+<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/applicationlayer_iam.png" alt="iam">
+
 
 ### 4.2.2 Bounded Context: Exchanges
 
