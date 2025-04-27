@@ -2116,6 +2116,15 @@ En la Capa de Aplicación del Bounded Context de IAM, se gestionan los flujos de
 <img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/applicationlayer_iam.png" alt="iam">
 
 
+#### 4.2.1.4 Infrastructure Layer
+
+En esta capa, se gestionan los componentes que permiten la interacción con servicios externos en el Bounded Context de IAM. Esta capa implementa los repositorios definidos en la capa de dominio, como UserRepositoryImpl, para manejar la persistencia de usuarios en bases de datos. Además, gestiona servicios como MessageBrokerServiceImpl y EmailServiceImpl, encargados de la comunicación con sistemas de mensajería y el envío de correos electrónicos. La Capa de Infraestructura actúa como puente entre las capas superiores y los servicios externos, garantizando que las operaciones de datos y mensajes se ejecuten correctamente.
+
+<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/infrastructurelayer_iam.png" alt="iam">
+
+
+
+
 ### 4.2.2 Bounded Context: Exchanges
 
 #### 4.2.2.1 Domain Layer
