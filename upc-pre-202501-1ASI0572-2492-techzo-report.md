@@ -23,9 +23,9 @@
 |---------------------------------|----------------|
 | Huamani Mandujano, Joseph Alexis         | U20221A133     |
 | Mendoza Carrion, Mathias Andre          | U202216282     |
+| Pin Matallana, Augusto Jose  | U202210257     |
 | Quispe Andia, Jeremy Joel      | U202216279     |
 | Santisteban Palomino, Ian Haziel Donato | U202214059     |
-| Pin Matallana, Augusto Jose  | U202210257     |
 
 </div>
 
@@ -127,7 +127,7 @@
     - [4.1.3.2. Software Architecture Container Level Diagrams](#4132-software-architecture-container-level-diagrams)
     - [4.1.3.3. Software Architecture Deployment Diagrams](#4133-software-architecture-deployment-diagrams)
 - [4.2. Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
-  - [4.2.1. Bounded Context:](#421-bounded-context)
+  - [4.2.1. Bounded Context: IAM](#421-bounded-context-iam)
     - [4.2.1.1. Domain Layer](#4211-domain-layer)
     - [4.2.1.2. Interface Layer](#4212-interface-layer)
     - [4.2.1.3. Application Layer](#4213-application-layer)
@@ -145,6 +145,15 @@
     - [4.2.2.6. Bounded Context Software Architecture Code Level Diagrams](#4226-bounded-context-software-architecture-code-level-diagrams)
       - [4.2.2.6.1. Bounded Context Domain Layer Class Diagrams](#42261-bounded-context-domain-layer-class-diagrams)
       - [4.2.2.6.2. Bounded Context Database Design Diagram](#42262-bounded-context-database-design-diagram)
+  - [4.2.3. Bounded Context: Locker](#423-bounded-context-locker)
+    - [4.2.3.1. Domain Layer](#4231-domain-layer)
+    - [4.2.3.2. Interface Layer](#4232-interface-layer)
+    - [4.2.3.3. Application Layer](#4233-application-layer)
+    - [4.2.3.4. Infrastructure Layer](#4234-infrastructure-layer)
+    - [4.2.3.5. Bounded Context Software Architecture Component Level Diagrams](#4235-bounded-context-software-architecture-component-level-diagrams)
+    - [4.2.3.6. Bounded Context Software Architecture Code Level Diagrams](#4236-bounded-context-software-architecture-code-level-diagrams)
+      - [4.2.3.6.1. Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
+      - [4.2.3.6.2. Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
 
 ### [Bibliografía](#bibliografía)
 
@@ -276,9 +285,9 @@ A continuación, presentaremos los perfiles de los integrantes del equipo encarg
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **Huamani Mandujano, Joseph Alexis - u20221a133**             |Mi nombre es Joseph Huamani, soy estudiante de 6to ciclo en la carrera de Ingeniería de Software en la UPC. Apasionado por el desarrollo web y web, cuento con experiencia usando lenguajes como C++, Python, Java, C#, Javascript y Typescript. Además cuento con experiencia en desarrollo web con HTML5 y CSS3 usando frameworks para frontend como Angular, VueJs, React y Astro. En cuanto al backend frameworks  como Spring Boot, .Net y Flask. Manejo de base de datos como MySQL, MSSQL, PostgreSQL, Oracle, SQLite y MongoDB. Soy una persona que trabaja en equipo, responsable y que brinda soluciones creativas para la resolución de problemas adquiridas gracias a la programación competitiva. Espero poder seguir aprendiendo nuevas tecnologias y poder culminar este curso de manera satisfactoria.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/josephhuamani.png?raw=true" alt="Imagen de Joseph Huamani" />|
 | **Mendoza Carrión, Mathias André - u202216282** |Soy Mathias Andre Mendoza Carrión, un estudiante de 20 años de Ingeniería de Software en el sexto ciclo. Me caracterizo por ser organizado, trabajar bien en equipo y ser responsable. Actualmente, mi enfoque principal es el aprendizaje profundo y práctico en el desarrollo de software, con habilidades en lenguajes de programación como C++, Python, Java, C#, y JavaScript. También tengo conocimientos en frameworks como Angular y Vue, desarrollo web con HTML y CSS, así como en la gestión de bases de datos SQL y MongoDB. Aspiro a dominar nuevas tecnologías y comprender en detalle los principios fundamentales detrás del desarrollo de aplicaciones, con el objetivo de convertirme en un profesional capaz de crear soluciones innovadoras y eficientes en el campo del desarrollo de software.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/mathiasmendoza.png?raw=true" alt="Imagen de Mathias Mendoza"/> |
+| **Pin Matallana, Augusto Jose - u202210257**     |Mi nombre es Augusto Jose Pin Matallana, tengo 19 años y estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web frontend, especialmente utilizando Vue.js, TailwindCSS y Sass, así como tecnologías base como HTML, CSS y JavaScript. Como miembro del equipo, aporto un sólido enfoque en el desarrollo frontend, siempre comprometido con la calidad visual, funcional y de experiencia de usuario. Estoy emocionado por aprender y colaborar con el equipo, y por seguir desarrollando mis habilidades técnicas en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="Resources/Chapter-I/Profiles/augustopin.jpg" alt="Imagen de Augusto Pin"/> |
 | **Quispe Andia, Jeremy Joel - u202216279** |Mi nombre es Jeremy Joel Quispe Andia, soy estudiante de 6to ciclo de la carrera de Ingeniería de Software. Tengo una gran pasión por la programación competitiva y aspiro a convertirme en desarrollador Full Stack. Me gusta emplear soluciones creativas y eficientes para abordar cualquier desafío de la mejor manera posible. Como miembro del grupo, pretendo aportar todos mis conocimientos en el desarrollo web. Además, siempre colaboro con ideas y soluciones ante cualquier dificultad que se presente durante el desarrollo. Espero aprender mucho de mis compañeros y que todos juntos podamos emplear de manera adecuada las tecnologías que iremos aprendiendo a lo largo del proyecto.| <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/jeremyquispe.jpeg?raw=true" alt="Imagen de Jeremy Quispe"/>                 |
 | **Santisteban Palomino, Ian Haziel Donato - u202214059**     |Mi nombre es Ian Haziel Donato Santisteban Palomino, tengo 19 años y estoy cursando el sexto ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web utilizando HTML, CSS y JavaScript, y manejo frameworks como Vue y Angular. También tengo conocimientos en bases de datos con MySQL y en el uso de Figma para prototipado. Como miembro del equipo, aporto un sólido conocimiento en desarrollo de software y un compromiso constante con la excelencia en cada proyecto en el que participo. Estoy emocionado por aprender y colaborar con el equipo, así como por adquirir nuevas habilidades y conocimientos en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Profiles/iansantisteban.png?raw=true" alt="Imagen de Ian Santisteban"/> |
-| **Pin Matallana, Augusto Jose - u202210257**     |Mi nombre es Augusto Jose Pin Matallana, tengo 19 años y estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Me apasiona la resolución de problemas mediante la aplicación de conceptos y tecnologías innovadoras. Tengo experiencia en desarrollo web frontend, especialmente utilizando Vue.js, TailwindCSS y Sass, así como tecnologías base como HTML, CSS y JavaScript. Como miembro del equipo, aporto un sólido enfoque en el desarrollo frontend, siempre comprometido con la calidad visual, funcional y de experiencia de usuario. Estoy emocionado por aprender y colaborar con el equipo, y por seguir desarrollando mis habilidades técnicas en las tecnologías que utilizaremos en nuestro trabajo.    | <img src="Resources/Chapter-I/Profiles/augustopin.jpg" alt="Imagen de Augusto Pin"/> |
 
 <br><br>
 
@@ -2084,23 +2093,13 @@ En esta sección emplearemos el modelo C4 para crear la arquitectura de software
 
 En este capítulo exponemos y detallamos nuestra propuesta para la perspectiva táctica del diseño de la solución de software.
 
-### 4.2.1 Bounded Context:
+### 4.2.1 Bounded Context: IAM
 
 #### 4.2.1.1 Domain Layer
 
-#### 4.2.1.2 Interface Layer
+En esta capa, se gestionan las reglas de negocio y las entidades clave relacionadas con la gestión de usuarios y roles en el Bounded Context de IAM. Esta capa incluye entidades como User y Role, además de objetos de valor como RoleType, los cuales permiten definir las características y permisos de los usuarios. A través de agregados y servicios de dominio, como el UserRepository, se asegura la persistencia y gestión adecuada de los datos, facilitando la creación, actualización y eliminación de usuarios, así como la asignación y gestión de sus roles y permisos.
 
-#### 4.2.1.3 Application Layer
-
-#### 4.2.1.4 Infrastructure Layer
-
-#### 4.2.1.5 Bounded Context Software Architecture Component Level Diagrams
-
-#### 4.2.1.6 Bounded Context Software Architecture Code Level Diagrams
-
-##### 4.2.1.6.1 Bounded Context Domain Layer Class Diagrams
-
-##### 4.2.1.6.2 Bounded Context Database Design Diagram
+<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/domainlayer_iam.png" alt="iam">
 
 ### 4.2.2 Bounded Context: Exchanges
 
