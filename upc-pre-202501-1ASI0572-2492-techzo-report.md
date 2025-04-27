@@ -887,19 +887,19 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Erick Maycol</td>
+    <td>Mathias Andres</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Huallullo Cirineo</td>
+    <td>Hidalgo Torres</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>21 años</td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Ate</td>
+    <td>La Molina</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -907,7 +907,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Relizar intercambios seguros</td>
+    <td>Relizar intercambios seguros a través de lockers inteligentes</td>
   </tr>
   <tr>
     <td>Frustracion</td>
@@ -939,7 +939,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Erick Huallullo nos menciona que al contactar a otros usuarios para intercambiar objetos, utiliza el sistema de mensajería de CambiaZo, lo que ha facilitado una experiencia generalmente positiva y segura. Considera que productos como ropa, libros y pequeños dispositivos electrónicos son los más viables para intercambiar a través de CambiaZo, aunque sus principales preocupaciones al usar la plataforma son la seguridad de la transacción y la autenticidad de los productos. Funciones como la verificación de identidad y un sistema de calificaciones en CambiaZo son esenciales para fomentar la confianza entre los usuarios. Para verificar la confiabilidad de CambiaZo, revisa opiniones en tiendas de aplicaciones y foros. Además, cree que el uso de CambiaZo puede promover un consumo más sostenible, abordando desafíos como la cultura de consumo desmedido en Lima mediante la promoción del reciclaje y la reutilización de productos.
+    <td>Mathias Hidalgo, de 20 años, es un estudiante de Ingeniería de Software de Lima, soltero, calmado y analítico en sus decisiones, que usa principalmente apps móviles para redes sociales, compras y banca. Ha tenido buenas experiencias intercambiando objetos como electrónicos y ropa, contactando por WhatsApp o Facebook. Considera esencial para una app de intercambios la verificación de identidad, reseñas y fotos reales, y ve a los lockers inteligentes como una opción segura y práctica. Para mayor confianza, prefiere ver una foto del objeto antes de recogerlo y recibir asistencia clara en la app. Usaría CambiaZo 1 o 2 veces al mes para obtener seguridad, comodidad y variedad, sugiriendo mejoras como un sistema de reseñas, seguro contra fraudes y soporte rápido.
 </td>
   </tr>
 </tbody>
