@@ -2095,32 +2095,35 @@ En este capítulo exponemos y detallamos nuestra propuesta para la perspectiva t
 
 ### 4.2.1 Bounded Context: IAM
 
+El Bounded Context de Identity and Access Management (IAM) en el sistema CambiaZo se encarga de gestionar de manera segura la autenticación, autorización y administración de usuarios. Este contexto define claramente los límites de responsabilidad relacionados con el acceso al sistema, asegurando que solo usuarios autorizados puedan interactuar con las funcionalidades ofrecidas. Para lograrlo, IAM se estructura en varias capas —Dominio, Aplicación, Infraestructura e Interfaces—, cada una cumpliendo un rol fundamental en la organización del código y en la separación de preocupaciones.
+Asimismo, se presentan los componentes arquitectónicos, diagramas de clases y diseño de base de datos que sustentan la correcta implementación de este contexto, garantizando la integridad, seguridad y escalabilidad del proceso de gestión de usuarios y roles dentro del ecosistema de la aplicación.
+
 #### 4.2.1.1 Domain Layer
 
 En esta capa, se gestionan las reglas de negocio y las entidades clave relacionadas con la gestión de usuarios y roles en el Bounded Context de IAM. Esta capa incluye entidades como User y Role, además de objetos de valor como RoleType, los cuales permiten definir las características y permisos de los usuarios. A través de agregados y servicios de dominio, como el UserRepository, se asegura la persistencia y gestión adecuada de los datos, facilitando la creación, actualización y eliminación de usuarios, así como la asignación y gestión de sus roles y permisos.
 
-<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/domainlayer_iam.png" alt="iam">
+<img src="./Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/domainlayer_iam.png" alt="iam"><br><br>
 
 
 #### 4.2.1.2 Interface Layer
 
 En esta capa, se gestionan las interacciones entre los usuarios y el sistema dentro del Bounded Context de IAM. Aquí, los controladores como AuthenticationController y UsersController son responsables de manejar las solicitudes relacionadas con el inicio de sesión, registro y la gestión de usuarios. Estos controladores procesan los datos proporcionados por los usuarios a través de recursos como SignInResource y UserResource, asegurando que la comunicación entre el sistema y los usuarios sea eficiente y segura.
 
-<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/interfacelayer_iam.png" alt="iam">
+<img src="./Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/interfacelayer_iam.png" alt="iam"><br><br>
 
 
 #### 4.2.1.3 Application Layer
 
 En la Capa de Aplicación del Bounded Context de IAM, se gestionan los flujos de procesos de negocio relacionados con la autenticación, el registro y la actualización de usuarios. A través de Command Handlers como SignInCommandHandler, SignUpCommandHandler y UpdateProfileUserCommandHandler, se coordinan las acciones de escritura y se gestionan los comandos para la creación, actualización y autenticación de usuarios. Estos handlers facilitan la validación de datos y la manipulación de la información, trabajando de la mano con las entidades y servicios de la capa de dominio para garantizar la correcta gestión de usuarios en el sistema.
 
-<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/applicationlayer_iam.png" alt="iam">
+<img src="./Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/applicationlayer_iam.png" alt="iam"><br><br>
 
 
 #### 4.2.1.4 Infrastructure Layer
 
 En esta capa, se gestionan los componentes que permiten la interacción con servicios externos en el Bounded Context de IAM. Esta capa implementa los repositorios definidos en la capa de dominio, como UserRepositoryImpl, para manejar la persistencia de usuarios en bases de datos. Además, gestiona servicios como MessageBrokerServiceImpl y EmailServiceImpl, encargados de la comunicación con sistemas de mensajería y el envío de correos electrónicos. La Capa de Infraestructura actúa como puente entre las capas superiores y los servicios externos, garantizando que las operaciones de datos y mensajes se ejecuten correctamente.
 
-<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/infrastructurelayer_iam.png" alt="iam">
+<img src="./Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/infrastructurelayer_iam.png" alt="iam"><br><br>
 
 
 
@@ -2128,7 +2131,7 @@ En esta capa, se gestionan los componentes que permiten la interacción con serv
 
 El contexto de IAM se encarga de gestionar la autenticación y autorización de los usuarios en el sistema CambiaZo. Este bounded context está compuesto por varios componentes que trabajan conjuntamente para garantizar un proceso de inicio de sesión seguro, la gestión de cuentas de usuario y la verificación mediante autenticaciones externas (como Firebase Auth). Los componentes dentro de este contexto interactúan directamente con la base de datos de usuarios y con los servicios externos de correo electrónico (para el envío de correos de verificación).
 
-<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/componentlevel_iam.png" alt="iam">
+<img src="./Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/componentlevel_iam.png" alt="iam"><br><br>
 
 
 
@@ -2138,8 +2141,15 @@ El contexto de IAM se encarga de gestionar la autenticación y autorización de 
 
 Este diagrama presenta las clases clave para la gestión de usuarios en el Bounded Context de IAM. La clase User incluye atributos como ID, nombre, contraseña y roles, y ofrece métodos para activar, desactivar usuarios y gestionar roles. Los roles se definen en la clase Role y se categorizan mediante la enumeración RoleType (que incluye los valores ROL_USER y ROL_ADMIN). UserRepository gestiona la persistencia de los usuarios, mientras que RoleRepository se encarga de los roles. UserService coordina las operaciones de negocio, como el registro de usuarios, cambio de contraseñas y la gestión de roles, interactuando con los repositorios correspondientes para asegurar la correcta administración de usuarios y roles.
 
-<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/domainlayerclass_iam.png" alt="iam">
+<img src="./Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/domainlayerclass_iam.png" alt="iam"><br><br>
 
+
+
+##### 4.2.1.6.2 Bounded Context Database Design Diagram
+
+En esta capa, se presenta el Diagrama de Base de Datos del Bounded Context de IAM, que describe las tablas esenciales para la persistencia de datos de usuarios y roles. La tabla USER almacena información clave como el nombre, la contraseña y el estado de los usuarios, mientras que ROLE almacena los roles disponibles. USER_ROLE vincula usuarios con roles mediante claves foráneas, y ROLETYPE categoriza los roles. Las relaciones entre estas tablas aseguran la integridad de los datos y permiten una gestión eficiente de los roles asignados a cada usuario.
+
+<img src="./Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/database_iam.png" alt="iam"><br><br>
 
 
 
