@@ -2128,11 +2128,11 @@ En este capítulo exponemos y detallamos nuestra propuesta para la perspectiva t
 
 ##### 4.2.2.6.1 Bounded Context Domain Layer Class Diagrams
 
-<img src="./Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/exchange-class-diagram.png" alt="exchange-c4-model">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/exchange_class_diagram.png?raw=true" alt="exchange-class-diagram">
 
 ##### 4.2.2.6.2 Bounded Context Database Design Diagram
 
-<img src="./Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/exchange-database-diagram.png" alt="exchange-c4-model">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/exchange_database_diagram.png?raw=true" alt="exchange-database-diagram">
 
 
 ### 4.2.3 Bounded Context: Locker
