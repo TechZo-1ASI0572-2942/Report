@@ -2131,6 +2131,18 @@ El contexto de IAM se encarga de gestionar la autenticación y autorización de 
 <img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/componentlevel_iam.png" alt="iam">
 
 
+
+#### 4.2.1.6 Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.1.6.1 Bounded Context Domain Layer Class Diagrams
+
+Este diagrama presenta las clases clave para la gestión de usuarios en el Bounded Context de IAM. La clase User incluye atributos como ID, nombre, contraseña y roles, y ofrece métodos para activar, desactivar usuarios y gestionar roles. Los roles se definen en la clase Role y se categorizan mediante la enumeración RoleType (que incluye los valores ROL_USER y ROL_ADMIN). UserRepository gestiona la persistencia de los usuarios, mientras que RoleRepository se encarga de los roles. UserService coordina las operaciones de negocio, como el registro de usuarios, cambio de contraseñas y la gestión de roles, interactuando con los repositorios correspondientes para asegurar la correcta administración de usuarios y roles.
+
+<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/domainlayerclass_iam.png" alt="iam">
+
+
+
+
 ### 4.2.2 Bounded Context: Exchanges
 
 #### 4.2.2.1 Domain Layer
