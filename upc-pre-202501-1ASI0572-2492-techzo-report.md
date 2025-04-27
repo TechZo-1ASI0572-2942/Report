@@ -928,7 +928,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/tb1/Resources/Chapter-II/Interviews/iansanchez_interview.png?raw=true" alt="Entrevista Ian Sanchez"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-II/Interviews/iansanchez_interview.png?raw=true" alt="Entrevista Ian Sanchez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
