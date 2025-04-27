@@ -2167,18 +2167,21 @@ En esta capa, se presenta el Diagrama de Base de Datos del Bounded Context de IA
 <img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/infrastructure-layer-exchange.png" alt="exchange">
 
 #### 4.2.2.5 Bounded Context Software Architecture Component Level Diagrams
+El contexto ExchangeManagement es responsable de gestionar las solicitudes de intercambio de productos entre los usuarios. Incluye la creación y aceptación de ofertas, así como la consulta de productos disponibles. Este contexto se encarga de facilitar las interacciones de intercambio de manera segura y fluida entre los usuarios a través de la plataforma.
 
-<img src="./Resources/Chapter-III/Architecture-Overview/Domain-Driven-Software-Design/Component-002.png" alt="exchange-c4-model">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/exchange/c4_exchange.png?raw=true" alt="exchange-c4-model">
 
 #### 4.2.2.6 Bounded Context Software Architecture Code Level Diagrams
 
 ##### 4.2.2.6.1 Bounded Context Domain Layer Class Diagrams
+En esta sección se presenta el Diagrama de Clases del Domain Layer del Bounded Context de Exchange, donde se muestran las principales clases, interfaces, enumeraciones y sus relaciones. El diagrama refleja cómo se estructuran los objetos de dominio, incluyendo sus métodos públicos y las asociaciones entre ellos, permitiendo visualizar la organización y el comportamiento general del sistema.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/exchange_class_diagram.png?raw=true" alt="exchange-class-diagram">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/exchange/classdiagram_exchange.png?raw=true" alt="exchange-class-diagram">
 
 ##### 4.2.2.6.2 Bounded Context Database Design Diagram
+El Diagrama de Base de Datos del Bounded Context de Exchange presenta las tablas necesarias para gestionar productos, ofertas de intercambio, usuarios, categorías, estados y eventos. Incluye tablas como Product, ExchangeOffer, User, Category, ExchangeStatus y ProductStatus, cada una con sus correspondientes columnas y claves foráneas. Las relaciones entre estas tablas permiten gestionar interacciones como la propiedad de productos por parte de usuarios, las ofertas de intercambio, y el seguimiento de su estado. Además, los repositorios ProductRepository, ExchangeOfferRepository y CategoryRepository facilitan la persistencia y recuperación de los datos necesarios para las operaciones dentro de este contexto.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/exchange_database_diagram.png?raw=true" alt="exchange-database-diagram">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/exchange/databasediagram_exchange.png?raw=true" alt="exchange-database-diagram">
 
 
 ### 4.2.3 Bounded Context: Locker
@@ -2187,42 +2190,44 @@ En esta capa, se presenta el Diagrama de Base de Datos del Bounded Context de IA
 
 En el dominio de Locker Management, se encuentran entidades clave que permiten gestionar los casilleros inteligentes y sus componentes. Estas entidades son fundamentales para el proceso de administración de los casilleros, incluyendo el bloqueo y desbloqueo, el monitoreo de sensores, el control de la cámara y la iluminación, y la gestión del estado de los casilleros.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/bounded_locker_domain_layer.png?raw=true" alt="Locker-domain-Layer" alt="Locker-domain-Layer">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker/domainlayer_locker.png?raw=true"  alt="Locker-domain-Layer">
 
 #### 4.2.3.2 Interface Layer
 
 La Capa de Interfaz en Locker Management está encargada de proporcionar puntos de entrada para las interacciones entre los usuarios y el sistema. Esta capa incluye los controladores responsables de gestionar las operaciones relacionadas con los casilleros, sensores, cámaras y luces. Cada controlador maneja solicitudes y respuestas de los usuarios, permitiendo la interacción con las funcionalidades del sistema.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/bounded_locker_interface_layer.png?raw=true" alt="locker-Interface-Layer">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker/interfacelayer_locker.png?raw=true" alt="locker-Interface-Layer">
 
 #### 4.2.3.3 Application Layer
 
 La Capa de Aplicación actúa como intermediaria entre la lógica de negocio y la infraestructura, gestionando el flujo de datos y las interacciones. En este contexto, se incluyen Command Handlers y Event Handlers que coordinan acciones de escritura y eventos del sistema relacionados con los casilleros, como la actualización de estados o la activación de sensores.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/bounded_locker_application_layer.png?raw=true" alt="Locker-Application-Layer">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker/applicationlayer_locker.png?raw=true" alt="Locker-Application-Layer">
 
 #### 4.2.3.4 Infrastructure Layer
 
 La Capa de Infraestructura es responsable de proporcionar los componentes técnicos necesarios para la persistencia y la interacción con sistemas externos. En este caso, se incluye la implementación del repositorio LockerRepository, que maneja la persistencia de los casilleros en la base de datos. Este repositorio se encarga de operaciones como guardar, buscar, encontrar casilleros disponibles y eliminar casilleros, interactuando con la base de datos para asegurar que la información esté correctamente almacenada y accesible.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/bounded_locker_infrastructure.png?raw=true" alt="Locker-Infrastructure-Layer">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker/infrastructurelayer_locker.png?raw=true" alt="Locker-Infrastructure-Layer">
 
 #### 4.2.3.5 Bounded Context Software Architecture Component Level Diagrams
 
 
 #### 4.2.3.6 Bounded Context Software Architecture Code Level Diagrams
+El contexto de LockerManagement se ocupa de la gestión de lockers inteligentes, permitiendo a los usuarios almacenar y recuperar productos de manera segura. Este contexto incluye componentes encargados de controlar las interacciones físicas con los lockers, como los sensores, las cámaras y las luces, y la gestión de las notificaciones relacionadas con el estado de los lockers.
 
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker/c4_locker.png?raw=true" alt="c4-locker">
 
 ##### 4.2.3.6.1 Bounded Context Domain Layer Class Diagrams
 En esta sección, se presenta el diagrama de clases en el contexto de Locker Management. Este diagrama incluye las clases, interfaces, enumeraciones y sus relaciones, proporcionando detalles sobre los atributos, métodos y sus alcances (private, public, protected). Las relaciones entre las clases están claramente indicadas, con la calificación de los nombres, la dirección cuando aplica y la multiplicidad. Este diagrama es fundamental para modelar la estructura y las interacciones dentro del dominio de gestión de casilleros.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker_class_diagram.png?raw=true" alt="Locker-Class-Diagram">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker/classdiagram_locker.png?raw=true" alt="Locker-Class-Diagram">
 
 
 ##### 4.2.3.6.2 Bounded Context Database Design Diagram
 En esta sección, se presenta el diagrama de base de datos que detalla los objetos de base de datos necesarios para la persistencia de información dentro del contexto del Locker Management. Este diagrama refleja las entidades y relaciones que permiten almacenar y gestionar la información relacionada con los casilleros, sensores, cámaras, luces, eventos y notificaciones.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker_database_diagram.png?raw=true" alt="Locker-Database-Diagram">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker/databasdiagram_locker.png?raw=true" alt="Locker-Database-Diagram">
 
 ## Conclusiones
 
