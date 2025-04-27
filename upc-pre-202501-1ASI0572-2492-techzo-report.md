@@ -2101,6 +2101,15 @@ En esta capa, se gestionan las reglas de negocio y las entidades clave relaciona
 
 <img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/domainlayer_iam.png" alt="iam">
 
+
+#### 4.2.1.2 Interface Layer
+
+En esta capa, se gestionan las interacciones entre los usuarios y el sistema dentro del Bounded Context de IAM. Aquí, los controladores como AuthenticationController y UsersController son responsables de manejar las solicitudes relacionadas con el inicio de sesión, registro y la gestión de usuarios. Estos controladores procesan los datos proporcionados por los usuarios a través de recursos como SignInResource y UserResource, asegurando que la comunicación entre el sistema y los usuarios sea eficiente y segura.
+
+<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/interfacelayer_iam.png" alt="iam">
+
+
+
 ### 4.2.2 Bounded Context: Exchanges
 
 #### 4.2.2.1 Domain Layer
