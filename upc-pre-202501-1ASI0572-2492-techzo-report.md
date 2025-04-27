@@ -2044,148 +2044,19 @@ En este capítulo exponemos y detallamos nuestra propuesta para la perspectiva t
 
 #### 4.2.2.1 Domain Layer
 
-<table>
-  <thead>
-    <tr>
-      <th>Clase</th>
-      <th>Tipo</th>
-      <th>Propósito</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Exchange</td>
-      <td>Entity</td>
-      <td>Representa el intercambio entre usuarios.</td>
-    </tr>
-    <tr>
-      <td>Item</td>
-      <td>Value Object</td>
-      <td>Representa el objeto ofertado en el intercambio.</td>
-    </tr>
-    <tr>
-      <td>ExchangeRepo</td>
-      <td>Interface</td>
-      <td>Abstracción para guardar intercambios.</td>
-    </tr>
-  </tbody>
-</table>
+<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/domain-layer-exchange.png" alt="exchange">
 
 #### 4.2.2.2 Interface Layer
 
-<table>
-  <thead>
-    <tr>
-      <th>Clase</th>
-      <th>Tipo</th>
-      <th>Propósito</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>ExchangeController</td>
-      <td>Controller</td>
-      <td>Expone los endpoints HTTP para crear, aceptar, rechazar o listar intercambios.</td>
-    </tr>
-    <tr>
-      <td>ExchangeQueryController</td>
-      <td>Controller</td>
-      <td>Permite consultar intercambios por usuario o estado.</td>
-    </tr>
-    <tr>
-      <td>ExchangeConsumer</td>
-      <td>Consumer</td>
-      <td>Escucha eventos desde otros servicios (por ejemplo, confirmaciones externas).</td>
-    </tr>
-  </tbody>
-</table>
-
----
+<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/interface-layer-exchange.png" alt="exchange">
 
 #### 4.2.2.3 Application Layer
 
-<table>
-  <thead>
-    <tr>
-      <th>Clase</th>
-      <th>Tipo</th>
-      <th>Propósito</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>CreateExchangeCommand</td>
-      <td>Command</td>
-      <td>Representa la intención del usuario de iniciar un nuevo intercambio.</td>
-    </tr>
-    <tr>
-      <td>CreateExchangeHandler</td>
-      <td>CommandHandler</td>
-      <td>Contiene la lógica de negocio para validar y crear un intercambio.</td>
-    </tr>
-    <tr>
-      <td>AcceptExchangeCommand</td>
-      <td>Command</td>
-      <td>Solicita la aceptación de un intercambio por el usuario receptor.</td>
-    </tr>
-    <tr>
-      <td>AcceptExchangeHandler</td>
-      <td>CommandHandler</td>
-      <td>Procesa la aceptación y notifica al dominio para cambiar estado.</td>
-    </tr>
-    <tr>
-      <td>ExchangeConfirmedEvent</td>
-      <td>Event</td>
-      <td>Se lanza cuando ambas partes confirman un intercambio.</td>
-    </tr>
-    <tr>
-      <td>ExchangeConfirmedHandler</td>
-      <td>EventHandler</td>
-      <td>Ejecuta lógica adicional al confirmar el intercambio (notificaciones, etc).</td>
-    </tr>
-  </tbody>
-</table>
+<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/application-layer-exchange.png" alt="exchange">
 
 #### 4.2.2.4 Infrastructure Layer
 
-#### 4.2.2.4 Infrastructure Layer
-
-<table>
-  <thead>
-    <tr>
-      <th>Clase</th>
-      <th>Tipo</th>
-      <th>Propósito</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>MySQLExchangeRepository</td>
-      <td>Repository Implementation</td>
-      <td>Implementa <code>ExchangeRepo</code> utilizando MySQL para la persistencia de datos, inicializada mediante contenedor Docker.</td>
-    </tr>
-    <tr>
-      <td>RabbitMQExchangePublisher</td>
-      <td>Message Publisher</td>
-      <td>Publica eventos del dominio en una cola RabbitMQ para procesamiento asíncrono.</td>
-    </tr>
-    <tr>
-      <td>EmailJsNotifierService</td>
-      <td>Email Service</td>
-      <td>Utiliza la API de EmailJS para enviar notificaciones por correo a los usuarios sobre cambios en el estado del intercambio.</td>
-    </tr>
-    <tr>
-      <td>GoogleAuthService</td>
-      <td>External Authentication</td>
-      <td>Integra la autenticación de usuarios mediante la API de Google OAuth 2.0.</td>
-    </tr>
-    <tr>
-      <td>DockerDatabaseInitializer</td>
-      <td>DevOps Tool</td>
-      <td>Contenedor Docker que inicializa y configura la base de datos MySQL con esquemas y datos base.</td>
-    </tr>
-  </tbody>
-</table>
+<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/infrastructure-layer-exchange.png" alt="exchange">
 
 #### 4.2.2.5 Bounded Context Software Architecture Component Level Diagrams
 
