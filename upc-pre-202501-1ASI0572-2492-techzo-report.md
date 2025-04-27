@@ -2056,38 +2056,28 @@ Aunque se enfocan en funcionalidades distintas, ambos contextos comparten elemen
 
 En esta sección emplearemos el modelo C4 para crear la arquitectura de software, considerando aspectos como el contexto, los recipientes, los elementos y la implementación. Este enfoque permite una comprensión sencilla de la arquitectura, tanto para los miembros del equipo como para las partes interesadas externas.
 
-#### 4.1.3.1 Software Architecture Context Level Diagrams
+#### 4.1.3.1. Software Architecture System Landscape Diagram.
+
+<div align="center">
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/landscape-diagram.png?raw=true" alt="System Landscape Diagram" style="width: 600px; height: auto;"><br><br>
+</div>
+
+#### 4.1.3.2 Software Architecture Context Level Diagrams.
 
 <div align="center">
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/context-diagram.png?raw=true" alt="Context Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
-#### 4.1.3.2 Software Architecture Container Level Diagrams
+#### 4.1.3.3 Software Architecture Container Level Diagrams.
 
 <div align="center">
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/container-diagram.png?raw=true" alt="Container Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
-#### 4.1.3.3 Software Architecture Component Level Diagrams
+#### 4.1.3.4 Software Architecture Deployment Diagrams.
 
-**Exchange Component Diagram**
 <div align="center">
-	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/exchange-component-diagram.png?raw=true" alt="Exchange Component Diagram" style="width: 600px; height: auto;"><br><br>
-</div>
-
-**Donation Component Diagram**
-<div align="center">
-	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/donation-component-diagram.png?raw=true" alt="Donation Component Diagram" style="width: 600px; height: auto;"><br><br>
-</div>
-
-**User Management Component Diagram**
-<div align="center">
-	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/user-component-diagram.png?raw=true" alt="User Component Diagram" style="width: 600px; height: auto;"><br><br>
-</div>
-
-**Configuration and Settings Component Diagram**
-<div align="center">
-	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/configuration-component-diagram.png?raw=true" alt="Configuration Component Diagram" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/deployment-diagram.png?raw=true" alt="Deployment Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
 ## 4.2 Tactical-Level Domain-Driven Design
