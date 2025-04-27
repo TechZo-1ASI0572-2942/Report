@@ -2124,6 +2124,12 @@ En esta capa, se gestionan los componentes que permiten la interacción con serv
 
 
 
+#### 4.2.1.5 Bounded Context Software Architecture Component Level Diagrams
+
+El contexto de IAM se encarga de gestionar la autenticación y autorización de los usuarios en el sistema CambiaZo. Este bounded context está compuesto por varios componentes que trabajan conjuntamente para garantizar un proceso de inicio de sesión seguro, la gestión de cuentas de usuario y la verificación mediante autenticaciones externas (como Firebase Auth). Los componentes dentro de este contexto interactúan directamente con la base de datos de usuarios y con los servicios externos de correo electrónico (para el envío de correos de verificación).
+
+<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/iam/componentlevel_iam.png" alt="iam">
+
 
 ### 4.2.2 Bounded Context: Exchanges
 
