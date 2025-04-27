@@ -2133,3 +2133,68 @@ En este capítulo exponemos y detallamos nuestra propuesta para la perspectiva t
 ##### 4.2.2.6.2 Bounded Context Database Design Diagram
 
 <img src="./Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/exchange-database-diagram.png" alt="exchange-c4-model">
+
+## Conclusiones
+
+La investigación inicial confirmó con datos cualitativos que el modelo de economía lineal está generando niveles crecientes de residuos y desconfianza en los intercambios informales. Las más de siete entrevistas realizadas mostraron que el 100 % de los usuarios ha tenido experiencias negativas al intentar trueques a través de redes sociales tradicionales, lo que evidencia una oportunidad clara para una solución segura y automatizada como CambiaZo.
+
+A través de la aplicación de metodologías Lean UX—definición de problem statements, canvas y validación de hipótesis—junto con la construcción de User Personas, Journey Maps y Empathy Maps, se lograron identificar con precisión los flujos de interacción, puntos de dolor y expectativas de los intercambiadores. Estos hallazgos permitieron priorizar funcionalidades esenciales como la asignación de lockers cercanos, la validación fotográfica de depósitos, la generación de PINs seguros y un sistema de calificaciones que fomente la confianza.
+
+La arquitectura propuesta, basada en EventStorming y Domain-Driven Design, establece una separación clara de responsabilidades mediante contextos acotados (Cuenta, Intercambios, Locker). Esta estrategia facilita la mantenibilidad del sistema y soporta tanto la capa web/móvil como los dispositivos IoT de los lockers inteligentes. Además, el uso de contenedores y bases de datos edge garantiza que el servicio permanezca operativo incluso ante interrupciones temporales de conectividad, sincronizándose luego de manera eficiente con CosmosDB en la nube.
+
+El conjunto de epics, user stories y technical stories definido cubre exhaustivamente todos los escenarios críticos: desde la gestión de cuentas y la publicación de intercambios, hasta la aceptación de ofertas, el manejo de suscripciones y la atención al usuario. Este backlog estructurado sienta las bases de un roadmap de desarrollo ágil que facilite la entrega temprana de valor y permita ajustar el producto de manera iterativa según el feedback real de los usuarios.
+
+Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular y la sostenibilidad. Más allá de optimizar los procesos de trueque, la plataforma propone un modelo socialmente responsable que incluye donaciones a comunidades vulnerables y promueve hábitos de consumo consciente. De este modo, se alinea con la misión de impulsar un cambio positivo en la reducción de residuos y en la adopción de prácticas de reutilización a través de la tecnología.
+
+# Bibliografía
+<br>
+
++ Al-Fuqaha, A., Guizani, M., Mohammadi, M., Aledhari, M., & Ayyash, M. (2015). Internet of Things: A Survey on Enabling Technologies, Protocols, and Applications. IEEE Communications Surveys & Tutorials, 17(4), 2347–2376. https://doi.org/10.1109/COMST.2015.2444095 <br><br>
+
++ Uckelmann, D., Harrison, M., & Michahelles, F. (2011). Architecting the Internet of Things. Springer. https://link.springer.com/book/10.1007/978-3-642-19157-2 <br><br>
+
++ Hanes, D., Salgueiro, G., Grossetete, P., Barton, R., & Henry, J. (2017). IoT Fundamentals: Networking Technologies, Protocols, and Use Cases for the Internet of Things. Cisco Press. https://www.ciscopress.com/store/iot-fundamentals-networking-technologies-protocols-and-9781587144561 <br><br>
+
++ Rowland, C., Goodman, E., Charlier, M., Taylor, A., & Wilkie, A. (2015). Designing Connected Products: UX for the Consumer Internet of Things. O'Reilly Media. https://www.oreilly.com/library/view/designing-connected-products/9781449338179/ <br><br>
+
++ Minerva, R., Biru, A., & Rotondi, D. (2015). Towards a Definition of the Internet of Things (IoT). IEEE Internet Initiative. https://iot.ieee.org/images/files/pdf/IEEE_IoT_Towards_Definition_Internet_of_Things_Revision1_27MAY15.pdf <br><br>
+
++ Ashton, K. (2009). That 'Internet of Things' Thing. RFID Journal. https://www.rfidjournal.com/that-internet-of-things-thing <br><br>
+
++ Bandyopadhyay, D., & Sen, J. (2011). Internet of Things: Applications and Challenges in Technology and Standardization. Wireless Personal Communications, 58, 49–69. https://doi.org/10.1007/s11277-011-0288-5 <br><br>
+
++ Gubbi, J., Buyya, R., Marusic, S., & Palaniswami, M. (2013). Internet of Things (IoT): A vision, architectural elements, and future directions. Future Generation Computer Systems, 29(7), 1645–1660. https://doi.org/10.1016/j.future.2013.01.010 <br><br>
+
++ Madakam, S., Ramaswamy, R., & Tripathi, S. (2015). Internet of Things (IoT): A Literature Review. Journal of Computer and Communications, 3(5), 164–173. https://doi.org/10.4236/jcc.2015.35021 <br><br>
+
++ Zanella, A., Bui, N., Castellani, A., Vangelista, L., & Zorzi, M. (2014). Internet of Things for Smart Cities. IEEE Internet of Things Journal, 1(1), 22–32. https://doi.org/10.1109/JIOT.2014.2306328 <br><br>
+
++ Vermesan, O., & Friess, P. (Eds.). (2014). Internet of Things: From Research and Innovation to Market Deployment. River Publishers. https://www.riverpublishers.com/research_details.php?book_id=151 <br><br>
+
++ Rayes, A., & Salam, S. (2017). Internet of Things From Hype to Reality: The Road to Digitization. Springer. https://link.springer.com/book/10.1007/978-3-319-46005-3 <br><br>
+
++ Holler, J., Tsiatsis, V., Mulligan, C., Karnouskos, S., Avesand, S., & Boyle, D. (2014). From Machine-to-Machine to the Internet of Things: Introduction to a New Age of Intelligence. Academic Press. https://www.sciencedirect.com/book/9780124076846/from-machine-to-machine-to-the-internet-of-things <br><br>
+
++ Rose, K., Eldridge, S., & Chapin, L. (2015). The Internet of Things: An Overview. The Internet Society. https://www.internetsociety.org/resources/doc/2015/iot-overview <br><br>
+
++ Lin, J., Yu, W., Zhang, N., Yang, X., Zhang, H., & Zhao, W. (2017). A Survey on Internet of Things: Architecture, Enabling Technologies, Security and Privacy, and Applications. IEEE Internet of Things Journal, 4(5), 1125–1142. https://doi.org/10.1109/JIOT.2017.2683200 <br><br>
+
++ Perera, C., Liu, C. H., & Jayawardena, S. (2015). The Emerging Internet of Things Marketplace from an Industrial Perspective: A Survey. IEEE Transactions on Emerging Topics in Computing, 3(4), 585–598. https://doi.org/10.1109/TETC.2015.2390034 <br><br>
+
+
+# Anexos
+
++ Repositorio GitHub de la Organización:[Ver Organización](https://github.com/TechZo-1ASI0572-2942)<br><br>
+
+## Exposure video TB1
+
+  <div align="center">
+    <img src="https://github.com/TechZo-Organization/upc-pre-202401-si730-SW51-techzo-report/blob/main/Resources/Expo/expo-web.PNG?raw=true" alt="Exposure video Tb1">
+ </div>
+
+
+Enlace: [Exposure video Tb1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZvQGeU0vgJAhIno6pVhZHIB4BGs4RR-_R3uBf4w7RxB_Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DJYLPh)
+
+
+
+</div>
