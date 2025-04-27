@@ -733,153 +733,13 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 
 ### **Segmento Intercambiadores**<br>
 
+
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
     <th colspan="2">Entrevista #1<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Freddy Alejandro</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Cuadros Contreras</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Santiago de Surco</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Google Chrome, Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Obtener objetos deseados de manera más sencilla</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Dificultades en obtener objetos de calidad a través de grupos de Facebook</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Laptop Windows, Smartphone IOS</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Jeremy Joel Quispe Andia</td>
-  </tr>
-  <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/freddycuadros_interview.png?raw=true" alt="Entrevista Freddy Cuadros"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duracion<br></td>
-    <td>00:00 min - 4:30 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>Freddy Cuadros nos menciona que CambiaZo facilita el contacto entre usuarios mediante un sistema de mensajería interna, lo que ha hecho que su experiencia con aplicaciones de intercambio sea positiva, permitiéndole reutilizar objetos y adquirir otros de forma sostenible. Considera que los productos más viables para intercambiar a través de CambiaZo son libros, ropa y pequeños electrodomésticos. Sus principales preocupaciones al usar CambiaZo son la autenticidad de los productos y la seguridad en las transacciones. Para sentirse seguro, considera esenciales la verificación de identidad, métodos de pago seguros y un sistema de valoraciones. Los productos tecnológicos y de moda son muy demandados, y para asegurarse de que cumplan con sus expectativas, solicita fotos y descripciones detalladas. Un sistema de valoraciones y comentarios, junto con la consulta de opiniones en redes sociales, ayuda a verificar la confiabilidad de CambiaZo. 
-    <br>Además, estos intercambios ofrecen beneficios como el ahorro económico y una forma más sostenible de consumir, promoviendo el reciclaje y la reutilización para abordar la acumulación de productos no utilizados.
-</td>
-  </tr>
-</tbody>
-</table>
-
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #2<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Edu Orlando</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Gutierrez Vasquez</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>La Molina</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Zoom, Discord</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Seguridad y calidad en intercambios de productos</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Limitaciones de seguridad y calidad en Facebook</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Laptop Windows, Smartphone Android</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome, Firefox</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Ian Haziel Donato Santisteban Palomino</td>
-  </tr>
-  <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/edugutierrez_interview.png?raw=true" alt="Entrevista Edu Gutierrez"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duracion<br></td>
-    <td>4:31 min - 10:44 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>En la entrevista con Edu, se revelaron detalles sobre su experiencia y preferencias en cuanto a realizar intercambios de objetos. Edu suele contactarse con otras personas para intercambiar objetos a través de Facebook y WhatsApp, pero encuentra limitaciones en estas plataformas en términos de seguridad y calidad de los productos.Considera que una aplicación movil como Cambiazo sería de gran ayuda para simplificar este proceso. Además, mencionó que le gustaría que la aplicación implementara funciones como un sistema de verificación de identidad y calidad de los productos, así como un sistema de evaluaciones entre usuarios para garantizar la confianza y seguridad en los intercambios. Edu también señaló que los productos de ocio y entretenimiento tendrían mayor demanda entre personas de su edad y ubicación geográfica. <br>En cuanto a sus preocupaciones, destacó la seguridad de las transacciones y la calidad de los productos ofrecidos. Para garantizar la calidad de los productos, Edu se basaría en las descripciones detalladas, las fotos proporcionadas por los usuarios y las evaluaciones de otros usuarios. También considera que la comunidad de usuarios podría contribuir a garantizar la veracidad de los productos ofrecidos dentro de la plataforma mediante la retroalimentación honesta y la denuncia de prácticas fraudulentas.<br>En términos de beneficios esperados al utilizar una aplicación como Cambiazo, Edu espera una mayor variedad de productos y una experiencia de intercambio más segura. Además, considera que el intercambio de productos usados puede contribuir al desarrollo de una comunidad más sostenible y consciente en su ciudad.
-</td>
-  </tr>
-</tbody>
-</table>
-
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #3<br></th>
   </tr>
 </thead>
 <tbody>
@@ -941,94 +801,98 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 </td>
   </tr>
 </tbody>
-</table><br>
+</table>
+
+<br>
 
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #4<br></th>
+    <th colspan="2">Entrevista #2<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Gonzalo David</td>
+    <td>Pongan nombre</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Espino Rojas</td>
+    <td>Pongan apellidos</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>21 años</td>
+    <td>pongan edad</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Santiago de Surco</td>
+    <td>pongan distrito</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>Zoom, Discord</td>
+    <td>Google Chrome, Zoom</td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Promover los modelos de vida con desarrollo sostenible, para impulsar una economía cíclica</td>
+    <td>pongan motivacion</td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>Que sus productos publicados no tengan la relevancia necesaria</td>
+    <td>pongan frustracion</td>
   </tr>
   <tr>
     <td>Tecnologias</td>
-    <td>Smatphone Android, Laptop Windows</td>
+    <td>Laptop Windows, Smartphone IOS</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td>Chrome</td>
+    <td>Google Chrome</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>Joseph Alexis Huamani Mandujano</td>
+    <td>Ian Haziel Donato Santisteban Palomino</td>
   </tr>
-   <tr>
+  <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/gonzaloespino_interview.png?raw=true" alt="Entrevista Gonzalo Espino"></div></td>
+    <td><div align="center"><img src="RUTA A SU IMAGEN" alt="pongan el link de su imagen"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="PONGAN LINK DE LA ENTREVISTA" title="Title">Microsoft Stream (PONER LINK DE ENTREVISTA)</p></td>
   </tr>
   <tr>
-    <td>Duración<br></td>
-    <td>15:38 min - 20:05 min</td>
+    <td>Duracion<br></td>
+    <td>00:00 min - 4:30 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Durante la entrevista, Gonzalo David Espino Rojas, un estudiante de marketing de 21 años que reside en Lima y posee un smartphone Android, comparte su experiencia personal en el ámbito de los intercambios. Gonzalo señala que en sus intentos previos de realizar este tipo de transacciones, ha experimentado dificultades con la veracidad del estado de los productos ofrecidos y la fiabilidad de los usuarios involucrados, lo cual ha generado incertidumbre y preocupación. Para abordar estas inquietudes, Gonzalo destaca la necesidad de contar con una aplicación web que ofrezca diversas funciones y características, como un sistema de calificación y reseñas de los usuarios, un riguroso proceso de verificación de identidad y una sólida política de privacidad y seguridad de datos. Asimismo, Gonzalo enfatiza la importancia de tener una comunidad activa dentro de la plataforma, ya que esto le permitiría evaluar de manera más precisa la confiabilidad de los usuarios y la calidad de los productos antes de concretar cualquier intercambio. En general, Gonzalo se muestra interesado en probar una aplicación como CambiaZo, ya que espera obtener beneficios como ahorrar dinero, contribuir al cuidado del medio ambiente y formar parte de una comunidad que promueve un consumo más consciente y sostenible.
-</td>
+    <td>
+      Pongan resumen
+    </td>
   </tr>
 </tbody>
-</table><br>
+</table>
 
+<br>
 
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #5<br></th>
+    <th colspan="2">Entrevista #3<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Luis Junior</td>
+    <td>Ian Joaquin</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Valero Medina</td>
+    <td>Sanchez Alva</td>
   </tr>
   <tr>
     <td>Edad</td>
@@ -1040,80 +904,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>Google Chrome, Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivacion</td>
-    <td>Adquisición de nuevos artículos sin tener que comprarlos</td>
-  </tr>
-  <tr>
-    <td>Frustracion</td>
-    <td>Mala experiencia realizando intercambios</td>
-  </tr>
-  <tr>
-    <td>Tecnologias</td>
-    <td>Smartphone Android, Laptop Windows</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Ian Haziel Donato Santisteban Palomino</td>
-  </tr>
-    <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/luisvalero_interview.png?raw=true" alt="Entrevista Luis Valero"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duracion<br></td>
-    <td>20:06 min - 25:36 min</td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td>En la entrevista con Luis Valero, se discutieron sus hábitos y opiniones sobre el intercambio de productos. Luis utiliza grupos de WhatsApp y Facebook para intercambiar objetos, aunque ha tenido experiencias mixtas, con algunos intercambios exitosos y otros problemáticos.Él considera que los productos más viables para intercambiar a través de una aplicación web son libros, ropa, gadgets pequeños y artículos para el hogar. Mencionó que, en su entorno, hay una alta demanda de cartas de colección, videojuegos, dispositivos electrónicos y artículos deportivos.Sus principales preocupaciones al usar una nueva aplicación de intercambio incluyen la seguridad y la confiabilidad de los usuarios. Destaca la importancia de contar con calificaciones, verificación de identidad y un chat seguro para sentirse cómodo al realizar intercambios.Luis cree que CambiaZo podría ofrecer una plataforma más segura y confiable para estos intercambios, permitiéndole también ahorrar dinero y acceder a una variedad de productos. Para garantizar la calidad de los artículos, recomendaría pedir imágenes detalladas y revisar la reputación del usuario. Además, cree que la comunidad puede ayudar con reseñas honestas y reportando irregularidades.
-</td>
-  </tr>
-</tbody>
-</table><br>
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista #6<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Daniella Alexandra Crysti</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>Vargas Saldaña</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>19 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Santa Anita</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
     <td>Zoom</td>
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Intercambiar objetos promoviendo el desarrollo sostenible</td>
+    <td>Intercambiar objetos de manera segura</td>
   </tr>
   <tr>
     <td>Frustracion</td>
@@ -1133,11 +928,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/daniellavargas_interview.png?raw=true" alt="Entrevista Daniella Vargas"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/tb1/Resources/Chapter-II/Interviews/iansanchez_interview.png?raw=true" alt="Entrevista Ian Sanchez"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="PONES LINK" title="Title">Microsoft Stream (PONER LINK DE ENTREVISTA)</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
@@ -1145,18 +940,92 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Durante la entrevista, Daniella Alexandra Crysti Vargas Saldaña, un estudiante de Ciencias de la Computación de 19 años que reside en Lima y posee un smartphone Android, comparte sus experiencias previas con el intercambio de artículos con personas de su entorno, señalando que si bien ha realizado este tipo de intercambios en el pasado, no ha encontrado un lugar el cual le sirve especificamente para poder intercambios su objetos de manera segura. Para Daniella, una aplicación web como CambiaZo podría ser un excelente intermediario al momento de querer intercambiar con otro usuario, ya que fomenta la confianza para ambas partes. Además, Daniella agrega que los artículos con mayor demanda son los articulos tecnológicos como celulares, tablets, laptops y videojuegos en buen estado; no obstante, Daniella también manifiesta preocupaciones relacionadas con la confiabilidad de la aplicación, por lo que valora la posibilidad de verificar la legitimidad de los objetos mediante la inclusión de fotos y una sección de reseñas, esperando que el uso de CambiaZo le permita sentirse seguro y poder empezar a intercambio de manera más segura y efectiva promiviendo el desarrollo de una comunidad más sostenible y conectada en Lima.
+    <td>Durante la entrevista, Ian Joaquin Sanchez Alva, estudiante de Ciencias de la computación de 21 años que reside en Lima, compartió su experiencia intercambiando libros y videojuegos, destacando que, aunque fueron positivas, la coordinación de los encuentros resultaba complicada. Considera que una app como CambiaZo facilitaría los intercambios de libros, ropa, accesorios tecnológicos y artículos deportivos. Ian resalta la importancia de contar con perfiles verificados, valoraciones, fotos reales y mensajería segura para generar confianza. Además, ve como una gran ventaja el uso de lockers inteligentes para mejorar la seguridad y flexibilidad. Finalmente, espera que CambiaZo le permita renovar objetos de forma económica y sostenible, sugiriendo también incluir seguros para objetos valiosos y promover buenas prácticas entre los usuarios.
 </td>
   </tr>
 </tbody>
 </table>
+
+<br>
 
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #7<br></th>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Pongan nombre</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Pongan apellidos</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>pongan edad</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>pongan distrito</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>pongan motivacion</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>pongan frustracion</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone IOS</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mathías André Mendoza Carrión</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="RUTA A SU IMAGEN" alt="pongan el link de su imagen"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="PONGAN LINK DE LA ENTREVISTA" title="Title">Microsoft Stream (PONER LINK DE ENTREVISTA)</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>00:00 min - 4:30 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+      Pongan resumen
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
   </tr>
 </thead>
 <tbody>
