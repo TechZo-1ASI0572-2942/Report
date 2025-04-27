@@ -2139,27 +2139,39 @@ En este capítulo exponemos y detallamos nuestra propuesta para la perspectiva t
 
 #### 4.2.3.1 Domain Layer
 
+En el dominio de Locker Management, se encuentran entidades clave que permiten gestionar los casilleros inteligentes y sus componentes. Estas entidades son fundamentales para el proceso de administración de los casilleros, incluyendo el bloqueo y desbloqueo, el monitoreo de sensores, el control de la cámara y la iluminación, y la gestión del estado de los casilleros.<br>
+
 <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/bounded_locker_domain_layer.png?raw=true" alt="Locker-domain-Layer" alt="Locker-domain-Layer">
 
 #### 4.2.3.2 Interface Layer
+
+La Capa de Interfaz en Locker Management está encargada de proporcionar puntos de entrada para las interacciones entre los usuarios y el sistema. Esta capa incluye los controladores responsables de gestionar las operaciones relacionadas con los casilleros, sensores, cámaras y luces. Cada controlador maneja solicitudes y respuestas de los usuarios, permitiendo la interacción con las funcionalidades del sistema.<br>
 
 <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/bounded_locker_interface_layer.png?raw=true" alt="locker-Interface-Layer">
 
 #### 4.2.3.3 Application Layer
 
+La Capa de Aplicación actúa como intermediaria entre la lógica de negocio y la infraestructura, gestionando el flujo de datos y las interacciones. En este contexto, se incluyen Command Handlers y Event Handlers que coordinan acciones de escritura y eventos del sistema relacionados con los casilleros, como la actualización de estados o la activación de sensores.<br>
+
 <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/bounded_locker_application_layer.png?raw=true" alt="Locker-Application-Layer">
 
 #### 4.2.3.4 Infrastructure Layer
+
+La Capa de Infraestructura es responsable de proporcionar los componentes técnicos necesarios para la persistencia y la interacción con sistemas externos. En este caso, se incluye la implementación del repositorio LockerRepository, que maneja la persistencia de los casilleros en la base de datos. Este repositorio se encarga de operaciones como guardar, buscar, encontrar casilleros disponibles y eliminar casilleros, interactuando con la base de datos para asegurar que la información esté correctamente almacenada y accesible.
 
 <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/bounded_locker_infrastructure.png?raw=true" alt="Locker-Infrastructure-Layer">
 
 #### 4.2.3.5 Bounded Context Software Architecture Component Level Diagrams
 
+
 #### 4.2.3.6 Bounded Context Software Architecture Code Level Diagrams
 
+
 ##### 4.2.3.6.1 Bounded Context Domain Layer Class Diagrams
+En esta sección, se presenta el diagrama de clases en el contexto de Locker Management. Este diagrama incluye las clases, interfaces, enumeraciones y sus relaciones, proporcionando detalles sobre los atributos, métodos y sus alcances (private, public, protected). Las relaciones entre las clases están claramente indicadas, con la calificación de los nombres, la dirección cuando aplica y la multiplicidad. Este diagrama es fundamental para modelar la estructura y las interacciones dentro del dominio de gestión de casilleros.
 
 ##### 4.2.3.6.2 Bounded Context Database Design Diagram
+En esta sección, se presenta el diagrama de base de datos que detalla los objetos de base de datos necesarios para la persistencia de información dentro del contexto del Locker Management. Este diagrama refleja las entidades y relaciones que permiten almacenar y gestionar la información relacionada con los casilleros, sensores, cámaras, luces, eventos y notificaciones.<br>
 
 ## Conclusiones
 
