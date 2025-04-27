@@ -70,8 +70,6 @@
 
 ### [Student Outcome](#student-outcome)
 
-### [Objetivos SMART](#objetivos-smart)
-
 ### [Capítulo I: Presentación](#capítulo-i-presentación)
 
 - [1.1. Startup Profile](#11-startup-profile)
@@ -2062,11 +2060,15 @@ En esta sección emplearemos el modelo C4 para crear la arquitectura de software
 
 #### 4.1.3.1. Software Architecture System Landscape Diagram.
 
+El Landscape Diagram ofrece una visión global de la arquitectura de CambiaZo, integrando todos los componentes clave y sus interacciones. A continuación, se presenta el diagrama que ilustra cómo el sistema se estructura para facilitar el intercambio de objetos mediante lockers inteligentes, destacando el rol del Gateway y el servidor central en la gestión de datos y comunicaciones.
+
 <div align="center">
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/landscape-diagram.png?raw=true" alt="System Landscape Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
 #### 4.1.3.2 Software Architecture Context Level Diagrams.
+
+El Diagrama de Contexto define el alcance de CambiaZo y sus relaciones con actores y sistemas externos. En la siguiente imagen, se detallan las interacciones entre usuarios, administradores, servicios de autenticación, pagos y correo electrónico, estableciendo los fundamentos de la arquitectura del sistema.
 
 <div align="center">
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/context-diagram.png?raw=true" alt="Context Diagram" style="width: 600px; height: auto;"><br><br>
@@ -2074,11 +2076,15 @@ En esta sección emplearemos el modelo C4 para crear la arquitectura de software
 
 #### 4.1.3.3 Software Architecture Container Level Diagrams.
 
+El Diagrama de Contenedores descompone CambiaZo en sus unidades tecnológicas principales. A continuación, se muestra cómo la aplicación web, móvil, API RESTful y bases de datos colaboran para entregar funcionalidades completas, incluyendo módulos especializados como IoT y Edge Application para lockers inteligentes.
+
 <div align="center">
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/container-diagram.png?raw=true" alt="Container Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
 #### 4.1.3.4 Software Architecture Deployment Diagrams.
+
+El Diagrama de Despliegue describe la configuración física de CambiaZo en un entorno de desarrollo. En la siguiente imagen, se visualiza la distribución de componentes entre dispositivos cliente, servidores y nodos, asegurando una implementación eficiente y escalable del sistema.
 
 <div align="center">
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/deployment-diagram.png?raw=true" alt="Deployment Diagram" style="width: 600px; height: auto;"><br><br>
