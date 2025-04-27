@@ -2134,6 +2134,25 @@ En este capítulo exponemos y detallamos nuestra propuesta para la perspectiva t
 
 <img src="./Resources/Chapter-III/Architecture-Overview/Software-Object-Oriented-Design/exchange-database-diagram.png" alt="exchange-c4-model">
 
+
+### 4.2.3 Bounded Context: Locker
+
+#### 4.2.3.1 Domain Layer
+
+#### 4.2.3.2 Interface Layer
+
+#### 4.2.3.3 Application Layer
+
+#### 4.2.3.4 Infrastructure Layer
+
+#### 4.2.3.5 Bounded Context Software Architecture Component Level Diagrams
+
+#### 4.2.3.6 Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.3.6.1 Bounded Context Domain Layer Class Diagrams
+
+##### 4.2.3.6.2 Bounded Context Database Design Diagram
+
 ## Conclusiones
 
 La investigación inicial confirmó con datos cualitativos que el modelo de economía lineal está generando niveles crecientes de residuos y desconfianza en los intercambios informales. Las más de siete entrevistas realizadas mostraron que el 100 % de los usuarios ha tenido experiencias negativas al intentar trueques a través de redes sociales tradicionales, lo que evidencia una oportunidad clara para una solución segura y automatizada como CambiaZo.
