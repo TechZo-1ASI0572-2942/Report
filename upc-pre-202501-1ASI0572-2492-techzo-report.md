@@ -2024,20 +2024,25 @@ En esta capa, se presenta el Diagrama de Base de Datos del Bounded Context de IA
 
 
 ### 4.2.2 Bounded Context: Exchanges
+El Bounded Context de Exchanges en el sistema CambiaZo se encarga de gestionar el proceso de intercambio de productos entre los usuarios. Este contexto define las responsabilidades relacionadas con la creación, aceptación y gestión de ofertas de intercambio, asegurando que los usuarios puedan intercambiar productos de manera eficiente y controlada. Para lograrlo, Exchanges se organiza en diversas capas —Dominio, Aplicación, Infraestructura e Interfaces—, cada una contribuyendo a la correcta implementación y operación del sistema de intercambio. En este contexto, se presentan los componentes clave, diagramas de clases y diseño de base de datos que respaldan su implementación, garantizando un flujo de intercambio seguro y fluido entre los usuarios.
 
 #### 4.2.2.1 Domain Layer
+En el dominio de Exchange, se encuentra la entidad Exchange, que representa el proceso de intercambio, y el Item, que actúa como el reemplazo del producto en el intercambio. Además, el exchangeRepo se encarga de abstraer el acceso a los datos relacionados con el intercambio.
 
 <img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/domain-layer-exchange.png" alt="exchange">
 
 #### 4.2.2.2 Interface Layer
+Dentro del dominio de Exchange, se presentan las clases que permiten la comunicación entre los usuarios y la lógica de negocio para gestionar el intercambio de objetos inutilizados. Se incluye el ExchangeController, que expone los endpoints necesarios para crear, aceptar, rechazar y consultar ofertas de intercambio, así como ExcahngeQueryController y ExchangeConsumer, que estructuran los datos enviados y recibidos entre el sistema y los usuarios.
 
 <img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/interface-layer-exchange.png" alt="exchange">
 
 #### 4.2.2.3 Application Layer
+Dentro del dominio de Exchange, la Capa de Aplicación se encarga de coordinar los flujos de procesos del negocio relacionados al intercambio de objetos inutilizados. Esta capa está conformada por Command Handlers como CreateExchangeCommandHandler, AcceptExchangeCommandHandler y RejectExchangeCommandHandler, los cuales gestionan la creación, aceptación y rechazo de ofertas de intercambio a partir de comandos específicos, asegurando la correcta ejecución de las capacidades definidas para el bounded context.
 
 <img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/application-layer-exchange.png" alt="exchange">
 
 #### 4.2.2.4 Infrastructure Layer
+Dentro del dominio de Exchange, la Capa de Infraestructura proporciona las implementaciones técnicas necesarias para la persistencia y gestión de datos relacionados a las ofertas y productos de intercambio. En esta capa se encuentran repositorios como MySQLExchangeRepository, GoogleAuthService, EmailsNotifierService y RabbitMExchangePublisher, que implementan las interfaces definidas en la Capa de Dominio y se encargan de interactuar con la base de datos para almacenar y recuperar información relevante para el bounded context.
 
 <img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/infrastructure-layer-exchange.png" alt="exchange">
 
@@ -2060,6 +2065,7 @@ El Diagrama de Base de Datos del Bounded Context de Exchange presenta las tablas
 
 
 ### 4.2.3 Bounded Context: Locker
+El Bounded Context de Locker en el sistema CambiaZo se encarga de gestionar de manera segura y eficiente los casilleros inteligentes, permitiendo su administración, control de acceso, y monitoreo. Este contexto define los límites de responsabilidad relacionados con la gestión de casilleros, sensores, cámaras y sistemas de iluminación, asegurando que solo usuarios autorizados puedan interactuar con las funcionalidades del sistema de lockers. A través de una estructura organizada en capas —Dominio, Aplicación, Infraestructura e Interfaces—, cada capa cumple un rol específico en la gestión del proceso. En esta sección se detallan los componentes arquitectónicos, diagramas de clases y el diseño de base de datos que sustentan la correcta implementación de este contexto, garantizando la disponibilidad, seguridad y escalabilidad en la administración de los casilleros y sus componentes dentro de la aplicación.
 
 #### 4.2.3.1 Domain Layer
 
