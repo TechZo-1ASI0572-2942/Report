@@ -2139,11 +2139,19 @@ En este capítulo exponemos y detallamos nuestra propuesta para la perspectiva t
 
 #### 4.2.3.1 Domain Layer
 
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/bounded_locker_domain_layer.png?raw=true" alt="Locker-domain-Layer" alt="Locker-domain-Layer">
+
 #### 4.2.3.2 Interface Layer
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/bounded_locker_interface_layer.png?raw=true" alt="locker-Interface-Layer">
 
 #### 4.2.3.3 Application Layer
 
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/bounded_locker_application_layer.png?raw=true" alt="Locker-Application-Layer">
+
 #### 4.2.3.4 Infrastructure Layer
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/bounded_locker_infrastructure.png?raw=true" alt="Locker-Infrastructure-Layer">
 
 #### 4.2.3.5 Bounded Context Software Architecture Component Level Diagrams
 
