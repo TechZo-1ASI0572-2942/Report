@@ -166,10 +166,8 @@
 # Student Outcome
 
 El curso contribuye al cumplimiento del Student Outcome ABET:<br><br>
-**ABET – EAC - Student Outcome 7**<br>
-**Criterio:** La capacidad de adquirir y aplicar nuevos conocimientos según sea
-necesario, utilizando estrategias deaprendizaje apropiadas.<br><br>
-En el siguiente cuadro se describen las acciones realizadas y las conclusiones enunciadas por el grupo, que permiten sustentar el logro del ABET – EAC - Student Outcome 7.<br><br>
+**ABET – EAC - Student Outcome 5**: 
+La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.<br><br>
 
 <table>
   <thead>
@@ -184,25 +182,25 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones e
 	<td colspan="3">Trabaja en equipo para
 proporcionar liderazgo en
 forma conjunta</td>
-      <td colspan="3" align = "justify">
+      <td colspan="3" align="justify">
       <h3>Joseph Alexis Huamani Mandujano</h3> 
       <b>TB1</b> 
-      <p>Para el primer hito de nuestro proyecto, me encargué de definir claramente el Problem Statement, lo que me permitió delinear los contornos exactos de nuestro desafío de diseño. Esta definición fue crucial para enmarcar todo el desarrollo posterior del proyecto. Además, elaboré Asumptions y Hypothesis Statements detallados, permitiéndome establecer una base sólida para nuestras investigaciones y decisiones de diseño futuras. Mi capacidad para analizar críticamente y sintetizar información compleja fue esencial para este proceso, asegurando que nuestro proyecto se construyera sobre premisas bien fundamentadas.</p> 
+      <p>Para el primer hito de nuestro proyecto de IoT, me encargué de definir el Problem Statement enfocado en la automatización de riego agrícola, estableciendo una base clara para orientar las soluciones tecnológicas. Además, desarrollé Asumptions e Hypothesis orientadas a la viabilidad del uso de sensores y controladores en entornos agrícolas. Mi análisis crítico y capacidad de síntesis fueron clave para sentar las bases técnicas que guiaron nuestras decisiones de hardware y software.</p> 
     <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
-    <p>Durante esta fase inicial, realicé una investigación exhaustiva de los competidores en el sector seleccionado, identificando sus fortalezas y debilidades. Este análisis me permitió entender mejor el mercado y ajustar nuestra propuesta de valor para que fuera realmente innovadora. Adicionalmente, diseñé y realicé entrevistas con varios grupos de usuarios, analizando las respuestas para determinar nuestras Personas Principales y Secundarias. Este ejercicio no solo mejoró mi habilidad para comunicarme de manera efectiva, sino que también profundizó mi comprensión de las necesidades del usuario, reflejándose directamente en la relevancia de nuestras soluciones propuestas.</p>
+    <p>Durante esta fase inicial, realicé un análisis detallado de soluciones IoT agrícolas existentes, identificando brechas de mercado y oportunidades de innovación. Conduje entrevistas con agricultores tecnificados, cuyos insights nos permitieron modelar los requerimientos funcionales de nuestro sistema. Esto fortaleció mis habilidades de investigación y empatía tecnológica, asegurando que nuestra propuesta responda efectivamente a necesidades reales.</p>
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
-    <p>En este primer entregable, demostré habilidades de comunicación oral y escrita al interactuar eficazmente con mi equipo y al documentar adecuadamente todo el proceso de trabajo. La comunicación constante con el equipo y los stakeholders del proyecto aseguró que las ideas y feedback fueran integrados de manera efectiva, mejorando así nuestro enfoque y resultados. Mi capacidad para facilitar y mantener una comunicación fluida contribuyó significativamente al establecimiento de una base sólida para la colaboración continua y el éxito del proyecto.</p>
+    <p>En este primer entregable, gestioné la documentación técnica y los requerimientos del sistema IoT, asegurando una comunicación fluida dentro del equipo y con potenciales usuarios. La coordinación efectiva de criterios técnicos permitió integrar de manera precisa sensores de humedad, controladores de riego y plataformas de monitoreo, consolidando una visión clara y colaborativa para el desarrollo del prototipo.</p>
     <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
-    <p>He trabajado intensamente en la definición de User Stories claras y efectivas que reflejan las necesidades identificadas de nuestros usuarios, garantizando que todos los requisitos del usuario estén adecuadamente representados en nuestro desarrollo de producto. Esta actividad fue complementada por la creación de una propuesta de valor diferenciada, que establece claramente el alcance y los objetivos de nuestro proyecto. Estos elementos no solo demuestran mi habilidad para pensar innovadoramente, sino que también aseguran que nuestro producto final sea tanto funcional como disruptivo en el mercado.</p>
+    <p>Trabajé en la estructuración de User Stories específicas para nuestro sistema de monitoreo de cultivos, priorizando funcionalidades como alertas automáticas y control remoto. También desarrollé la propuesta de valor enfocada en eficiencia hídrica y facilidad de uso, asegurando que nuestro proyecto se alineara con las demandas prácticas del sector agrícola tecnificado.</p>
     <h3>Augusto Jose Pin Matallana</h3>
     <b>TB1</b>
-    <p>He dedicado un esfuerzo considerable a elaborar diagramas precisos y alineadas con las necesidades reales de nuestros usuarios, asegurando que cada requerimiento esté contemplado en el desarrollo del producto. Este trabajo se complementó con la definición de una propuesta de valor única, que delimita con claridad el propósito y los objetivos del proyecto. Ambas acciones reflejan no solo mi capacidad para generar ideas innovadoras, sino también mi compromiso con la creación de soluciones funcionales y con alto potencial de impacto en el mercado.</p>
+    <p>Diseñé diagramas de arquitectura del sistema que integran hardware y software, como la comunicación entre sensores, actuadores y servidores en la nube. Esta representación clara de flujos de información y control fue clave para asegurar la interoperabilidad de los componentes y para proyectar un sistema escalable y eficiente en el contexto agrícola.</p>
     <td colspan="3">
     <b>TB1</b>
-    <p>Al concluir el primer hito de nuestro proyecto, nuestro equipo ha demostrado un crecimiento significativo en el ámbito de soluciones de software, fundamental para nuestro desarrollo profesional continuo. Hemos completado con éxito la definición del problema, realizado una investigación exhaustiva de competidores y llevado a cabo entrevistas detalladas que han enriquecido considerablemente nuestra comprensión del mercado y las necesidades de los usuarios. Estas actividades nos han permitido formular una propuesta de valor innovadora y diferenciada, reflejada en User Stories bien definidas y un diseño de producto adaptado a las demandas actuales. La comunicación efectiva y la colaboración dentro del equipo han sido claves para integrar diversas perspectivas y habilidades, fortaleciendo nuestro enfoque y asegurando que todos los aspectos del proyecto estén alineados y optimizados para las siguientes etapas del desarrollo. Este progreso inicial no solo ha mejorado nuestras capacidades técnicas, sino que también ha solidificado nuestra cohesión como equipo, preparándonos para enfrentar con confianza los desafíos futuros del proyecto.</p>
+    <p>Al concluir el primer hito de nuestro proyecto de IoT, nuestro equipo ha demostrado un avance sólido en la definición de soluciones tecnológicas aplicadas a la agricultura de precisión. Logramos definir claramente los problemas a resolver, realizar una investigación profunda de necesidades reales y proponer una arquitectura robusta basada en sensores y controladores. La colaboración efectiva y la comunicación fluida nos permitieron integrar diversas perspectivas técnicas, estableciendo bases firmes para el desarrollo de un prototipo funcional. Este progreso inicial ha fortalecido tanto nuestras competencias tecnológicas como nuestra cohesión como equipo, preparándonos para enfrentar exitosamente los retos de las siguientes etapas.</p>
   </td>
     </tr>
     <tr>
@@ -210,30 +208,31 @@ forma conjunta</td>
 inclusivo, establece metas,
 planifica tareas y cumple
 objetivos.</td>
-      <td colspan="3" align = "justify">
+      <td colspan="3" align="justify">
       <h3>Joseph Alexis Huamani Mandujano</h3>
     <b>TB1</b>
-    <p>En este primer hito, he logrado una comprensión más profunda de la definición de problemas y la formulación de suposiciones, elementos cruciales en el desarrollo de proyectos de software. Al delinear claramente el Problem Statement y establecer Asumptions fundamentados, he reforzado mi capacidad para abordar problemas complejos de manera sistemática. Esta tarea ha reafirmado mi convicción sobre la importancia del aprendizaje continuo en la adaptación y aplicación de conocimientos técnicos a situaciones reales, lo cual es indispensable para mi desarrollo profesional.</p>
+    <p>En este primer hito, desarrollé una visión integral del problema de gestión de riego agrícola, formulando suposiciones y problemáticas claves que fundamentaron nuestras decisiones de selección de sensores y microcontroladores. Esta tarea reforzó mi capacidad de analizar entornos reales y plantear soluciones técnicas efectivas, reafirmando la importancia del aprendizaje práctico en IoT.</p>
       <h3>Mathias André Mendoza Carrión</h3>
     <b>TB1</b>
-    <p>Durante la realización de una investigación exhaustiva de competidores y la conducción de entrevistas dirigidas, he reconocido la necesidad de mantenerme actualizado sobre las tendencias del mercado y las tecnologías emergentes. Este proceso no solo ha enriquecido mi entendimiento del entorno competitivo sino que también ha mejorado mis habilidades de comunicación y análisis crítico. Aprender de manera continua sobre nuevas metodologías y prácticas del sector me ha permitido formular preguntas más incisivas y recopilar datos más relevantes, fundamentales para el éxito del proyecto.</p>
+    <p>El análisis de competidores y entrevistas a agricultores me permitió identificar necesidades no satisfechas en el mercado actual, lo que afianzó mi comprensión del impacto que tiene la correcta selección de tecnologías IoT en proyectos reales. Aprender a interpretar los requerimientos de usuarios y convertirlos en especificaciones técnicas ha sido una lección valiosa para mi formación.</p>
      <h3>Ian Haziel Donato Santisteban Palomino</h3>
     <b>TB1</b>
-    <p>Como líder del equipo, definí una propuesta de valor innovadora y al identificar User Stories detalladas, he aplicado efectivamente mi aprendizaje en diseño de soluciones a las necesidades específicas del usuario final. Este proceso ha demostrado la importancia de actualizar continuamente mis habilidades en la creación de soluciones efectivas y centradas en el usuario. A través de la práctica constante y la evaluación crítica, he mejorado mi capacidad para desarrollar productos que no solo cumplen sino que superan las expectativas del mercado.</p>
+    <p>Al liderar la estructuración de requerimientos y documentación técnica, consolidé habilidades fundamentales para planificar proyectos IoT que integren distintos dispositivos y plataformas. Esta experiencia práctica subraya la importancia de actualizar permanentemente mis conocimientos sobre protocolos de comunicación, seguridad de datos y gestión de dispositivos conectados.</p>
       <h3>Jeremy Joel Quispe Andia</h3>
     <b>TB1</b>
-    <p>La tarea de analizar respuestas de entrevistas y construir fichas de Personas me ha permitido aplicar teorías de comportamiento del usuario y psicología de consumo de manera práctica. Este ejercicio ha reforzado la necesidad de un aprendizaje permanente en áreas interdisciplinarias que complementan el desarrollo de software. Entender profundamente a los usuarios y adaptar nuestras soluciones a sus necesidades es un recordatorio constante de cómo el aprendizaje continuo puede influir directamente en la relevancia y el impacto de nuestros proyectos.</p>
+    <p>La definición de funcionalidades y necesidades a partir de User Stories me permitió comprender de manera aplicada cómo traducir problemas agrícolas reales en soluciones tecnológicas. Esta práctica resalta la necesidad de formarse continuamente en nuevas plataformas, hardware emergente y mejores prácticas de desarrollo para crear soluciones IoT efectivas y sostenibles.</p>
     <h3>Augusto Jose Pin Matallana</h3>
     <b>TB1</b>
-    <p>Durante este primer hito, participé activamente en diversas etapas clave del desarrollo del proyecto. Desde la definición clara del problema y la formulación de suposiciones bien fundamentadas, hasta la elaboración de User Stories alineadas con las verdaderas necesidades del usuario, contribuí a construir una base sólida para nuestro producto. Asimismo, me involucré en la investigación de mercado, análisis de competidores y entrevistas con usuarios, lo que me permitió enriquecer mi perspectiva sobre el entorno competitivo y afinar mis habilidades de observación y análisis. Todo ello ha reforzado mi convicción sobre la importancia del aprendizaje continuo para adaptar conocimientos técnicos a contextos reales y colaborar efectivamente en equipos multidisciplinarios.</p>
+    <p>Participé activamente en la definición de la arquitectura técnica del sistema IoT, considerando factores como conectividad, energía y entorno operativo. Esta experiencia fue crucial para entender la importancia de un enfoque sistémico y me impulsó a profundizar en el aprendizaje de nuevas herramientas de diseño y simulación para fortalecer futuras soluciones de ingeniería.</p>
     </td>
       <td colspan="3">
     <b>TB1</b>
-    <p>Al concluir este primer hito, nuestro equipo ha consolidado la importancia del aprendizaje continuo como piedra angular de nuestro desarrollo profesional y éxito en proyectos de soluciones de software. Cada miembro ha demostrado un compromiso ejemplar con la actualización y aplicación de conocimientos en diversas áreas, desde la definición precisa de problemas hasta el análisis profundo del comportamiento del usuario. Hemos reconocido que mantenerse al día con las últimas tendencias y tecnologías no solo enriquece nuestras propuestas de valor, sino que también refina nuestras habilidades comunicativas y de análisis. Este enfoque proactivo hacia el aprendizaje nos ha permitido crear soluciones innovadoras y efectivas que responden con precisión a las necesidades de nuestros usuarios. La experiencia acumulada en este hito subraya nuestra convicción de que el aprendizaje permanente es fundamental para adaptarse a los desafíos emergentes y para liderar en el dinámico campo del desarrollo de software.</p>
+    <p>Al concluir este primer hito, nuestro equipo ha reafirmado la importancia de combinar conocimientos teóricos con experiencia práctica para lograr proyectos IoT exitosos. Cada integrante ha mostrado una evolución constante, aplicando aprendizajes técnicos a situaciones reales del sector agrícola. La colaboración, investigación de campo y el enfoque en necesidades del usuario nos permitieron plantear una solución sólida, adaptada a contextos exigentes. El aprendizaje continuo en sensores, plataformas de conectividad, protocolos de comunicación y desarrollo de interfaces será clave para seguir creciendo en las siguientes fases del proyecto. Esta etapa nos ha preparado mejor para enfrentar los desafíos tecnológicos futuros con una mentalidad crítica, creativa y resolutiva.</p>
   </td>
     </tr>
   </tbody>
 </table>
+
 
 <div style="page-break-after: always;"></div>
 
