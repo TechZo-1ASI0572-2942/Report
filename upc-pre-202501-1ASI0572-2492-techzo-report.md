@@ -2106,7 +2106,7 @@ En esta sección, se presenta el diagrama de base de datos que detalla los objet
 
 ## Conclusiones
 
-La investigación inicial confirmó con datos cualitativos que el modelo de economía lineal está generando niveles crecientes de residuos y desconfianza en los intercambios informales. Las más de siete entrevistas realizadas mostraron que el 100 % de los usuarios ha tenido experiencias negativas al intentar trueques a través de redes sociales tradicionales, lo que evidencia una oportunidad clara para una solución segura y automatizada como CambiaZo.
+La investigación inicial confirmó con datos cualitativos que el modelo de economía lineal está generando niveles crecientes de residuos y desconfianza en los intercambios informales. Las más de cuatro entrevistas realizadas mostraron que el 100 % de los usuarios ha tenido experiencias negativas al intentar trueques a través de redes sociales tradicionales, lo que evidencia una oportunidad clara para una solución segura y automatizada como CambiaZo.
 
 A través de la aplicación de metodologías Lean UX—definición de problem statements, canvas y validación de hipótesis—junto con la construcción de User Personas, Journey Maps y Empathy Maps, se lograron identificar con precisión los flujos de interacción, puntos de dolor y expectativas de los intercambiadores. Estos hallazgos permitieron priorizar funcionalidades esenciales como la asignación de lockers cercanos, la validación fotográfica de depósitos, la generación de PINs seguros y un sistema de calificaciones que fomente la confianza.
 
