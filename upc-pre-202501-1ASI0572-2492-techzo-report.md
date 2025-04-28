@@ -1012,7 +1012,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   <tr>
     <td>Resumen</td>
     <td>
-      Pongan resumen
+      Durante la entrevista, Carlos Arturo Adrianzen, estudiante de 20 años que reside en Lima, compartió su experiencia realizando intercambios de objetos como hobby. Aunque ha tenido experiencias mayormente satisfactorias, mencionó que le generaría inseguridad no conocer bien al usuario o las condiciones reales del objeto. Considera esenciales para una app como CambiaZo una buena comunicación entre usuarios, perfiles verificados y descripciones honestas de los productos. Carlos ve muy positivo el uso de lockers inteligentes para mayor seguridad y comodidad, sugiriendo además incluir fotos del objeto dentro del locker antes de recogerlo. Destacó que le gustaría recibir información detallada del estado, uso y motivo del intercambio, junto con respaldo de identidad del usuario. Finalmente, espera que CambiaZo le brinde facilidad, rapidez y seguridad para intercambiar objetos al menos una vez por semana, recomendando enfocarse en medidas fuertes de autenticación y verificación para aumentar la confianza entre los usuarios.
     </td>
   </tr>
 </tbody>
