@@ -789,11 +789,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EaUcStcLdUhLhfvlUILTBFkBF8uV4MdTKowycEk30aIFkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=85qOjz" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EahtaVsRKF1Ds5n200RM-pwBZNttejscbL4slC6uZSlEKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EGcKBv" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>10:45 min - 15:37 min</td>
+    <td>00:00 min - 4:03 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -816,19 +816,19 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Pongan nombre</td>
+    <td>Edu Orlando</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Pongan apellidos</td>
+    <td>Gutierrez Vasquez</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>pongan edad</td>
+    <td>19 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>pongan distrito</td>
+    <td>La Molina</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -836,11 +836,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>pongan motivacion</td>
+    <td>Seguridad y calidad en intercambios de productos</td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>pongan frustracion</td>
+    <td>Limitaciones de seguridad y calidad en Facebook</td>
   </tr>
   <tr>
     <td>Tecnologias</td>
@@ -856,20 +856,20 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="RUTA A SU IMAGEN" alt="pongan el link de su imagen"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-II/Interviews/edugutierrez_interview.png?raw=true" alt="Edu Gutierrez Entrevista"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="PONGAN LINK DE LA ENTREVISTA" title="Title">Microsoft Stream (PONER LINK DE ENTREVISTA)</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EahtaVsRKF1Ds5n200RM-pwBZNttejscbL4slC6uZSlEKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EGcKBv" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>00:00 min - 4:30 min </td>
+    <td>4:04 min - 11:49 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
     <td>
-      Pongan resumen
+      En la entrevista, Edu Gutiérrez compartió su experiencia en intercambiar objetos, destacando su interés en coleccionables como fotocards. Aunque ha tenido dificultades para encontrar lugares adecuados, valora la posibilidad de utilizar aplicaciones para intercambiar productos de manera segura. En cuanto a la plataforma CambiaZo, Edu destacó la importancia de la verificación de usuarios y la seguridad de los productos, sugiriendo que el uso de lockers inteligentes podría agilizar el proceso, especialmente cuando las personas no coinciden en sus horarios. También propuso la inclusión de notificaciones y una imagen del objeto en el locker antes de abrirlo para garantizar que el producto coincida con lo acordado. Además, señaló que una sección de opiniones sobre usuarios previos ayudaría a generar confianza, y expresó su preocupación por la ciberseguridad, resaltando la necesidad de proteger la información personal en la plataforma.
     </td>
   </tr>
 </tbody>
@@ -932,11 +932,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="PONES LINK" title="Title">Microsoft Stream (PONER LINK DE ENTREVISTA)</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EahtaVsRKF1Ds5n200RM-pwBZNttejscbL4slC6uZSlEKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EGcKBv" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>25:37 min - 35:45 min </td>
+    <td>11:50 min - 19:27 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1003,11 +1003,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="PONGAN LINK DE LA ENTREVISTA" title="Title">Microsoft Stream (PONER LINK DE ENTREVISTA)</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EahtaVsRKF1Ds5n200RM-pwBZNttejscbL4slC6uZSlEKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EGcKBv" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>00:00 min - 4:30 min </td>
+    <td>19:28 min - 29:16 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1075,11 +1075,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210257_upc_edu_pe/Ecnefubz4ApEp2BqZkx4de8BxLePMHiBR4gSE1YtjLPR6Q?e=bvxfC9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EahtaVsRKF1Ds5n200RM-pwBZNttejscbL4slC6uZSlEKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EGcKBv" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>4:33 min</td>
+    <td>29:17 min - 33:52 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
