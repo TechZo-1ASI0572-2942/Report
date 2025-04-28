@@ -38,6 +38,9 @@
 
 <div style="page-break-after: always;"></div>
 
+### Registro de Versiones
+
+
 |**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
 | - | - | - | - |
 |1.0|20/04/25|Ian Haziel Donato Santisteban Palomino|Se agregó la estructura inicial del proyecto.|
@@ -62,9 +65,72 @@
 
 <div style="page-break-after: always;"></div>
 
+# Project Report Collaboration Insights
+
+**URL de Organización de GITHUB del equipo TechZo:**
+[TechZoOrganization](https://github.com/TechZo-1ASI0572-2942)
+
+**URL de Repositorio del Project Report:**
+[TechZo-1ASI0572-2942/Report](https://github.com/TechZo-1ASI0572-2942/Report)
+
+
+<strong>*Entrega TB1:*</strong>
+
++ Desarrollo de Actividades
+    En el entregable de TB1, el equipo se reunió por discord para hacer las primeras coordinaciones y posteriormente todo el desarrollo y reuniones de avance. Esto se debe, a que la mayoría de integrantes se siente más cómodo con esta aplicación. 
+
+    En cuanto al desarrollo del informe, el equipo realizó repartición de partes de manera justa. 
+
+    Cabe resaltar, que el tiempo brindado en clase para poder recibir feedbacks y realizar consultas al docente fue de gran apoyo ya que no todos cuentan con la misma disponibilidad de tiempo.
+
+
++ **Evidencias de colaboración y commits - Github:**
+    * **Análiticos de colaboración** <br><br>
+        + **Pulse Image of Github Insights**
+        <div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Insights/pulse.png?raw=true"></div><br><br>
+
+
+        + **Contributors Image of Github Insights**
+        <div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Insights/contributors.png?raw=true"></div><br><br>
+
+
+    * **Commits**
+
+         A continuacion se muestran algunos commits realizados en este entrega de TB1.
+
+        + **Ian Santisteban**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Insights/ian_commits.png?raw=true" >
+            </div><br>
+
+        + **Jeremy Quispe**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Insights/jeremy_commits.png?raw=true">
+            </div><br>
+
+        + **Joseph Huamani**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Insights/joseph_commits.png?raw=true">
+            </div><br>
+        + **Mathias Mendoza**
+            <div style="display: flex; align-items: center;">
+            <img src="hhttps://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Insights/mathias_commits.png?raw=true">
+            </div><br>
+        + **Augusto Pin**
+            <div style="display: flex; align-items: center;">
+            <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Insights/augusto_commits.png?raw=true">
+            </div><br><br>
+
+
+
+
+<div style="page-break-after: always;"></div>
+
 # Contenido
 
 ## Tabla de Contenidos
+
+### [Project Report Collaboration Insights](#project-report-collaboration-insights)
 
 ### [Contenido](#contenido)
 
