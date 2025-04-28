@@ -2225,7 +2225,7 @@ Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular 
 ## Exposure video TB1
 
   <div align="center">
-    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-I/expo_tb1.png?raw=true" alt="Exposure video Tb1">
+    <img src="./Resources/Chapter-I/expo_tb1.png?raw=true" alt="Exposure video Tb1">
  </div>
 
 
