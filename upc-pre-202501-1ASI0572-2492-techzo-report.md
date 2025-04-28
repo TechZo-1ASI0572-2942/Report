@@ -87,11 +87,11 @@
 + **Evidencias de colaboración y commits - Github:**
     * **Análiticos de colaboración** <br><br>
         + **Pulse Image of Github Insights**
-        <div align="center"><img src="./Resources/Chapter-I/Insights/pulse.png?raw=true"></div><br><br>
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/pulse.png?raw=true"></div><br><br>
 
 
         + **Contributors Image of Github Insights**
-        <div align="center"><img src="./Resources/Chapter-I/Insights/contributors.png?raw=true"></div><br><br>
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/contributors.png?raw=true"></div><br><br>
 
 
     * **Commits**
@@ -100,25 +100,25 @@
 
         + **Ian Santisteban**
             <div style="display: flex; align-items: center;">
-            <img src="./Resources/Chapter-I/Insights/ian_commits.png?raw=true" >
+            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/ian_commits.png?raw=true" >
             </div><br>
 
         + **Jeremy Quispe**
             <div style="display: flex; align-items: center;">
-            <img src="./Resources/Chapter-I/Insights/jeremy_commits.png?raw=true">
+            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/jeremy_commits.png?raw=true">
             </div><br>
 
         + **Joseph Huamani**
             <div style="display: flex; align-items: center;">
-            <img src="./Resources/Chapter-I/Insights/joseph_commits.png?raw=true">
+            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/joseph_commits.png?raw=true">
             </div><br>
         + **Mathias Mendoza**
             <div style="display: flex; align-items: center;">
-            <img src="./Resources/Chapter-I/Insights/mathias_commits.png?raw=true">
+            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/mathias_commits.png?raw=true">
             </div><br>
         + **Augusto Pin**
             <div style="display: flex; align-items: center;">
-            <img src="./Resources/Chapter-I/Insights/augusto_commits.png?raw=true">
+            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/augusto_commits.png?raw=true">
             </div><br><br>
 
 
@@ -2032,28 +2032,28 @@ Asimismo, se presentan los componentes arquitectónicos, diagramas de clases y d
 
 En esta capa, se gestionan las reglas de negocio y las entidades clave relacionadas con la gestión de usuarios y roles en el Bounded Context de IAM. Esta capa incluye entidades como User y Role, además de objetos de valor como RoleType, los cuales permiten definir las características y permisos de los usuarios. A través de agregados y servicios de dominio, como el UserRepository, se asegura la persistencia y gestión adecuada de los datos, facilitando la creación, actualización y eliminación de usuarios, así como la asignación y gestión de sus roles y permisos.
 
-<img src="./Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/domainlayer_iam.png" alt="iam"><br><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/domainlayer_iam.png?raw=true" alt="iam"><br><br>
 
 
 #### 4.2.1.2 Interface Layer
 
 En esta capa, se gestionan las interacciones entre los usuarios y el sistema dentro del Bounded Context de IAM. Aquí, los controladores como AuthenticationController y UsersController son responsables de manejar las solicitudes relacionadas con el inicio de sesión, registro y la gestión de usuarios. Estos controladores procesan los datos proporcionados por los usuarios a través de recursos como SignInResource y UserResource, asegurando que la comunicación entre el sistema y los usuarios sea eficiente y segura.
 
-<img src="./Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/interfacelayer_iam.png" alt="iam"><br><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/interfacelayer_iam.png?raw=true" alt="iam"><br><br>
 
 
 #### 4.2.1.3 Application Layer
 
 En la Capa de Aplicación del Bounded Context de IAM, se gestionan los flujos de procesos de negocio relacionados con la autenticación, el registro y la actualización de usuarios. A través de Command Handlers como SignInCommandHandler, SignUpCommandHandler y UpdateProfileUserCommandHandler, se coordinan las acciones de escritura y se gestionan los comandos para la creación, actualización y autenticación de usuarios. Estos handlers facilitan la validación de datos y la manipulación de la información, trabajando de la mano con las entidades y servicios de la capa de dominio para garantizar la correcta gestión de usuarios en el sistema.
 
-<img src="./Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/applicationlayer_iam.png" alt="iam"><br><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/applicationlayer_iam.png?raw=true" alt="iam"><br><br>
 
 
 #### 4.2.1.4 Infrastructure Layer
 
 En esta capa, se gestionan los componentes que permiten la interacción con servicios externos en el Bounded Context de IAM. Esta capa implementa los repositorios definidos en la capa de dominio, como UserRepositoryImpl, para manejar la persistencia de usuarios en bases de datos. Además, gestiona servicios como MessageBrokerServiceImpl y EmailServiceImpl, encargados de la comunicación con sistemas de mensajería y el envío de correos electrónicos. La Capa de Infraestructura actúa como puente entre las capas superiores y los servicios externos, garantizando que las operaciones de datos y mensajes se ejecuten correctamente.
 
-<img src="./Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/infrastructurelayer_iam.png" alt="iam"><br><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/infrastructurelayer_iam.png?raw=true" alt="iam"><br><br>
 
 
 
@@ -2061,7 +2061,7 @@ En esta capa, se gestionan los componentes que permiten la interacción con serv
 
 El contexto de IAM se encarga de gestionar la autenticación y autorización de los usuarios en el sistema CambiaZo. Este bounded context está compuesto por varios componentes que trabajan conjuntamente para garantizar un proceso de inicio de sesión seguro, la gestión de cuentas de usuario y la verificación mediante autenticaciones externas (como Firebase Auth). Los componentes dentro de este contexto interactúan directamente con la base de datos de usuarios y con los servicios externos de correo electrónico (para el envío de correos de verificación).
 
-<img src="./Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/componentlevel_iam.png" alt="iam"><br><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/componentlevel_iam.png?raw=true" alt="iam"><br><br>
 
 
 
@@ -2071,7 +2071,7 @@ El contexto de IAM se encarga de gestionar la autenticación y autorización de 
 
 Este diagrama presenta las clases clave para la gestión de usuarios en el Bounded Context de IAM. La clase User incluye atributos como ID, nombre, contraseña y roles, y ofrece métodos para activar, desactivar usuarios y gestionar roles. Los roles se definen en la clase Role y se categorizan mediante la enumeración RoleType (que incluye los valores ROL_USER y ROL_ADMIN). UserRepository gestiona la persistencia de los usuarios, mientras que RoleRepository se encarga de los roles. UserService coordina las operaciones de negocio, como el registro de usuarios, cambio de contraseñas y la gestión de roles, interactuando con los repositorios correspondientes para asegurar la correcta administración de usuarios y roles.
 
-<img src="./Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/domainlayerclass_iam.png" alt="iam"><br><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/domainlayerclass_iam.png?raw=true" alt="iam"><br><br>
 
 
 
@@ -2079,7 +2079,7 @@ Este diagrama presenta las clases clave para la gestión de usuarios en el Bound
 
 En esta capa, se presenta el Diagrama de Base de Datos del Bounded Context de IAM, que describe las tablas esenciales para la persistencia de datos de usuarios y roles. La tabla USER almacena información clave como el nombre, la contraseña y el estado de los usuarios, mientras que ROLE almacena los roles disponibles. USER_ROLE vincula usuarios con roles mediante claves foráneas, y ROLETYPE categoriza los roles. Las relaciones entre estas tablas aseguran la integridad de los datos y permiten una gestión eficiente de los roles asignados a cada usuario.
 
-<img src="./Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/database_iam.png" alt="iam"><br><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/iam/database_iam.png?raw=true" alt="iam"><br><br>
 
 
 
@@ -2089,22 +2089,22 @@ El Bounded Context de Exchanges en el sistema CambiaZo se encarga de gestionar e
 #### 4.2.2.1 Domain Layer
 En el dominio de Exchange, se encuentra la entidad Exchange, que representa el proceso de intercambio, y el Item, que actúa como el reemplazo del producto en el intercambio. Además, el exchangeRepo se encarga de abstraer el acceso a los datos relacionados con el intercambio.
 
-<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/domain-layer-exchange.png" alt="exchange">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/domain-layer-exchange.png?raw=true" alt="exchange">
 
 #### 4.2.2.2 Interface Layer
 Dentro del dominio de Exchange, se presentan las clases que permiten la comunicación entre los usuarios y la lógica de negocio para gestionar el intercambio de objetos inutilizados. Se incluye el ExchangeController, que expone los endpoints necesarios para crear, aceptar, rechazar y consultar ofertas de intercambio, así como ExcahngeQueryController y ExchangeConsumer, que estructuran los datos enviados y recibidos entre el sistema y los usuarios.
 
-<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/interface-layer-exchange.png" alt="exchange">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/interface-layer-exchange.png?raw=true" alt="exchange">
 
 #### 4.2.2.3 Application Layer
 Dentro del dominio de Exchange, la Capa de Aplicación se encarga de coordinar los flujos de procesos del negocio relacionados al intercambio de objetos inutilizados. Esta capa está conformada por Command Handlers como CreateExchangeCommandHandler, AcceptExchangeCommandHandler y RejectExchangeCommandHandler, los cuales gestionan la creación, aceptación y rechazo de ofertas de intercambio a partir de comandos específicos, asegurando la correcta ejecución de las capacidades definidas para el bounded context.
 
-<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/application-layer-exchange.png" alt="exchange">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/application-layer-exchange.png?raw=true" alt="exchange">
 
 #### 4.2.2.4 Infrastructure Layer
 Dentro del dominio de Exchange, la Capa de Infraestructura proporciona las implementaciones técnicas necesarias para la persistencia y gestión de datos relacionados a las ofertas y productos de intercambio. En esta capa se encuentran repositorios como MySQLExchangeRepository, GoogleAuthService, EmailsNotifierService y RabbitMExchangePublisher, que implementan las interfaces definidas en la Capa de Dominio y se encargan de interactuar con la base de datos para almacenar y recuperar información relevante para el bounded context.
 
-<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/infrastructure-layer-exchange.png" alt="exchange">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/infrastructure-layer-exchange.png?raw=true" alt="exchange">
 
 #### 4.2.2.5 Bounded Context Software Architecture Component Level Diagrams
 El contexto ExchangeManagement es responsable de gestionar las solicitudes de intercambio de productos entre los usuarios. Incluye la creación y aceptación de ofertas, así como la consulta de productos disponibles. Este contexto se encarga de facilitar las interacciones de intercambio de manera segura y fluida entre los usuarios a través de la plataforma.
@@ -2225,7 +2225,7 @@ Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular 
 ## Exposure video TB1
 
   <div align="center">
-    <img src="./Resources/Chapter-I/expo_tb1.png?raw=true" alt="Exposure video Tb1">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/expo_tb1.png?raw=true" alt="Exposure video Tb1">
  </div>
 
 
