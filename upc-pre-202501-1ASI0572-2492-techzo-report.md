@@ -785,7 +785,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
     <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Interviews/erickmaycol_interview.png?raw=true" alt="Entrevista Erick Huallullo"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-II/Interviews/mathiashildago_interview.png?raw=true" alt="mathias-hidalgo-interview"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -959,19 +959,19 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Pongan nombre</td>
+    <td>Carlos Arturo</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Pongan apellidos</td>
+    <td>Adrianzen Flores</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>pongan edad</td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>pongan distrito</td>
+    <td>Miraflores</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -979,11 +979,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>pongan motivacion</td>
+    <td>Intercambios seguros y rápidos, con facilidad para encontrar personas interesadas sus objetos.</td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>pongan frustracion</td>
+    <td>Recibir objetos en mal estado o diferentes a lo prometido</td>
   </tr>
   <tr>
     <td>Tecnologias</td>
@@ -1003,11 +1003,11 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EahtaVsRKF1Ds5n200RM-pwBZNttejscbL4slC6uZSlEKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EGcKBv" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EahtaVsRKF1Ds5n200RM-pwBZNttejscbL4slC6uZSlEKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EGcKBv" title="interview">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>19:28 min - 29:16 min</td>
+    <td>19:28 min - 29:16 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
