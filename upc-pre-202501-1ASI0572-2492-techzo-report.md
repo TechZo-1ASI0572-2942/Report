@@ -1175,8 +1175,6 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 ![User Persona 1](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-1.PNG?raw=true)
 </div>
 
-**Enlace:** [User Persona en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/WUMVh)
-<br><br>
 
 ### 2.3.2 User Task Matrix
 
@@ -1247,7 +1245,7 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 ![User Journey Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png?raw=true)
 </div>
 
-**Enlace:** [User Journey Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/m/85V7e)<br><br>
+
 
 ### 2.3.4 Empathy Mapping
 
@@ -1260,7 +1258,6 @@ Lo siguiente a evaluar como parte del needfinding es a nuestros segmentos objeti
 ![Empathy Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Empathy-Mapping/empathy-map-1.PNG?raw=true)
 </div>
 
-**Enlace:** [Empathy Mapping en UXPRESSIA](https://uxpressia.com/w/ODLU6/p/lPmO3)
 
 <br><br>
 
@@ -1457,9 +1454,6 @@ En esta sección, presentaremos el Impact Mapping, una herramienta esencial para
 
 [![Impact Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/Impact-Map/impact-map-1.png?raw=true)](https://uxpressia.com/w/ODLU6/i/7BZnN)
 </div>
-
-
-**Enlace:** [Impact Mappping en UXPRESSIA]()
 
 
 ## 3.3. Product Backlog
