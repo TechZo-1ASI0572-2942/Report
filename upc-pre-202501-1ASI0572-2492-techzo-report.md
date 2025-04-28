@@ -87,11 +87,11 @@
 + **Evidencias de colaboración y commits - Github:**
     * **Análiticos de colaboración** <br><br>
         + **Pulse Image of Github Insights**
-        <div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Insights/pulse.png?raw=true"></div><br><br>
+        <div align="center"><img src="./Resources/Chapter-I/Insights/pulse.png?raw=true"></div><br><br>
 
 
         + **Contributors Image of Github Insights**
-        <div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Insights/contributors.png?raw=true"></div><br><br>
+        <div align="center"><img src="./Resources/Chapter-I/Insights/contributors.png?raw=true"></div><br><br>
 
 
     * **Commits**
@@ -100,25 +100,25 @@
 
         + **Ian Santisteban**
             <div style="display: flex; align-items: center;">
-            <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Insights/ian_commits.png?raw=true" >
+            <img src="./Resources/Chapter-I/Insights/ian_commits.png?raw=true" >
             </div><br>
 
         + **Jeremy Quispe**
             <div style="display: flex; align-items: center;">
-            <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Insights/jeremy_commits.png?raw=true">
+            <img src="./Resources/Chapter-I/Insights/jeremy_commits.png?raw=true">
             </div><br>
 
         + **Joseph Huamani**
             <div style="display: flex; align-items: center;">
-            <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Insights/joseph_commits.png?raw=true">
+            <img src="./Resources/Chapter-I/Insights/joseph_commits.png?raw=true">
             </div><br>
         + **Mathias Mendoza**
             <div style="display: flex; align-items: center;">
-            <img src="hhttps://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Insights/mathias_commits.png?raw=true">
+            <img src="./Resources/Chapter-I/Insights/mathias_commits.png?raw=true">
             </div><br>
         + **Augusto Pin**
             <div style="display: flex; align-items: center;">
-            <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Insights/augusto_commits.png?raw=true">
+            <img src="./Resources/Chapter-I/Insights/augusto_commits.png?raw=true">
             </div><br><br>
 
 
