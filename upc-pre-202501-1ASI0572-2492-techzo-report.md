@@ -215,6 +215,27 @@
       - [4.2.3.6.1. Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
       - [4.2.3.6.2. Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
 
+### [Capítulo V: Solution UI/UX Design](#capítulo-v-solution-uiux-design)
+
+- [5.1 Style Guidelines](#51-style-guidelines)
+  - [5.1.1 General Style Guidelines](#511-general-style-guidelines)
+  - [5.1.2 Web, Mobile and IoT Style Guidelines](#512-web-mobile-and-iot-style-guidelines)
+- [5.2 Information Architecture](#52-information-architecture)
+  - [5.2.1 Organization Systems](#521-organization-systems)
+  - [5.2.2 Labeling Systems](#522-labeling-systems)
+  - [5.2.3 SEO Tags and Meta Tags](#523-seo-tags-and-meta-tags)
+  - [5.2.4 Searching Systems](#524-searching-systems)
+  - [5.2.5 Navigation Systems](#525-navigation-systems)
+- [5.3 Landing Page UI Design](#53-landing-page-ui-design)
+  - [5.3.1 Landing Page Wireframe](#531-landing-page-wireframe)
+  - [5.3.2 Landing Page Mock-up](#532-landing-page-mock-up)
+- [5.4 Applications UX/UI Design](#54-applications-uxui-design)
+  - [5.4.1 Applications Wireframes](#541-applications-wireframes)
+  - [5.4.2 Applications Wireflow Diagrams](#542-applications-wireflow-diagrams)
+  - [5.4.3 Applications Mock-ups](#543-applications-mock-ups)
+  - [5.4.4 Applications User Flow Diagrams](#544-applications-user-flow-diagrams)
+- [5.5 Applications Prototyping](#55-applications-prototyping)
+
 ### [Bibliografía](#bibliografía)
 
 ### [Anexos](#anexos)
@@ -2169,6 +2190,117 @@ En esta sección, se presenta el diagrama de clases en el contexto de Locker Man
 En esta sección, se presenta el diagrama de base de datos que detalla los objetos de base de datos necesarios para la persistencia de información dentro del contexto del Locker Management. Este diagrama refleja las entidades y relaciones que permiten almacenar y gestionar la información relacionada con los casilleros, sensores, cámaras, luces, eventos y notificaciones.
 
 <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker/databasdiagram_locker.png?raw=true" alt="Locker-Database-Diagram">
+
+# Capítulo V: Solution UI/UX Design
+
+## 5.1 Style Guidelines
+
+### 5.1.1. General Style Guidelines
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/General-Style-Guildelines/cambiazo-logo-negro.png?raw=true" alt="">
+
+### 5.1.2. Web, Mobile and IoT Style Guidelines
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/General-Style-Guildelines/color-pallete.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/General-Style-Guildelines/tipography.png?raw=true" alt="">
+
+
+## 5.2 Information Architecture
+
+### 5.2.1. Organization Systems
+### 5.2.2. Labeling Systems
+### 5.2.3. SEO Tags and Meta Tags
+### 5.2.4. Searching Systems
+### 5.2.5. Navigation Systems
+
+## 5.3 Landing Page UI Design
+
+### 5.3.1. Landing Page Wireframe
+
+Desktop:
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-desktop.png?raw=true" alt="">
+
+Mobile:
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-mobile.png?raw=true" alt="">
+
+### 5.3.2. Landing Page Mock-up
+
+Desktop:
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-desktop.png?raw=true" alt="">
+
+Mobile:
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-mobile.png?raw=true" alt="">
+
+## 5.4 Applications UX/UI Design
+
+### 5.4.1. Applications Wireframes
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-0.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-1.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-2.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-3.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-4.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-5.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-6.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-7.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-8.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-9.png?raw=true" alt="">
+
+### 5.4.2. Applications Wireflow Diagrams
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-1.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-2.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-3.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-4.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-5.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-6.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-7.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-8.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-9.PNG?raw=true" alt="">
+
+### 5.4.3. Applications Mock-ups
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-0.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-1.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-2.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-3.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-4.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-5.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-6.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-7.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-8.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-9.png?raw=true" alt="">
+
+### 5.4.4. Applications User Flow Diagrams
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-1.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-2.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-3.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-4.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-5.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-6.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-7.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-8.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-9.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-10.PNG?raw=true" alt="">
+
+## 5.5 Applications Prototyping
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-0.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-1.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-2.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-3.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-4.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-5.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-6.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-7.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-8.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-9.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-10.PNG?raw=true" alt="">
 
 ## Conclusiones
 
