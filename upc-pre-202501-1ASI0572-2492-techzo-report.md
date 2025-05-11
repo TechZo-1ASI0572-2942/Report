@@ -2314,7 +2314,51 @@ Mobile:
 
 ### 6.1.1. Software Development Environment Configuration
 
+En esta sección se describen las herramientas de software utilizadas por el equipo para colaborar en las distintas etapas del ciclo de vida del desarrollo del sistema con IoT. Estas herramientas permiten una adecuada planificación, diseño, desarrollo, prueba, despliegue y documentación de los productos digitales involucrados.
+
+| Actividad                | Producto              | Propósito                                      | Tipo       | URL de acceso/descarga                                 |
+|-------------------------|-----------------------|------------------------------------------------|------------|--------------------------------------------------------|
+| Project Management       | Trello                | Organización de tareas y gestión del proyecto  | SaaS       | [https://trello.com](https://trello.com)               |
+| Requirements Management  | Trello                | Gestión de requisitos mediante tableros        | SaaS       | [https://trello.com](https://trello.com)               |
+| UX/UI Design             | Figma                 | Diseño de interfaces de usuario                | SaaS       | [https://www.figma.com](https://www.figma.com)         |
+| Software Development     | Visual Studio Code / WebStorm | Edición y desarrollo del código fuente  | Instalable | [https://code.visualstudio.com](https://code.visualstudio.com) / [https://www.jetbrains.com/webstorm](https://www.jetbrains.com/webstorm) |
+| Source Code Management   | Git + GitHub          | Control de versiones y colaboración            | SaaS       | [https://github.com](https://github.com)               |
+| Software Testing         | Swagger UI            | Pruebas y validación de APIs REST              | SaaS       | [https://swagger.io/tools/swagger-ui](https://swagger.io/tools/swagger-ui) |
+| Software Deployment      | Azure Web Services    | Despliegue en la nube de servicios y aplicaciones | SaaS    | [https://azure.microsoft.com](https://azure.microsoft.com) |
+| Software Documentation   | GitHub Wiki           | Documentación del proyecto                     | SaaS       | [https://github.com](https://github.com)               |
+
 ### 6.1.2. Source Code Management
+
+El equipo utiliza **GitHub** como sistema de control de versiones y plataforma de colaboración para el desarrollo del sistema CambiaZo-WebApp. El repositorio oficial del proyecto es:
+
+- **Repositorio del Frontend**: [https://github.com/TechZo-1ASI0572-2942/CambiaZo-WebApp](https://github.com/TechZo-1ASI0572-2942/CambiaZo-WebApp)
+- **Repositorio del Landing Page**: [https://github.com/TechZo-1ASI0572-2942/CambiaZo-Landing-Page.git](https://github.com/TechZo-1ASI0572-2942/CambiaZo-Landing-Page.git)
+- **Repositorio del Backend**: [https://github.com/TechZo-1ASI0572-2942/CambiaZo-Backend.git](https://github.com/TechZo-1ASI0572-2942/CambiaZo-Backend.git)
+
+#### Git Workflow: GitFlow adaptado
+
+Se adopta el flujo de trabajo **GitFlow**, con las siguientes ramas y convenciones:
+
+##### Ramas principales
+
+- `main`: contiene la versión estable utilizada para el despliegue en producción.
+- `develop`: rama de integración donde se consolidan todas las funcionalidades en desarrollo antes de ser promovidas a `main`.
+
+##### Ramas de funcionalidades
+
+- `feature/US-XX/descripcion`: creadas a partir de `develop` para cada historia de usuario o funcionalidad específica.
+  - Ejemplo: `feature/US-05/autentication-user`
+
+#### Convenciones de Commits (Conventional Commits)
+
+Se utilizan convenciones estandarizadas para los mensajes de commit, lo que permite un historial más legible y automatización en CI/CD:
+
+| Tipo    | Propósito                                      |
+|---------|------------------------------------------------|
+| `feat`  | Nuevas funcionalidades                         |
+| `fix`   | Corrección de errores                          |
+| `doc`   | Actualización o inclusión de documentación     |
+| `test`  | Agregar o modificar pruebas                    |
 
 ## Conclusiones
 
