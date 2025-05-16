@@ -2441,13 +2441,13 @@ Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id
 **Landing Page**
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-desktop.png?raw=true" width="600px" alt="Wireframe">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-desktop.png?raw=true" width="600px" alt="Wireframe">
 </div><br><br>
 
 **Landing Page en Mobile Web Browser**
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-mobile.png?raw=true" width="300px" alt="Wireframe Mobile">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-mobile.png?raw=true" width="300px" alt="Wireframe Mobile">
 </div><br><br>
 
 ### 5.3.2. Landing Page Mock-up
@@ -2459,19 +2459,18 @@ Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id
 **Landing Page**
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-desktop.png?raw=true" width="600px" alt="Mockup">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-desktop.png?raw=true" width="600px" alt="Mockup">
 </div><br><br>
 
 **Landing Page en Mobile Web Browser**
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-mobile.png?raw=true" width="300px" alt="Mockup Mobile">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-mobile.png?raw=true" width="300px" alt="Mockup Mobile">
 </div><br><br>
 
 ## 5.4 Applications UX/UI Design
 
 ### 5.4.1. Applications Wireframes
-
 <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-0.png?raw=true" alt="">
 <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-1.png?raw=true" alt="">
 <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-2.png?raw=true" alt="">
