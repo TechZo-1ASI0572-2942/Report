@@ -3160,6 +3160,136 @@ En este Sprint, se identificaron aspectos clave necesarios para el desarrollo in
   </tr>
 </table>
 
+
+
+### 6.2.1.6. Execution Evidence for Sprint Review.
+
+Lo que se logró en el Sprint 1 es desplegar nuestra landing page, avanzar en el desarrollo inicial de la aplicación móvil en Kotlin y comenzar con la base del backend. En la landing page, se implementaron la barra de navegación, las secciones informativas y un formulario de contacto funcional conectado al backend.
+
+Por otro lado, la app móvil ya cuenta con las funcionalidades de inicio de sesión, registro de usuarios y la pantalla de explorar, donde se visualizan los objetos disponibles para intercambio. En paralelo, el backend fue preparado con los primeros endpoints de autenticación y lectura de publicaciones, sentando las bases para la conexión entre dispositivos y la lógica del sistema.
+
+Además, se adoptó exitosamente la metodología GitFlow, trabajando en ramas independientes para pruebas y desarrollo sin comprometer la estabilidad de la rama principal.
+
+A continuación, se presenta un video explicativo sobre estos avances, así como imágenes que muestran lo logrado en este Sprint 1, tanto en la landing page y la app móvil..
+
+Enlace: [Video del Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EVYXrW-IDaNOn5b8AKu1MAEBvUv4tubPri0uW8cEW5IVsA?e=3rOfT0)
+<br><br>
+
+**Landing Page:**<br>
+
+Enlace: [Cambiazo Landing Page](https://cambiazo-site.netlify.app/)
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-1.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-2.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-3.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-4.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-5.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-6.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-7.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-9.png?raw=true" alt="landing page" >
+</div>
+
+<br><br>
+
+**Página Web:**<br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-VI/Execution-Evidence/execution-1?raw=true" alt="mobile app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-VI/Execution-Evidence/execution-2?raw=true" alt="mobile app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-VI/Execution-Evidence/execution-3?raw=true" alt="mobile app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-VI/Execution-Evidence/execution-4?raw=true" alt="mobile app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-VI/Execution-Evidence/execution-5?raw=true" alt="mobile app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-VI/Execution-Evidence/execution-5?raw=true" alt="mobile app" ><br>
+</div>
+
+<br><br>
+
+### 6.2.1.7. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 1, se desarrollaron funcionalidades clave en los tres frentes del sistema: backend, aplicación web y aplicación móvil, todas integradas en una plataforma de intercambios sostenibles potenciada por IoT. Desde el backend se implementaron endpoints seguros para cambiar contraseñas, gestionar reseñas y controlar la eliminación de cuentas, garantizando protección de datos y cumplimiento de buenas prácticas.
+
+En la web, se habilitaron interfaces intuitivas para editar publicaciones y administrar suscripciones premium, facilitando la trazabilidad y gestión de intercambios conectados a lockers inteligentes. En la app móvil, se integraron estas funcionalidades adaptadas a un entorno responsivo, priorizando accesibilidad y experiencia del usuario.
+
+Todo el trabajo fue coordinado a través de GitHub, usando ramas por módulo y User Story, lo que permitió una integración continua fluida y una base sólida para escalar la plataforma.
+
+### 6.2.1.8. Software Deployment Evidence for Sprint Review.
+Ahora procederemos a detallar los procesos que hemos realizado a lo largo del Sprint
+
+Continuaremos utilizando los repositorios en GitHub que hemos creado para la Aplicación Móvil y para los Acceptance Tests. Estos repositorios son fundamentales para el seguimiento y la implementación de las funcionalidades desarrolladas, asegurando que se mantenga una adecuada gestión del código y pruebas para validar el cumplimiento de los requisitos establecidos.
+
+  <div align="center">
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Software-Deployment/mobile-app.png?raw=true"  alt="Repositorio App Móvil">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Software-Deployment/acceptance-test.png?raw=true" alt="Repositorio archivos feature">
+</div><br><br>
+</div>
+En los dos repositorios hemos adoptado la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
+
+Para ello, en el repositorio de la aplicación móvil hemos creado ramas para cada historia de usuario, nombrándolas con la nomenclatura “feature/US-[número de la historia de usuario]”, en las cuales implementamos las pantallas según los requerimientos que se evidencian en cada historia de usuario.<br>
+
+
+**Aplicación Móvil:**
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Software-Deployment/mobile-app-branches.png?raw=true" alt="branches">
+  </div><br><br>
+
+<div align="center">
+
+| Rama             | Descripción                                                                                             |
+|------------------|---------------------------------------------------------------------------------------------------------|
+| feature/US-04    | Se implementa la funcionalidad para cambiar la contraseña, permitiendo a los usuarios actualizar su clave de acceso. |
+| feature/US-08    | Se habilita la opción para brindar reseñas sobre los intercambiadores, permitiendo a los usuarios dejar comentarios sobre su experiencia. |
+| feature/US-09    | Se desarrolla la opción de eliminación de cuenta, permitiendo a los usuarios borrar permanentemente su cuenta y datos. |
+| feature/US-13    | Se añade la funcionalidad para editar publicaciones de intercambio, facilitando a los usuarios actualizar los detalles de sus ofertas. |
+| feature/US-20    | Se incluye la opción para adquirir una suscripción premium, ofreciendo beneficios adicionales a los usuarios. |
+| feature/US-21    | Se permite la cancelación de suscripción premium, proporcionando a los usuarios la flexibilidad de finalizar su suscripción en cualquier momento. |
+
+
+</div>
+
+<br>
+Aplicación Móvil
+En el módulo móvil, cada integrante trabajó en funcionalidades específicas (como el login, la pantalla de publicaciones o las notificaciones push), subiendo sus avances a ramas individuales ligadas a User Stories. Tras la revisión en equipo, los cambios se integraron a la rama develop y, una vez validados, fueron enviados a main para su despliegue a través de herramientas como Firebase App Distribution o Expo.
+
+Aplicación Web
+Para la plataforma web, se aplicó un flujo similar, subiendo componentes como el panel de intercambios, la gestión de lockers y el sistema de reseñas. Las ramas fueron organizadas por funcionalidad, con revisiones en pull requests antes de hacer merge a develop. Luego de asegurar la estabilidad del sistema, se pasaron a main y se desplegaron en Netlify como entorno productivo.
+
+Backend
+En el backend, cada endpoint (usuarios, intercambios, lockers, suscripciones) fue desarrollado en ramas separadas. Se realizaron pruebas unitarias y de integración antes de unir todo en develop. Tras verificar la coherencia y funcionamiento general, se subió a main y se desplegó en un entorno en la nube (como Render o Azure App Service), asegurando la conexión con la base de datos y servicios externos como correo o notificaciones.
+
+<br><br>
+
+### 6.2.1.9. Team Collaboration Insights during Sprint.
+## Conclusiones
+
+La investigación inicial evidenció que el modelo de economía lineal genera residuos y desconfianza en intercambios informales. El 100 % de los entrevistados reportó experiencias negativas en trueques por redes sociales, lo que respalda la necesidad de una solución segura y automatizada como CambiaZo, basada en IoT.
+
+Se aplicó Lean UX y se construyeron User Personas, Journey Maps y Empathy Maps para identificar flujos y puntos críticos, priorizando funciones como la asignación automática de lockers inteligentes, validación fotográfica, generación de PINs y sistema de calificaciones.
+
+La arquitectura, basada en EventStorming y DDD, separa los contextos de Cuenta, Intercambios y Locker, integrando dispositivos IoT, capa web/móvil y bases de datos edge, garantizando operación offline con sincronización en la nube vía CosmosDB.
+
+El backlog cubre la gestión de cuentas, publicaciones, suscripciones y atención al usuario, permitiendo entregas ágiles y adaptadas al feedback. CambiaZo impulsa la economía circular y el consumo consciente con tecnología IoT al servicio de la sostenibilidad.
+
 ## Conclusiones
 
 La investigación inicial confirmó con datos cualitativos que el modelo de economía lineal está generando niveles crecientes de residuos y desconfianza en los intercambios informales. Las más de cuatro entrevistas realizadas mostraron que el 100 % de los usuarios ha tenido experiencias negativas al intentar trueques a través de redes sociales tradicionales, lo que evidencia una oportunidad clara para una solución segura y automatizada como CambiaZo.
