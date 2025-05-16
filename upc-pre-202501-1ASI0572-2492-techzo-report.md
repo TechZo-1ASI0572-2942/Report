@@ -3916,7 +3916,7 @@ Continuaremos utilizando los repositorios en GitHub que hemos creado para la Apl
 
 En el repositorio de nuestro proyecto IoT, hemos adoptado la metodología GitFlow para gestionar las ramas de desarrollo, lo que nos ha permitido trabajar de forma ordenada y paralela en distintas funcionalidades del sistema.
 
-Siguiendo esta metodología, hemos creado ramas específicas para cada historia de usuario, utilizando la nomenclatura feature/US-[número de historia]. En estas ramas se han implementado tanto la lógica de sensores como las interfaces correspondientes en la aplicación web y móvil, de acuerdo a los requerimientos definidos en cada historia de usuario.
+Siguiendo esta metodología, hemos creado ramas específicas para cada historia de usuario, utilizando la nomenclatura feature/US-[número de historia]. En estas ramas se han implementado tanto la lógica de sensores como las interfaces correspondientes en la aplicación web, de acuerdo a los requerimientos definidos en cada historia de usuario.
 
 
 </div>
@@ -3936,6 +3936,11 @@ Landing Page:
 Aplicación Web: 
   <div align="center">
     <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration2.png" alt="Repositorio archivos feature">
+</div><br><br>
+
+Backenm: 
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration3.png" alt="Repositorio archivos feature">
 </div><br><br>
 
 
@@ -3995,7 +4000,7 @@ Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular 
 + Landing Page: https://cambiazo-landing-page.netlify.app/
 <br><br>
 
-+ Aplicación Web:<br><br>
++ Aplicación Web: https://cambiazo-webapp.netlify.app/ <br><br>
 
 + Repositorio GitHub de la Organización:[Ver Organización](https://github.com/TechZo-1ASI0572-2942)<br><br>
 
