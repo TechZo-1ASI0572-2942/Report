@@ -2991,49 +2991,69 @@ En esta sección mostraremos los pasos que hemos realizado para poder desplegar 
 Para desplegar nuestra Landing Page hemos optado por usar Netlify,el cual brinda la posibilidad de alojar sitios web estáticos sin costo alguno.
 
 **1. Ingresamos a la página web de Netlify**
-<div  align="center"><img  src=""  alt="netlify"></div>
+<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-0.png?raw=true"  alt="netlify"></div>
 <br>
 
 **2. Iniciamos sesión con GitHub para poder usar los repositorios de nuestra cuenta**
-<div  align="center"><img  src=""  alt="netlify"></div>
+<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-1.png?raw=true"  alt="netlify"></div>
 <br>
 
 **3. Seleccionamos el repositorio que queremos emplear**
-<div  align="center"><img  src=""  alt="netlify"></div>
+<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-2.png?raw=true"  alt="netlify"></div>
 <br>
 
 **4. Elegimos un nombre dentro de la documentación permitida, para el dominio de la página.**
-<div  align="center"><img  src=""  alt="netlify"></div>
+<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-3.png?raw=true"  alt="netlify"></div>
 <br>
 
 **5. Finalmente la Landing Page estaría disponible.**
-<div  align="center"><img  src=""  alt="netlify"></div><br>
+<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-4.png?raw=true"  alt="netlify"></div><br>
 
-Elegimos Netlify debido a que su plataforma es muy fácil e intuitiva de utilizar, además de que podemos aprovechar en usar los repositorios que tengamos y de esta forma gestionar los avances y versiones de acuerdo al repositorio, para que luego los cambios se vean reflejado en la página.
+
+**Frontend**
+
+El despliegue de nuestra Aplicación Web también se realizó mediante Netlify, utilizando un proceso muy similar al que seguimos para la Landing Page. Gracias a la integración con GitHub, Netlify permite seleccionar cualquier repositorio y configurar fácilmente su despliegue.
+
+
+**1. Iniciamos sesión con GitHub para poder usar los repositorios de nuestra cuenta**
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-web-0.png?raw=true" alt="netlify"></div> <br>
+
+**2. Seleccionamos el repositorio donde se encuentra nuestra Aplicación Web**
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-web-1.png?raw=true" alt="netlify"></div> <br>
+
+**3. Elegimos un nombre válido para el dominio, dentro de las opciones permitidas**
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-web-2.png?raw=true" alt="netlify"></div> <br>
+
+**4. Finalmente, la Aplicación Web queda desplegada y accesible desde la URL asignada por Netlify**
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-web-3.png?raw=true" alt="netlify"></div> <br>
 
 <br><br>
+
+**Backend**
 
 Para desplegar nuestro backend, hemos optado por usar Microsoft Azure, el cual permite alojar proyectos de backend de manera eficiente mediante servicios en la nube escalables.
 
 **1.  Ingresamos a Microsoft Azure, Creamos un servidor  y un Servicio Web**
 
 <div align="center">
-  <img src="" alt="backend deploy"><br><br>
-  <img src="" alt="backend deploy">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-0.png?raw=true" alt="backend deploy"><br><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-1.png?raw=true" alt="backend deploy">
 </div><br><br>
 
 **2.  Vinculamos nuestro repositorio del back-end con el Servicio creado en Azure a través de la extensión Github Actions y deployamos**
 
 <div align="center">
-  <img src="" alt="backend deploy">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-2.png?raw=true" alt="backend deploy">
 </div><br><br>
 
 **3.  Finalmente, tendremos el back-end deployado**
 <div align="center">
-  <img src="" alt="backend deploy">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend deploy">
 </div><br><br>
-
-
 
 ## 6.2. Sprint 1
 En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
