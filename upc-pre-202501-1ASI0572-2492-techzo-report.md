@@ -3098,6 +3098,68 @@ En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1
   </tr>
 </table><br><br>
 
+
+#### 6.2.1.2. Aspect Leaders and Collaborators.
+
+En este Sprint, se identificaron aspectos clave necesarios para el desarrollo inicial del proyecto, tales como el diseño de la interfaz (UI/UX), la creación de la landing page, la creación del frontend, la estructuración de la base de datos y la primera versión del backend. Para cada uno de estos aspectos, se asignó un líder responsable de coordinar su desarrollo, así como colaboradores que apoyarán en la ejecución de las tareas. Esta distribución busca asegurar una mejor organización del equipo, fomentar la responsabilidad compartida y facilitar la comunicación durante el Sprint.
+
+<table>
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>ID/Código</th>
+    <th>Landing Page</th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Base de datos</th>
+    <th>UI/UX</th>
+  </tr>
+  <tr>
+    <td>Mendoza Carrion, Mathias Andre</td>
+    <td>U202216282</td>
+    <td>L</td>
+    <td>C</td>
+    <td></td>
+    <td></td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Quispe Andia, Jeremy Joel</td>
+    <td>U202216279</td>
+    <td>C</td>
+    <td>L</td>
+    <td></td>
+    <td></td>
+    <td>C</td>
+  </tr>
+    <tr>
+    <td>Huamani Mandujano, Joseph Alexis</td>
+    <td>U20221A133</td>
+    <td></td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+    <td>U202214059</td>
+    <td>C</td>
+    <td></td>
+    <td>C</td>
+    <td>L</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Pin Matallana, Augusto Jose</td>
+    <td>U202210257</td>
+    <td>C</td>
+    <td>C</td>
+    <td></td>
+    <td></td>
+    <td>L</td>
+  </tr>
+</table>
+
 ## Conclusiones
 
 La investigación inicial confirmó con datos cualitativos que el modelo de economía lineal está generando niveles crecientes de residuos y desconfianza en los intercambios informales. Las más de cuatro entrevistas realizadas mostraron que el 100 % de los usuarios ha tenido experiencias negativas al intentar trueques a través de redes sociales tradicionales, lo que evidencia una oportunidad clara para una solución segura y automatizada como CambiaZo.
