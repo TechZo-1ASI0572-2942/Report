@@ -73,11 +73,11 @@ https://github.com/TechZo-1ASI0572-2942/Report
 + **Evidencias de colaboración y commits - Github:**
     * **Análiticos de colaboración** <br><br>
         + **Pulse Image of Github Insights**
-        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/contributors1.png?raw=true"></div><br><br>
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/pulse.png?raw=true"></div><br><br>
 
 
         + **Contributors Image of Github Insights**
-        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/pulse1.png?raw=true"></div><br><br>
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/contributors.png?raw=true"></div><br><br>
 
 
 <strong>*Entrega TP:*</strong>
@@ -93,11 +93,11 @@ https://github.com/TechZo-1ASI0572-2942/Report
 + **Evidencias de colaboración y commits - Github:**
     * **Análiticos de colaboración** <br><br>
         + **Pulse Image of Github Insights**
-        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/tp/Resources/Chapter-I/Insights/pulse1.png?raw=true"></div><br><br>
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/pulse1.png?raw=true"></div><br><br>
 
 
         + **Contributors Image of Github Insights**
-        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/contributors1.png?raw=true"></div><br><br>
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/contributors1.png?raw=true"></div><br><br>
 
 
 
@@ -1986,7 +1986,7 @@ En esta sección emplearemos el modelo C4 para crear la arquitectura de software
 El Landscape Diagram ofrece una visión global de la arquitectura de CambiaZo, integrando todos los componentes clave y sus interacciones. A continuación, se presenta el diagrama que ilustra cómo el sistema se estructura para facilitar el intercambio de objetos mediante lockers inteligentes, destacando el rol del Gateway y el servidor central en la gestión de datos y comunicaciones.
 
 <div align="center">
-	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/landscape-diagram.png?raw=true" alt="System Landscape Diagram" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/landscape-diagram.png?raw=true" alt="System Landscape Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
 #### 4.1.3.2 Software Architecture Context Level Diagrams.
@@ -3148,6 +3148,8 @@ Para desplegar nuestra Landing Page hemos optado por usar Netlify,el cual brinda
 **5. Finalmente la Landing Page estaría disponible.**
 <div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-4.png?raw=true"  alt="netlify"></div><br>
 
++ Landing Page: https://cambiazo-landing-page.netlify.app/<br><br>
+
 
 **Frontend**
 
@@ -3169,6 +3171,8 @@ El despliegue de nuestra Aplicación Web también se realizó mediante Netlify, 
 **4. Finalmente, la Aplicación Web queda desplegada y accesible desde la URL asignada por Netlify**
 
 <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-web-3.png?raw=true" alt="netlify"></div> <br>
+
++ Aplicación Web: https://cambiazo-webapp.netlify.app/home/ <br><br>
 
 <br><br>
 
@@ -3193,6 +3197,9 @@ Para desplegar nuestro backend, hemos optado por usar Microsoft Azure, el cual p
 <div align="center">
   <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend deploy">
 </div><br><br>
+
++ Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
+
 
 ## 6.2. Sprint 1
 En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
