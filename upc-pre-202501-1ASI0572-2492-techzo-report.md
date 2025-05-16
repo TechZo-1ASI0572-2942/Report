@@ -3266,34 +3266,23 @@ Continuaremos utilizando los repositorios en GitHub que hemos creado para la Apl
   <div align="center">
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Software-Deployment/mobile-app.png?raw=true"  alt="Repositorio App Móvil">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy123.png"  alt="Repositorio App Móvil">
   </div><br><br>
 
   <div align="center">
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Software-Deployment/acceptance-test.png?raw=true" alt="Repositorio archivos feature">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy222.png" alt="Repositorio archivos feature">
+</div><br><br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy888.png" alt="Repositorio archivos feature">
+</div><br><br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy999.png" alt="Repositorio archivos feature">
 </div><br><br>
 </div>
-En los dos repositorios hemos adoptado la metodología GitFlow para gestionar ramas, permitiendo el desarrollo simultáneo, y facilitando la integración de nuevas características.<br>
 
-Para ello, en el repositorio de la aplicación móvil hemos creado ramas para cada historia de usuario, nombrándolas con la nomenclatura “feature/US-[número de la historia de usuario]”, en las cuales implementamos las pantallas según los requerimientos que se evidencian en cada historia de usuario.<br>
+En el repositorio de nuestro proyecto IoT, hemos adoptado la metodología GitFlow para gestionar las ramas de desarrollo, lo que nos ha permitido trabajar de forma ordenada y paralela en distintas funcionalidades del sistema.
 
-
-**Aplicación Móvil:**
-
-<div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-3/Software-Deployment/mobile-app-branches.png?raw=true" alt="branches">
-  </div><br><br>
-
-<div align="center">
-
-| Rama             | Descripción                                                                                             |
-|------------------|---------------------------------------------------------------------------------------------------------|
-| feature/US-04    | Se implementa la funcionalidad para cambiar la contraseña, permitiendo a los usuarios actualizar su clave de acceso. |
-| feature/US-08    | Se habilita la opción para brindar reseñas sobre los intercambiadores, permitiendo a los usuarios dejar comentarios sobre su experiencia. |
-| feature/US-09    | Se desarrolla la opción de eliminación de cuenta, permitiendo a los usuarios borrar permanentemente su cuenta y datos. |
-| feature/US-13    | Se añade la funcionalidad para editar publicaciones de intercambio, facilitando a los usuarios actualizar los detalles de sus ofertas. |
-| feature/US-20    | Se incluye la opción para adquirir una suscripción premium, ofreciendo beneficios adicionales a los usuarios. |
-| feature/US-21    | Se permite la cancelación de suscripción premium, proporcionando a los usuarios la flexibilidad de finalizar su suscripción en cualquier momento. |
+Siguiendo esta metodología, hemos creado ramas específicas para cada historia de usuario, utilizando la nomenclatura feature/US-[número de historia]. En estas ramas se han implementado tanto la lógica de sensores como las interfaces correspondientes en la aplicación web y móvil, de acuerdo a los requerimientos definidos en cada historia de usuario.
 
 
 </div>
