@@ -3610,7 +3610,78 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
   </tbody>
 </table>
 
+## Backend
 
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Hello/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>523c60f</td>
+      <td>feat: added new product update method</td>
+      <td>-</td>
+      <td>29/04/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>7555acd</td>
+      <td>fix: updated send email controller</td>
+      <td>I've updated send email controller</td>
+      <td>29/04/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>752ffe4</td>
+      <td>feat: added created at in get products methods</td>
+      <td>I've added created at in get products methods</td>
+      <td>29/04/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>4d326e3</td>
+      <td>feat: added completed endpoints for bounded context users and products</td>
+      <td>-</td>
+      <td>29/04/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>59fa996</td>
+      <td>feat: added cors configuration to allow access for frontend<td>
+      <td>-</td>
+      <td>30/04/25</td>
+    </tr>
+    <tr>
+      <td>IanHD04/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>bc9bd39</td>
+      <td>fix: update endpoint of get review by user and exchange ids</td>
+      <td>I've updated the endpoint of get review by userId a exchangeId</td>
+      <td>09/05/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>59fa996</td>
+      <td>fix: correct response for subscription POST request</td>
+      <td>Corrects the response format and status code for the subscription POST request.</td>
+      <td>14/05/25</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 6.2.1.5. Testing Suite Evidence for Sprint Review.
 
@@ -3652,6 +3723,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
     </tr>
     </thread>
     </table>
+
 
 ### 6.2.1.6. Execution Evidence for Sprint Review.
 
