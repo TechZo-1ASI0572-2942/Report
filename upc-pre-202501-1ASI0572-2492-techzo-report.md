@@ -14,7 +14,7 @@
 **Profesor:** Marco Antonio Leon Baca
 
 ----
-## Informe del Trabajo Final
+## Informe del Trabajo Parcial
 ### Nombre del Startup: TechZo
 
 ### Nombre del Producto: CambiaZo
@@ -30,7 +30,7 @@
 </div>
 
 
-<br><div align="center"><h3>Abril 2025</h3></div><br>
+<br><div align="center"><h3>Mayo 2025</h3></div><br>
 
 
 
@@ -41,25 +41,11 @@
 ### Registro de Versiones
 
 
-|**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
+
+| **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
 | - | - | - | - |
-|1.0|20/04/25|Ian Haziel Donato Santisteban Palomino|Se agregó la estructura inicial del proyecto.|
-|1.1|20/04/25|Ian Haziel Donato Santisteban Palomino|Se inició el Capítulo I: Presentación y se agregó contenido relacionado con Startup Profile|
-|1.1.1|21/04/25|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Solution Profile|
-|1.1.2|21/04/25|<p>Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano y Pin Matallana Augusto Jose</p>|Se agregaron los perfiles de los integrantes y se comenzó con el proceso Lean UX Process|
-|1.1.3|21/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano y Pin Matallana Augusto Jose|Se terminó de agregar el Lean UX Process y se agregó contenido relacionado con los Segmentos Objetivos|
-|1.2|21/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano y Pin Matallana Augusto Jose|Se inició el Capítulo II: Needfinding y se agregó contenido relacionado a los Competidores|
-|1.2.1|21/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano y Pin Matallana Augusto Jose|Se agregó contenido relacionado con las Entrevistas|
-|1.2.2|22/04/25|Mathias Andre Mendoza Carrion y Jeremy Joel Quispe Andia|Se agregó contenido relacionado con el Needfinding y los artefactos correspondientes|
-|1.2.3|23/04/25|Joseph Alexis Huamani Mandujano y Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con los User Persona y User Task Matrix|
-|1.2.4|23/04/25|Jeremy Joel Quispe Andia|Se agregó contenido relacionado con los User Journey Mapping y Empathy Mapping|
-|1.2.5|24/04/25|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con el As-is Scenario Mapping|
-|1.2.6|24/04/25|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado al To-be|
-|1.2.7|25/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano y Pin Matallana Augusto Jose|Se agregaron los Epics, User Stories y Technical Stories|
-|1.2.8|25/04/25|Joseph Alexis Huamani Mandujano|Se agregó contenido relacionado con Impact Mapping|
-|1.2.9|25/04/25|Mathias Andre Mendoza Carrion|Se agregó contenido relacionado con el Product Backlog|
-|1.3|26/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano y Pin Matallana Augusto Jose|Se inició el Capítulo IV: Solution Software Design. Se agregó contenido de Strategic-Level Domain-Driven Design, Tactical-Level Domain-Driven Design y sus respectivos diagramas.|
-|2.3|27/04/25|Ian Haziel Donato Santisteban Palomino, Mathias Andre Mendoza Carrion, Jeremy Joel Quispe Andia, Joseph Alexis Huamani Mandujano y Pin Matallana Augusto Jose|Se agregó contenido relacionado al Student Outcome, Conclusiones y Anexo|
+|TB1|7/04/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
+|TP1|15/05/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo V: Solution UI/UX Design y Capítulo VI: Product Implementation, Validation & Deployment|
 
 <br><br>
 
@@ -68,10 +54,10 @@
 # Project Report Collaboration Insights
 
 **URL de Organización de GITHUB del equipo TechZo:**
-[TechZoOrganization](https://github.com/TechZo-1ASI0572-2942)
+https://github.com/TechZo-1ASI0572-2942
 
 **URL de Repositorio del Project Report:**
-[TechZo-1ASI0572-2942/Report](https://github.com/TechZo-1ASI0572-2942/Report)
+https://github.com/TechZo-1ASI0572-2942/Report
 
 
 <strong>*Entrega TB1:*</strong>
@@ -87,40 +73,31 @@
 + **Evidencias de colaboración y commits - Github:**
     * **Análiticos de colaboración** <br><br>
         + **Pulse Image of Github Insights**
-        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/pulse.png?raw=true"></div><br><br>
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/pulse.png?raw=true"></div><br><br>
 
 
         + **Contributors Image of Github Insights**
-        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/contributors.png?raw=true"></div><br><br>
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/contributors.png?raw=true"></div><br><br>
 
 
-    * **Commits**
+<strong>*Entrega TP:*</strong>
 
-         A continuacion se muestran algunos commits realizados en este entrega de TB1.
++ Desarrollo de Actividades
+    Durante el desarrollo del Trabajo Parcial 1 (TP1) del proyecto CambiaZo, el equipo realizó sus primeras coordinaciones a través de Discord, una plataforma que fue elegida por la comodidad y familiaridad de la mayoría de los integrantes. A partir de allí, tanto las reuniones de avance como las sesiones de trabajo colaborativo se llevaron a cabo por ese medio.
 
-        + **Ian Santisteban**
-            <div style="display: flex; align-items: center;">
-            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/ian_commits.png?raw=true" >
-            </div><br>
+    Para la elaboración del informe, se realizó una distribución equitativa de responsabilidades entre los miembros del equipo, procurando un balance justo en la carga de trabajo. Esta estrategia permitió avanzar de manera organizada y asegurar la participación activa de todos.
 
-        + **Jeremy Quispe**
-            <div style="display: flex; align-items: center;">
-            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/jeremy_commits.png?raw=true">
-            </div><br>
+    Además, el tiempo asignado en clase para resolver dudas y recibir retroalimentación del docente fue de gran valor, ya que facilitó el progreso del equipo considerando que no todos contaban con la misma disponibilidad horaria fuera del aula.
 
-        + **Joseph Huamani**
-            <div style="display: flex; align-items: center;">
-            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/joseph_commits.png?raw=true">
-            </div><br>
-        + **Mathias Mendoza**
-            <div style="display: flex; align-items: center;">
-            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/mathias_commits.png?raw=true">
-            </div><br>
-        + **Augusto Pin**
-            <div style="display: flex; align-items: center;">
-            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/augusto_commits.png?raw=true">
-            </div><br><br>
 
++ **Evidencias de colaboración y commits - Github:**
+    * **Análiticos de colaboración** <br><br>
+        + **Pulse Image of Github Insights**
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/pulse1.png?raw=true"></div><br><br>
+
+
+        + **Contributors Image of Github Insights**
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/contributors1.png?raw=true"></div><br><br>
 
 
 
@@ -137,7 +114,6 @@
 ### [Student Outcome](#student-outcome)
 
 ### [Capítulo I: Presentación](#capítulo-i-presentación)
-
 - [1.1. Startup Profile](#11-startup-profile)
   - [1.1.1. Descripción de la StartUp](#111-descripción-de-la-startup)
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -151,7 +127,6 @@
 - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
 
 ### [Capítulo II: Needfinding](#capítulo-ii-needfinding)
-
 - [2.1. Competidores](#21-competidores)
   - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
   - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -168,7 +143,6 @@
 - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
 ### [Capítulo III: Arquitectura](#capítulo-iii-arquitectura)
-
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 - [3.2. User Stories](#32-user-stories)
 - [3.3. Impact Mapping](#33-impact-mapping)
@@ -215,6 +189,46 @@
       - [4.2.3.6.1. Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
       - [4.2.3.6.2. Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
 
+### [Capítulo V: Solution UI/UX Design](#capítulo-v-solution-uiux-design)
+- [5.1 Style Guidelines](#51-style-guidelines)
+  - [5.1.1 General Style Guidelines](#511-general-style-guidelines)
+  - [5.1.2 Web, Mobile and IoT Style Guidelines](#512-web-mobile-and-iot-style-guidelines)
+- [5.2 Information Architecture](#52-information-architecture)
+  - [5.2.1 Organization Systems](#521-organization-systems)
+  - [5.2.2 Labeling Systems](#522-labeling-systems)
+  - [5.2.3 SEO Tags and Meta Tags](#523-seo-tags-and-meta-tags)
+  - [5.2.4 Searching Systems](#524-searching-systems)
+  - [5.2.5 Navigation Systems](#525-navigation-systems)
+- [5.3 Landing Page UI Design](#53-landing-page-ui-design)
+  - [5.3.1 Landing Page Wireframe](#531-landing-page-wireframe)
+  - [5.3.2 Landing Page Mock-up](#532-landing-page-mock-up)
+- [5.4 Applications UX/UI Design](#54-applications-uxui-design)
+  - [5.4.1 Applications Wireframes](#541-applications-wireframes)
+  - [5.4.2 Applications Wireflow Diagrams](#542-applications-wireflow-diagrams)
+  - [5.4.3 Applications Mock-ups](#543-applications-mock-ups)
+  - [5.4.4 Applications User Flow Diagrams](#544-applications-user-flow-diagrams)
+- [5.5 Applications Prototyping](#55-applications-prototyping)
+
+### [Capítulo VI: Product Implementation, Validation & Deployment](#capítulo-vi-product-implementation-validation--deployment)
+- [6.1. Software Configuration Management](#61-software-configuration-management)
+  - [6.1.1. Software Development Environment Configuration](#611-software-development-environment-configuration)
+  - [6.1.2. Source Code Management](#612-source-code-management)
+  - [6.1.3. Source Code Style Guide & Conventions](#613-source-code-style-guide--conventions)
+  - [6.1.4. Software Deployment Configuration](#614-software-deployment-configuration)
+- [6.2. Landing Page, Services & Applications Implementation](#62-landing-page-services--applications-implementation)
+  - [6.2.1. Sprint 1](#621-sprint-1)
+    - [6.2.1.1. Sprint Planning 1](#6211-sprint-planning-1)
+    - [6.2.1.2. Aspect Leaders and Collaborators](#6212-aspect-leaders-and-collaborators)
+    - [6.2.1.3. Sprint Backlog 1](#6213-sprint-backlog-1)
+    - [6.2.1.4. Development Evidence for Sprint Review](#6214-development-evidence-for-sprint-review)
+    - [6.2.1.5. Testing Suite Evidence for Sprint Review](#6215-testing-suite-evidence-for-sprint-review)
+    - [6.2.1.6. Execution Evidence for Sprint Review](#6216-execution-evidence-for-sprint-review)
+    - [6.2.1.7. Services Documentation Evidence for Sprint Review](#6217-services-documentation-evidence-for-sprint-review)
+    - [6.2.1.8. Software Deployment Evidence for Sprint Review](#6218-software-deployment-evidence-for-sprint-review)
+    - [6.2.1.9. Team Collaboration Insights during Sprint](#6219-team-collaboration-insights-during-sprint)
+
+### [Conclusiones](#conclusiones)
+
 ### [Bibliografía](#bibliografía)
 
 ### [Anexos](#anexos)
@@ -243,24 +257,36 @@ La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos propo
 proporcionar liderazgo en
 forma conjunta</td>
       <td colspan="3" align="justify">
-      <h3>Joseph Alexis Huamani Mandujano</h3> 
+    <h3>Joseph Alexis Huamani Mandujano</h3> 
       <b>TB1</b> 
-      <p>Para el primer hito de nuestro proyecto de IoT, me encargué de definir el Problem Statement enfocado en la automatización de riego agrícola, estableciendo una base clara para orientar las soluciones tecnológicas. Además, desarrollé Asumptions e Hypothesis orientadas a la viabilidad del uso de sensores y controladores en entornos agrícolas. Mi análisis crítico y capacidad de síntesis fueron clave para sentar las bases técnicas que guiaron nuestras decisiones de hardware y software.</p> 
+      <p>Para el primer hito de nuestro proyecto de IoT, me encargué de definir el Problem Statement enfocado en la automatización de riego agrícola, estableciendo una base clara para orientar las soluciones tecnológicas. Además, desarrollé Asumptions e Hypothesis orientadas a la viabilidad del uso de sensores y controladores en entornos agrícolas. Mi análisis crítico y capacidad de síntesis fueron clave para sentar las bases técnicas que guiaron nuestras decisiones de hardware y software.</p>
+      <b>TP1</b> 
+      <p>Formé parte del equipo de testing y validación, contribuyendo al desarrollo del Testing Suite y la recolección de evidencias para la revisión del Sprint. Propuse una estrategia de control de calidad distribuida y acompañé al equipo en la revisión de sus entregables. Esta experiencia me enseñó que cumplir objetivos como equipo requiere organización, liderazgo compartido y confianza mutua.</p>  
     <h3>Mathias André Mendoza Carrión</h3>
-    <b>TB1</b>
-    <p>Durante esta fase inicial, realicé un análisis detallado de soluciones IoT agrícolas existentes, identificando brechas de mercado y oportunidades de innovación. Conduje entrevistas con agricultores tecnificados, cuyos insights nos permitieron modelar los requerimientos funcionales de nuestro sistema. Esto fortaleció mis habilidades de investigación y empatía tecnológica, asegurando que nuestra propuesta responda efectivamente a necesidades reales.</p>
+      <b>TB1</b>
+      <p>Durante esta fase inicial, realicé un análisis detallado de soluciones IoT agrícolas existentes, identificando brechas de mercado y oportunidades de innovación. Conduje entrevistas con agricultores tecnificados, cuyos insights nos permitieron modelar los requerimientos funcionales de nuestro sistema. Esto fortaleció mis habilidades de investigación y empatía tecnológica, asegurando que nuestra propuesta responda efectivamente a necesidades reales.</p>
+      <b>TP1</b> 
+      <p>Durante el diseño del UI/UX, asumí el liderazgo en las decisiones visuales clave, guiando al equipo en la elaboración de los mock-ups y wireframes. Organicé sesiones de retroalimentación para asegurar que todos pudieran participar y aportar ideas. Esta experiencia me enseñó que liderar también implica escuchar y facilitar un entorno en el que cada voz cuenta.</p>  
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
-    <b>TB1</b>
-    <p>En este primer entregable, gestioné la documentación técnica y los requerimientos del sistema IoT, asegurando una comunicación fluida dentro del equipo y con potenciales usuarios. La coordinación efectiva de criterios técnicos permitió integrar de manera precisa sensores de humedad, controladores de riego y plataformas de monitoreo, consolidando una visión clara y colaborativa para el desarrollo del prototipo.</p>
+      <b>TB1</b>
+      <p>En este primer entregable, gestioné la documentación técnica y los requerimientos del sistema IoT, asegurando una comunicación fluida dentro del equipo y con potenciales usuarios. La coordinación efectiva de criterios técnicos permitió integrar de manera precisa sensores de humedad, controladores de riego y plataformas de monitoreo, consolidando una visión clara y colaborativa para el desarrollo del prototipo.</p>
+      <b>TP1</b> 
+      <p>Participé activamente en la planificación del Sprint 1, ayudando a organizar el backlog y asignar tareas según fortalezas individuales. También me desempeñé como colaboradora en el sistema de navegación, manteniendo una comunicación constante con mis compañeros para integrar sus avances de forma coherente. Este proceso me permitió desarrollar habilidades de coordinación y adaptación dentro de un entorno colaborativo.</p>  
     <h3>Jeremy Joel Quispe Andia</h3>
-    <b>TB1</b>
-    <p>Trabajé en la estructuración de User Stories específicas para nuestro sistema de monitoreo de cultivos, priorizando funcionalidades como alertas automáticas y control remoto. También desarrollé la propuesta de valor enfocada en eficiencia hídrica y facilidad de uso, asegurando que nuestro proyecto se alineara con las demandas prácticas del sector agrícola tecnificado.</p>
+      <b>TB1</b>
+      <p>Trabajé en la estructuración de User Stories específicas para nuestro sistema de monitoreo de cultivos, priorizando funcionalidades como alertas automáticas y control remoto. También desarrollé la propuesta de valor enfocada en eficiencia hídrica y facilidad de uso, asegurando que nuestro proyecto se alineara con las demandas prácticas del sector agrícola tecnificado.</p>
+      <b>TP1</b> 
+      <p>Lideré la configuración del entorno de desarrollo y el control de versiones. A través de reuniones técnicas, ayudé a resolver dudas del equipo y a unificar criterios en el estilo del código fuente. Promoví un ambiente de apoyo mutuo en el que todos pudimos avanzar con claridad y orden. Esta experiencia fortaleció mi capacidad para organizar tareas y acompañar a mis compañeros en el cumplimiento de objetivos.</p>  
     <h3>Augusto Jose Pin Matallana</h3>
-    <b>TB1</b>
-    <p>Diseñé diagramas de arquitectura del sistema que integran hardware y software, como la comunicación entre sensores, actuadores y servidores en la nube. Esta representación clara de flujos de información y control fue clave para asegurar la interoperabilidad de los componentes y para proyectar un sistema escalable y eficiente en el contexto agrícola.</p>
+      <b>TB1</b>
+      <p>Diseñé diagramas de arquitectura del sistema que integran hardware y software, como la comunicación entre sensores, actuadores y servidores en la nube. Esta representación clara de flujos de información y control fue clave para asegurar la interoperabilidad de los componentes y para proyectar un sistema escalable y eficiente en el contexto agrícola.</p>
+      <b>TP1</b> 
+      <p>Durante el diseño de la arquitectura de información, tomé la iniciativa de documentar las estructuras de navegación y los sistemas de etiquetado. Al hacerlo, motivé al equipo a revisar y proponer mejoras continuamente. Mi rol no fue solo técnico, sino también facilitador del trabajo conjunto, generando un entorno participativo e inclusivo para el desarrollo del sistema.</p>  
     <td colspan="3">
     <b>TB1</b>
     <p>Al concluir el primer hito de nuestro proyecto de IoT, nuestro equipo ha demostrado un avance sólido en la definición de soluciones tecnológicas aplicadas a la agricultura de precisión. Logramos definir claramente los problemas a resolver, realizar una investigación profunda de necesidades reales y proponer una arquitectura robusta basada en sensores y controladores. La colaboración efectiva y la comunicación fluida nos permitieron integrar diversas perspectivas técnicas, estableciendo bases firmes para el desarrollo de un prototipo funcional. Este progreso inicial ha fortalecido tanto nuestras competencias tecnológicas como nuestra cohesión como equipo, preparándonos para enfrentar exitosamente los retos de las siguientes etapas.</p>
+    <b>TP1</b>
+    <p>Durante el desarrollo de los capítulos V y VI, el equipo logró trabajar de manera cohesionada, estableciendo objetivos comunes y distribuyendo responsabilidades de manera equitativa. Cada integrante asumió roles de liderazgo en distintas etapas del proceso, desde el diseño hasta el despliegue, fomentando un entorno colaborativo e inclusivo. A través de la planificación de tareas, el seguimiento de avances y la resolución conjunta de problemas, se consolidó una dinámica de trabajo efectiva que permitió alcanzar los objetivos técnicos y fortalecer las habilidades interpersonales esenciales para el desarrollo profesional en soluciones de software</p>
   </td>
     </tr>
     <tr>
@@ -269,25 +295,37 @@ inclusivo, establece metas,
 planifica tareas y cumple
 objetivos.</td>
       <td colspan="3" align="justify">
-      <h3>Joseph Alexis Huamani Mandujano</h3>
-    <b>TB1</b>
-    <p>En este primer hito, desarrollé una visión integral del problema de gestión de riego agrícola, formulando suposiciones y problemáticas claves que fundamentaron nuestras decisiones de selección de sensores y microcontroladores. Esta tarea reforzó mi capacidad de analizar entornos reales y plantear soluciones técnicas efectivas, reafirmando la importancia del aprendizaje práctico en IoT.</p>
-      <h3>Mathias André Mendoza Carrión</h3>
-    <b>TB1</b>
-    <p>El análisis de competidores y entrevistas a agricultores me permitió identificar necesidades no satisfechas en el mercado actual, lo que afianzó mi comprensión del impacto que tiene la correcta selección de tecnologías IoT en proyectos reales. Aprender a interpretar los requerimientos de usuarios y convertirlos en especificaciones técnicas ha sido una lección valiosa para mi formación.</p>
+    <h3>Joseph Alexis Huamani Mandujano</h3>
+      <b>TB1</b>
+      <p>En este primer hito, desarrollé una visión integral del problema de gestión de riego agrícola, formulando suposiciones y problemáticas claves que fundamentaron nuestras decisiones de selección de sensores y microcontroladores. Esta tarea reforzó mi capacidad de analizar entornos reales y plantear soluciones técnicas efectivas, reafirmando la importancia del aprendizaje práctico en IoT.</p>
+      <b>TP1</b>
+      <p>Durante la planificación del Sprint 1, propuse un enfoque visual para dividir tareas utilizando un tablero Kanban, permitiendo que todos los miembros tuvieran visibilidad y voz en la asignación de responsabilidades. Además, me aseguré de incluir a todos en las decisiones de diseño, fomentando un ambiente donde cada opinión era considerada y valorada.</p>
+    <h3>Mathias André Mendoza Carrión</h3>
+      <b>TB1</b>
+      <p>El análisis de competidores y entrevistas a agricultores me permitió identificar necesidades no satisfechas en el mercado actual, lo que afianzó mi comprensión del impacto que tiene la correcta selección de tecnologías IoT en proyectos reales. Aprender a interpretar los requerimientos de usuarios y convertirlos en especificaciones técnicas ha sido una lección valiosa para mi formación.</p>
+      <b>TP1</b>
+      <p>Mi participación se centró en liderar el diseño de los wireframes y flujos de usuario para la aplicación móvil. Desde el inicio, planteé objetivos claros y medibles por cada iteración, guiando al equipo con fechas de revisión y criterios de avance. El compromiso conjunto permitió cumplir con lo propuesto en el cronograma establecido.</p>
      <h3>Ian Haziel Donato Santisteban Palomino</h3>
-    <b>TB1</b>
-    <p>Al liderar la estructuración de requerimientos y documentación técnica, consolidé habilidades fundamentales para planificar proyectos IoT que integren distintos dispositivos y plataformas. Esta experiencia práctica subraya la importancia de actualizar permanentemente mis conocimientos sobre protocolos de comunicación, seguridad de datos y gestión de dispositivos conectados.</p>
-      <h3>Jeremy Joel Quispe Andia</h3>
-    <b>TB1</b>
-    <p>La definición de funcionalidades y necesidades a partir de User Stories me permitió comprender de manera aplicada cómo traducir problemas agrícolas reales en soluciones tecnológicas. Esta práctica resalta la necesidad de formarse continuamente en nuevas plataformas, hardware emergente y mejores prácticas de desarrollo para crear soluciones IoT efectivas y sostenibles.</p>
+      <b>TB1</b>
+      <p>Al liderar la estructuración de requerimientos y documentación técnica, consolidé habilidades fundamentales para planificar proyectos IoT que integren distintos dispositivos y plataformas. Esta experiencia práctica subraya la importancia de actualizar permanentemente mis conocimientos sobre protocolos de comunicación, seguridad de datos y gestión de dispositivos conectados.</p>
+      <b>TP1</b>
+      <p>Encabecé la elaboración de la documentación SEO y de etiquetas meta, y para lograrlo organicé reuniones cortas y constantes, asignando subtareas a cada miembro interesado en aprender sobre posicionamiento web. Esta experiencia me permitió distribuir eficientemente las tareas, considerando tanto las habilidades como los intereses del equipo.</p>
+    <h3>Jeremy Joel Quispe Andia</h3>
+      <b>TB1</b>
+      <p>La definición de funcionalidades y necesidades a partir de User Stories me permitió comprender de manera aplicada cómo traducir problemas agrícolas reales en soluciones tecnológicas. Esta práctica resalta la necesidad de formarse continuamente en nuevas plataformas, hardware emergente y mejores prácticas de desarrollo para crear soluciones IoT efectivas y sostenibles.</p>
+      <b>TP1</b>
+      <p>Trabajé en el desarrollo del mock-up del landing page, asegurándome de integrar las ideas de todos, incluso aquellas que venían de compañeros menos familiarizados con diseño visual. Esto fortaleció la cohesión del grupo y mostró que un entorno inclusivo mejora los resultados finales y refuerza la motivación colectiva.</p>
     <h3>Augusto Jose Pin Matallana</h3>
-    <b>TB1</b>
-    <p>Participé activamente en la definición de la arquitectura técnica del sistema IoT, considerando factores como conectividad, energía y entorno operativo. Esta experiencia fue crucial para entender la importancia de un enfoque sistémico y me impulsó a profundizar en el aprendizaje de nuevas herramientas de diseño y simulación para fortalecer futuras soluciones de ingeniería.</p>
+      <b>TB1</b>
+      <p>Participé activamente en la definición de la arquitectura técnica del sistema IoT, considerando factores como conectividad, energía y entorno operativo. Esta experiencia fue crucial para entender la importancia de un enfoque sistémico y me impulsó a profundizar en el aprendizaje de nuevas herramientas de diseño y simulación para fortalecer futuras soluciones de ingeniería.</p>
+      <b>TP1</b>
+      <p>Me responsabilicé del control de versiones y del despliegue del entorno de desarrollo. Desde el primer momento, establecí hitos técnicos que nos permitieran validar el avance de cada módulo. A través de una planificación clara y reuniones semanales, el equipo logró cumplir los objetivos sin retrasos, manteniendo siempre una actitud de apoyo mutuo.</p>
     </td>
       <td colspan="3">
     <b>TB1</b>
     <p>Al concluir este primer hito, nuestro equipo ha reafirmado la importancia de combinar conocimientos teóricos con experiencia práctica para lograr proyectos IoT exitosos. Cada integrante ha mostrado una evolución constante, aplicando aprendizajes técnicos a situaciones reales del sector agrícola. La colaboración, investigación de campo y el enfoque en necesidades del usuario nos permitieron plantear una solución sólida, adaptada a contextos exigentes. El aprendizaje continuo en sensores, plataformas de conectividad, protocolos de comunicación y desarrollo de interfaces será clave para seguir creciendo en las siguientes fases del proyecto. Esta etapa nos ha preparado mejor para enfrentar los desafíos tecnológicos futuros con una mentalidad crítica, creativa y resolutiva.</p>
+    <b>TP1</b>
+    <p>A lo largo del desarrollo de los capítulos V y VI, el equipo mostró una fuerte capacidad para crear un entorno de trabajo colaborativo e inclusivo, donde cada integrante pudo participar activamente en la toma de decisiones. Se establecieron metas claras, se planificaron tareas con enfoque estratégico y se cumplieron los objetivos propuestos dentro de los plazos establecidos. La experiencia consolidó no solo el avance técnico del proyecto, sino también la formación de competencias blandas fundamentales para el trabajo profesional en equipos de desarrollo de software.</p>
   </td>
     </tr>
   </tbody>
@@ -799,6 +837,9 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 
 ### **Segmento Intercambiadores**<br>
 
+**Propósito de las entrevistas**
+
+Entender las motivaciones, problemas y comportamientos de los usuarios que realizan intercambios de objetos, con el fin de validar si la propuesta de lockers inteligentes de CambiaZo responde a sus necesidades reales, y detectar mejoras que optimicen su experiencia y confianza en la plataforma.
 
 <table>
 <colgroup>
@@ -860,6 +901,10 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   <tr>
     <td>Duracion<br></td>
     <td>00:00 min - 4:03 min</td>
+  </tr>
+    <tr>
+    <tr>
+    <td>Proposito</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1339,7 +1384,7 @@ En esta sección, exploraremos los escenarios actuales de los usuarios, mapeando
 ![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG?raw=true)
 </div>
 
-**Enlace:** [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
+**Enlace:** https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033
 <br><br>
 
 
@@ -1359,7 +1404,7 @@ En esta sección, visualizaremos los escenarios futuros propuestos para nuestros
 ![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-1.png?raw=true)
 </div>
 
-**Enlace:** [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
+**Enlace:** https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040
 <br><br>
 
 ## 3.2. User Stories
@@ -1371,33 +1416,31 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 | **EP01: Gestión de Cuenta de Usuario** | Como usuario, quiero tener el control total sobre mi cuenta para gestionarla según mis necesidades. |
 | :-- | :-- |
 | **User Story ID** | **Título** |
-| US01, US33 | Registro de usuario |
-| US02, US34 | Editar perfil del usuario |
-| US03, US35 | Iniciar sesión en la aplicación |
-| US04, US36 | Cambiar Contraseña |
-| US05, US37 | Cerrar Sesión |
-| US09, US41 | Eliminación de cuenta |
-| US20, US51 | Adquirir la suscripción premium |
-| US21, US52 | Cancelar una suscripción |
-| US23       | Gestionar mis favoritos en la aplicación |
-| US24       | Ver reseñas recibidas |
-| US54      | Acceder al centro de soporte para resolver cualquier problema técnico que se presente |
-| US55       | Acceder a la sección de preguntas frecuentes y comentarios |
+| US01 | Registro de usuario |
+| US02 | Editar perfil del usuario |
+| US03 | Iniciar sesión en la aplicación |
+| US04 | Cambiar Contraseña |
+| US05 | Cerrar Sesión |
+| US09 | Eliminación de cuenta |
+| US20 | Adquirir la suscripción premium |
+| US21 | Cancelar una suscripción |
+| US23 | Gestionar mis favoritos en la aplicación |
+| US24 | Ver reseñas recibidas |
 
 <br>
 
 | **EP02: Funcionalidades de Intercambio** | Como usuario de la aplicación, quiero acceder a una variedad de funcionalidades relacionadas con el intercambio de objetos, para facilitar la búsqueda, creación y gestión de publicaciones de intercambio. |
 | :-- | :-- |
 | **User Story ID** | **Título** |
-| US06, US38 | Filtrado de Objetos |
-| US10       | Visualización de artículos publicados para intercambio |
-| US11       | Realización de una oferta de intercambio |
-| US12, US44 | Crear publicación de intercambio |
-| US13, US45 | Editar publicación de intercambio |
-| US14, US46 | Eliminar publicación de intercambio |
-| US15       | Gestión de intercambios |
+| US06 | Filtrado de Objetos |
+| US10 | Visualización de artículos publicados para intercambio |
+| US11 | Realización de una oferta de intercambio |
+| US12 | Crear publicación de intercambio |
+| US13 | Editar publicación de intercambio |
+| US14 | Eliminar publicación de intercambio |
+| US15 | Gestión de intercambios |
 | US16 | Visualización de objetos disponibles para intercambio |
-| US18, US50 | Aceptar o Rechazar un Intercambio |
+| US18 | Aceptar o Rechazar un Intercambio |
 | US19 | Ver la información detallada de un producto publicado |
 
 <br>
@@ -1405,34 +1448,35 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 | **EP03: Funcionalidades de Reseñas y Procesos de Verificación de Intercambio** | Como usuario de la aplicación, quiero gestionar reseñas sobre las experiencias de intercambio y realizar procesos de verificación para garantizar la seguridad y confiabilidad en cada transacción realizada. |
 | :-- | :-- |
 | **User Story ID** | **Título** |
-| US07, US39  | Asignación de locker para intercambio |
-| US08, US40 | Brindar reseña sobre el Intercambiador |
-| US17, US49 | Visualizar el perfil del usuario que publique un producto |
-| US22, US54 | Recepción de PIN para apertura de locker |
-| US31, US57 | Confirmación de objeto depositado en locker |
-| US32, US58 | Validación final y desbloqueo del locker |
+| US07 | Asignación de locker para intercambio |
+| US08 | Brindar reseña sobre el Intercambiador |
+| US17 | Visualizar el perfil del usuario que publique un producto |
+| US22 | Recepción de PIN para apertura de locker |
+| US25 | Confirmación de objeto depositado en locker |
+| US26 | Validación final y desbloqueo del locker |
 
 <br>
 
 | **EP04: Información y Navegación de la Landing Page** | Como usuario visitante de la landing page de la aplicación web, deseo acceder a información relevante y navegar fácilmente para obtener una comprensión clara de las características y funcionalidades ofrecidas. |
 | :-- | :-- |
 | **User Story ID** | **Título** |
-| US25 | Visualización de la Historia de la Startup |
-| US26 | Visualizar las características clave de la aplicación |
-| US27 | Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo |
-| US28 | Descargar la aplicación de CambiaZo / Acceder a la página principal |
-| US29 | Ver los planes y precios |
-| US30 | Navegación en la Landing Page |
+| US27 | Visualización de la Historia de la Startup |
+| US28 | Visualizar las características clave de la aplicación |
+| US29 | Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo |
+| US30 | Descargar la aplicación de CambiaZo / Acceder a la página principal |
+| US31 | Ver los planes y precios |
+| US32 | Navegación en la Landing Page |
 
 <br>
 
-| **EP05: Desarrollo de Funcionalidades de la API de CambiaZo** | Como equipo de desarrollo, queremos implementar una serie de funcionalidades en la API de la aplicación para gestionar usuarios, reseñas y suscripciones, con el fin de mejorar la experiencia del usuario y garantizar un funcionamiento eficiente de la plataforma. |
+| **EP05: Desarrollo de Funcionalidades de la API de CambiaZo** | Como equipo de desarrollo, queremos implementar una serie de funcionalidades en la API de la aplicación para gestionar usuarios, reseñas, lockers y suscripciones, con el fin de mejorar la experiencia del usuario y garantizar un funcionamiento eficiente de la plataforma. |
 | :-- | :-- |
 | **User Story ID** | **Título** |
 | TS01 | API User |
-| TS02 | API Review |
-| TS03 | API Memberships |
-| TS04 | API Object |
+| TS02 | API Exchanges |
+| TS03 | API Lockers |
+| TS04 | API Memberships |
+| TS05 | API Products |
 
 <br><br>
 
@@ -1440,64 +1484,37 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 
 |**Epic/User Story ID**|**Título**|**Descripción**|**Criterio de aceptación**|**Relación (EPIC ID)**|
 | - | - | - | - | - |
-|**US01**|Registro de usuario|Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.|**Escenario 1: Acceso del usuario a la página de registro**<br><br>**Dado que** el usuario ha descargado la aplicación y la inicia,<br><br>**Cuando** se encuentra en la sección de "Inicio de sesión"<br><br>**Y** opta por pulsar el botón de "Registrarse",<br><br>**Entonces**, la aplicación desplegará la página de registro.<br><br>**Escenario 2: Registro exitoso del usuario**<br><br>**Dado que** el usuario esté en la página de registro,<br><br>**Cuando** introduce su información requerida<br><br>**Y** procede a pulsar el botón de "Registrarse”,<br><br>**Entonces** la aplicación llevará a cabo el registro del usuario y guardará su cuenta.<br><br>**Escenario 3: Registro del usuario con datos inválidos**<br><br>**Dado que** el usuario está en la página de registro,<br><br>**Cuando** proporciona información incompleta o no válida<br><br>**Y** luego activa el botón de "Registrarse",<br><br>**Entonces** la aplicación mostrará un mensaje de error<br><br>**Y** eliminará los datos introducidos.|**EP01**|
-|**US02**|Editar perfil del usuario|Como usuario ya registrado quiero realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.|**Escenario 1: Acceso del usuario a "Mi perfil"**<br><br>**Dado que** el usuario está registrado en la aplicación,<br><br>**Cuando** acceda a su perfil,<br><br>**Entonces** el sistema presentará la página "Mi perfil".<br><br>**Escenario 2: El usuario elige editar su perfil**<br><br>**Dado que** el usuario se encuentra en la página "Mi perfil" con los datos personales visibles,<br><br>**Cuando** seleccione el botón "Editar perfil",<br><br>**Entonces**, el sistema mostrará la página de edición de perfil.<br><br>**Escenario 3: Actualización exitosa de los datos del perfil del usuario**<br><br>**Dado que** el usuario se encuentra en la página de edición de perfil con los datos personales visibles,<br><br>**Cuando** introduzca sus nuevos datos<br><br>**Y** seleccione el botón "Guardar cambios",<br><br>**Entonces** el sistema actualizará la información del perfil del usuario con los nuevos datos ingresados.<br><br>**Escenario 4: Actualización de los datos del perfil del usuario con información inválida o incompleta**<br><br>**Dado que** el usuario se encuentra en la página de edición de perfil con los datos personales visibles,<br><br>**Cuando** ingrese datos incompletos o inválidos<br><br>**Y** seleccione el botón "Actualizar",<br><br>**Entonces** la aplicación mostrará un mensaje de "Error"<br><br>**Y** borrará los datos ingresados.|**EP01**|
-|**US03**|Iniciar sesión en la aplicación|Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.|**Escenario 1: Acceso del usuario a la página de inicio de sesión**<br><br>**Dado que** el usuario abre la aplicación<br><br>**Y** no ha iniciado sesión previamente o se ha desconectado<br><br>**Cuando** el usuario seleccione el botón "Iniciar Sesión"<br><br>**Entonces**, la aplicación mostrará la página de inicio de sesión.<br><br>**Escenario 2: Inicio de sesión exitoso del usuario**<br><br>**Dado que** el usuario se encuentra en la página de inicio de sesión<br><br>**Cuando** ingrese sus credenciales válidas<br><br>**Y** pulse el botón "Iniciar Sesión"<br><br>**Entonces**, el usuario será autenticado<br><br>**Y** dirigido a la página principal de la aplicación.<br><br>**Escenario 3: Intento de inicio de sesión fallido**<br><br>**Dado que** el usuario está en la página de inicio de sesión<br><br>**Cuando** ingrese credenciales inválidas<br><br>**Y** pulse el botón "Iniciar Sesión"<br><br>**Entonces**, la aplicación mostrará un mensaje de error indicando que las credenciales son incorrectas.|**EP01**|
-|**US04**|Cambiar Contraseña|Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.|**Escenario 1: Acceso del usuario a la configuración de la cuenta**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Cuando** acceda a la sección de configuración de la cuenta<br><br>**Entonces** la aplicación mostrará la opción para modificar la contraseña.<br><br>**Escenario 2: Cambio exitoso de la contraseña**<br><br>**Dado que** el usuario está en la página de cambio de contraseña<br><br>**Cuando** ingrese su contraseña actual y la nueva contraseña dos veces<br><br>**Y** pulse el botón "Cambiar Contraseña"<br><br>**Entonces** la aplicación ejecutará el cambio de contraseña<br><br>**Y** mostrará un mensaje de confirmación.<br><br>**Escenario 3: Intento de cambio de contraseña fallido**<br><br>**Dado que** el usuario se encuentre en la página de cambio de contraseña<br><br>**Cuando** ingrese una contraseña actual incorrecta o incompleta, seguida de la nueva contraseña dos veces<br><br>**Y** pulse el botón "Cambiar Contraseña"<br><br>**Entonces** la aplicación mostrará un mensaje de error indicando que la contraseña actual es incorrecta.|**EP01**|
-|**US05**|Cerrar Sesión|Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo web.|**Escenario 1: Acceso del usuario a la configuración de la cuenta**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Cuando** acceda a la sección de configuración de la cuenta<br><br>**Entonces** la aplicación mostrará la opción para cerrar sesión.<br><br>**Escenario 2: Cierre de sesión exitoso por parte del usuario**<br><br>**Dado que** el usuario se encuentra en la página de cierre de sesión<br><br>**Cuando** seleccione el botón "Cerrar Sesión"<br><br>**Entonces**, la aplicación concluirá la sesión del usuario y lo redirigirá a la página de inicio de sesión.|**EP01**|
-|**US06**|Filtrado de Objetos|Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.|**Escenario 1: Aplicación de Filtros**<br><br>**Dado que** el usuario intercambiador está en la sección de objetos disponibles para intercambio<br><br>**Cuando** el usuario selecciona filtros específicos, como categoría, estado del objeto y ubicación<br><br>**Y** pulsa el botón de "Aplicar Filtros"<br><br>**Entonces** la lista de objetos se ajustará automáticamente según los criterios seleccionados.<br><br>**Escenario 2:  Visualización de Resultados Filtrados**<br><br>**Dado que** el usuario ha aplicado filtros por estado a la lista de objetos disponibles<br><br>**Cuando** la aplicación muestra únicamente los objetos que cumplen con el estado seleccionado<br><br>**Entonces** el usuario puede ver y explorar los resultados filtrados según sus preferencias.<br><br>**Escenario 3: Filtrar por cantidad de Vistas**<br><br>**Dado que** el usuario está buscando objetos con la mayor cantidad de vistas para intercambiar<br><br>**Cuando** el usuario selecciona la opción de "Filtrar por Vistas"<br><br>**Y** pulsa el botón de "Aplicar Filtros"<br><br>**Entonces** la aplicación presenta los objetos más populares en la parte superior de la lista de resultados.|**EP02**|
+|**US01**|Registro de usuario|Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.|<p><h4>**Escenario 1: Acceso del usuario a la página de registro**</h4></p><p>**Dado** **que** el usuario ha accedido a la aplicación (web o móvil),<br>**Cuando** se encuentra en la sección de "Inicio de sesión"<br>**Y** opta por pulsar el botón "Registrarse",<br>**Entonces** la aplicación mostrará la página de registro.</p><p><h4>**Escenario 2: Registro exitoso del usuario**</h4></p><p>**Dado** **que** el usuario está en la página de registro,<br>**Cuando** introduce la información requerida<br>**Y** pulsa el botón "Registrarse",<br>**Entonces** la aplicación completará el proceso de registro<br>**Y** guardará la cuenta del usuario.</p><p><h4>**Escenario 3: Registro con datos inválidos**</h4></p><p>**Dado** **que** el usuario está en la página de registro,<br>**Cuando** proporciona información incompleta o no válida<br>**Y** pulsa el botón "Registrarse",<br>**Entonces** la aplicación mostrará un mensaje de error<br>**Y** no permitirá completar el registro.</p>|**EP01**|
+|**US02**|Editar perfil del usuario|Como usuario ya registrado quiero realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.|<p><h4>**Escenario 1: Acceso del usuario a "Mi perfil"**</h4></p><p>**Dado** **que** el usuario ha iniciado sesión,<br>**Cuando** accede a la opción "Mi perfil" desde el menú principal,<br>**Entonces** la aplicación mostrará la página con la información del perfil.</p><p><h4>**Escenario 2: El usuario elige editar su perfil**</h4></p><p>**Dado** **que** el usuario está en la página "Mi perfil",<br>**Cuando** pulsa el botón "Editar perfil",<br>**Entonces** la aplicación mostrará la interfaz para modificar los datos personales.</p><p><h4>**Escenario 3: Actualización exitosa de perfil**</h4></p><p>**Dado** **que** el usuario se encuentra en la sección de edición de perfil,<br>**Cuando** introduce sus nuevos datos<br>**Y** pulsa el botón "Guardar cambios",<br>**Entonces** la aplicación actualizará su información correctamente.</p><p><h4>**Escenario 4: Datos inválidos al editar perfil**</h4></p><p>**Dado** **que** el usuario está editando su perfil,<br>**Cuando** ingresa información incompleta o inválida<br>**Y** pulsa "Guardar cambios",<br>**Entonces** la aplicación mostrará un mensaje de error<br>**Y** no guardará los datos.</p><p></p>|**EP01**|
+|**US03**|Iniciar sesión en la aplicación|Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.|<p><h4>**Escenario 1: Acceso a la página de inicio de sesión**</h4></p><p>**Dado** **que** el usuario accede a la aplicación sin haber iniciado sesión previamente,<br>**Cuando** selecciona la opción "Iniciar sesión",<br>**Entonces** se mostrará la página de autenticación.</p><p><h4>**Escenario 2: Inicio de sesión exitoso**</h4></p><p>**Dado** **que** el usuario está en la página de inicio de sesión,<br>**Cuando** introduce credenciales válidas<br>**Y** pulsa el botón "Iniciar sesión",<br>**Entonces** el sistema autenticará al usuario<br>**Y** lo redirigirá a la página principal.</p><p><h4>**Escenario 3: Fallo en el inicio de sesión**</h4></p><p>**Dado** **que** el usuario está en la página de inicio de sesión,<br>**Cuando** introduce credenciales incorrectas<br>**Y** pulsa "Iniciar sesión",<br>**Entonces** la aplicación mostrará un mensaje de error indicando que las credenciales son inválidas.</p>|**EP01**|
+|**US04**|Cambiar Contraseña|Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.|<p><h4>**Escenario 1: Acceso a la opción de cambio de contraseña**</h4></p><p>**Dado que** el usuario ha iniciado sesión en la aplicación (web o móvil),<br>**Cuando** acceda a la sección de configuración de la cuenta,<br>**Entonces** la aplicación mostrará la opción para modificar la contraseña.</p><p><h4>**Escenario 2: Cambio exitoso de la contraseña**</h4></p><p>**Dado que** el usuario está en la página o sección de cambio de contraseña,<br>Cuando ingrese su contraseña actual y la nueva contraseña dos veces<br>**Y** pulse el botón "Cambiar Contraseña",<br>**Entonces** la aplicación ejecutará el cambio de contraseña<br>**Y** mostrará un mensaje de confirmación.</p><p><h4>**Escenario 3: Intento de cambio fallido**</h4></p><p>**Dado que** el usuario se encuentra en la sección de cambio de contraseña,<br>**Cuando** ingrese una contraseña actual incorrecta o incompleta, seguida de la nueva contraseña dos veces<br>**Y** pulse el botón "Cambiar Contraseña",<br>**Entonces** la aplicación mostrará un mensaje de error indicando que la contraseña actual es incorrecta.</p><p></p>|**EP01**|
+|**US05**|Cerrar Sesión|Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo web.|<p><h4>**Escenario 1: Acceso a la opción de cerrar sesión**</h4></p><p>**Dado que** el usuario ha iniciado sesión en la aplicación (web o móvil),<br>**Cuando** acceda a la sección de configuración de la cuenta,<br>**Entonces** la aplicación mostrará la opción para cerrar sesión.</p><p><h4>**Escenario 2: Cierre de sesión exitoso**</h4></p><p>**Dado que** el usuario se encuentra en la página o sección de cierre de sesión,<br>**Cuando** seleccione el botón "Cerrar Sesión",<br>**Entonces**, la aplicación concluirá la sesión del usuario<br>**Y** lo redirigirá a la página de inicio de sesión.</p><p></p>|**EP01**|
+|**US06**|Filtrado de Objetos|Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.|<p><h4>**Escenario 1: Aplicación de filtros**</h4></p><p>**Dado que** el usuario está en la sección de objetos disponibles para intercambio,<br>**Cuando** seleccione filtros específicos (como categoría, ubicación y precio)<br>**Y** pulse el botón "Aplicar Filtros",<br>**Entonces** la lista de objetos se ajustará automáticamente según los criterios seleccionados.</p><p><h4>**Escenario 2: Visualización de resultados filtrados**</h4></p><p>**Dado que** el usuario ha aplicado filtros,<br>**Cuando** la aplicación muestra únicamente los objetos que cumplen con los criterios seleccionados,<br>**Entonces** el usuario puede explorar los resultados filtrados según sus preferencias.</p><p><h4>**Escenario 3: Sin resultados al aplicar filtros**</h4></p><p><h4>**Dado que** el usuario ha aplicado uno o varios filtros en la lista de objetos</h4></p><p><h4>**Cuando** no se encuentran objetos que cumplan con los criterios seleccionados</h4></p><p><h4>**Entonces** la aplicación mostrará un mensaje indicando que no hay resultados disponibles con esos filtros</h4></p><p>Y sugerirá al usuario ajustar o eliminar algunos filtros para ampliar la búsqueda.</p>|**EP02**|
 |**US07**|Asignación de locker para intercambio |Como usuario web quiero que la plataforma me sugiera un locker cercano para poder realizar el intercambio de manera sencilla.|**Escenario 1: Selección del método de intercambio en la web**<br><br>**Dado que** el usuario ha acordado un intercambio exitoso en la plataforma web<br><br>**Cuando** selecciona la opción "Intercambiar usando locker" desde la sección de acuerdos<br><br>**Entonces** el sistema muestra un mapa interactivo con lockers disponibles, resaltando de manera automática el más cercano basado en su ubicación registrada.<br><br>**Escenario 2: Confirmación visual del locker sugerido**<br><br>**Dado que** el usuario visualiza el locker sugerido en el mapa<br><br>**Cuando** presiona el botón “Confirmar locker” dentro de la plataforma web<br><br>**Entonces** el sistema registra la selección y presenta un mensaje de confirmación en pantalla.<br><br>**Escenario 3: Cambio manual de locker desde el listado**<br><br>**Dado que** el usuario desea seleccionar un locker distinto al sugerido inicialmente<br><br>**Cuando** elige otro locker desde el listado desplegable<br><br>**Entonces** el sistema actualiza la asignación y muestra una nueva confirmación en la interfaz.|**EP03**|
-|**US08**|Brindar reseña sobre el Intercambiador|Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar|**Escenario 1: Dejar una Reseña**<br><br>**Dado que** el usuario intercambiador ha completado un intercambio con otro usuario<br><br>**Cuando** visita la página de la experiencia de intercambio realizada<br><br>**Entonces** el usuario encuentra una opción para dejar una reseña sobre su experiencia con el intercambiador.<br><br>**Escenario 2: Visualización de Reseñas**<br><br>**Dado que** otros usuarios visitan la página de la experiencia de intercambio<br><br>**Cuando** exploran las reseñas dejadas por otros intercambiadores<br><br>**Entonces** pueden leer y considerar las opiniones de otros usuarios antes de realizar un intercambio con ese intercambiador.<br><br>**Escenario 3: Respuesta a Reseñas**<br><br>**Dado que** el usuario intercambiador ha dejado una reseña sobre su experiencia con otro intercambiador<br><br>**Cuando** el intercambiador revisado desea responder a la reseña<br><br>**Entonces** tiene la opción de dejar una respuesta o comentario en la reseña para interactuar con el usuario que dejó la reseña.|**EP03**|
-|**US09**|Eliminación de cuenta|Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación|**Escenario 1: Acceso a la Opción de Eliminación**<br><br>**Dado que** el usuario está registrado en la aplicación,<br><br>**Cuando** desee eliminar permanentemente su cuenta,<br><br>**Entonces** la aplicación proporciona una opción claramente visible en la configuración de la cuenta para eliminar la cuenta.<br><br>**Escenario 2: Confirmación de Eliminación**<br><br>**Dado que** el usuario selecciona la opción de eliminar su cuenta,<br><br>**Cuando** confirma su elección,<br><br>**Entonces** la aplicación muestra un mensaje de confirmación solicitando al usuario que confirme su decisión antes de proceder con la eliminación.<br><br>**Escenario 3: Eliminación Exitosa de la Cuenta**<br><br>**Dado que** el usuario ha confirmado su deseo de eliminar su cuenta,<br><br>**Cuando** la confirmación es recibida por la aplicación,<br><br>**Entonces** todos los datos asociados con la cuenta del usuario son eliminados permanentemente de la base de datos y la cuenta se cierra de forma definitiva.|**EP01**|
-|**US10**|Visualización de artículos publicados para intercambio | Como usuario de la aplicación de intercambio, quiero ver los artículos que he publicado, para revisar cuáles están disponibles para intercambio.|**Escenario 1: Sin artículos publicados**<br><br>**Dado que** no he publicado ningún artículo para intercambio<br><br>**Cuando** accedo a la sección "Mis Artículos"<br><br>**Entonces** no se mostrará ningún artículo y veré un mensaje que me invita a publicar uno.<br><br>**Y** habrá un botón destacado que diga “+ Publicar” para agregar nuevos artículos.<br><br>**Escenario 2: Con artículos publicados**<br><br>**Dado que** he publicado artículos para intercambio<br><br>**Cuando** accedo a la sección "Mis Artículos"<br><br>**Entonces** se mostrarán los artículos que he publicado en un formato de tarjetas, con una imagen representativa, el nombre del artículo, y el estado del mismo.<br><br>**Y** el botón “+ Publicar” seguirá disponible en la parte inferior para agregar más artículos.<br><br>**Escenario 3: Visualización de las opciones de un artículo**<br><br>**Dado que** he publicado uno o más artículos<br><br>**Cuando** presiono el botón de opciones (tres puntos) en una de las tarjetas de mis artículos<br><br>**Entonces** se desplegará un menú con las posibles acciones disponibles para ese artículo (acciones futuras).|**EP02**|
-|**US11**|Realización de una oferta de intercambio | Como usuario de la aplicación de intercambio, quiero seleccionar uno de mis artículos y enviarlo como oferta de intercambio, para poder ofrecerlo a cambio de otro artículo publicado por otro usuario.|**Escenario 1: Usuario con artículos publicados para ofertar**<br><br>**Dado que** he visto un artículo que quiero intercambiar<br><br>**Cuando** presiono el botón "Ofertar"<br><br>**Entonces** se me mostrará una lista de mis artículos disponibles para intercambio.<br><br>**Y** podré seleccionar uno de mis artículos para ofrecer.<br><br>**Escenario 2: Confirmación de oferta**<br><br>**Dado que** he seleccionado un artículo para ofrecer<br><br>**Cuando** procedo a confirmar la oferta<br><br>**Entonces** se me mostrará una pantalla de confirmación con los detalles del artículo que estoy solicitando y el que estoy ofreciendo.<br><br>**Y** podré presionar "Listo" para enviar la oferta.<br><br>**Escenario 3: Oferta enviada con éxito**<br><br>**Dado que** he confirmado mi oferta<br><br>**Cuando** la oferta se haya enviado correctamente<br><br>**Entonces** veré un mensaje que dice “¡Oferta Enviada!” confirmando que mi oferta fue enviada exitosamente.<br><br>**Y** se me notificará que el otro usuario recibirá la oferta para su consideración.<br><br>**Escenario 4: Usuario sin artículos publicados**<br><br>**Dado que** no tengo artículos publicados para ofrecer<br><br>**Cuando** presiono el botón "Ofertar"<br><br>**Entonces** veré un mensaje que me indica que no tengo artículos publicados.<br><br>**Y** se me dará la opción de publicar un nuevo artículo directamente desde la pantalla de la oferta, con un botón “+ Publicar”.<br><br>**Escenario 5: Publicación de un nuevo artículo**<br><br>**Dado que** no tengo artículos y deseo publicar uno<br><br>**Cuando** presiono el botón “+ Publicar” desde el mensaje de que no tengo productos<br><br>**Entonces** seré llevado a la pantalla de publicación de un artículo, donde puedo agregar los detalles del artículo (imagen, título, categoría, etc.).<br><br>**Y** después de publicar exitosamente el artículo, veré un mensaje de confirmación de publicación exitosa.<br><br>**Y** podré continuar con el proceso de realizar una oferta usando el nuevo artículo publicado.|**EP02**|
-|**US12**|Crear publicación de intercambio|Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar|**Escenario 1: Creación de una nueva publicación de intercambio**<br><br>**Dado que** el usuario accede a la opción de crear una nueva publicación de intercambio desde la interfaz de la aplicación,<br><br>**Cuando** completa el formulario con los detalles del artículo que desea intercambiar, incluyendo título, descripción, categoría, condición del artículo e información relevante,<br><br>**Entonces** se le permite adjuntar imágenes del artículo.<br><br>**Escenario 2: Publicación de intercambio creada**<br><br>**Dado que** el usuario está completando el formulario de creación de la publicación de intercambio,<br><br>**Cuando** intenta enviar la publicación,<br><br>**Entonces** el sistema valida los campos del formulario<br><br>**Y** crea la publicación de intercambio.<br><br>**Escenario 3: Visualización de publicación de intercambio**<br><br>**Dado que** la publicación de intercambio ha sido creada,<br><br>**Cuando** el usuario accede a su perfil<br><br>**Y** va a la sección de mis articulos,<br><br>**Entonces** el sistema le mostrará la publicación del artículo que desea intercambiar.|**EP02**|
-|**US13**|Editar publicación de intercambio|Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.|**Escenario 1: Acceso a la edición de una publicación de intercambio**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Y** tiene una publicación de intercambio existente,<br><br>**Cuando** el usuario pulsa la opción de editar la publicación desde la interfaz de la aplicación,<br><br>**Entonces** el sistema redirige a un formulario prellenado con los detalles actuales de la publicación para realizar cambios<br><br>**Y** dos botones “Cancelar” y “Publicar”.<br><br>**Escenario 2: Edición de la publicación de intercambio confirmada**<br><br>**Dado que** el usuario está en el formulario de edición de la publicación de intercambio,<br><br>**Cuando** el usuario realiza cambios en los detalles del artículo que desea intercambiar, como título, descripción, categoría, condición del artículo u otra información relevante,<br><br>**Y** pulsa el botón de “Publicar”,<br><br>**Entonces** el sistema guardará los cambios realizados en la publicación.<br><br>**Y** la hará visible para todos los usuarios.<br><br>**Escenario 3: Edición de la publicación de intercambio cancelada**<br><br>**Dado que** el usuario está en el formulario de edición de la publicación de intercambio,<br><br>**Cuando** el usuario realiza cambios en los detalles del artículo que desea intercambiar, como título, descripción, categoría, condición del artículo u otra información relevante,<br><br>**Y** pulsa el botón de “Cancelar”,<br><br>**Entonces** el sistema redirige al usuario al inicio de la aplicación.|**EP02**|
-|**US14**|Eliminar publicación de intercambio|Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.|**Escenario 1: Acceso a la eliminación de una publicación de intercambio**<br><br>**Dado que** el usuario ha iniciado sesión en la aplicación<br><br>**Y** tiene una publicación de intercambio existente,<br><br>**Cuando** accede a la opción de eliminar la publicación desde la interfaz de la aplicación,<br><br>**Entonces** el sistema le muestra una confirmación para confirmar si realmente desea eliminar la publicación.<br><br>**Escenario 2: Confirmación de eliminación**<br><br>**Dado que** el usuario ha seleccionado eliminar una publicación de intercambio,<br><br>**Cuando** confirma la acción de eliminación,<br><br>**Entonces** el sistema elimina la publicación de manera permanente de la plataforma y se muestra un mensaje de confirmación al usuario.<br><br>**Escenario 3: Cancelación de la eliminación**<br><br>**Dado que** el usuario ha seleccionado eliminar una publicación de intercambio,<br><br>**Cuando** decide cancelar la eliminación,<br><br>**Entonces** la publicación no se elimina y el sistema redirige al usuario al inicio de la aplicación.|**EP02**|
-|**US15**|Gestión de intercambios| Como usuario de la aplicación, quiero revisar el estado de los intercambios que he enviado, recibido o aceptado, para poder ver los detalles y gestionar mis transacciones de intercambio de manera eficiente.|**Escenario 1: Revisión de intercambios enviados**<br><br>**Dado que** estoy en la pantalla de Intercambios,<br><br>**Cuando** selecciono la pestaña de Enviados,<br><br>**Entonces** se me mostrará una lista de los intercambios que he enviado, junto con los artículos involucrados y el estado de cada intercambio.<br><br>**Y** podré hacer clic en cualquiera de ellos para ver más detalles del intercambio, como los objetos que he ofrecido y el objeto que solicito.<br><br>**Escenario 2: Revisión de intercambios recibidos**<br><br>**Dado que** estoy en la pantalla de Intercambios,<br><br>**Cuando** selecciono la pestaña de Recibidos,<br><br>**Entonces** se me mostrará una lista de los intercambios que he recibido, donde se verán los objetos ofrecidos y solicitados en cada transacción, así como el estado actual de cada intercambio.<br><br>**Y** podré hacer clic en cualquiera de ellos para ver más detalles del intercambio, como los artículos ofrecidos, el valor aproximado y opciones para aceptar o rechazar la oferta.<br><br>**Escenario 3: Revisión de intercambios aceptados**<br><br>**Dado que** estoy en la pantalla de Intercambios,<br><br>**Cuando** selecciono la pestaña de Aceptados,<br><br>**Entonces** veré un resumen breve de los intercambios que ya he aceptado, junto con los artículos intercambiados.<br><br>**Y** si hago clic en uno de ellos, podré ver más detalles de ese intercambio, como los artículos implicados, la ubicación y la posibilidad de dejar una reseña sobre el intercambio. |**EP02**|
-| **US16** | Visualización de objetos disponibles para intercambio | Como usuario, necesito poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen. | **Escenario 1: Visualización de objetos** <br><br> **Dado que** el usuario ha iniciado sesión en la aplicación <br><br> **Y** está en la sección de Explorar en la barra de navegación del aplicativo web, <br><br> **Cuando** accede a dicha sección, <br><br> **Entonces** el sistema le mostrará una barra de búsqueda, un botón para filtros, un slide con las categorías disponibles y una lista de las publicaciones de los objetos, incluyendo una foto del objeto, su valor aproximado, nombre, ubicación y una breve descripción. <br><br> **Escenario 2: Búsqueda de objetos** <br><br> **Dado que** el usuario está en la sección de Explorar, <br><br> **Cuando** utiliza la barra de búsqueda para ingresar un término, <br><br> **Entonces** el sistema le mostrará los objetos que coinciden con el término buscado, mostrando los resultados con la misma información: foto, valor aproximado, nombre, ubicación y descripción. | **EP02** |
-|**US17**|Visualizar el perfil del usuario que publique un producto|Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.|**Escenario 1: Acceso al perfil del creador de la publicación.**<br><br>**Dado que** el usuario se encuentra en la publicación de su interés,<br><br>**Cuando** pulsa al recuadro que muestra el perfil del autor de la publicación,<br><br>**Entonces**, el usuario podrá visualizar su nombre completo, tiempo que lleva en la aplicación, la cantidad de intercambios exitosos realizados<br><br>**Y** valoraciones de otros usuarios.<br><br>**Escenario 2: Visualizar reseñas de otros usuarios hacia un perfil en específico.**<br><br>**Dado que** el usuario se encuentra en el perfil del autor del intercambio,<br><br>**Cuando** Se dirija a la sección llamada “Reseñas” es cuando,<br><br>**Entonces** el usuario podrá visualizar todas las reseñas que dicho autor ha recibido por todas sus publicaciones exitosas<br><br>**Y** datos relevantes sobre el creador de la publicación.<br><br>**Escenario 3: Visualizar el tipo de productos que suele intercambiar el usuario.**<br><br>**Dado que** el usuario está en el perfil del intercambiador,<br><br>**Cuando** se dirija a la sección “Preferencias” es,<br><br>**Entonces**, donde podrá visualizar la variedad de productos que suele intercambiar el usuario, así cómo también si hace match con las preferencias del usuario interesado.|**EP03**|
-|**US18**|Aceptar o Rechazar un Intercambio| Como usuario que ha recibido una oferta de intercambio, quiero poder revisar los detalles de la oferta y tomar una decisión para aceptar o rechazar el intercambio, para poder gestionar mis transacciones de manera eficiente y asegurada. | **Escenario 1: Revisión de detalles de una oferta de intercambio recibida**<br><br>**Dado que** estoy en la pantalla de "Intercambios", **Cuando** selecciono una oferta de intercambio pendiente, **Entonces** se me mostrará una pantalla con los detalles del intercambio, donde podré ver el producto que el otro usuario ofrece (e.g., Zapatillas Deportivas), el producto que yo tengo y que el otro usuario solicita (e.g., Reloj Inteligente), el valor aproximado de los artículos involucrados y el estado actual de la oferta (Pendiente). **Y** podré elegir entre dos opciones: aceptar la oferta o rechazarla.<br><br>**Escenario 2: Aceptar una oferta de intercambio**<br><br>**Dado que** estoy visualizando los detalles de una oferta de intercambio, **Cuando** selecciono la opción "Aceptar", **Entonces** el sistema debe mostrar un popup de confirmación con el mensaje "¡Intercambio Aceptado! Felicidades por completar tu intercambio." **Y** el usuario podrá confirmar la finalización del proceso seleccionando el botón "Aceptar" del popup. **Y** después de aceptar, la oferta debe moverse a la lista de intercambios aceptados, donde podrá coordinar la entrega con el otro usuario.<br><br>**Escenario 3: Rechazar una oferta de intercambio**<br><br>**Dado que** estoy visualizando los detalles de una oferta de intercambio, **Cuando** selecciono la opción "Rechazar", **Entonces** se me mostrará un popup de confirmación que dice "¿Estás seguro de que deseas rechazar la oferta? Si rechazas la oferta, no podrás volver a verla." **Y** podré seleccionar entre rechazar la oferta, que confirmará la acción y eliminará la oferta de la lista de intercambios pendientes, o cancelar, que cerrará el popup y me devolverá a la pantalla de detalles del intercambio sin tomar ninguna acción.<br><br>**Escenario 4: Confirmación de rechazo de una oferta**<br><br>**Dado que** he decidido rechazar una oferta de intercambio y he seleccionado "Rechazar Oferta" en el popup de confirmación, **Cuando** confirmo la acción, **Entonces** la oferta desaparecerá de la lista de intercambios pendientes **y** no podré volver a ver ni gestionar esa oferta. | **EP02** |
-|**US19**|Ver la información detallada de un producto publicado| Como usuario de la aplicación, quiero poder ver la información completa de un producto en el que estoy interesado, para poder decidir si quiero guardarlo en mis favoritos o proponer un intercambio. | **Escenario 1: Ver la información detallada del producto**<br><br>**Dado que** he seleccionado una publicación de un objeto, **Cuando** se me abre la pantalla de información del artículo, **Entonces** debo poder ver los siguientes detalles del producto: la imagen del objeto (e.g., Chocolate MrBeast Bar), el valor aproximado del objeto, el nombre del usuario que publicó el producto, la calificación del usuario que lo publicó, el título del producto, la descripción del producto, la ubicación aproximada donde se puede intercambiar el objeto, y la lista de artículos que le interesa recibir a cambio.<br><br>**Escenario 2: Ver más información del usuario que publicó el producto**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el nombre o la imagen del usuario que lo publicó, **Entonces** se me redirigirá a una pantalla con más información sobre ese usuario, incluyendo su perfil, su calificación general y sus reseñas recibidas.<br><br>**Escenario 3: Guardar el producto en mis favoritos**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el ícono de favoritos (corazón), **Entonces** el objeto se guardará en mi lista de favoritos, **y** el ícono de corazón cambiará para indicar que el producto ya está guardado.<br><br>**Escenario 4: Proponer un intercambio**<br><br>**Dado que** estoy visualizando la información del producto, **Cuando** selecciono el botón "Intercambiar", **Entonces** se me redirigirá a una pantalla donde podré hacer una oferta de intercambio, seleccionando el objeto que quiero ofrecer a cambio del artículo publicado. | **EP02** |
-|**US20**|Adquirir la suscripción premium|Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.|**Escenario 1: Localizar la sección para adquirir una suscripción.**<br><br>**Dado que** el usuario desea adquirir una suscripción para CambiaZo,<br><br>**Cuando** pulsa a la sección de configuración,<br><br>**Entonces**, le aparecerán varias opciones, entre las que figura “Ser premium”.<br><br>**Cuando** el usuario pulsa al botón,<br>será redirigido a una nueva ventana que le mostrará las suscripciones disponibles.<br><br>**Escenario 2: Visualizar los beneficios de la suscripción.**<br><br>**Dado que** el usuario se encuentra en la ventana correspondiente sobre las suscripciones,<br><br>**Entonces** cuando pulsa a una en específico podrá ver el precio por mes de cada una de ellas<br><br>**Y** los beneficios que incluyen cada una de estas.<br><br>**Escenario 3: Compra de la suscripción.**<br><br>**Dado que** el usuario ha decidido una suscripción de su interés,<br><br>**Entonces**, cuando pulsa a “Suscribirse”, se le redireccionará a una pasarela de pago para que pueda introducir su método de pago<br><br>**Y** procesar el pago respectivo y adquirir los nuevos beneficios.|**EP01**|
-|**US21**|Cancelar una suscripción|<p>Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente</p><p></p>|**Escenario 1: Acceso a la ventana de suscripciones.**<br><br>**Dado que** el usuario desea verificar la información del estado de su suscripción,<br><br>**Cuando** se dirige a la sección de configuración,<br><br>**Entonces**, observará un botón que dice “Mi suscripción”<br><br>**Y** al pulsar podrá ver los detalles de su suscripción.<br><br>**Escenario 2: Verificación de los detalles de la suscripción.**<br><br>**Dado que** el usuario se encuentra en la ventana que muestra el estado de su suscripción,<br><br>**Entonces**, podrá visualizar la fecha en la que se renueva su suscripción, los beneficios que obtiene<br><br>**Y** si es que se encuentra en un plan mensual o semianual.<br><br>**Escenario 3: Proceder a la cancelación.**<br><br>**Dado que** el usuario se encuentra en la ventana que muestra el estado de la suscripción,<br><br>**Entonces**, al tener ya la decisión de no continuar con el premium de CambiaZo,<br><br>**Y** podrá pulsar a un botón rojo que dice “Anular suscripción”<br><br>**Y** así terminaría la suscripción que no se renovará hasta su próxima fecha.|**EP01**|
+|**US08**|Brindar reseña sobre el Intercambiador|Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar|<p><h4>**Escenario 1: Dejar una reseña**</h4></p><p>**Dado que** el usuario ha completado un intercambio,<br>**Cuando** accede a la sección correspondiente a esa experiencia,<br>**Entonces** encontrará una opción para dejar una reseña sobre el otro usuario.</p><p><h4>**Escenario 2: Visualización de reseñas**</h4></p><p>**Dado que** otros usuarios exploran las experiencias de intercambio,<br>**Cuando** acceden a las reseñas dejadas por otros,<br>**Entonces** pueden leer y considerar las opiniones antes de iniciar un intercambio.</p>|**EP03**|
+|**US09**|Eliminación de cuenta|Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación|<p>**Escenario 1: Acceso a la opción de eliminación**<br>**Dado que** el usuario está registrado en la aplicación,<br>**Cuando** desee eliminar su cuenta,<br>**Entonces** encontrará una opción claramente visible en la configuración de cuenta que le permita eliminarla.</p><p>**Escenario 2: Confirmación de eliminación**<br>**Dado que** el usuario selecciona la opción de eliminar su cuenta,<br>**Cuando** confirme su elección,<br>**Entonces** se mostrará un mensaje solicitando una segunda confirmación antes de proceder.</p><p>**Escenario 3: Eliminación exitosa**<br>**Dado que** el usuario ha confirmado la eliminación,<br>**Cuando** la acción es procesada,<br>**Entonces** todos los datos asociados a la cuenta son eliminados permanentemente y esta se desactiva en ambas versiones de la aplicación.</p>|**EP01**|
+|**US10**|Visualización de artículos publicados para intercambio|Como usuario de la aplicación de intercambio, quiero ver los artículos que he publicado, para revisar cuáles están disponibles para intercambio.|<p>**Escenario 1: Sin artículos publicados**<br>**Dado que** el usuario no ha publicado artículos,<br>**Cuando** accede a la sección “Mis artículos”,<br>**Entonces** verá un mensaje que lo invita a publicar, junto a un botón destacado “+ Publicar”.</p><p>**Escenario 2: Con artículos publicados**<br>**Dado que** el usuario ya publicó artículos,<br>**Cuando** accede a “Mis artículos”,<br>**Entonces** visualizará sus artículos en tarjetas con imagen, nombre y estado.</p><p>**Escenario 3: Opciones de un artículo**<br>**Dado que** el usuario tiene uno o más artículos,<br>**Cuando** presiona el botón de opciones (tres puntos) en una tarjeta,<br>**Entonces** se desplegará un menú con acciones disponibles para ese artículo.</p>|**EP02**|
+|**US11**|Realización de una oferta de intercambio|Como usuario de la aplicación de intercambio, quiero seleccionar uno de mis artículos y enviarlo como oferta de intercambio, para poder ofrecerlo a cambio de otro artículo publicado por otro usuario.|<p>**Escenario 1: Usuario con artículos publicados**<br>**Dado que** el usuario desea intercambiar un artículo,<br>**Cuando** presiona el botón “Ofertar”,<br>**Entonces** verá una lista de sus artículos disponibles y podrá seleccionar uno para la oferta.</p><p>**Escenario 2: Confirmación de oferta**<br>**Dado que** el usuario ha seleccionado un artículo,<br>**Cuando** confirme la oferta,<br>**Entonces** se le mostrará una pantalla con detalles del artículo ofrecido y solicitado,<br>**Y** podrá confirmar presionando “Listo”.</p><p>**Escenario 3: Oferta enviada con éxito**<br>**Dado que** la oferta fue confirmada,<br>**Cuando** se envíe correctamente,<br>**Entonces** se mostrará un mensaje “¡Oferta Enviada!”<br>**Y** se notificará al usuario que la otra parte recibirá la oferta.</p><p></p>|**EP02**|
+|**US12**|Crear publicación de intercambio|Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar|<p>**Escenario 1: Creación de publicación**<br>**Dado que** el usuario accede a la opción de crear una publicación,<br>**Cuando** complete el formulario con título, descripción, categoría y condición del artículo,<br>**Entonces** podrá adjuntar imágenes y enviar el formulario.</p><p>**Escenario 2: Publicación creada exitosamente**<br>**Dado que** el formulario está completo,<br>**Cuando** el usuario lo envíe,<br>**Entonces** la aplicación validará los campos<br>**Y** creará la publicación exitosamente.</p><p>**Escenario 3: Visualización de publicación**<br>**Dado que** la publicación ha sido creada,<br>**Cuando** el usuario acceda a su perfil y luego a “Mis artículos”,<br>**Entonces** verá la nueva publicación reflejada en la lista de artículos.</p>|**EP02**|
+|**US13**|Editar publicación de intercambio|Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.|<p>**Escenario 1: Acceso a la edición de una publicación de intercambio**<br>**Dado que** el usuario ha iniciado sesión en la aplicación (web o mobile)<br>**Y** tiene una publicación existente,<br>**Cuando** el usuario pulsa la opción de editar la publicación desde la interfaz,<br>**Entonces** el sistema redirige a un formulario prellenado con los detalles actuales de la publicación para realizar cambios<br>**Y** se muestran dos botones: “Cancelar” y “Publicar”.</p><p>**Escenario 2: Edición de la publicación confirmada**<br>**Dado que** el usuario está en el formulario de edición de la publicación,<br>**Cuando** realiza cambios en los detalles del artículo como título, descripción, categoría o condición,<br>**Y** pulsa el botón “Publicar”,<br>**Entonces** el sistema guardará los cambios y la publicación actualizada será visible para los demás usuarios.</p><p>**Escenario 3: Edición cancelada**<br>**Dado que** el usuario está en el formulario de edición,<br>**Cuando** realiza cambios y pulsa el botón “Cancelar”,<br>**Entonces** el sistema lo redirige a la pantalla de inicio de la aplicación.</p>|**EP02**|
+|**US14**|Eliminar publicación de intercambio|Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.|<p>**Escenario 1: Acceso a la eliminación**<br>**Dado que** el usuario ha iniciado sesión y tiene publicaciones,<br>**Cuando** accede a la opción de eliminar una publicación desde la interfaz (web o mobile),<br>**Entonces** el sistema mostrará un mensaje de confirmación.</p><p>**Escenario 2: Confirmación de eliminación**<br>**Dado que** el usuario ha seleccionado eliminar,<br>**Cuando** confirma la acción,<br>**Entonces** el sistema elimina la publicación de forma permanente<br>**Y** muestra un mensaje de confirmación.</p><p>` `**Escenario 3: Cancelación de eliminación**<br>**Dado que** el usuario ha iniciado la eliminación,<br>**Cuando** cancela la acción,<br>**Entonces** la publicación no se elimina<br>**Y** el sistema redirige al usuario al inicio.</p>|**EP02**|
+|**US15**|Gestión de intercambios|Como usuario de la aplicación, quiero revisar el estado de los intercambios que he enviado, recibido o aceptado, para poder ver los detalles y gestionar mis transacciones de intercambio de manera eficiente.|<p>**Escenario 1: Revisión de enviados**<br>**Dado que** estoy en la sección de Intercambios,<br>**Cuando** selecciono la pestaña “Enviados”,<br>**Entonces** veré una lista con los objetos ofrecidos y su estado<br>**Y** podré ver más detalles al seleccionarlos.</p><p>**Escenario 2: Revisión de recibidos**<br>**Dado que** estoy en la misma sección,<br>**Cuando** selecciono “Recibidos”,<br>**Entonces** veré una lista de ofertas con detalles y opciones para aceptarlas o rechazarlas.</p><p>**Escenario 3: Revisión de aceptados**<br>**Dado que** estoy en la pestaña “Aceptados”,<br>**Cuando** selecciono un intercambio,<br>**Entonces** podré ver los detalles y dejar una reseña si lo deseo.</p>|**EP02**|
+|**US16**|Visualización de objetos disponibles para intercambio|Como usuario, necesito poder ver objetos disponibles para intercambio, de manera que pueda navegar y seleccionar aquellos que me interesen.|<p>**Escenario 1: Visualización**<br>**Dado que** el usuario ha iniciado sesión,<br>**Y** accede a la sección de “Explorar o Home” (desde web o mobile),<br>**Cuando** entra a esa sección,<br>**Entonces** el sistema mostrará: barra de búsqueda, categorías y publicaciones con foto, valor, nombre, ubicación y descripción.</p><p>**Escenario 2: Búsqueda**<br>**Dado que** el usuario está en “Explorar o Home”,<br>**Cuando** usa la barra de búsqueda,<br>**Entonces** el sistema mostrará resultados que coincidan, con la misma información visual.</p>|**EP02**|
+|**US17**|Visualizar el perfil del usuario que publique un producto|Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.|<p>**Escenario 1: Acceso al perfil**<br>**Dado que** estoy en una publicación,<br>**Cuando** toco o hago clic en el recuadro del autor,<br>**Entonces** podré ver su nombre, tiempo en la app, intercambios exitosos y valoraciones.</p><p>**Escenario 2: Reseñas**<br>**Dado que** estoy en el perfil del usuario,<br>**Cuando** entro a la sección “Reseñas”,<br>**Entonces** podré ver todas las reseñas recibidas y datos relevantes.</p>|**EP03**|
+|**US18**|Aceptar o Rechazar un Intercambio|Como usuario que ha recibido una oferta de intercambio, quiero poder revisar los detalles de la oferta y tomar una decisión para aceptar o rechazar el intercambio, para poder gestionar mis transacciones de manera eficiente y asegurada.|<p>**Escenario 1: Revisión de oferta**<br>**Dado que** estoy en “Intercambios”,<br>**Cuando** selecciono una oferta pendiente,<br>**Entonces** veré todos los detalles y opciones para aceptarla o rechazarla.</p><p>**Escenario 2: Aceptar oferta**<br>**Dado que** estoy viendo una oferta,<br>**Cuando** presiono “Aceptar”,<br>**Entonces** se muestra un popup de confirmación y la oferta pasa a “Aceptados”.</p><p>**Escenario 3: Rechazar oferta**<br>**Dado que** estoy viendo una oferta,<br>**Cuando** presiono “Rechazar”,<br>**Entonces** se muestra un popup con mensaje de advertencia.</p><p>` `**Escenario 4: Confirmación del rechazo**<br>**Dado que** he presionado “Rechazar oferta”,<br>**Cuando** confirmo la acción,<br>**Entonces** la oferta se elimina y no puede recuperarse.</p><p></p>|**EP02**||**US19**|Ver la información detallada de un producto publicado|Como usuario de la aplicación, quiero poder ver la información completa de un producto en el que estoy interesado, para poder decidir si quiero guardarlo en mis favoritos o proponer un intercambio.|<p>**Escenario 1: Ver detalles**<br>**Dado que** he seleccionado una publicación,<br>**Cuando** se abre la pantalla del artículo,<br>**Entonces** veré: imagen, valor, usuario, calificación, título, descripción, ubicación e intereses.</p><p>**Escenario 2: Ver perfil del usuario**<br>**Dado que** estoy en la pantalla de información,<br>**Cuando** selecciono el nombre o foto del usuario,<br>**Entonces** me redirige a su perfil.</p><p>**Escenario 3: Guardar en favoritos**<br>**Dado que** estoy en la información del producto,<br>**Cuando** presiono el ícono de favoritos,<br>**Entonces** el producto se guarda en mis favoritos y el ícono cambia.</p><p></p>|**EP02**|
+|**US20**|Adquirir la suscripción premium|Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.|<p><h4>**Escenario 1: Localizar la sección para adquirir una suscripción**</h4></p><p>**Dado que** el usuario desea adquirir una suscripción premium en CambiaZo,<br>**Cuando** accede a la sección de Memberships desde la versión web,<br>**Entonces** se le mostrarán los diferentes planes de suscripción disponibles.<br>**Y** desde la versión mobile, al acceder a la sección Mi Suscripción, se le mostrarán los planes disponibles.</p><p>**Cuando** el usuario selecciona un plan específico desde cualquiera de las versiones (web o mobile),<br>**Entonces** se abrirá la pasarela de pago de PayPal para proceder con el pago.</p><p></p><p><h4>**Escenario 2: Realizar el pago de la suscripción**</h4></p><p>**Dado que** el usuario ha seleccionado un plan de su interés,<br>**Cuando** pulsa el botón de “Suscribirse”**,**<br>**Entonces** será redirigido a PayPal para completar el pago y activar la suscripción premium.</p>|**EP01**|
+|**US21**|Cancelar una suscripción|Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente|<p><h4>**Escenario 1: Acceso a la ventana de suscripciones**</h4></p><p>**Dado que** el usuario desea verificar la información del estado de su suscripción,<br>**Cuando** se dirige a la sección de configuración desde la versión web**,<br>Entonces** deberá acceder a su perfil y, dentro de este, en la sección de Detalles de perfil, encontrará una sección llamada “Mi membresía”**.**<br>**Y** al pulsar en esta sección, podrá ver los detalles de su suscripción.</p><p>**Cuando** accede a la versión mobile y entra a la sección de Mi suscripción**,<br>Entonces** podrá ver el estado de su suscripción actual y los detalles relacionados.</p><p><h4>**Escenario 2: Verificación de los detalles de la suscripción**</h4></p><p>**Dado que** el usuario se encuentra en la ventana que muestra el estado de su suscripción,<br>**Cuando** revisa los detalles,<br>**Entonces** podrá visualizar la fecha de renovación**,<br>Y** si se encuentra en un plan.</p><p></p><p><h4>**Escenario 3: Proceder a la cancelación**</h4></p><p>**Dado que** el usuario se encuentra en la ventana que muestra el estado de su suscripción,<br>**Cuando** ha decidido no continuar con la suscripción premium de CambiaZo,<br>**Entonces** podrá pulsar en el botón rojo que dice **“**Anular suscripción” desde la versión web en la sección Mi membresía dentro de Detalles de perfil**.<br>Y** así, la suscripción será cancelada y no se renovará hasta la próxima fecha de pago.</p><p>**Cuando** accede desde la versión mobile** a la sección Mi suscripción y selecciona Planes,<br>**Entonces** verá la opción de cambiar a Plan Lite, lo cual efectivamente cancela la suscripción premium y la coloca en un plan gratuito, eliminando los pagos mensuales.</p><p></p>|**EP01**|
 |**US22**|Recepción de PIN para apertura de locker (Web)|Como usuario web quiero recibir un PIN seguro desde la plataforma para abrir el locker de forma segura.|**Escenario 1: Visualización inmediata del PIN en la web**<br><br>**Dado que** el usuario ha confirmado un locker para su intercambio<br><br>**Cuando** finaliza el proceso de asignación<br><br>**Entonces** el sistema muestra de manera segura el PIN de apertura en la página de detalles del intercambio, visible solo una vez para proteger la seguridad.<br><br>**Escenario 2: Acceso seguro al PIN desde sección “Mis Intercambios”**<br><br>**Dado que** el usuario necesita revisar su PIN posteriormente<br><br>**Cuando** ingresa a la sección “Mis intercambios” en la web y selecciona el intercambio correspondiente<br><br>**Entonces** puede visualizar nuevamente el PIN bajo un proceso de autenticación adicional si es necesario.<br><br>**Escenario 3: Solicitud de nuevo PIN en caso de expiración**<br><br>**Dado que** el PIN inicial ha expirado o se ha perdido<br><br>**Cuando** el usuario solicita un nuevo PIN mediante el botón "Generar nuevo PIN"<br><br>**Entonces** el sistema invalida el anterior y genera un nuevo PIN único para el mismo intercambio.|**EP03**|
-|**US23**|Gestionar mis favoritos en la aplicación| Como usuario de la aplicación, quiero poder acceder a los objetos que he guardado como favoritos, para poder visualizarlos y eliminar los que ya no me interesen. | **Escenario 1: Ver objetos guardados como favoritos**<br><br>**Dado que** estoy en mi perfil, **Cuando** selecciono la opción "Favoritos", **Entonces** se me mostrará una lista de los objetos que he guardado como favoritos, incluyendo la imagen del objeto, el nombre del objeto, la descripción breve del objeto y el valor aproximado del objeto.<br><br>**Escenario 2: Eliminar un objeto de mis favoritos**<br><br>**Dado que** estoy visualizando la lista de favoritos, **Cuando** selecciono el botón de favoritos (ícono de corazón) de un objeto para eliminarlo, **Entonces** se mostrará un popup de confirmación con el mensaje: "¿Estás seguro de que deseas eliminar este objeto de tus favoritos?" **Y** podré seleccionar entre eliminar, que eliminará el objeto de mi lista de favoritos, o cancelar, que cerrará el popup sin realizar ninguna acción. **Y** si selecciono "Eliminar", el objeto desaparecerá de la lista de favoritos después de la confirmación. | **EP01** |
-|**US24**|Ver reseñas recibidas| Como usuario de la aplicación, quiero poder ver las reseñas y calificaciones que he recibido, para tener una referencia de mi reputación en la plataforma. | **Escenario 1: Ver la calificación general y reseñas recibidas**<br><br>**Dado que** estoy en mi perfil, **cuando** selecciono la opción "Mis Reseñas", **entonces** se me mostrará mi calificación general (promedio de estrellas), el número total de reseñas recibidas y una lista de las reseñas, mostrando el nombre del usuario que dejó la reseña, su calificación (número de estrellas) y el comentario de la reseña. | **EP01** |
-|**US25**|Visualización de la Historia de la Startup|<p>Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.</p><p></p>|**Escenario 1: Acceso a la historia de TechZo**<br><br>**Dado que** soy un visitante de la landing page<br><br>**Cuando** navegue por la página de inicio<br>**Y** encuentre la sección titulada “Quiénes Somos”<br><br>**Entonces** podré obtener información detallada sobre la historia de la startup.<br><br>**Escenario 2: Acceso a las redes sociales de TechZo**<br><br>**Dado que** el visitante se encuentra en el landing page<br><br>**Cuando** el visitante pulsa en la etiqueta “Contáctanos”<br>**Y** encuentre los botones con los logos de las redes sociales en las que puede encontrar la página de TechZo<br>**Y** pulsa encima del botón con el logo de la red social que desee ver<br><br>**Entonces** el usuario será redireccionado a la red social que seleccionó previamente.<br><br>**Escenario 3: Acceso a información de contacto**<br><br>**Dado que** el visitante se encuentra en la parte inferior de la landing page<br><br>**Cuando** el visitante se acerque a la sección “Comunícate con nosotros”<br><br>**Entonces** el visitante podrá observar los métodos de contacto de la startup “(01) 5718202, 992113864, 933960189, cambiazo@TechZo.pe”.|**EP04**|
-|**US26**|Visualizar las características clave de la aplicación|Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.|**Escenario 1: Conocer las secciones principales**</p><p>**Dado que** el visitante se encuentra en la landing page</p><p>**Cuando** se dirige a la sección “Puedes elegir entre…”</p><p>**Entonces** la landing page le muestra lo que puede realizar dentro de CambiaZo.</p><p></p><p>**Escenario 2: Conocer lo que puede intercambiar**</p><p>**Dado que** el visitante se encuentra en la landing page</p><p>**Cuando** se dirige a la sección “Si decides intercambiar, podrás encontrar una gran variedad de objetos”</p><p>**Entonces** la landing page muestra los diferentes tipos de artículos que puede intercambiar con CambiaZo.</p><p></p><p>**Escenario 3: Conocer las características principales**</p><p>**Dado que** el visitante se encuentra en la landing page</p><p>**Cuando** se dirige a la sección “En CambiaZo te ofrecemos…”</p><p>**Entonces** la landing page le muestra las características principales de CambiaZo.</p>|**EP04**|
-|**US27**|Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.|Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.|**Escenario 1: Información en el formulario**</p><p>**Dado que** soy un usuario interesado en CambiaZo que desea llenar el formulario de contacto</p><p>**Cuando** navegue por la Landing page</p><p>**Entonces** encontraré una sección que contendrá un formulario</p><p>**Y** en esa sección, debo colocar mi nombre, apellido y correo electrónico de contacto.</p><p></p><p>**Escenario 2: Envío de formulario con datos completos**</p><p>**Dado que** me encuentro en la sección del formulario de la Landing page</p><p>**Cuando**  termine de completar mi información de contacto</p><p>**Entonces** debo darle click al botón de “ENVIAR”</p><p>**Y** si he llenado todos los campos correspondientes, me saldrá un mensaje de registro exitoso.</p><p></p><p>**Escenario 3: Envío de formulario con datos incompletos**</p><p>**Dado que** me encuentro en la sección del formulario de la Landing page</p><p>**Cuando**  desee enviar el formulario con casillas en blanco</p><p>**Entonces** me saldrá un mensaje indicando que hay casillas que faltan completar.</p>|**EP04**|
-|**US28**|Descargar la aplicación de CambiaZo|<p>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar artículos directamente desde mi dispositivo web.</p><p></p>|<p>**Escenario 1: Identificación de botones o enlaces para descargar la app**</p><p>**Dado que** el usuario está en la landing page de CambiaZo,<br><br>**Cuando** busque descargar la aplicación,<br><br>**Entonces** encontrará botones o enlaces fácilmente identificables que lo dirijan a la descarga de la aplicación.</p><p>**Escenario 2: Descarga rápida y sin problemas**</p><p>**Dado que** el usuario se dirige a un botón o enlace de descarga,<br><br>**Cuando** el usuario le dé clic al botón,<br><br>**Entonces** la aplicación de CambiaZo se descargará de manera rápida <br><br>**Y** sin problemas en su dispositivo web.</p><p></p>|**EP04**|
-|**US29**|Ver los planes y precios|Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de descargar la aplicación.|<p>**Escenario 1: Acceso a la sección de planes y servicios**</p><p>**Dado que** el usuario visita la landing page de Cambiazo,</p><p>**Cuando** busque información sobre los planes y servicios ofrecidos por la plataforma,</p><p>**Entonces** encontrará una sección dedicada que detalle estos aspectos.</p><p>**Escenario 2: Comparación de planes**</p><p>**Dado que** el usuario revisa la información sobre los planes ofrecidos,</p><p>**Cuando** busque tomar una decisión informada,</p><p>**Entonces** encontrará que puede comparar fácilmente los diferentes planes para evaluar cuál se ajusta mejor a sus necesidades.</p>|**EP04**|
-|**US30**|Navegación en la Landing Page|Como usuario visitante, quiero contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.|<p>**Escenario 1: Acceder a la información acerca de la startup**</p><p>**Dado que** el usuario se encuentra en la Landing Page</p><p>**Cuando** quiera acceder a la información acerca del equipo</p><p>**Entonces** podré darle click a la etiqueta “¿Quiénes somos?” de la barra navegadora</p><p>**Y** me redireccionará rápidamente a la parte de la Landing Page en la que se encuentra la información correspondiente.</p><p></p><p>**Escenario 2: Buscar la sección de Contacto**</p><p>**Dado que** el usuario se encuentra en la Landing Page</p><p>**Cuando** quiera acceder a la sección para contactarme con la startup</p><p>**Entonces** le daré click a la etiqueta “Contáctanos” de la barra navegadora</p><p>**Y** me redireccionará rápidamente a la parte de la Landing Page en la que se encuentra el formulario para recibir notificaciones de CambiaZo y el pié de página en el cuál se encuentran los datos de contacto.</p><p></p><p>**Escenario 3: Llegar al inicio de la Landing Page rápidamente**</p><p>**Dado que** el usuario se encuentra en la Landing Page</p><p>**Cuando** quiera acceder rápidamente al inicio de esta</p><p>**Entonces** podré darle click a la etiqueta “Inicio” de la barra navegadora</p><p>**Y** me redireccionará inmediatamente a la parte superior de la Landing Page.</p>|**EP04**|
-|**US31**|Confirmación de objeto depositado en locker|Como usuario web quiero visualizar la imagen del objeto depositado para verificar que esté correctamente colocado.|**Escenario 1: Captura automática del objeto tras cierre**<br><br>**Dado que** el usuario ha cerrado el locker después de depositar su objeto<br><br>**Cuando** el sistema detecta el cierre exitoso<br><br>**Entonces** automáticamente captura una fotografía del interior del locker y la adjunta al registro del intercambio en la web.<br><br>**Escenario 2: Notificación de imagen disponible por correo electrónico**<br><br>**Dado que** la fotografía ha sido tomada y procesada<br><br>**Cuando** el sistema completa el procesamiento<br><br>**Entonces** envía un correo electrónico al usuario notificándole que puede revisar la imagen en la sección “Mis intercambios”.<br><br>**Escenario 3: Visualización manual de la imagen**<br><br>**Dado que** el usuario quiere comprobar el estado de su depósito<br><br>**Cuando** accede a la página del intercambio y selecciona “Ver imagen del objeto”<br><br>**Entonces** puede visualizar la foto como evidencia de la entrega en la plataforma.|**EP03**|
-|**US32**|Validación final y desbloqueo del locker |Como usuario web quiero validar el objeto depositado antes de generar el PIN final para su retiro y asegurar mi intercambio.|**Escenario 1: Confirmación manual del objeto**<br><br>**Dado que** el usuario ha recibido la fotografía del objeto depositado<br><br>**Cuando** confirma manualmente que el objeto corresponde al acordado<br><br>**Entonces** el sistema genera y despliega el PIN de retiro en la plataforma para que proceda a recogerlo.<br><br>**Escenario 2: Reporte de objeto incorrecto desde la plataforma**<br><br>**Dado que** el objeto capturado en la fotografía no coincide con el acordado<br><br>**Cuando** el usuario presiona la opción “Reportar problema”<br><br>**Entonces** el sistema bloquea el locker y alerta al equipo de soporte para iniciar el protocolo de resolución.<br><br>**Escenario 3: Recordatorio de validación por correo**<br><br>**Dado que** el usuario no ha realizado la validación después de un tiempo razonable<br><br>**Cuando** el sistema detecta la inactividad<br><br>**Entonces** envía un recordatorio vía correo electrónico solicitando que confirme o reporte el estado del objeto antes de una expiración automática.|**EP03**|
-|**US-33**|Registro de usuario|<p>Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.</p><p></p>|<p>**Escenario 1:** Acceso del usuario a la página de registro</p><p>Dado que el  usuario ha descargado la aplicación y la inicia,</p><p>Cuando se encuentra en la sección de "Inicio de sesión"</p><p>Y opta por hacer clic en el botón de "Registrarse",</p><p>Entonces, la aplicación desplegará la página de registro.</p><p></p><p>**Escenario 2:** Registro exitoso del usuario</p><p>Dado que el usuario esté en la página de registro,</p><p>Cuando introduce su información requerida</p><p>Y procede a hacer clic en el botón de "Registrarse”,</p><p>Entonces la aplicación llevará a cabo el registro del usuario y guardará su cuenta.</p><p></p><p>**Escenario 3**: Registro del usuario con datos inválidos</p><p>Considerando que el usuario está en la página de registro,</p><p>Cuando proporciona información incompleta o no válida</p><p>Y luego activa el botón de "Registrarse",</p><p>Entonces la aplicación mostrará un mensaje de error</p><p>Y eliminará los datos introducidos.</p><p></p>|**EP01**|
-|**US-34**|<p>Editar perfil del usuario</p><p></p>|Como usuario ya registrado realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.|<p>**Escenario 1:** Acceso del usuario a "Mi perfil"</p><p>Dado que el usuario está registrado en la aplicación,</p><p>Cuando acceda a su perfil,</p><p>Entonces el sistema presentará la página "Mi perfil".</p><p></p><p>**Escenario 2:** El usuario elige editar su perfil</p><p>Dado que el usuario se encuentra en la página "Mi perfil" con los datos personales visibles,</p><p>Cuando seleccione el botón "Editar perfil",</p><p>Entonces, el sistema mostrará la página de edición de perfil.</p><p></p><p>**Escenario 3:** Actualización exitosa de los datos del perfil del usuario</p><p>Dado que el usuario se encuentra en la página de edición de perfil con los datos personales visibles,</p><p>Cuando introduzca sus nuevos datos</p><p>Y seleccione el botón "Guardar cambios",</p><p>Entonces el sistema actualizará la información del perfil del usuario con los nuevos datos ingresados.</p><p></p><p>**Escenario 4:** Actualización de los datos del perfil del usuario con información inválida o incompleta</p><p>Dado que el usuario se encuentra en la página de edición de perfil con los datos personales visibles,</p><p>Cuando ingrese datos incompletos o inválidos</p><p>Y seleccione el botón "Actualizar",</p><p>Entonces la aplicación mostrará un mensaje de "Error"</p><p>Y borrará los datos ingresados.</p><p></p>|**EP01**|
-|**US-35**|Iniciar sesión en la aplicación|Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.|<p>**Escenario 1:** Acceso del usuario a la página de inicio de sesión</p><p>Dado que el usuario abre la aplicación</p><p>Y no ha iniciado sesión previamente o se ha desconectado</p><p>Cuando el usuario seleccione el botón "Iniciar Sesión"</p><p>Entonces, la aplicación mostrará la página de inicio de sesión.</p><p></p><p>**Escenario 2:** Inicio de sesión exitoso del usuario</p><p>Dado que el usuario se encuentra en la página de inicio de sesión</p><p>Cuando ingrese sus credenciales válidas</p><p>Y haga clic en el botón "Iniciar Sesión"</p><p>Entonces, el usuario será autenticado</p><p>Y dirigido a la página principal de la aplicación.</p><p></p><p>**Escenario 3:** Intento de inicio de sesión fallido</p><p>Dado que el usuario está en la página de inicio de sesión</p><p>Cuando ingrese credenciales inválidas</p><p>Y haga clic en el botón "Iniciar Sesión"</p><p>Entonces, la aplicación mostrará un mensaje de error indicando que las credenciales son incorrectas.</p><p></p>|**EP01**|
-|**US-36**|Cambiar Contraseña|<p>Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.</p><p></p>|<p>**Escenario 1:** Acceso del usuario a la configuración de la cuenta</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Cuando acceda a la sección de configuración de la cuenta</p><p>Entonces la aplicación mostrará la opción para modificar la contraseña.</p><p></p><p>**Escenario 2:** Cambio exitoso de la contraseña</p><p>Dado que el usuario está en la página de cambio de contraseña</p><p>Cuando ingrese su contraseña actual y la nueva contraseña dos veces</p><p>Y haga clic en el botón "Cambiar Contraseña"</p><p>Entonces la aplicación ejecutará el cambio de contraseña</p><p>Y mostrará un mensaje de confirmación.</p><p></p><p>**Escenario 3:** Intento de cambio de contraseña fallido</p><p>Dado que el usuario se encuentre en la página de cambio de contraseña</p><p>Cuando ingrese una contraseña actual incorrecta o incompleta, seguida de la nueva contraseña dos veces</p><p>Y seleccione el botón "Cambiar Contraseña"</p><p>Entonces la aplicación mostrará un mensaje de error indicando que la contraseña actual es incorrecta.</p><p></p>|**EP01**|
-|**US37**|<p>Cerrar Sesión</p><p></p>|<p>Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo móvil.</p><p></p>|<p>**Escenario 1:** Acceso del usuario a la configuración de la cuenta</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Cuando acceda a la sección de configuración de la cuenta</p><p>Entonces la aplicación mostrará la opción para cerrar sesión.</p><p></p><p>**Escenario 2:** Cierre de sesión exitoso por parte del usuario</p><p>Dado que el usuario se encuentra en la página de cierre de sesión</p><p>Cuando seleccione el botón "Cerrar Sesión"</p><p>Entonces, la aplicación concluirá la sesión del usuario y lo redirigirá a la página de inicio de sesión.</p><p></p>|**EP01**|
-|**US38**|Filtrado de Objetos|Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.|<p>**Escenario 1:** Aplicación de Filtros</p><p></p><p>Dado que el usuario intercambiador está en la sección de objetos disponibles para intercambio</p><p></p><p>Cuando el usuario selecciona filtros específicos, como categoría, estado del objeto y ubicación<br><br>Y presiona el botón de "Aplicar Filtros"</p><p></p><p>Entonces la lista de objetos se ajustará automáticamente según los criterios seleccionados.</p><p></p><p>**Escenario 2:**  Visualización de Resultados Filtrados</p><p><br>Dado que el usuario ha aplicado filtros por estado a la lista de objetos disponibles</p><p></p><p>Cuando la aplicación muestra únicamente los objetos que cumplen con el estado seleccionado</p><p></p><p>Entonces el usuario puede ver y explorar los resultados filtrados según sus preferencias.</p><p></p><p>**Escenario 3:** Filtrar por cantidad de Vistas<br><br>Dado que el usuario está buscando objetos con la mayot cantidad de vistas para intercambiar</p><p></p><p>Cuando el usuario selecciona la opción de "Filtrar por Vistas"</p><p></p><p>Y presiona el botón de "Aplicar Filtros"</p><p></p><p>Entonces la aplicación presenta los objetos más populares en la parte superior de la lista de resultados.</p>|**EP02**|
-|**US39**|Asignación de locker para intercambio |Como usuario móvil quiero que la app me sugiera un locker cercano para facilitar el intercambio rápidamente.|**Escenario 1: Asignación automática de locker en app**<br><br>**Dado que** el usuario ha confirmado un intercambio desde la app<br><br>**Cuando** selecciona “Intercambio en locker” dentro del flujo del intercambio<br><br>**Entonces** la app muestra directamente en pantalla el locker más cercano usando GPS del dispositivo móvil.<br><br>**Escenario 2: Visualización en lista de lockers cercanos**<br><br>**Dado que** el usuario desea ver más opciones<br><br>**Cuando** desliza hacia arriba en la sección de lockers<br><br>**Entonces** la app despliega una lista ordenada por distancia, permitiendo seleccionar otro locker manualmente.<br><br>**Escenario 3: Confirmación inmediata del locker**<br><br>**Dado que** el usuario ha elegido el locker deseado<br><br>**Cuando** presiona “Confirmar” dentro de la app<br><br>**Entonces** la selección queda registrada y la app muestra un mensaje de éxito.|**EP03**|
-|**US40**|Brindar reseña sobre el Intercambiador|Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar|<p>**Escenario 1:** Dejar una Reseña</p><p></p><p>Dado que el usuario intercambiador ha completado un intercambio con otro usuario,</p><p></p><p>Cuando visita la página de la experiencia de intercambio realizada,</p><p></p><p>Entonces el usuario encuentra una opción para dejar una reseña sobre su experiencia con el intercambiador.</p><p></p><p>**Escenario 2:** Visualización de Reseñas</p><p></p><p>Dado que otros usuarios visitan la página de la experiencia de intercambio,</p><p></p><p>Cuando exploran las reseñas dejadas por otros intercambiadores,</p><p></p><p>Entonces pueden leer y considerar las opiniones de otros usuarios antes de realizar un intercambio con ese intercambiador.</p><p></p><p>**Escenario 3:** Respuesta a Reseñas</p><p></p><p>Dado que el usuario intercambiador ha dejado una reseña sobre su experiencia con otro intercambiador,</p><p></p><p>Cuando el intercambiador revisado desea responder a la reseña,</p><p></p><p>Entonces tiene la opción de dejar una respuesta o comentario en la reseña para interactuar con el usuario que dejó la reseña.</p>|**EP02**|
-|**US41**|Eliminación de cuenta|Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación|<p>**Escenario 1:** Acceso a la Opción de Eliminación</p><p></p><p>Dado que el usuario está registrado en la aplicación</p><p></p><p>Cuando desea eliminar permanentemente su cuenta</p><p></p><p>Entonces la aplicación proporciona una opción claramente visible en la configuración de la cuenta para eliminar la cuenta.</p><p></p><p>**Escenario 2:** Confirmación de Eliminación</p><p></p><p>Dado que el usuario selecciona la opción de eliminar su cuenta</p><p></p><p>Cuando confirma su elección</p><p></p><p>Entonces la aplicación muestra un mensaje de confirmación solicitando al usuario que confirme su decisión antes de proceder con la eliminación.</p><p></p><p>**Escenario 3:** Eliminación Exitosa de la Cuenta</p><p></p><p>Dado que el usuario ha confirmado su deseo de eliminar su cuenta</p><p></p><p>Cuando la confirmación es recibida por la aplicación</p><p></p><p>Entonces todos los datos asociados con la cuenta del usuario son eliminados permanentemente de la base de datos y la cuenta se cierra de forma definitiva.</p>|**EP01**|
-|**US42**|Actualización de Correo Electrónico|Como usuario, quiero actualizar mi dirección de correo electrónico en mi perfil para asegurarme de que recibo notificaciones e información relevante|<p>**Escenario 1:** Acceso a la Configuración de Perfil</p><p></p><p>Dado que el usuario está autenticado en la aplicación,</p><p></p><p>Cuando desea actualizar su dirección de correo electrónico,</p><p></p><p>Entonces accede a la sección de configuración de perfil.</p><p></p><p>**Escenario 2:** Edición de la Dirección de Correo Electrónico</p><p></p><p>Dado que el usuario está en la sección de configuración de perfil,</p><p></p><p>Cuando selecciona la opción para editar su dirección de correo electrónico,</p><p></p><p>Entonces la aplicación le permite ingresar la nueva dirección de correo electrónico.</p><p></p><p>**Escenario 3:** Verificación del Nuevo Correo Electrónico</p><p></p><p>Dado que el usuario ha ingresado la nueva dirección de correo electrónico,</p><p></p><p>Cuando confirma la actualización de su dirección de correo electrónico,</p><p></p><p>Entonces la aplicación envía un correo electrónico de verificación a la nueva dirección proporcionada.</p><p></p><p>**Escenario 4:** Confirmación de Verificación</p><p></p><p>Dado que el usuario ha recibido el correo electrónico de verificación,</p><p></p><p>Cuando hace clic en el enlace de verificación dentro del correo electrónico,</p><p></p><p>Entonces la aplicación verifica la nueva dirección de correo electrónico</p><p>Y confirma la actualización en el perfil del usuario.</p>|**EP01**|
-|**US43**|Configuración de notificaciones|Como usuario , quiero tener control sobre las notificaciones que recibo para personalizar mi experiencia en la web.|<p>**Escenario 1:** Configuración de Notificaciones</p><p></p><p>Dado que el usuario ha iniciado sesión en la aplicación,</p><p></p><p>Cuando desea personalizar sus notificaciones desde su perfil,</p><p></p><p>Entonces la aplicación le ofrece una página de configuración de notificaciones donde puede elegir las categorías de notificaciones que desea recibir.</p><p></p><p>**Escenario 2:** Personalización de Notificaciones</p><p></p><p>Dado que el usuario se encuentra en la sección de configuración de notificaciones,</p><p></p><p>Cuando selecciona las categorías específicas de notificaciones que le interesan,</p><p></p><p>Entonces la aplicación ajusta sus notificaciones según las preferencias del usuario, enviando únicamente las alertas seleccionadas.</p><p></p><p>**Escenario 3:** Desactivación de Notificaciones</p><p></p><p>Dado que el usuario desea dejar de recibir ciertas notificaciones,</p><p></p><p>Cuando accede a la configuración de notificaciones,desmarcar las categorías de notificaciones no deseadas,</p><p></p><p>Entonces la aplicación adapta sus alertas según las preferencias del usuario.</p>|**EP01**|
-|**US44**|Crear publicación de intercambio|Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar|<p>**Escenario 1: Creación de una nueva publicación de intercambio**</p><p>Dado que el usuario accede a la opción de crear una nueva publicación de intercambio desde la interfaz de la aplicación,</p><p>Cuando completa el formulario con los detalles del artículo que desea intercambiar, incluyendo título, descripción, categoría, condición del artículo e información relevante,</p><p>Entonces se le permite adjuntar imágenes del artículo.</p><p></p><p>**Escenario 2: Publicación de intercambio creada**</p><p>Dado que el usuario está completando el formulario de creación de la publicación de intercambio,</p><p>Cuando intenta enviar la publicación,</p><p>Entonces el sistema valida los campos del formulario</p><p>Y crea la publicación de intercambio.</p><p></p><p>**Escenario 3: Visualización de publicación de intercambio**</p><p>Dado que la publicación de intercambio ha sido creada,</p><p>Cuando el usuario acceda a su perfil</p><p>Y vaya a la sección de mis publicaciones</p><p>Entonces el sistema le mostrará la publicación del artículo que desea intercambiar.</p>|**EP02**|
-|**US45**|Editar publicación de intercambio|Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.|<p>**Escenario 1: Acceso a la edición de una publicación de intercambio**</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Y tiene una publicación de intercambio existente,</p><p>Cuando el usuario hace click a la opción de editar la publicación desde la interfaz de la aplicación,</p><p>Entonces el sistema redirige a un formulario prellenado con los detalles actuales de la publicación para realizar cambios<br>Y dos botones “Cancelar” y “Publicar”</p><p></p><p>**Escenario 2: Edición de la publicación de intercambio confirmada**</p><p></p><p>Dado que el usuario está en el formulario de edición de la publicación de intercambio,</p><p>Cuando el usuario realiza cambios en los detalles del artículo que desea intercambiar, como título, descripción, categoría, condición del artículo u otra información relevante,</p><p>Y le da al botón de “Publicar</p><p>Entonces el sistema guardará los cambios realizados en la publicación.</p><p>Y la hará visible para todos los usuarios.</p><p></p><p>**Escenario 3: Edición de la publicación de intercambio cancelada**</p><p></p><p>Dado que el usuario está en el formulario de edición de la publicación de intercambio,</p><p>Cuando el usuario realiza cambios en los detalles del artículo que desea intercambiar, como título, descripción, categoría, condición del artículo u otra información relevante,</p><p>Y le da al botón de “Cancelar”</p><p>Entonces el sistema redirige al usuario al inicio de la aplicación.</p><p><br></p>|**EP02**|
-|**US46**|Eliminar publicación de intercambio|Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.|<p>**Escenario 1: Acceso a la eliminación de una publicación de intercambio**</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Y tiene una publicación de intercambio existente,</p><p>Cuando accede a la opción de eliminar la publicación desde la interfaz de la aplicación,</p><p>Entonces el sistema le muestra una confirmación para confirmar si realmente desea eliminar la publicación.</p><p></p><p>**Escenario 2: Confirmación de eliminación**</p><p>Dado que el usuario ha seleccionado eliminar una publicación de intercambio,</p><p>Cuando confirma la acción de eliminación,</p><p>Entonces el sistema elimina la publicación de manera permanente de la plataforma y se muestra un mensaje de confirmación al usuario.</p><p></p><p>**Escenario 3: Cancelación de la eliminación**</p><p>Dado que el usuario ha seleccionado eliminar una publicación de intercambio,</p><p>Cuando decide cancelar la eliminación,</p><p>Entonces la publicación no se elimina</p><p>Y el sistema redirige al usuario al inicio de la aplicación.</p><p></p>|**EP02**|
-|**US47**|Destacar publicación de intercambio|Como usuario, me gustaría poder resaltar una publicación de intercambio para aumentar su visibilidad entre otros usuarios.|<p>**Escenario 1: Acceso a la opción de destacar una publicación de intercambio**</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Y tiene una publicación de intercambio existente,</p><p>Cuando accede a la opción de destacar la publicación desde la interfaz de la aplicación,</p><p>Entonces el sistema le presenta la opción de resaltar la publicación mediante una función identificada como "Destacar" o "Boost",</p><p>Y indica que esta función está disponible para usuarios premium o mediante la compra de un servicio adicional.</p><p></p><p>**Escenario 2: Confirmación de destacar la publicación con membresía premium**</p><p>Dado que el usuario ha seleccionado destacar una publicación de intercambio</p><p>Y tiene una membresía premium activa,</p><p>Cuando confirma la acción de destacar,</p><p>Entonces el sistema resalta la publicación</p><p>Y le da mayor visibilidad dentro de la plataforma.</p><p></p><p>**Escenario 3: Confirmación de destacar la publicación con compra de boost**</p><p>Dado que el usuario ha seleccionado destacar una publicación de intercambio</p><p>Y no tiene membresía premium,</p><p>Cuando decide comprar un boost para destacar la publicación,</p><p>Entonces el sistema resalta la publicación temporalmente</p><p>Y le da mayor visibilidad dentro de la plataforma durante el período de tiempo especificado por el boost adquirido.</p>|**EP02**|
-|**US48**|Ampliar slots de publicación de intercambio|Como usuario, necesito la capacidad de aumentar el número de publicaciones de intercambio que puedo tener activas simultáneamente.|<p>**Escenario 1: Acceso a la opción de ampliar slots de publicación**</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Y desea aumentar el número de publicaciones de intercambio activas,</p><p>Cuando accede a la sección de configuración de la cuenta para ampliar los slots de publicación desde la interfaz de la aplicación,</p><p>Entonces el sistema le presenta la opción de aumentar el número de slots disponibles.</p><p></p><p>**Escenario 2: Confirmación de ampliar slots de publicación**</p><p>Dado que el usuario ha seleccionado la opción de ampliar los slots de publicación,</p><p>Cuando confirma la acción</p><p>Y realiza el pago correspondiente</p><p>Entonces el sistema incrementa el número de slots disponibles del usuario</p><p>Y el usuario puede tener más publicaciones de intercambio activas simultáneamente.</p><p></p><p>**Escenario 3: Visualización de slots de publicación disponibles**</p><p>Dado que el usuario ha ampliado los slots de publicación,</p><p>Cuando accede a la sección de creación de publicaciones de intercambio,</p><p>Entonces puede ver el nuevo número de slots disponibles para realizar más publicaciones simultáneas.</p><p></p><p>**Escenario 4: Cancelación de ampliar slots de publicación**</p><p>Dado que el usuario ha accedido a la opción de ampliar slots de publicación <br>Y decide no continuar con la acción,</p><p>Cuando cancela la operación,</p><p>Entonces el número de slots de publicación permanece sin cambios <br>Y se mantiene igual al estado anterior.</p>|**EP02**|
-|**US49**|Visualizar el perfil del usuario que publique un intercambio|Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.|<p>**Escenario 1:** **Acceso al perfil del creador de la publicación.**</p><p>Dado que el usuario se encuentra en la publicación de su interés</p><p>Cuando le de click al recuadro que muestran el perfil del autor de la publicación</p><p>Entonces, el usuario podrá visualizar su nombre completo, tiempo que lleva en la aplicación, la cantidad de intercambios exitosos realizado</p><p>Y valoraciones de otros usuarios</p><p></p><p>**Escenario 2: Visualizar reseñas de otros usuarios hacia un perfil en específico.**</p><p>Dado que el usuario se encuentra en el perfil del autor del intercambio</p><p>Cuando Se dirija a la sección llamada “Reseñas” es cuando</p><p>Entonces el usuario podrá visualizar todas las reseñas que dicho autor ha recibido por todas sus publicaciones exitosas</p><p>Y datos relevantes sobre el creador de la publicación.</p><p></p><p>**Escenario 3: Visualizar el tipo de productos que suele intercambiar el usuario.**</p><p>Dado que el usuario está en el perfil del intercambiador</p><p>Cuando se dirija a la sección “Preferencias” es</p><p>Entonces, donde podrá visualizar la variedad de productos que suele intercambiar el usuario, así cómo también si hace match con las preferencias del usuario interesado.</p>|**EP02**|
-|**US50**|Ponerse en contacto para pactar el intercambio|Como usuario, quiero tener la posibilidad de contactar directamente con el creador de una publicación de intercambio, para poder tener una comunicación más directa.|<p>**Escenario 1: Contactar con el vendedor por un chat de WhatsApp o Telegram.**</p><p>Dado que el usuario se encuentra en la publicación de su interés</p><p>Cuando le de click al botón de WhatsApp o Telegram que aparecerá en la parte lateral de la publicación</p><p>Entonces, se le redireccionará a una pestaña de WhatsApp y/o Telegram con un mensaje predeterminado para enviar</p><p>Y ponerse en contacto de manera directa con el intercambiador.</p><p></p><p>**Escenario 2: Verificar la información del vendedor en caso de no contar con un número de contacto registrado.**</p><p>Dado que el usuario se encuentra en la publicación de su interés</p><p>Y no logré encontrar algún botón para ser redireccionado a un chat privado con el intercambiador</p><p>Entonces, podrá verificar su información personal en los detalles de la publicación</p><p>Y así poder saber su correo electrónico y/o redes sociales.</p><p></p><p>**Escenario 3: Escribir un comentario en la publicación para poder obtener información adicional pertinente.**</p><p>Dado que el usuario se encuentra en la publicación de su interés</p><p>Y no logre poder contactar por ningún medio al autor de la publicación</p><p>Entonces, podrá dirigirse a la sección de comentarios, para poder escribir directamente de la página al usuario sobre ciertos detalles o métodos de contacto.</p>|**EP02**|
-|**US51**|Adquirir la suscripción premium|Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.|<p>**Escenario 1: Localizar la sección para adquirir una suscripción.**</p><p>Dado que el usuario desea adquirir una suscripción para CambiaZo</p><p>Cuando le de click a la sección de configuración</p><p>Entonces, le aparecerán varias opciones, entre las que figura “Ser premium”</p><p>Cuando el usuario le de click al botón,</p><p>será redirigido a una nueva ventana que le mostrará las suscripciones disponibles.</p><p></p><p>**Escenario 2: Visualizar los beneficios de la suscripción.**</p><p>Dado que el usuario se encuentra en la ventana correspondiente sobre las suscripciones,</p><p>Entonces cuando le de click a una en específico podrá ver el precio por mes de cada una de ellas</p><p>Y los beneficios que incluyen cada una de estas.</p><p></p><p>**Escenario 3: Compra de la suscripción.**</p><p>Dado que el usuario ha decidido una suscripción de su interés,</p><p>Entonces, cuando le de click a “Suscribirse”, se le redireccionará a una pasarela de pago para que pueda introducir su método de pago</p><p>Y procesar el pago respectivo y adquirir los nuevos beneficios.</p>|**EP04**|
-|**US52**|Cancelar una suscripción|<p>Como usuario quiero poder cancelar mi suscripción en cualquier momento para poder enfocarme más en las clases de la universidad</p><p></p>|<p>**Escenario 1: Acceso a la ventana de suscripciones.**</p><p>Dado que el usuario desea verificar la información del estado de su suscripción,</p><p>Cuando se dirija a la sección de configuración</p><p>Entonces, observará un botón que diga “Mi suscripción”</p><p>Y al darle click podrá ver los detalles de su suscripción.</p><p></p><p>**Escenario 2: Verificación de los detalles de la suscripción.**</p><p>Dado que el usuario se encuentra en la ventana que muestra el estado de su suscripción</p><p>Entonces, podrá visualizar la fecha en la que se renueva su suscripción, los beneficios que obtiene</p><p>Y si es que se encuentra en un plan mensual o semianual.</p><p></p><p>**Escenario 3: Proceder a la cancelación.**</p><p>Dado que el usuario se encuentra en la ventana que muestra el estado de la suscripción</p><p>Entonces, al tener ya la decisión de no continuar con el premium de CambiaZo</p><p>Y podrá darle click a un botón rojo que dice “Anular suscripción”</p><p>Y así terminaría la suscripción que no se renovará hasta su próxima fecha.</p>|**EP04**|
-|**US53**|Recepción de PIN para apertura de locker |Como usuario móvil quiero recibir un PIN en la app para abrir el locker de manera segura.|**Escenario 1: PIN mostrado justo al confirmar locker**<br><br>**Dado que** el usuario ha confirmado el locker desde la app<br><br>**Cuando** finaliza la asignación<br><br>**Entonces** se muestra automáticamente un PIN temporal en la pantalla, visible solo por tiempo limitado.<br><br>**Escenario 2: Reconsulta de PIN en sección de intercambio**<br><br>**Dado que** el usuario no anotó el PIN<br><br>**Cuando** ingresa nuevamente a la app en “Mis intercambios”<br><br>**Entonces** puede ver el PIN tras pasar una verificación biométrica o de PIN de la app.<br><br>**Escenario 3: Solicitud de regeneración de PIN**<br><br>**Dado que** el PIN expiró o fue perdido<br><br>**Cuando** solicita un nuevo PIN presionando “Generar nuevo PIN”<br><br>**Entonces** el sistema bloquea el PIN anterior y genera uno nuevo inmediatamente visible en la app.|**EP03**|
-|**US54**|Acceder al centro de soporte para resolver cualquier problema técnico que se presente.|**Como** usuario de CambiaZo, **quiero** tener la opción de acceder a un centro de soporte **para** reportar y resolver mis problemas técnicos.|<p>**Escenario 1:** Acceso a configuración</p><p>**Dado que** soy un usuario en el aplicativo móvil</p><p>**Cuando** le de click a la sección de configuración</p><p>**Entonces** se mostrará el apartado con los botones de configuración.</p><p></p><p>**Escenario 2:** Ingresar al **“**Centro de ayuda”</p><p>**Dado que** me encuentro en la sección de configuración</p><p>**Cuando** esté en la nueva ventana, podré escoger la opción que desee: “Problemas técnicos” o “Chatear con soporte”</p><p>**Entonces** podré** escoger la opción que desee</p><p></p><p>**Escenario 3:** Problemas técnicos</p><p>**Dado que** me encuentro en la sección de “Centro de Ayuda”</p><p>**Cuando** de click en “Problemas técnicos”</p><p>**Entonces** se mostrará una lista con los problemas técnicos más frecuentes con sus soluciones**.**</p><p></p><p>**Escenario 4:** Chatear con soporte</p><p>**Dado que** me encuentro en la sección de Centro de Ayuda</p><p>**Cuando** de click en “Chatear con soporte”</p><p>**Entonces** se mostrará un formulario en el cual podemos enviar nuestro problema para chatear con soporte</p>|**EP05**|
-|**US55**|Acceder dentro de la aplicación a la sección de preguntas frecuentes y comentarios|**Como** usuario de Cambiazo, **quiero** ver las preguntas frecuentes que tienen los demás usuarios y su opinión al usar la aplicación **para** poder ver si tienen mis mismas dudas y ver qué opinan de la aplicación.|<p>**Escenario 1:** Acceso a configuración</p><p>**Dado que** me encuentro en la pantalla principal de la aplicación</p><p>**Cuando** le de click a la sección de configuración</p><p>**Entonces** se mostrará el apartado con los botones de configuración.</p><p></p><p>**Escenario 2:** Preguntas frecuentes</p><p>**Dado que** me encuentro en la sección de configuración de la aplicación</p><p>**Cuando** de click en la sección de “Preguntas frecuentes”</p><p>**Entonces** se mostrará un apartado con las preguntas más frecuentes realizadas por los usuarios de la aplicación y sus respectivas respuestas.</p><p></p><p>**Escenario 2:** Comentarios de CambiaZo</p><p>**Dado que** me encuentro en la sección de configuración de la aplicación</p><p>**Cuando** de click en la sección de “Comentarios de CambiaZo”</p><p>**Entonces** se mostrará un apartado con los comentarios realizados por los usuarios de la aplicación, enseñando los comentarios más recientes.</p>|**EP05**|
-|**US56**|Confirmación de objeto depositado en locker |Como usuario móvil quiero recibir una foto del objeto que dejé en el locker para asegurar que se almacenó correctamente.|**Escenario 1: Recepción de foto al cerrar locker**<br><br>**Dado que** el usuario ha cerrado el locker luego de depositar su objeto<br><br>**Cuando** la app detecta el cierre exitoso<br><br>**Entonces** recibe una notificación automática con la foto del interior del locker.<br><br>**Escenario 2: Visualización de imagen desde notificación**<br><br>**Dado que** el usuario recibe la notificación<br><br>**Cuando** toca la notificación<br><br>**Entonces** la app lo redirige directamente a la sección donde puede visualizar la foto de su objeto depositado.<br><br>**Escenario 3: Acceso manual a la foto desde historial**<br><br>**Dado que** el usuario quiere revisar la foto después<br><br>**Cuando** ingresa a “Historial de intercambios” y selecciona el intercambio<br><br>**Entonces** puede visualizar la fotografía almacenada en el registro del intercambio.|**EP03**|
-|**US57**|Validación final y desbloqueo del locker |Como usuario móvil quiero validar el objeto depositado antes de poder desbloquear el locker para asegurarme que el intercambio está correcto.|**Escenario 1: Confirmación rápida desde notificación**<br><br>**Dado que** el usuario recibe una notificación de depósito<br><br>**Cuando** abre la notificación<br><br>**Entonces** la app le muestra directamente la foto para validar y un botón para confirmar si está correcto.<br><br>**Escenario 2: Reporte de problema inmediato en app**<br><br>**Dado que** el objeto no coincide<br><br>**Cuando** presiona el botón “Reportar problema” en la misma pantalla<br><br>**Entonces** la app bloquea el locker temporalmente y notifica al soporte.<br><br>**Escenario 3: Generación automática de PIN de retiro tras validación**<br><br>**Dado que** el usuario confirmó que el objeto es correcto<br><br>**Cuando** presiona “Confirmar objeto”<br><br>**Entonces** el sistema genera el PIN de desbloqueo y lo muestra en la app listo para ser usado.|**EP03**|
-
+|**US23**|Gestionar mis favoritos en la aplicación|Como usuario de la aplicación, quiero poder acceder a los objetos que he guardado como favoritos, para poder visualizarlos y eliminar los que ya no me interesen.|**Escenario 1: Ver objetos guardados como favoritos**<br>**Dado que** estoy en mi perfil, **Cuando** selecciono la opción "Favoritos", <br>**Entonces** se me mostrará una lista de los objetos que he guardado como favoritos, incluyendo la imagen del objeto, el nombre del objeto, la descripción breve del objeto y el valor aproximado del objeto.<br>**Escenario 2: Eliminar un objeto de mis favoritos**<br>**Dado que** estoy visualizando la lista de favoritos, <br>**Cuando** selecciono el botón de favoritos (ícono de corazón) de un objeto para eliminarlo, <br>**Entonces** se mostrará un popup de confirmación con el mensaje: "¿Estás seguro de que deseas eliminar este objeto de tus favoritos?" Y podré seleccionar entre eliminar, que eliminará el objeto de mi lista de favoritos, o cancelar, que cerrará el popup sin realizar ninguna acción. <br>**Y** si selecciono "Eliminar", el objeto desaparecerá de la lista de favoritos después de la confirmación.|**EP01**|
+|**US24**|Ver reseñas recibidas|Como usuario de la aplicación, quiero poder ver las reseñas y calificaciones que he recibido, para tener una referencia de mi reputación en la plataforma.|**Escenario 1: Ver la calificación general y reseñas recibidas**<br>**Dado que** estoy en mi perfil,<br>**Cuando** selecciono la opción "Mis Reseñas", <br>**Entonces** se me mostrará mi calificación general (promedio de estrellas), el número total de reseñas recibidas y una lista de las reseñas, mostrando el nombre del usuario que dejó la reseña, su calificación (número de estrellas) y el comentario de la reseña.|**EP01**|
+|**US25**|Confirmación de objeto depositado en locker|Como usuario web quiero visualizar la imagen del objeto depositado para verificar que esté correctamente colocado.|**Escenario 1: Captura automática del objeto tras cierre**<br><br>**Dado que** el usuario ha cerrado el locker después de depositar su objeto<br><br>**Cuando** el sistema detecta el cierre exitoso<br><br>**Entonces** automáticamente captura una fotografía del interior del locker y la adjunta al registro del intercambio en la web.<br><br>**Escenario 2: Notificación de imagen disponible por correo electrónico**<br><br>**Dado que** la fotografía ha sido tomada y procesada<br><br>**Cuando** el sistema completa el procesamiento<br><br>**Entonces** envía un correo electrónico al usuario notificándole que puede revisar la imagen en la sección “Mis intercambios”.<br><br>**Escenario 3: Visualización manual de la imagen**<br><br>**Dado que** el usuario quiere comprobar el estado de su depósito<br><br>**Cuando** accede a la página del intercambio y selecciona “Ver imagen del objeto”<br><br>**Entonces** puede visualizar la foto como evidencia de la entrega en la plataforma.|**EP03**|
+|**US26**|Validación final y desbloqueo del locker |Como usuario web quiero validar el objeto depositado antes de generar el PIN final para su retiro y asegurar mi intercambio.|**Escenario 1: Confirmación manual del objeto**<br><br>**Dado que** el usuario ha recibido la fotografía del objeto depositado<br><br>**Cuando** confirma manualmente que el objeto corresponde al acordado<br><br>**Entonces** el sistema genera y despliega el PIN de retiro en la plataforma para que proceda a recogerlo.<br><br>**Escenario 2: Reporte de objeto incorrecto desde la plataforma**<br><br>**Dado que** el objeto capturado en la fotografía no coincide con el acordado<br><br>**Cuando** el usuario presiona la opción “Reportar problema”<br><br>**Entonces** el sistema bloquea el locker y alerta al equipo de soporte para iniciar el protocolo de resolución.<br><br>**Escenario 3: Recordatorio de validación por correo**<br><br>**Dado que** el usuario no ha realizado la validación después de un tiempo razonable<br><br>**Cuando** el sistema detecta la inactividad<br><br>**Entonces** envía un recordatorio vía correo electrónico solicitando que confirme o reporte el estado del objeto antes de una expiración automática.|**EP03**|
+|**US27**|Visualización de la Historia de la Startup|Como usuario visitante**,** quiero acceder a la sección “¿Quiénes somos?” de la landing page, para conocer la historia de CambiaZo y al equipo que lo hace posible.|<p><h4>**Escenario 1: Visualizar la historia de la startup**</h4></p><p>**Dado que** me encuentro en la landing page de CambiaZo,<br>**Cuando** accedo a la sección “¿Quiénes somos?”,<br>**Entonces** veré una breve presentación sobre la startup, que explica su propósito de promover el intercambio y la donación de objetos para fomentar un estilo de vida sostenible, junto a un video introductorio que refuerza esta visión.</p><p><h4>**Escenario 2: Conocer al equipo de CambiaZo**</h4></p><p>**Dado que** me encuentro en la sección “¿Quiénes somos?” de la landing page,<br>**Cuando** deslizo el carrusel o slider que aparece a continuación del video,<br>**Entonces** podré visualizar las fotos de los integrantes del equipo, junto con sus nombres y los roles o puestos que ocupan dentro del proyecto.</p>|**EP04**|
+|**US28**|Visualizar las características clave de la aplicación|Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.|<p><h4>**Escenario 1: Acceso a la sección de características**</h4></p><p>**Dado** que el usuario es un visitante en la página principal,<br>**Cuando** hace clic en el botón o enlace de "Características",<br>**Entonces** es redirigido a la sección "Descubre las ventajas de ser parte de nuestra comunidad".</p><p><h4>**Escenario 2: Visualización de beneficios principales**</h4></p><p>**Dado** que el usuario está en la sección de características,<br>**Cuando** visualiza el contenido inicial,<br>**Entonces** se le muestran dos opciones destacadas de Intercambios y Donaciones</p><p><h4>**Escenario 3: Exploración visual de productos intercambiables**</h4></p><p>**Dado** que el usuario ha explorado los beneficios iniciales,<br>**Cuando** hace scroll hacia abajo,<br>**Entonces** ve un carrusel o cuadrícula de imágenes con ejemplos de productos que puede intercambiar.</p><p>**Escenario 4: Conocimiento de valores diferenciales y características específicas**<br>**Dado** que el usuario continúa navegando la sección de características,<br>**Cuando** llega al bloque "Intercambios Sostenibles, Simplificados",<br>**Entonces** visualiza un mensaje que promueve la sostenibilidad mediante el intercambio, la donación y la conexión comunitaria,<br>**Y** también identifica las siguientes características: seguridad, artículos, comunidad, sostenible.</p><p><h4>**Escenario 5: Reconocimiento de alianzas solidarias**</h4></p><p>**Dado** que el usuario ha leído las características,<br>**Cuando** llega al bloque final de la sección,<br>**Entonces** puede visualizar logotipos o imágenes de las ONGs afiliadas que trabajan junto a la app, entendiendo su compromiso social.</p>|**EP04**|
+|**US29**|Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.|Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.|**Escenario 1: Acceso al formulario de suscripción**<br>**Dado** que el usuario visitante hace clic en la opción "Contáctanos",<br>**Cuando** es redirigido a la sección "¡Únete a CambiaZo!" en la landing page,<br>**Entonces** puede visualizar un formulario con los campos requeridos para ingresar su nombre, apellido y correo electrónico, y un botón para suscribirse|**EP04**|
+|**US30**|Descargar la aplicación de CambiaZo|Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar o donar artículos directamente desde mi dispositivo web.|<p>**Escenario 1: Identificación de botones de acción en la landing page**<br>**Dado** que el usuario está navegando por la landing page de CambiaZo,<br>**Cuando** busca una forma de acceder a la aplicación,<br>**Entonces** encuentra dos botones claramente visibles: uno que dice “Iniciar ahora” y lo lleva a la aplicación web, y otro que dice “Descargar” y lo dirige a la Play Store para obtener la app móvil.</p><p>**Escenario 2: Acceso fluido a la plataforma desde los botones**<br>**Dado** que el usuario hace clic en uno de los botones disponibles,<br>**Cuando** selecciona “Iniciar ahora” o “Descargar”,<br>**Entonces** es redirigido correctamente a la versión web de CambiaZo o a la Play Store, permitiéndole comenzar a registrarse, intercambiar o donar artículos sin inconvenientes.</p><p></p>|**EP04**|
+|**US31**|Ver los planes y precios|Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de descargar la aplicación.|<p>**Escenario 1: Visualización de planes y precios disponibles<br>Dado** que el usuario está en la landing page de CambiaZo,<br>**Cuando** hace clic en la sección de "Planes",<br>**Entonces** ve los diferentes planes con sus beneficios y precios</p><p>**Escenario 2: Acción de suscripción a planes**<br>**Dado** que el usuario está en la landing page de CambiaZo y ha visto los planes,<br>**Cuando** hace clic en el botón **“¡Empieza ahora!”** para cualquiera de los planes,<br>**Entonces** se le redirige a la aplicación web para completar el proceso de suscripción.</p><p></p>|**EP04**|
+|**US32**|Navegación en la Landing Page|Como usuario visitante, quiero contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.|<p>**Escenario 1: Acceder a la información acerca de la startup**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera acceder a la información acerca del equipo,<br>**Entonces** podrá darle clic a la etiqueta “**Nosotros**” de la barra de navegación,<br>**Y** lo redirigirá rápidamente a la parte de la Landing Page donde se encuentra la información correspondiente.</p><p>**Escenario 2: Ver las características de la aplicación**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera conocer las características clave de CambiaZo,<br>**Entonces** podrá darle clic a la etiqueta “**Características**” de la barra de navegación,<br>**Y** lo redirigirá rápidamente a la parte de la Landing Page donde se encuentran las funcionalidades destacadas de la aplicación.</p><p>**Escenario 3: Ver los planes y precios**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera ver los planes y precios de CambiaZo,<br>**Entonces** podrá darle clic a la etiqueta “**Planes**” de la barra de navegación,<br>**Y** lo redirigirá a la sección que describe los diferentes planes y beneficios disponibles.</p><p>**Escenario 4: Acceder a la sección de contacto**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera acceder a la sección para contactarse con la startup,<br>**Entonces** podrá darle clic a la etiqueta “**Contáctanos**” de la barra de navegación,<br>**Y** lo redirigirá rápidamente a la parte de la Landing Page donde se encuentra el formulario para recibir notificaciones de CambiaZo y el pie de página con los datos de contacto.</p><p>**Escenario 5: Descargar o iniciar la aplicación**<br>**Dado** que el usuario se encuentra en la Landing Page,<br>**Cuando** quiera descargar la aplicación de CambiaZo o acceder a la versión web,<br>**Entonces** podrá hacer clic en los botones claramente visibles de la barra de navegación de “**Iniciar ahora**” para acceder a la aplicación web o “**Descargar**” para ser redirigido a la Play Store y descargar la aplicación móvil.</p>|**EP04**|
 
 
 <br><br>
@@ -1507,9 +1524,10 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 |**Technical story ID**|**Título**|**Descripción**|**Criterios de Aceptación**|**Relación (EPIC ID)**|
 | :- | :- | :- | :- | :- |
 |**TS01**|API User|Como usuario desarrollador que configura la plataforma quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.|**Escenario 1: Diseño de la API User**<br><br>**Dado que** el usuario developer configura la plataforma<br><br>**Cuando** diseñe la API para gestionar usuarios en nuestra aplicación movil,<br><br>**Entonces** definirá los endpoints y rutas necesarias para manejar operaciones como registro de usuarios, inicio de sesión, actualización de datos de usuario, y recuperación de contraseñas y establecerá los requisitos de autenticación y seguridad necesarios para proteger la información de los usuarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API para gestionar usuarios en nuestra aplicación movil,<br><br>**Cuando** elija la tecnología para implementar la API REST,<br><br>**Entonces** considerará los requisitos de la aplicación y las preferencias del equipo de desarrollo para tomar una decisión informada.<br><br>**Escenario 3: Obtener información del usuario**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del usuario,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos del usuario solicitado.<br><br>**Escenario 4: Obtener usuario no disponible**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de usuario que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe un usuario con este identificador".<br><br>**Escenario 5: Registro de un nuevo usuario**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del usuario,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye un usuario con un nuevo ID y los detalles registrados.<br><br>**Escenario 6: Registro de un usuario ya existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos del usuario,<br><br>**Y** ya existe un usuario registrado con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "Un usuario con estos datos ya existe".<br><br>**Escenario 7: Actualizar un usuario existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud PUT con el id de un usuario,<br><br>**Y** ya existe un usuario registrado con ese id,<br><br>**Entonces** se recibe una respuesta con estado 202,<br><br>**Y** se muestra un mensaje que indica "Los datos del usuario han sido actualizados satisfactoriamente".<br><br>**Escenario 8: Actualizar un usuario no existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud PUT con el id de un usuario,<br><br>**Y** no existe un usuario registrado con ese id,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "No existe ese usuario".<br><br>**Escenario 9: Eliminar un usuario existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con el id de un usuario,<br><br>**Y** ya existe un usuario registrado con ese id,<br><br>**Entonces** se recibe una respuesta con estado 202,<br><br>**Y** se muestra un mensaje que indica "Se borró al usuario satisfactoriamente".<br><br>**Escenario 10: Eliminar un usuario no existente**<br><br>**Dado que** el endpoint "/usuarios" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con el id de un usuario,<br><br>**Y** no existe un usuario registrado con ese id,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "No existe ese usuario".|**EP05**|
-|**TS02**|API Review|Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar reseñas a otros usuarios para mejorar la interacción entre usuarios y la plataforma.|**Escenario 1: Diseño de la API Review**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API para permitir a los usuarios dejar reseñas en nuestra aplicación,<br><br>**Entonces** se definen los endpoints y rutas necesarias para que los usuarios puedan crear, leer, actualizar y eliminar reseñas y establecen los requisitos de autenticación y seguridad para proteger la privacidad.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API de reseñas en nuestra aplicación,<br><br>**Cuando** elige la tecnología para implementar la API REST,<br><br>**Entonces** se consideran los requisitos de la aplicación, incluyendo la escalabilidad, el rendimiento y la facilidad de mantenimiento.<br><br>**Escenario 3: Obtener información de la reseña**<br><br>**Dado que** el endpoint "/reseñas" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador de la reseña,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos de la reseña solicitada.<br><br>**Escenario 4: Obtener reseña no disponible**<br><br>**Dado que** el endpoint "/reseñas" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de reseña que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe una reseña con este identificador".<br><br>**Escenario 5: Agregar una nueva reseña**<br><br>**Dado que** el endpoint "/reseñas" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores de la reseña,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye una reseña con un nuevo ID y los valores registrados.<br><br>**Escenario 6: Agregar una reseña ya existente**<br><br>**Dado que** el endpoint "/reseñas" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos de la reseña,<br><br>**Y** ya existe una reseña registrada con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Una reseña con estos datos ya existe".|**EP05**|
-|**TS03**|API Memberships|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.|**Escenario 1: Diseño de la API de Membresías**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Membresías para gestionar las membresías de los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarias para manejar las operaciones de membresías de usuarios y establece los requisitos de autenticación y seguridad necesarios para proteger la información de los usuarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API de Membresías en nuestra aplicación,<br><br>**Cuando** elige la tecnología para implementar la API REST,<br><br>**Entonces** considera los requisitos de la aplicación y las preferencias del equipo de desarrollo para tomar una decisión informada.<br><br>**Escenario 3: Obtener información de membresía del usuario**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador de la membresía,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos de la membresía solicitada.<br><br>**Escenario 4: Obtener membresía no disponible**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de membresía que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe una membresía con este identificador".<br><br>**Escenario 5: Agregar una nueva membresía**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores de la membresía,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye una membresía con un nuevo ID y los valores registrados.<br><br>**Escenario 6: Agregar una membresía ya existente**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos de la membresía,<br><br>**Y** ya existe una membresía registrada con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Una membresía con estos datos ya existe".|**EP05**|
-|**TS04**|API Object|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.|**Escenario 1: Diseño de la API de Objetos**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Objetos para gestionar los objetos que suben los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarios para permitir a los usuarios subir sus objetos que ya no usan, cancelar la subida y obtener información sobre sus objetos, y establece los requisitos de requerimiento y tipo de archivo.<br><br>**Escenario 2: Obtener información de un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del objeto,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los detalles del objeto solicitado.<br><br>**Escenario 3: Objeto no encontrado**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de un objeto que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No se encontró el objeto solicitado".<br><br>**Escenario 4: Creación de un nuevo objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se registra el objeto con un nuevo ID y los detalles registrados.<br><br>**Escenario 5: Crear un objeto ya existente**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se intenta crear un nuevo objeto para un usuario que ya registró este objeto,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "El usuario ya registró este objeto".<br><br>**Escenario 6: Eliminar un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se elimina el objeto con su ID y los detalles registrados.<br><br>**Escenario 7: Editar un objeto**<br><br>**Dado que** el endpoint "/objects" está disponible,<br><br>**Cuando** se envía una solicitud PUT con los detalles del objeto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se editarán los detalles previamente registrados del objeto.|**EP05**|
+|**TS02**|API Exchange|Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar intercambios a otros usuarios para mejorar la interacción entre usuarios y la plataforma.|**Escenario 1: Diseño de la API Exchange**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API para permitir a los usuarios dejar intercambios en nuestra aplicación,<br><br>**Entonces** se definen los endpoints y rutas necesarias para que los usuarios puedan crear, leer, actualizar y eliminar intercambios y establecen los requisitos de autenticación y seguridad para proteger la privacidad.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API de intercambios en nuestra aplicación,<br><br>**Cuando** elige la tecnología para implementar la API REST,<br><br>**Entonces** se consideran los requisitos de la aplicación, incluyendo la escalabilidad, el rendimiento y la facilidad de mantenimiento.<br><br>**Escenario 3: Obtener información del intercambio**<br><br>**Dado que** el endpoint "/exchanges" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del intercambio,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos del intercambio solicitado.<br><br>**Escenario 4: Obtener intercambio no disponible**<br><br>**Dado que** el endpoint "/exchanges" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de intercambio que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe un intercambio con este identificador".<br><br>**Escenario 5: Agregar un nuevo intercambio**<br><br>**Dado que** el endpoint "/exchanges" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores del intercambio,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye un intercambio con un nuevo ID y los valores registrados.<br><br>**Escenario 6: Agregar un intercambio ya existente**<br><br>**Dado que** el endpoint "/exchanges" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos del intercambio,<br><br>**Y** ya existe un intercambio registrado con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Un intercambio con estos datos ya existe".|**EP05**|
+|**TS03**|API Lockers|Como usuario developer que configura la plataforma quiero diseñar una API que simplifique la obtención de información sobre los lockers para integrarla de manera efectiva en la aplicación.|**Escenario 1: Diseño de la API Lockers**<br><br>**Dado que** el usuario developer configura la plataforma,<br><br>**Cuando** diseñe la API para obtener información sobre los lockers,<br><br>**Entonces** define los endpoints y rutas necesarias para recibir detalles sobre los lockers y establece los requisitos de autenticación y seguridad necesarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API para obtener información sobre los lockers,<br><br>**Cuando** elija la tecnología para implementar la API REST,<br><br>**Entonces** considerará los requisitos y preferencias de la organización para tomar una decisión informada.<br><br>**Escenario 3: Obtener información del locker**<br><br>**Dado que** el endpoint "/lockers" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del locker,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos del locker solicitado.<br><br>**Escenario 4: Obtener locker no disponible**<br><br>**Dado que** el endpoint "/lockers" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de locker que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe un locker con este identificador".<br><br>**Escenario 5: Agregar un nuevo locker**<br><br>**Dado que** el endpoint "/lockers" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores del locker,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye un locker con un nuevo ID y sus valores registrados.<br><br>**Escenario 6: Agregar un locker ya existente**<br><br>**Dado que** el endpoint "/lockers" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos del locker,<br><br>**Y** ya existe un locker registrado con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Un locker con estos datos ya existe".|**EP05**|
+|**TS04**|API Memberships|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.|**Escenario 1: Diseño de la API de Membresías**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Membresías para gestionar las membresías de los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarias para manejar las operaciones de membresías de usuarios y establece los requisitos de autenticación y seguridad necesarios para proteger la información de los usuarios.<br><br>**Escenario 2: Selección de la tecnología para la API**<br><br>**Dado que** el usuario developer está diseñando la API de Membresías en nuestra aplicación,<br><br>**Cuando** elige la tecnología para implementar la API REST,<br><br>**Entonces** considera los requisitos de la aplicación y las preferencias del equipo de desarrollo para tomar una decisión informada.<br><br>**Escenario 3: Obtener información de membresía del usuario**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador de la membresía,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los datos de la membresía solicitada.<br><br>**Escenario 4: Obtener membresía no disponible**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de membresía que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No existe una membresía con este identificador".<br><br>**Escenario 5: Agregar una nueva membresía**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud POST con los valores de la membresía,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se incluye una membresía con un nuevo ID y los valores registrados.<br><br>**Escenario 6: Agregar una membresía ya existente**<br><br>**Dado que** el endpoint "/membresías" está disponible,<br><br>**Cuando** se envía una solicitud POST con los datos de la membresía,<br><br>**Y** ya existe una membresía registrada con esos datos,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que dice "Una membresía con estos datos ya existe".|**EP05**|
+|**TS05**|API Product|Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de productos para que los usuarios puedan subir sus productos que ya no utilizan.|**Escenario 1: Diseño de la API de Productos**<br><br>**Dado que** el usuario developer está configurando la plataforma,<br><br>**Cuando** diseña la API de Productos para gestionar los productos que suben los usuarios,<br><br>**Entonces** define los endpoints y rutas necesarios para permitir a los usuarios subir sus productos que ya no usan, cancelar la subida y obtener información sobre sus productos, y establece los requisitos de requerimiento y tipo de archivo.<br><br>**Escenario 2: Obtener información de un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud GET con el identificador del producto,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se obtienen los detalles del producto solicitado.<br><br>**Escenario 3: Producto no encontrado**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud GET con un identificador de un producto que no existe,<br><br>**Entonces** se recibe una respuesta con estado 404,<br><br>**Y** se muestra un mensaje que indica "No se encontró el producto solicitado".<br><br>**Escenario 4: Creación de un nuevo producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud POST con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 201,<br><br>**Y** se registra el producto con un nuevo ID y los detalles registrados.<br><br>**Escenario 5: Crear un producto ya existente**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se intenta crear un nuevo producto para un usuario que ya registró este producto,<br><br>**Entonces** se recibe una respuesta con estado 400,<br><br>**Y** se muestra un mensaje que indica "El usuario ya registró este producto".<br><br>**Escenario 6: Eliminar un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud DELETE con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se elimina el producto con su ID y los detalles registrados.<br><br>**Escenario 7: Editar un producto**<br><br>**Dado que** el endpoint "/products" está disponible,<br><br>**Cuando** se envía una solicitud PUT con los detalles del producto y el usuario asociado,<br><br>**Entonces** se recibe una respuesta con estado 200,<br><br>**Y** se editarán los detalles previamente registrados del producto.|**EP05**|
 
 ## 3.3. Impact Mapping
 En esta sección, presentaremos el Impact Mapping, una herramienta esencial para alinear nuestras iniciativas con los objetivos estratégicos del proyecto. El Impact Mapping nos permitirá identificar y conectar los impactos esperados de nuestras soluciones con los resultados deseados, asegurando que cada acción y decisión contribuyan a alcanzar los objetivos clave y maximizar el valor para nuestros usuarios.
@@ -1524,7 +1542,7 @@ En esta sección, presentaremos el Impact Mapping, una herramienta esencial para
 
 ## 3.3. Product Backlog
 En el Product Backlog presentamos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el *enfoque ágil*. Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de Fibonacci (1,2,3,5,8).  
-Tomamos como historia de usuario base la historia de usuario **US12 / US42**: *Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar*.
+Tomamos como historia de usuario base la historia de usuario **US12**: *Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar*.
 
 <table>
   <tr>
@@ -1539,19 +1557,18 @@ Tomamos como historia de usuario base la historia de usuario **US12 / US42**: *C
   <!-- EPIC ID: EP01 -->
   <tr>
     <td>1</td>
-    <td><strong>US20 / US51</strong></td>
+    <td><strong>US20</strong></td>
     <td>Adquirir la suscripción premium</td>
     <td>Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.</td>
     <td>8</td>
-    <td rowspan="12"><strong>EP01</strong></td>
+    <td rowspan="10"><strong>EP01</strong></td>
   </tr>
   <tr>
     <td>2</td>
-    <td><strong>US09 / US41</strong></td>
+    <td><strong>US09</strong></td>
     <td>Eliminación de cuenta</td>
     <td>Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta para evitar que mi información persista en caso de que ya no desee utilizar la aplicación.</td>
     <td>3</td>
-    
   </tr>
   <tr>
     <td>3</td>
@@ -1569,74 +1586,59 @@ Tomamos como historia de usuario base la historia de usuario **US12 / US42**: *C
   </tr>
   <tr>
     <td>5</td>
-    <td><strong>US01 / US33</strong></td>
+    <td><strong>US01</strong></td>
     <td>Registro de usuario</td>
     <td>Como nuevo usuario quiero completar el proceso de registro en la aplicación para establecer mi propia cuenta.</td>
     <td>3</td>
   </tr>
   <tr>
     <td>6</td>
-    <td><strong>US21 / US52</strong></td>
+    <td><strong>US21</strong></td>
     <td>Cancelar una suscripción</td>
     <td>Como usuario quiero poder cancelar mi suscripción en cualquier momento para no pagar mensualmente</td>
     <td>3</td>
   </tr>
   <tr>
     <td>7</td>
-    <td><strong>US02 / US34</strong></td>
+    <td><strong>US02</strong></td>
     <td>Editar perfil del usuario</td>
     <td>Como usuario ya registrado quiero realizar modificaciones en mi perfil para asegurarme de que mi información esté siempre actualizada.</td>
     <td>2</td>
   </tr>
   <tr>
     <td>8</td>
-    <td><strong>US04 / US36</strong></td>
+    <td><strong>US04</strong></td>
     <td>Cambiar Contraseña</td>
     <td>Como usuario registrado, quiero realizar cambios en la contraseña de mi cuenta para reforzar la seguridad de mi cuenta.</td>
     <td>2</td>
   </tr>
   <tr>
     <td>9</td>
-    <td><strong>US03 / US35</strong></td>
+    <td><strong>US03</strong></td>
     <td>Iniciar sesión en la aplicación</td>
     <td>Como usuario registrado quiero iniciar sesión en la aplicación para poder acceder a todas sus funcionalidades.</td>
     <td>1</td>
   </tr>
   <tr>
     <td>10</td>
-    <td><strong>US05 / US37</strong></td>
+    <td><strong>US05</strong></td>
     <td>Cerrar Sesión</td>
     <td>Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo web.</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td><strong>US23</strong></td>
-    <td>Gestionar mis favoritos en la aplicación</td>
-    <td>Como usuario de CambiaZo, quiero tener la opción de acceder a un centro de soporte para reportar y resolver mis problemas técnicos.</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>12</td>
-    <td><strong>US55</strong></td>
-    <td>Acceder a la sección de preguntas frecuentes y comentarios</td>
-    <td>Como usuario de CambiaZo, quiero tener la opción de acceder a un centro de soporte para reportar y resolver mis problemas técnicos.</td>
     <td>1</td>
   </tr>
 
   <!-- EPIC ID: EP02 -->
   <tr>
     <td>13</td>
-    <td><strong>US06 / US38</strong></td>
+    <td><strong>US06</strong></td>
     <td>Filtrado de Objetos</td>
     <td>Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.</td>
     <td>5</td>
     <td rowspan="10"><strong>EP02</strong></td>
   </tr>
   <tr>
-  <tr>
     <td>14</td>
-    <td><strong>US12 / US44</strong></td>
+    <td><strong>US12</strong></td>
     <td>Crear publicación de intercambio</td>
     <td>Como usuario de la aplicación, quiero poder crear una nueva publicación de intercambio para ofrecer un artículo que deseo intercambiar</td>
     <td>5</td>
@@ -1664,7 +1666,7 @@ Tomamos como historia de usuario base la historia de usuario **US12 / US42**: *C
   </tr>
   <tr>
     <td>18</td>
-    <td><strong>US13 / US45</strong></td>
+    <td><strong>US13</strong></td>
     <td>Editar publicación de intercambio</td>
     <td>Como usuario, necesito la capacidad de editar una publicación de intercambio existente para realizar cambios en los detalles del artículo o actualizar la información relevante.</td>
     <td>3</td>
@@ -1678,7 +1680,7 @@ Tomamos como historia de usuario base la historia de usuario **US12 / US42**: *C
   </tr>
   <tr>
     <td>20</td>
-    <td><strong>US18 / US50</strong></td>
+    <td><strong>US18</strong></td>
     <td>Aceptar o Rechazar un Intercambio</td>
     <td>Como usuario que ha recibido una oferta de intercambio, quiero poder revisar los detalles de la oferta y tomar una decisión para aceptar o rechazar el intercambio, para poder gestionar mis transacciones de manera eficiente y asegurada.</td>
     <td>3</td>
@@ -1692,7 +1694,7 @@ Tomamos como historia de usuario base la historia de usuario **US12 / US42**: *C
   </tr>
    <tr>
     <td>22</td>
-    <td><strong>US14 / US46</strong></td>
+    <td><strong>US14</strong></td>
     <td>Eliminar publicación de intercambio</td>
     <td>Como usuario, quiero tener la opción de eliminar una publicación de intercambio que ya no deseo ofrecer para intercambiar.</td>
     <td>2</td>
@@ -1701,43 +1703,43 @@ Tomamos como historia de usuario base la historia de usuario **US12 / US42**: *C
   <!-- EPIC ID: EP03 -->
   <tr>
     <td>23</td>
-    <td><strong>US07 / US39</strong></td>
+    <td><strong>US07</strong></td>
     <td>Asignación de locker para intercambio</td>
     <td>Como usuario quiero que la plataforma me sugiera un locker cercano para poder realizar el intercambio de manera sencilla.</td>
     <td>5</td>
-      <td rowspan="6"><strong>EP03</strong></td>
+    <td rowspan="6"><strong>EP03</strong></td>
   </tr>
   <tr>
     <td>24</td>
-    <td><strong>US08 / US40</strong></td>
+    <td><strong>US08</strong></td>
     <td>Brindar reseña sobre el Intercambiador</td>
     <td>Como usuario intercambiador, deseo dejar una reseña sobre mi experiencia con el intercambiador para que otros usuarios puedan leer y considerar mi opinión antes de intercambiar</td>
     <td>3</td>
   </tr>
   <tr>
     <td>25</td>
-    <td><strong>US17 / US49</strong></td>
+    <td><strong>US17</strong></td>
     <td>Visualizar el perfil del usuario que publique un producto</td>
     <td>Como usuario, me gustaría tener la capacidad de visualizar el perfil de la persona que haya publicado un intercambio, para poder obtener información detallada de su confiabilidad.</td>
     <td>3</td>
   </tr>
   <tr>
     <td>26</td>
-    <td><strong>US22 / US53</strong></td>
+    <td><strong>US22</strong></td>
     <td>Recepción de PIN para apertura de locker</td>
     <td>Como usuario quiero recibir un PIN seguro desde la plataforma para abrir el locker de forma segura.</td>
     <td>5</td>
   </tr>
   <tr>
     <td>27</td>
-    <td><strong>US31 / US56</strong></td>
+    <td><strong>US35</strong></td>
     <td>Confirmación de objeto depositado en locker</td>
     <td>Como usuario quiero visualizar la imagen del objeto depositado para verificar que esté correctamente colocado.</td>
     <td>5</td>
   </tr>
   <tr>
     <td>28</td>
-    <td><strong>US32 / US57</strong></td>
+    <td><strong>US26</strong></td>
     <td>Validación final y desbloqueo del locker</td>
     <td>Como usuario quiero validar el objeto depositado antes de generar el PIN final para su retiro y asegurar mi intercambio.</td>
     <td>5</td>
@@ -1746,7 +1748,7 @@ Tomamos como historia de usuario base la historia de usuario **US12 / US42**: *C
   <!-- EPIC ID: EP04 -->
   <tr>
     <td>29</td>
-    <td><strong>US27</strong></td>
+    <td><strong>US29</strong></td>
     <td>Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo.</td>
     <td>Como usuario visitante, quiero tener la opción de llenar un formulario con mi información de contacto, a través de la landing page, para recibir noticias y actualizaciones relevantes de CambiaZo.</td>
     <td>5</td>
@@ -1754,68 +1756,74 @@ Tomamos como historia de usuario base la historia de usuario **US12 / US42**: *C
   </tr>
   <tr>
     <td>30</td>
-    <td><strong>US30</strong></td>
+    <td><strong>US32</strong></td>
     <td>Navegación en la Landing Page</td>
     <td>Como usuario visitante, deseo contar con un menú de navegación visible y funcional para que me permita desplazarme fácilmente por las diferentes secciones del sitio web.</td>
     <td>3</td>
   </tr>
   <tr>
     <td>31</td>
-    <td><strong>US29</strong></td>
+    <td><strong>US30</strong></td>
     <td>Ver los planes y precios</td>
     <td>Como usuario visitante, quiero tener acceso a una sección que detalle los planes ofrecidos por la plataforma, para poder evaluar las opciones disponibles antes de descargar la aplicación.</td>
     <td>3</td>
   </tr>
   <tr>
     <td>32</td>
-    <td><strong>US26</strong></td>
+    <td><strong>US28</strong></td>
     <td>Visualizar las características clave de la aplicación</td>
     <td>Como usuario visitante, quiero poder conocer sus características clave para saber qué es lo que incluye.</td>
     <td>2</td>
   </tr>
   <tr>
     <td>33</td>
-    <td><strong>US28</strong></td>
+    <td><strong>US31</strong></td>
     <td>Acceder a la página principal de CambiaZo</td>
     <td>Como usuario visitante, quiero encontrar botones o enlaces claramente visibles en la landing page que me dirijan a la descarga de la aplicación de CambiaZo, para poder registrarme, intercambiar artículos directamente desde mi dispositivo web.</td>
     <td>2</td>
   </tr>
   <tr>
     <td>34</td>
-    <td><strong>US25</strong></td>
+    <td><strong>US27</strong></td>
     <td>Visualización de la Historia de la Startup</td>
     <td>Como usuario visitante, quiero poder acceder a la historia de la startup, su misión y visión desde la landing page para estar más informado acerca de TechZo.</td>
     <td>1</td>
   </tr>
-
-  <!-- EPIC ID: EP05 -->
+  <!-- EPIC05 -->
   <tr>
-    <td>35</td>
+    <td>31</td>
     <td><strong>TS01</strong></td>
     <td>API User</td>
-    <td>Como usuario desarrollador que configura la plataforma quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.</td>
+    <td>Como usuario desarrollador que configura la plataforma, quiero tener una API que facilite la gestión de usuarios en nuestra aplicación para administrar eficazmente la información de los usuarios.</td>
     <td>5</td>
-    <td rowspan="4"><strong>EP05</strong></td>
+    <td rowspan="5"><strong>EP05</strong></td>
   </tr>
   <tr>
-    <td>36</td>
+    <td>32</td>
     <td><strong>TS02</strong></td>
-    <td>API Review</td>
-    <td>Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar reseñas a otros usuarios para mejorar la interacción entre usuarios y la plataforma.</td>
+    <td>API Exchange</td>
+    <td>Como usuario developer que configura la plataforma quiero implementar una API que permita a los usuarios dejar intercambios a otros usuarios para mejorar la interacción entre usuarios y la plataforma.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>37</td>
+    <td>33</td>
     <td><strong>TS03</strong></td>
-    <td>API Memberships</td>
-    <td>Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.</td>
+    <td>API Lockers</td>
+    <td>Como usuario developer que configura la plataforma, quiero diseñar una API que simplifique la obtención de información sobre los lockers para integrarla de manera efectiva en la aplicación.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>38</td>
+    <td>34</td>
     <td><strong>TS04</strong></td>
-    <td>API Object</td>
-    <td>Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de objetos para que los usuarios puedan subir sus objetos que ya no utilizan.</td>
+    <td>API Memberships</td>
+    <td>Como usuario developer que configura la plataforma, quiero diseñar una API que facilite la gestión de membresías de usuarios para ofrecer beneficios al usuario.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td><strong>TS05</strong></td>
+    <td>API Product</td>
+    <td>Como usuario developer que configura la plataforma quiero diseñar una API que facilite la gestión de productos para que los usuarios puedan subir sus productos que ya no utilizan.</td>
     <td>5</td>
   </tr>
 </table>
@@ -1825,11 +1833,9 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 
 <div align="center">
 
-[![Product Backlog.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Product-Backlog/pivotal.png?raw=true)](https://www.pivotaltracker.com/n/projects/2699481)
+[![Product Backlog.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Product-Backlog/pivotal.png?raw=true)]()
 </div>
 
-
-**Enlace:** [Product Backlog en PivotalTracker](https://www.pivotaltracker.com/n/projects/2699481)<br><br>
 
 # Capítulo IV: Solution Software Design
 
@@ -1840,7 +1846,11 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 Nuestro proceso de Event Storming se llevó a cabo utilizando la herramienta MIRO, donde desarrollamos de forma colaborativa todo el flujo visual. Iniciamos con la fase de Exploración No Estructurada, en la cual analizamos y compartimos diferentes perspectivas sobre los eventos del dominio, siguiendo las recomendaciones metodológicas correspondientes. Para la selección de los eventos, consideramos criterios clave como su relevancia, frecuencia y temporalidad, asegurando así una representación coherente del comportamiento del sistema.
 
 <div align="center">
-	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-1.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+	<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-1.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+</div>
+
+<div align="center">
+	<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-2.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **Evidencia del desarrollo del flujo de autenticación**
@@ -1894,7 +1904,7 @@ Evidencia del desarrollo del Event Storming:
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-8.png?raw=true" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
 </div>
 
-****Enlace:**** [Event Storming [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+**Enlace:** https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742
 
 #### 4.1.1.2 Domain Message Flows Modeling
 
@@ -1918,7 +1928,7 @@ En esta seccion, se identificaron y priorizaron los flujos de mensajería más r
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/intercambios.png?raw=true" alt="intercambios" style="width: 600px; height: auto;"><br><br>
 </div>
 
-****Enlace:**** [Domain Message Flows Modeling [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+**Enlace:** https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742
 
 #### 4.1.1.3 Bounded Context Canvases
 
@@ -1942,7 +1952,7 @@ De acuerdo con los bounded contexts definidos previamente, se desarrollaron sus 
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/canvases-locker.png?raw=true" alt="canvases-locker" style="width: 600px; height: auto;"><br><br>
 </div>
 
-****Enlace:**** [Bounded Context Canvases [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+**Enlace:** https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742
 
 ### 4.1.2 Context Mapping
 
@@ -1981,7 +1991,7 @@ Aunque se enfocan en funcionalidades distintas, ambos contextos comparten elemen
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-8.png?raw=true" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
 </div>
 
-**Enlace:** [Mejor visualización [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+**Enlace:** https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742
 
 ### 4.1.3 Software Architecture
 
@@ -1992,7 +2002,7 @@ En esta sección emplearemos el modelo C4 para crear la arquitectura de software
 El Landscape Diagram ofrece una visión global de la arquitectura de CambiaZo, integrando todos los componentes clave y sus interacciones. A continuación, se presenta el diagrama que ilustra cómo el sistema se estructura para facilitar el intercambio de objetos mediante lockers inteligentes, destacando el rol del Gateway y el servidor central en la gestión de datos y comunicaciones.
 
 <div align="center">
-	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/landscape-diagram.png?raw=true" alt="System Landscape Diagram" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/landscape-diagram.png?raw=true" alt="System Landscape Diagram" style="width: 600px; height: auto;"><br><br>
 </div>
 
 #### 4.1.3.2 Software Architecture Context Level Diagrams.
@@ -2170,6 +2180,1918 @@ En esta sección, se presenta el diagrama de base de datos que detalla los objet
 
 <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker/databasdiagram_locker.png?raw=true" alt="Locker-Database-Diagram">
 
+# Capítulo V: Solution UI/UX Design
+
+## 5.1 Style Guidelines
+En esta sección, compartimos nuestra propuesta de diseño para el landing page, la aplicación web y movil, con el objetivo de ofrecer una interfaz intuitiva y fácil de usar para nuestros usuarios. Para lograrlo, hemos optado por utilizar recursos visuales que se adapten a la problemática que queremos abordar, al mismo tiempo que generan un atractivo visual para nuestro público objetivo.
+
+### 5.1.1. General Style Guidelines
+
+A continuación, se presentan las pautas generales para asegurar una presentación coherente de nuestros productos y una experiencia visual y comunicativa alineada con los valores de CambiaZo, tanto en aplicaciones web como móviles.
+
+**Colors:**
+
+Hemos seleccionado cuidadosamente una paleta de colores para representar nuestro aplicativo CambiaZo. Nuestro enfoque se centra en tonalidades que incluyen el amarillo (#FFE03C), el blanco (#FFFFFF), el negro (#000000) y degradados del negro para crear transiciones suaves entre los colores. Optamos por el amarillo para reflejar energía y positividad, el blanco para transmitir sofisticación y claridad, y el negro para agregar un toque de elegancia y prestigio. Además, el degradado del negro se utiliza para suavizar las transiciones entre los elementos visuales y añadir profundidad. Por último, el blanco humo (#F8F7F4) complementa la paleta al proporcionar un aspecto moderno y neutro. Este conjunto de colores busca armonizar con nuestra misión de resolver problemas y promover un ambiente de intercambio amigable y dinámico.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/color-pallete.png?raw=true">
+</div><br><br><br>
+
+**Branding:**
+
+El branding es un proceso creativo fundamental que orienta el rumbo de una empresa y forja su identidad de marca. Su finalidad es la creación de marcas sólidas y fácilmente identificables en el mercado, logrando establecer una identidad y presencia apropiadas a través del diseño gráfico. En nuestro caso, el logo de la marca que queremos transmitir a nuestros usuarios es:
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/cambiazo-logo-negro.png?raw=true">
+</div><br><br><br>
+
+**Typography:**
+
+Elegir una fuente adecuada es esencial para lograr un diseño cohesivo y equilibrado que se alinee con la imagen e identidad de la marca. Esta elección refleja nuestro compromiso de construir una identidad visual sólida y reconocible. La tipografía, incluida la fuente, el tamaño y el ancho, contribuirá significativamente a la percepción y el reconocimiento de la marca en el mercado objetivo.  
+La tipografía utilizada será Montserrat, que incluye las variantes Regular, Medium, Semi-Bold y Bold. El tamaño de la letra varía entre 1 rem (16 px), 1.5 rem (24 px), 2 rem (32 px) y 3 rem (48 px).
+
++ **Montserrat - Google fonts**
+
+<div align="center">
+    <a href="https://fonts.google.com/specimen/Montserrat">
+        <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/tipography.png?raw=true">
+    </a>
+</div><br>
+
+Referencia: https://fonts.google.com/specimen/Montserrat<br><br>
+
+**Spacing**
+
+El espacio en el diseño de **aplicaciones web y móviles** es crucial para crear una experiencia de usuario fluida y agradable. El espaciado adecuado ayuda a que la interfaz sea más clara, fácil de navegar y visualmente atractiva. En nuestros proyectos, seguimos principios clave de **Material Design**, adaptándolos a las necesidades específicas de ambas plataformas.
+
+- **Botones**: Utilizamos un **padding** de 1 rem (16 px) en la dirección vertical y de 2 rem (32 px) en la horizontal. Esto asegura que los botones sean cómodos de interactuar tanto en pantallas táctiles como con mouse.
+- **Márgenes entre texto**: Para mejorar la legibilidad, mantenemos un **margen de 1 rem (16 px)** entre elementos de texto, creando una separación clara y estética.
+- **Márgenes entre elementos**: Aseguramos que haya un margen de **1.5 rem (24 px)** entre distintos elementos como imágenes, botones y cuadros de texto.
+- **Márgenes entre secciones**: Para una organización más clara de la interfaz, establecemos un margen de **6 rem (72 px)** entre secciones de contenido, permitiendo una mejor separación visual.
+
+**Dimensions (Tono y Comunicación)**
+
+Nuestra aplicación maneja distintos niveles de tono comunicativo según el público objetivo y el contexto. El diseño considera no solo dimensiones visuales, sino también de **lenguaje y estilo de interacción**, estableciendo una comunicación coherente y efectiva:
+
+- **Divertido vs. Serio**: El tono predilecto es **divertido pero responsable**, promoviendo un ambiente alegre sin perder la claridad en las instrucciones o advertencias.
+- **Formal vs. Casual**: Se opta por un estilo **casual y accesible**, adecuado para un público joven y dinámico, pero sin caer en la informalidad excesiva.
+- **Respetuoso vs. Irreverente**: Toda comunicación se mantiene **respetuosa**, incluso en contextos relajados, con mensajes pensados para fomentar la empatía, el respeto mutuo y la colaboración.
+- **Entusiasta vs. Sereno**: La interfaz y microcopys reflejan una actitud **entusiasta y motivadora**, sin saturar al usuario con estímulos innecesarios. Se invita a la acción mediante frases claras, breves y optimistas.
+
+Además, las dimensiones visuales de los elementos (tarjetas, botones, inputs) siguen un sistema modular que respeta las guías de diseño web y móvil, facilitando la adaptación a distintos tamaños de pantalla y asegurando una experiencia fluida y coherente en todos los dispositivos.
+
+
+### 5.1.2. Web, Mobile and IoT Style Guidelines
+
+En esta sección se explican e ilustran las decisiones sobre los estándares visuales y de interacción para interfaces responsivas web, aplicaciones móviles y aplicaciones IoT (Internet of Things). Nuestro objetivo es asegurar una experiencia coherente, accesible y atractiva para los usuarios, independientemente del dispositivo o plataforma desde la cual interactúen con CambiaZo.
+
+
+#### Web Style Guidelines
+
+En nuestras pautas de estilo web, priorizamos la adaptación de nuestros principios de diseño a la experiencia de usuario en entornos de navegación en línea. Esto incluye:
+
+- **Diseño Responsivo**: El sitio se adapta fluidamente a diferentes tamaños de pantalla, desde computadoras de escritorio hasta dispositivos móviles como tabletas y teléfonos inteligentes, garantizando accesibilidad sin importar el dispositivo.
+
+- **Navegación Intuitiva**: Implementamos una barra de navegación clara y organizada con un "Botón hamburguesa" en dispositivos móviles que despliega el menú principal de forma compacta y accesible.
+
+- **Consistencia Visual**: Mantenemos una estética coherente usando colores, tipografías y elementos visuales que reflejan la identidad de marca de CambiaZo, para crear una experiencia unificada y memorable.
+
+- **Accesibilidad**: Aplicamos buenas prácticas como etiquetas alt en imágenes, contraste adecuado entre texto y fondo, y opciones de navegación alternativas para usuarios con discapacidades.
+
+#### Mobile Style Guidelines
+
+Para la aplicación móvil de CambiaZo, combinamos los lineamientos nativos de iOS y Android con nuestra identidad visual para brindar una experiencia fluida y coherente en todos los dispositivos móviles.
+
+- **Paleta de Colores**: Conservamos el uso del amarillo (#FFE03C), blanco (#FFFFFF), negro (#000000) y blanco humo (#F8F7F4), con degradados sutiles para mejorar la inmersión visual y mantener una estética fresca y moderna.
+
+- **Tipografía**: Utilizamos la familia Montserrat en variantes Regular, Medium, Semi-Bold y Bold, asegurando legibilidad y jerarquía en todas las pantallas, adaptándose al sistema de texto dinámico de iOS y Material Design en Android.
+
+- **Espaciado y Márgenes**: Seguimos las recomendaciones de Human Interface Guidelines para iOS y Material Design para Android, con márgenes generosos y padding adecuado en botones y textos que optimizan la navegación táctil y claridad visual.
+
+- **Navegación y Controles**: Incorporamos gestos, botones de tamaño óptimo y menús accesibles para facilitar la interacción en pantallas táctiles, asegurando una navegación intuitiva y ágil.
+
+- **Comunicación Visual y Tonalidad**: Adaptamos el tono comunicativo para ser empático, directo y accesible, buscando un balance entre funcionalidad y estilo acorde con cada sistema operativo, sin perder la identidad de marca.
+
+#### IoT Style Guidelines
+
+Para las interfaces de usuario en aplicaciones IoT, que suelen tener pantallas pequeñas o controles limitados, hemos desarrollado lineamientos específicos para garantizar interacción eficiente, clara y coherente con la identidad de CambiaZo.
+
+- **Diseño Minimalista y Funcional**: Priorizamos interfaces limpias con elementos grandes y legibles, mostrando solo la información y funcionalidades esenciales para evitar saturar al usuario.
+
+- **Consistencia Visual Adaptada**: Aplicamos la paleta de colores principal (amarillo, blanco, negro y blanco humo) con alto contraste para facilitar la lectura bajo distintas condiciones de luz y tamaños reducidos.
+
+- **Interacciones Simplificadas**: Diseñamos botones y controles táctiles o físicos de gran tamaño con respuestas visuales claras; para dispositivos sin interfaz táctil, consideramos métodos alternativos como comandos de voz o controles remotos.
+
+- **Notificaciones y Feedback Inmediato**: Proporcionamos retroalimentación rápida y visible para confirmar acciones o alertar sobre eventos importantes, facilitando una experiencia intuitiva y sin confusión.
+
+- **Accesibilidad y Usabilidad**: Incorporamos estándares para usuarios con capacidades diferentes, asegurando que los dispositivos IoT sean cómodos y fáciles de usar para todos.
+
+<br><br>
+
+## 5.2 Information Architecture
+### 5.2.1. Organization Systems
+En CambiaZo, empleamos diversos sistemas de organización de la información para mejorar la experiencia del usuario en entornos web y móviles. Estos sistemas se adaptan a los distintos contextos de uso, resoluciones de pantalla y necesidades de navegación, facilitando el acceso intuitivo y eficiente al contenido desde cualquier dispositivo.
+
+**Organización visual del contenido:**
+
+- **Jerárquica (Visual Hierarchy):** Aplicamos una jerarquía visual clara tanto en la interfaz web como en la móvil, resaltando los elementos más importantes, como publicaciones destacadas, botones principales o notificaciones. En web, esto se logra mediante tamaños de fuente, colores contrastantes y ubicación estratégica en la pantalla. En móviles, optimizamos el orden vertical del contenido para que lo esencial esté siempre visible sin necesidad de desplazamientos excesivos.
+
+- **Secuencial (Step-by-step):** Para flujos como el registro de usuario, creación de publicaciones o procesos de intercambio, implementamos una estructura paso a paso. En la versión web, esta se presenta mediante formularios progresivos o asistentes visuales; en la versión móvil, priorizamos una navegación lineal y simplificada, optimizada para pantallas reducidas y gestos táctiles.
+
+- **Matricial (cuando corresponde):** En ambas plataformas, aplicamos una organización matricial en secciones donde los usuarios necesitan comparar múltiples opciones —como listados de publicaciones filtradas o categorías cruzadas—, presentando tarjetas o grillas que permiten una visualización simultánea de varios elementos.
+
+
+**Esquemas de categorización del contenido:**
+
+- **Por tópicos:** Tanto en la app móvil como en la versión web, los productos se agrupan por categorías temáticas (tecnología, moda, hogar, juguetes, etc.), facilitando la exploración de contenido relevante según los intereses del usuario.
+
+- **Según audiencia (Grupos de usuarios):** Ofrecemos vistas específicas orientadas a ciertos segmentos de usuarios —como artículos infantiles, escolares o deportivos— permitiendo una experiencia personalizada basada en sus necesidades o preferencias.
+
+- **Cronológico:** En feeds de publicaciones, secciones de novedades o notificaciones, se utiliza una organización cronológica que prioriza los contenidos más recientes, manteniendo al usuario informado en tiempo real, independientemente del dispositivo.
+
+- **Alfabético:** Para listas como preguntas frecuentes, términos de búsqueda o nombres de productos, empleamos un orden alfabético que agiliza la navegación y mejora la localización de elementos específicos, especialmente en entornos web con mayor capacidad de visualización.
+
+
+### 5.2.2. Labeling Systems
+
+En CambiaZo, empleamos un sistema de etiquetado consistente, claro y adaptado tanto a la experiencia móvil como a la navegación web. Las etiquetas se seleccionan cuidadosamente para ser comprensibles, breves y orientadas a la acción, considerando el contexto de uso de cada plataforma.
+
+**Etiquetas principales comunes en web y móvil:**
+
+- **Inicio / Home:** Proporciona una visión general de la plataforma, incluyendo publicaciones destacadas, navegación rápida y accesos a funciones clave. En móvil, se prioriza una visualización vertical optimizada; en web, se aprovecha el espacio horizontal para presentar más contenido de un vistazo.
+
+- **Conócenos / About Us:** Describe la misión, visión y propósito de CambiaZo. En la versión web, esta sección puede incluir más contenido visual y narrativo; en móvil, se resume con bloques de texto breves e íconos informativos.
+
+- **Características / Features:** Enumera los beneficios clave de usar la plataforma, tales como la facilidad de intercambio, seguridad, y sostenibilidad. En móvil, se presenta como una lista compacta o tarjetas deslizable; en web, se usa diseño en columnas o animaciones ligeras.
+
+- **ONGs Afiliadas / Affiliated NGOs:** Muestra las organizaciones aliadas, su logo y una breve descripción. En móviles, esta lista se adapta a scroll horizontal o vertical con tarjetas; en web, se presenta en una cuadrícula más amplia.
+
+- **Planes / Subscriptions:** Explica los diferentes planes disponibles, sus beneficios y precios. En móvil, se muestran en tarjetas que permiten comparación sencilla con desplazamiento; en web, se puede usar una tabla comparativa más amplia.
+
+- **Contáctanos / Contact Us:** Ofrece canales de contacto como correo electrónico, redes sociales y un formulario integrado. En móvil, se prioriza la accesibilidad del formulario y botones de contacto rápido; en web, se aprovecha el espacio para incluir mapas o más información contextual.
+
+- **Registrarse / Sign Up:** Permite a los nuevos usuarios crear una cuenta. En la versión móvil, el formulario está optimizado para interacción táctil con validaciones en tiempo real; en la web, se pueden ofrecer opciones adicionales como registro mediante redes sociales o email corporativo.
+
+
+### 5.2.3. SEO Tags and Meta Tags
+
+La optimización de la visibilidad de CambiaZo se realiza a través de técnicas de **SEO** en la plataforma web y de **ASO** en la aplicación móvil. A continuación, se detallan los elementos clave implementados en cada entorno.
+
+#### Web: Landing Page y Web Application
+
+Para la versión web de CambiaZo (landing page y aplicación web), se aplican etiquetas SEO estándar que mejoran el posicionamiento en buscadores y ofrecen una vista previa clara del contenido al usuario.
+
+**Landing Page**
+
+- **Título:**
+```html
+<title>
+Cambiazo - Intercambia artículos de forma segura y justa
+</title>
+```
+
+- **Descripción:**
+```
+  
+ <meta name="description" content="Intercambia artículos de manera segura y justa con Cambiazo. Explora una amplia variedad de productos, garantizando transacciones transparentes y beneficiosas para todos."/>
+
+```
+
+- **Palabras clave:**
+```
+
+<meta name="keywords" content="Intercambio de artículos, plataforma de intercambio, seguridad en el intercambio, justicia en el intercambio, comunidad de intercambio, donaciones de artículos."/>
+```
+
++ **Autor:**
+```
+
+<meta name="author" content="TechZo Startup" />
+
+```
+
+- **Copyright:**
+```
+
+<meta name="copyright" content="© TechZo, 2024" />
+
+```
+
+Estos tags están diseñados para resaltar los aspectos clave de Cambiazo, como la seguridad en los intercambios. Esto ayuda a mejorar la visibilidad en los motores de búsqueda y atraer a usuarios interesados en la plataforma.<br><br>
+
+
+### 5.2.4. Searching Systems
+Para garantizar una experiencia de búsqueda eficiente y satisfactoria para los usuarios en Cambiazo, tanto en la aplicación web como en la móvil, implementamos un sistema robusto de búsqueda con múltiples opciones y filtros adaptados a cada plataforma.
+
+#### Funcionalidades comunes para app web y móvil:
+
+- **Búsqueda básica:**  
+  Un campo de búsqueda simple estará siempre accesible en la parte superior de la pantalla, permitiendo que los usuarios ingresen palabras clave relacionadas con los productos que desean encontrar. Esto facilita una búsqueda rápida y directa.
+
+- **Filtros avanzados:**  
+  Los usuarios podrán refinar sus resultados mediante filtros como categoría de producto, estado del artículo, rango de precios y ubicación. Estos filtros estarán disponibles a través de menús desplegables o paneles laterales, según la plataforma, para mejorar la usabilidad.
+
+- **Ordenación de resultados:**  
+  Después de realizar una búsqueda, los resultados podrán ordenarse según criterios como relevancia, precio (ascendente/descendente), fecha de publicación, y popularidad. Este selector será intuitivo y accesible para optimizar la navegación.
+
+- **Vista clara y detallada de resultados:**  
+  Los productos encontrados se mostrarán con imágenes, título, breve descripción, precio y ubicación del vendedor, permitiendo una comparación rápida y una evaluación visual clara.
+
+- **Sugerencias de búsqueda:**  
+  Mientras el usuario escribe, el sistema ofrecerá sugerencias automáticas basadas en términos populares y búsquedas previas, facilitando la entrada de consultas relevantes.
+
+#### Consideraciones específicas por plataforma:
+
+- **Aplicación Web:**  
+  La interfaz aprovechará el espacio disponible para mostrar filtros en un panel lateral y resultados en formato de lista o cuadrícula con más detalles visibles, permitiendo una navegación fluida en pantallas grandes.
+
+- **Aplicación Móvil:**  
+  Los filtros estarán accesibles mediante menús desplegables o modales para optimizar el espacio, y la presentación de resultados será más compacta, priorizando la usabilidad táctil y la rapidez de carga.
+
+Con este sistema de búsqueda integrado en ambas plataformas, buscamos evitar que los usuarios se sientan perdidos o abrumados por la cantidad de información, facilitando que encuentren rápida y fácilmente los productos que necesitan en Cambiazo.
+
+
+### 5.2.5. Navigation Systems
+
+En esta sección se describen las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones de Cambiazo, facilitando que cumplan sus metas y disfruten de una interacción satisfactoria con el producto. Se explica cómo los usuarios recorrerán el contenido de manera intuitiva y fluida.
+
+#### Navegación en el Landing Page (Sitio Web Estático):
+
+- **Menú principal claro y visible:**  
+  En la parte superior del Landing Page, se mostrará un menú con enlaces directos a las secciones clave como "Inicio", "Conócenos", "Características", "ONGs Afiliadas", "Planes" y "Contáctanos". Este menú será fijo para que esté siempre accesible al hacer scroll.
+
+- **Secciones ancladas y navegación fluida:**  
+  La navegación será principalmente vertical, con anclajes que permiten saltar rápidamente a diferentes secciones de la página, facilitando la exploración y la obtención de información relevante sin perderse.
+
+- **Botones de llamada a la acción (CTA):**  
+  Se incluirán CTAs destacados, como "Regístrate" o "Descarga la app", ubicados estratégicamente para atraer la atención del usuario y motivar la interacción.
+
+
+#### Navegación en la Aplicación Web y Móvil:
+
+- **Menú de navegación accesible y consistente:**  
+  En ambas aplicaciones, habrá un menú de navegación persistente ubicado en la parte inferior (en móvil) o en la barra lateral (en web app), con enlaces directos a secciones principales: "Inicio", "Donaciones", "Mi perfil" y "Ayuda". Esto facilitará el acceso rápido a las funcionalidades clave.
+
+- **Campo de búsqueda prominente:**  
+  En la parte superior de cada pantalla, se ubicará un campo de búsqueda visible que permitirá a los usuarios encontrar productos, categorías o ONGs con rapidez.
+
+- **Botones de llamada a la acción (CTA):**  
+  Botones como "Publicar", "Inicia sesión", "Categorías", entre otros, estarán ubicados estratégicamente para guiar a los usuarios a realizar acciones importantes y avanzar en su experiencia.
+
+- **Navegación intuitiva y coherente:**  
+  La estructura de la aplicación seguirá estándares de diseño y convenciones UX, asegurando que la navegación sea clara, predecible y homogénea en todas las pantallas, para que los usuarios se sientan cómodos y confiados durante su recorrido.
+
+Implementando estas técnicas y acciones de navegación, buscamos que los usuarios de Cambiazo, ya sea en el Landing Page o en las aplicaciones, puedan explorar el contenido, encontrar lo que necesitan y completar sus objetivos de forma fluida y satisfactoria.
+
+
+## 5.3 Landing Page UI Design
+
+### 5.3.1. Landing Page Wireframe
+
+Para la creación del esquema inicial de nuestra Landing Page, se empleó la plataforma Figma en conjunto con una variedad de complementos que simplificaron considerablemente el proceso de diseño y desarrollo. Esta combinación de herramientas permitió una producción eficiente y efectiva del wireframe.
+
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=0-1&t=TsdwraOjylYazZcP-1 <br><br>
+
+**Landing Page**
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-desktop.png?raw=true" width="600px" alt="Wireframe">
+</div><br><br>
+
+**Landing Page en Mobile Web Browser**
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-mobile.png?raw=true" width="300px" alt="Wireframe Mobile">
+</div><br><br>
+
+### 5.3.2. Landing Page Mock-up
+
+Hemos completado con éxito la creación del mock-up de la Landing Page, lo que nos ha permitido destacar y aplicar los principios y elementos de diseño que hemos establecido. Estos principios y pautas heurísticas desempeñan un papel fundamental al hacer que la experiencia para los usuarios finales de nuestra plataforma sea más sencilla e intuitiva.
+
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=0-1&t=TsdwraOjylYazZcP-1 <br><br>
+
+**Landing Page**
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-desktop.png?raw=true" width="600px" alt="Mockup">
+</div><br><br>
+
+**Landing Page en Mobile Web Browser**
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-mobile.png?raw=true" width="300px" alt="Mockup Mobile">
+</div><br><br>
+
+## 5.4 Applications UX/UI Design
+
+### 5.4.1. Applications Wireframes
+
+Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
+
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-630&t=YzeRn0hMljz5YZrv-1 <br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb0.png?raw=true"  alt="wireframes-appweb">
+</div><br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile0.png?raw=true"  alt="wireframes-appmovil">
+</div><br><br>
+
+
+A continuación, mostramos los wireframes de nuestra aplicación web y móvil:<br><br>
+
+**App Web**
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb1.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb2.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb3.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb4.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb5.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb6.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb7.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb8.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb1.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb9.png?raw=true" alt=""><br><br>
+
+**App Mobile**<br><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile1.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile2.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile3.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile4.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile5.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile6.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile7.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile8.png?raw=true" alt=""><br><br>
+
+
+### 5.4.2. Applications Wireflow Diagrams
+
+**User goal 1:** Como usuario, quiero poder iniciar sesión y poder recuperar mi contraseña en caso de pérdida.<br><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-1.PNG?raw=true" alt="">
+
+Al entrar a la aplicación móvil, el usuario primero será recibido por una pantalla de inicio de sesión. Para continuar, deberá ingresar su correo y contraseña. Si el usuario ha olvidado la contraseña, podrá recuperarla mediante un correo de confirmación que incluirá un código de verificación. Solo después de iniciar sesión exitosamente, el usuario será redirigido a la pantalla principal, donde podrá ver todas las publicaciones de intercambios destacadas, incluidas aquellas que poseen un boost.<br><br>
+
+**User goal 2:** Como usuario, quiero poder seleccionar la ubicación de mi preferencia para el locker, recibir los datos de acceso, informar que ya dejé mi objeto y verificar el contenido del locker del otro usuario mediante cámara.<br><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-2.png?raw=true" alt="">
+
+El usuario ingresa a la aplicación móvil y, desde la barra de navegación, accede a sus intercambios. Al seleccionar uno, la aplicación le muestra las sedes disponibles para elegir un locker. Una vez seleccionada la sede, se le asigna un locker junto con un PIN de apertura. Además, la app le ofrece un botón para confirmar que ya dejó su objeto, lo cual notifica al otro usuario. También se brinda la opción de visualizar el contenido del locker del otro usuario a través de una cámara.<br><br>
+
+**User goal 3:** Como usuario, quiero poder tener la posibilidad de suscribirse a una membresía y de esta forma obtener mejores beneficios.<br><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-3.PNG?raw=true" alt="">
+
+El usuario entra a la aplicación móvil y, desde la barra de navegación, selecciona la opción "Mi Perfil". Luego, desde su perfil, podrá acceder a la opción "Mi Suscripción", donde verá todas las suscripciones disponibles con información detallada. Al seleccionar una suscripción, será redirigido a una pasarela de pagos, y finalmente recibirá un pop-up de confirmación del proceso.<br><br>
+
+**User goal 4:** Como usuario quiero poder publicar mis artículos de una manera rápida y accesible.<br><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-4.PNG?raw=true" alt="">
+
+El usuario entra a la aplicación móvil y se dirige a la barra de navegación, donde selecciona la opción "Mis Artículos". Una vez dentro, encontrará un botón de "Publicar". Al presionarlo, se desplegará un formulario para que, con la sesión ya iniciada, el usuario pueda realizar su publicación de intercambio, incluyendo los datos necesarios y las fotos del artículo. Al finalizar, el usuario verá un pop-up con un mensaje de confirmación.<br><br>
+
+
+**User goal 5:** Como usuario quiero poder filtrar mi búsqueda de objetos, recibir información solo de estos mismos y visualizar información pertinente y necesaria.<br><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-5.PNG?raw=true" alt="">
+
+El usuario entra a la aplicación móvil y clickea en algunos de los botones de categorías disponibles. Después de ello se redirigirá a una pantalla en la que salgan todos los resultados de publicaciones encontradas con esa misma categoría. Además de filtros específicos e información básica.
+Una vez el usuario clickee en cualquier card de publicación, podrá ver la información de la publicación con más detalle e información del autor de la publicación.<br><br>
+
+**User goal 6:** Como usuario quiero poder realizar una oferta, teniendo en consideración los intercambios publicados que tengo en mi perfil.<br><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-6.PNG?raw=true" alt="">
+
+Una vez el usuario haya seleccionado la publicación de interés, puede darle click a “Intercambiar”. Después de ello, saldrá una ventana en la cual el usuario puede seleccionar cualquiera de sus publicaciones en su “stock” para ofrecer. Después de ello, recibirá un mensaje de confirmación.<br><br>
+
+**User goal 7:** Como usuario quiero poder visualizar mis publicaciones en mi perfil y administrarlas según mis necesidades.<br><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-7.PNG?raw=true" alt="">
+
+Los usuarios podrán dirigirse a la sección "Mis Artículos" desde la barra de navegación, donde visualizarán todas sus publicaciones de articulos. Cada artículo tendrá un menú desplegable de tres puntos que les permitirá acceder a opciones para administrar sus publicaciones. Al seleccionar "Editar", se abrirá un formulario con los datos actuales del artículo, para que puedan realizar los cambios necesarios. Si eligen "Eliminar", aparecerá un mensaje de confirmación antes de proceder con la eliminación.<br><br>
+
+**User goal 8:** Como usuario, quiero poder verificar las ofertas que he recibido por mis publicaciones y aceptarlas o declinar en caso contrario.<br><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-8.PNG?raw=true" alt="">
+
+Los usuarios podrán dirigirse a la sección "Mis Ofertas" desde la barra de navegación, donde visualizarán sus intercambios enviados, recibidos y aceptados. Al seleccionar una oferta en la sección de recibidos, verán los detalles de los artículos ofrecidos. Aquí podrán aceptar o rechazar la oferta mediante un menú con ambas opciones. Si eligen rechazar, se continuara con el proceso de eleccion del los lockers para efectuar el intercambio.<br><br>
+
+
+### 5.4.3. Applications Mock-ups
+Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
+
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-630&t=YzeRn0hMljz5YZrv-1 <br><br>
+
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile0.png?raw=true"  alt="mockup-appweb">
+</div><br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb0.png?raw=true"  alt="mockup-appmovil">
+</div><br><br>
+
+
+A continuación, mostramos los mock-ups de nuestra aplicación web y móvil:<br><br>
+
+**App Web**
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile1.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile2.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile3.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile4.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile5.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile6.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile7.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile7.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile8.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile9.png?raw=true" alt="">
+<br><br>
+
+**App Mobile**<br><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb1.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb2.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb3.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb4.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb5.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb6.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb7.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb8.png?raw=true" alt="">
+<br><br>
+
+### 5.4.4. Applications User Flow Diagrams
+
+**User 1:** Como usuario, quiero ingresar a la aplicación web utilizando una cuenta.
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-1.png?raw=true" alt="userflow">
+
+**User 2:** Como usuario, quiero buscar objetos para intercambiar fácilmente y obtener información detallada sobre ellos.
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-2.png?raw=true" alt="userflow">
+
+**User 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-3.png?raw=true" alt="userflow">
+
+**User 4:** Como usuario, quiero solicitar un intercambio a cambio de uno de los objetos de mi publicación.
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-4.png?raw=true" alt="userflow">
+
+**User 5:** Como usuario, quiero poder verificar las ofertas que he recibido para poder aceptarlas o rechazarlas según mi preferencia.
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-5.png?raw=true" alt="userflow">
+
+**User 6:** Como usuario, quiero realizar mis intercambios de forma segura mediante lockers inteligentes.
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-6.png?raw=true" alt="userflow">
+
+**User 7:** Como usuario, quiero explorar y obtener información sobre los perfiles de otros usuarios.
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-7.png?raw=true" alt="userflow">
+
+**User 8:** Como usuario, quiero tener la opción de pagar una membresía y disfrutar de los beneficios que ofrece.
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-8.png?raw=true" alt="userflow">
+
+**User 9:** Como usuario, quiero tener acceso claro y fácil a toda la información relevante de la aplicación.
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-9.png?raw=true" alt="userflow">
+
+**User 10:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-10.png?raw=true" alt="userflow">
+
+## 5.5 Applications Prototyping
+A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
+
+**App Web**<br><br>
+
+Enlace: https://www.figma.com/proto/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-18404&t=YzeRn0hMljz5YZrv-0&scaling=scale-down&content-scaling=fixed&page-id=1%
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototypeweb.png?raw=true"  alt="prototype-0">
+</div><br><br>
+
+**App Mobile**<br><br>
+
+Enlace: https://www.figma.com/proto/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-1288&t=YzeRn0hMljz5YZrv-0&scaling=scale-down&content-scaling=fixed&page-id=1%3A629
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototypemobile.png?raw=true"  alt="prototype-0">
+</div><br><br>
+
+# Capítulo VI: Product Implementation, Validation & Deployment
+
+## 6.1. Software Configuration Management
+
+### 6.1.1. Software Development Environment Configuration
+
+En esta sección se describen las herramientas de software utilizadas por el equipo para colaborar en las distintas etapas del ciclo de vida del desarrollo del sistema con IoT. Estas herramientas permiten una adecuada planificación, diseño, desarrollo, prueba, despliegue y documentación de los productos digitales involucrados.
+
+| Actividad                | Producto              | Propósito                                      | Tipo       | URL de acceso/descarga                                 |
+|-------------------------|-----------------------|------------------------------------------------|------------|--------------------------------------------------------|
+| Project Management       | Trello                | Organización de tareas y gestión del proyecto  | SaaS       | [https://trello.com](https://trello.com)               |
+| Requirements Management  | Trello                | Gestión de requisitos mediante tableros        | SaaS       | [https://trello.com](https://trello.com)               |
+| UX/UI Design             | Figma                 | Diseño de interfaces de usuario                | SaaS       | [https://www.figma.com](https://www.figma.com)         |
+| Software Development     | Visual Studio Code / WebStorm | Edición y desarrollo del código fuente  | Instalable | [https://code.visualstudio.com](https://code.visualstudio.com) / [https://www.jetbrains.com/webstorm](https://www.jetbrains.com/webstorm) |
+| Source Code Management   | Git + GitHub          | Control de versiones y colaboración            | SaaS       | [https://github.com](https://github.com)               |
+| Software Testing         | Swagger UI            | Pruebas y validación de APIs REST              | SaaS       | [https://swagger.io/tools/swagger-ui](https://swagger.io/tools/swagger-ui) |
+| Software Deployment      | Azure Web Services    | Despliegue en la nube de servicios y aplicaciones | SaaS    | [https://azure.microsoft.com](https://azure.microsoft.com) |
+| Software Documentation   | GitHub Wiki           | Documentación del proyecto                     | SaaS       | [https://github.com](https://github.com)               |
+
+### 6.1.2. Source Code Management
+
+El equipo utiliza **GitHub** como sistema de control de versiones y plataforma de colaboración para el desarrollo del sistema CambiaZo-WebApp. El repositorio oficial del proyecto es:
+
+- **Repositorio del Frontend**: https://github.com/TechZo-1ASI0572-2942/CambiaZo-WebApp
+- **Repositorio del Landing Page**: https://github.com/TechZo-1ASI0572-2942/CambiaZo-Landing-Page.git
+- **Repositorio del Backend**: https://github.com/TechZo-1ASI0572-2942/CambiaZo-Backend.git
+
+#### Git Workflow: GitFlow adaptado
+
+Se adopta el flujo de trabajo **GitFlow**, con las siguientes ramas y convenciones:
+
+##### Ramas principales
+
+- `main`: contiene la versión estable utilizada para el despliegue en producción.
+- `develop`: rama de integración donde se consolidan todas las funcionalidades en desarrollo antes de ser promovidas a `main`.
+
+##### Ramas de funcionalidades
+
+- `feature/US-XX/descripcion`: creadas a partir de `develop` para cada historia de usuario o funcionalidad específica.
+  - Ejemplo: `feature/US-05/autentication-user`
+
+#### Convenciones de Commits (Conventional Commits)
+
+Se utilizan convenciones estandarizadas para los mensajes de commit, lo que permite un historial más legible y automatización en CI/CD:
+
+| Tipo    | Propósito                                      |
+|---------|------------------------------------------------|
+| `feat`  | Nuevas funcionalidades                         |
+| `fix`   | Corrección de errores                          |
+| `doc`   | Actualización o inclusión de documentación     |
+| `test`  | Agregar o modificar pruebas                    |
+
+
+### 6.1.3. Source Code Style Guide & Conventions.
+
+En esta sección, establecemos las convenciones de estilo y mejores prácticas para el desarrollo backend de nuestra aplicación CambiaZo utilizando Java y Spring Boot. Estas reglas son esenciales para garantizar la legibilidad, mantenibilidad y escalabilidad del código a lo largo del ciclo de vida del proyecto.
+
+El uso coherente de estas convenciones también facilita la colaboración entre desarrolladores, ya que se minimizan las discrepancias en la forma en que se escribe y estructura el código. También emplearemos Gherkin para la definición de pruebas de aceptación.
+<br><br>
+
+**JAVA**
+
+Java es un lenguaje de programación orientado a objetos, robusto y de propósito general. Es conocido por su portabilidad gracias a la máquina virtual de Java (JVM), que permite ejecutar el mismo código en diferentes plataformas. Su enfoque en la simplicidad, la seguridad y la escalabilidad lo convierte en una elección popular para el desarrollo de aplicaciones empresariales y sistemas distribuidos.
+
++ **Nomenclatura en Inglés y uso de Minúsculas**
+
+  Todas las clases, métodos, variables y constantes deben estar nombradas en inglés y de manera descriptiva, utilizando camelCase para métodos y variables, y PascalCase para las clases. Se evitarán las abreviaturas ambiguas para mejorar la claridad.
+
+
+  Ejemplo: 
+  ```
+  // Mala práctica
+  int prsnAge;
+
+  // Buena práctica
+  int personAge;
+  ```
+
++ **Identación o Sangría**
+
+  En Java, la indentación es crucial para la legibilidad. Utilizaremos 4 espacios para la sangría, y se evitará el uso de tabulaciones. Además, todos los bloques de código deben estar debidamente indentados y alineados.
+
+
+  Ejemplos:
+
+  ```
+  public class UserService {
+     public void createUser(User user) {
+          if (user != null) {
+              userRepository.save(user);
+          }
+     }
+  }
+  ```
+
++ **Llaves y Estructura de Código**
+
+  En Java, las llaves deben abrirse en la misma línea que la declaración correspondiente y cerrarse alineadas con el inicio de dicha declaración. Esto mantiene una estructura clara y consistente.
+
+  Ejemplo:
+  ```
+  // Mala práctica
+  public void createUser(User user)
+  {
+      if (user != null)
+      {
+          userRepository.save(user);
+      }
+  }
+
+  // Buena práctica
+  public void createUser(User user) {
+      if (user != null) {
+          userRepository.save(user);
+      }
+  }
+  ```
+
++ **Uso de Constantes**
+  Las constantes en Java deben declararse como static final y nombrarse con mayúsculas separadas por guiones bajos.
+
+  Ejemplo:
+  ```
+  public static final int MAX_ATTEMPTS = 5;
+  ```
+
++ **Espacios alrededor de Operadores**
+
+  Se colocarán espacios alrededor de los operadores aritméticos, de comparación y asignación para mejorar la legibilidad del código.
+
+  Ejemplo:
+  ```
+  int sum = a + b;
+  if (x == y) {
+      return true;
+  }
+  ```
+
++ **Uso de Comentarios**
+
+  Los comentarios deben ser usados para explicar el por qué de las decisiones de código, no para describir lo que el código hace (esto debería ser evidente por la nomenclatura clara). Para los comentarios, utilizaremos el formato Javadoc para métodos públicos y clases.
+
+  Ejemplo:
+  ```
+  /**
+  * Retrieves a user by their ID.
+  *
+  * @param id the ID of the user to retrieve
+  * @return the user object
+  */
+  public User getUserById(Long id) {
+      return userRepository.findById(id).orElse(null);
+  }
+  ```
+<br>
+
+**KOTLIN**
+
+Kotlin es un lenguaje de programación moderno y conciso que se ejecuta en la Máquina Virtual de Java (JVM) y es totalmente interoperable con Java, lo que facilita su adopción en proyectos existentes. Destaca por su seguridad de tipos, que ayuda a prevenir errores comunes como el NullPointerException, y su capacidad para soportar programación funcional a través de funciones de orden superior y expresiones lambda. Además, ofrece características como funciones de extensión que permiten ampliar la funcionalidad de las clases sin necesidad de herencia, y permite el desarrollo multiplataforma, lo que facilita la creación de aplicaciones para diferentes entornos, incluidas aplicaciones móviles.
+
++ **Nomenclatura en Inglés y uso de Minúsculas**
+
+	En nuestro proyecto, todas las clases, funciones, variables y constantes serán nombradas en inglés y de manera descriptiva. Se adoptará  camelCase para funciones y variables, mientras que  PascalCase se utilizará para las clases. Esta práctica mejorará la claridad del código y facilitará la comprensión de la funcionalidad de cada elemento.
+
+  Ejemplo: 
+  ```
+   // Mala práctica
+   var usrAge: Int = 25
+
+   // Buena práctica
+   var userAge: Int = 25
+  ```
+
++ **Identación o Sangría**
+
+	Se utilizarán  4 espacios para la indentación del código, evitando el uso de tabulaciones. Esta decisión es fundamental para garantizar que la estructura del código sea clara y que la jerarquía y los bloques sean fácilmente comprensibles.
+
+  Ejemplos:
+  ```
+	class UserService {
+	    fun createUser(user: User) {
+	        if (user != null) {
+	            userRepository.save(user)
+	        }
+	    }
+	}
+  ```
+
++ **Llaves y Estructura de Código**
+
+	Las llaves se abrirán en la misma línea que la declaración correspondiente y se cerrarán alineadas con el inicio de dicha declaración. Este estilo contribuye a mantener una estructura clara y consistente, facilitando el seguimiento del flujo de control en el código.
+
+  Ejemplo:
+	```
+	// Mala práctica
+	fun createUser(user: User) 
+	{
+	    if (user != null) 
+	    {
+	        userRepository.save(user)
+	    }
+	}
+	// Buena práctica
+	fun createUser(user: User) {
+	    if (user != null) {
+	        userRepository.save(user)
+	    }
+	}
+	```
+
++ **Uso de Constantes**
+
+	Las constantes en Kotlin se declararán utilizando `const val` para aquellos valores que son conocidos en tiempo de compilación y `val` para valores que no cambian durante la ejecución. Se utilizará una nomenclatura en mayúsculas, separadas por guiones bajos, para diferenciarlas claramente de las variables.
+
+  Ejemplo:
+  ```
+  const val MAX_ATTEMPTS: Int = 5
+  ```
+
+* **Uso de Comentarios**
+
+	Los comentarios se utilizarán para explicar el por qué de las decisiones de código, en lugar de describir lo que el código realiza, lo cual debería ser evidente a través de la nomenclatura. Se empleará el formato KDoc para documentar métodos públicos y clases, facilitando así la generación de documentación.
+
+  Ejemplo:
+  ```
+	/**
+	 * Retrieves a user by their ID.
+	 *
+	 * @param id the ID of the user to retrieve
+	 * @return the user object, or null if not found
+	 */
+	fun getUserById(id: Long): User? {
+	    return userRepository.findById(id).orElse(null)
+	}
+  ```
+
++ **Uso de Funciones Composable**
+
+	Las funciones composables se declararán con la anotación `@Composable`, y se espera que sean funciones puras que no dependan de variables externas, a menos que se pasen como parámetros. Este enfoque garantiza que las funciones sean reutilizables y predecibles.
+
+  Ejemplo:
+  ```
+	@Composable
+	fun UserProfile(name: String, age: Int) {
+	    Column {
+	        Text(text = "Name: $name")
+	        Text(text = "Age: $age")
+	    }
+	}
+  ```
+
++ **Composición Anidada**
+
+	Dividir la interfaz de usuario en componentes más pequeños y modulares facilitará la legibilidad y el mantenimiento del código. Cada componente será responsable de una única tarea, lo que permitirá su reutilización y prueba más efectivas.
+
+  Ejemplo:
+  ```
+	@Composable
+	fun UserScreen() {
+	    UserProfile(name = "John Doe", age = 30)
+	}
+  ```
+
++ **Manejo del Estado**
+
+	Se utilizarán `remember` y `mutableStateOf` para almacenar el estado que necesita sobrevivir a las recomposiciones. Este enfoque permitirá que la interfaz de usuario responda de manera eficiente a los cambios de estado.
+
+  Ejemplo:
+  ```
+	  @Composable
+	fun Counter() {
+	    var count by remember { mutableStateOf(0) }
+	    Column {
+	        Text(text = "Count: $count")
+	        Button(onClick = { count++ }) {
+	            Text(text = "Increment")
+	        }
+	    }
+	}
+  ```
+ 
+ + **Previsualización de Composables**
+
+	Se utilizará la anotación `@Preview` para mostrar vistas previas de los composables en Android Studio. Esto facilitará el diseño y la iteración, permitiendo a los desarrolladores visualizar la interfaz sin necesidad de compilar y ejecutar la aplicación.
+
+	Ejemplo:
+	```
+	@Preview
+	@Composable
+	fun PreviewUserProfile() {
+	    UserProfile(name = "Jane Doe", age = 25)
+	}
+	  ```
+	  
+<br><br>
+
+**ASTRO**
+
+Astro es un framework moderno que permite construir sitios web estáticos rápidos y optimizados, centrándose en el rendimiento y la experiencia del usuario. Utilizaremos Astro para el desarrollo de nuestra landing page, aprovechando su capacidad de generar páginas eficientes con menos JavaScript, lo que garantiza tiempos de carga rápidos y una mejor experiencia de usuario. Una característica clave es su "island architecture", que permite cargar solo los componentes interactivos necesarios.
+
+ + **Uso de Componentes**
+
+	Para garantizar la modularidad y reutilización del código, definiremos componentes de manera que cumplan con una sola responsabilidad. Los nombres de los archivos de componentes seguirán el formato PascalCase, y cada componente será autocontenido para facilitar su comprensión y mantenimiento.
+
+	Ejemplo:
+	```
+	---
+	  // Header.astro
+	---
+	<header class="header">
+	  <h1>Bienvenido a CambiaZo</h1>
+	</header>
+	
+	<style>
+	  .header {
+	    background-color: #ff6347;
+	    padding: 1rem;
+	    color: white;
+	  }
+	</style>
+	```
+
+ + **Optimización del Rendimiento**
+
+	Aplicaremos la arquitectura  islands de Astro para cargar JavaScript únicamente donde sea necesario. Esto nos permitirá generar páginas estáticas y mejorar el rendimiento de la landing page. Aquí un ejemplo de cómo cargaremos un componente React solo cuando se necesite:
+
+	Ejemplo:
+	```
+	---
+	  import Button from '../components/Button.jsx';
+	---
+
+	<h1>Descubre CambiaZo</h1>
+	<Button client:load />
+	```
+	
+ + **Estilos CSS**
+
+	Los estilos estarán encapsulados dentro de cada componente siempre que sea posible, para evitar conflictos globales y mantener el código CSS organizado. Sin embargo, también importaremos estilos globales para elementos comunes como el diseño general de la página.
+
+	Ejemplo:
+	```
+	---
+	  // Hero.astro
+	---
+	<section class="hero">
+	  <h1>Intercambia artículos fácilmente</h1>
+	</section>
+
+	<style>
+	  .hero {
+	    text-align: center;
+	    padding: 4rem;
+	    background-color: #f9f9f9;
+	  }
+	</style>
+	```
+
+ + **Carga de Imágenes Optimizada**
+
+	Al incorporar imágenes, nos aseguraremos de que se carguen de manera eficiente mediante el uso de las etiquetas `picture` y `img` con la carga diferida (`loading="lazy"`), lo que mejorará significativamente el tiempo de carga de la página.
+
+	Ejemplo:
+	```
+	<picture>
+	  <source srcset="/images/banner.webp" type="image/webp">
+	  <img src="/images/banner.jpg" alt="Banner de CambiaZo" loading="lazy">
+	</picture>
+	```
+ + **Buenas Prácticas de Accesibilidad**
+
+	Nos comprometemos a seguir las mejores prácticas de accesibilidad. Para ello, usaremos etiquetas semánticas adecuadas y proporcionaremos descripciones claras en los elementos interactivos como botones y enlaces.
+
+	Ejemplo:
+	```
+	<button aria-label="Iniciar intercambio">Intercambiar</button>
+	```
+	
+<br><br>	
+
+**GHERKIN**
+
+Gherkin es un Lenguaje Específico de Dominio (DSL) diseñado para abordar problemas específicos al generar casos de validación de características en diversos escenarios. Este lenguaje se utiliza para describir el comportamiento deseado de un software de manera comprensible para personas no técnicas. Gherkin presenta varios elementos, entre los que se destacan Feature, Scenario, Example, Given, When y Then, los cuales son ampliamente utilizados para definir las características y los pasos de las pruebas de comportamiento.
+
+Las pautas a tener en cuenta al utilizar Gherkin en nuestro código incluyen:
+
+  
+
+* **Discernible Given-When-Then Blocks**
+  
+  Según la sugerencia de Keiblinger, para facilitar la comprensión y la organización de los escenarios en Gherkin, se recomienda indentar los pasos que comienzan con "And" después de cada Given, When o Then. Esto permite distinguir claramente dónde termina un bloque y comienza otro, incluso en escenarios con múltiples pasos.
+
+  Ejemplo de Sophie Keiblinger :
+
+  ```
+  Scenario: Discernible Given-When-Then Blocks
+
+  In order to quickly spot where one block ends and another one begins, you can indent the steps starting with “And”
+
+  Given I need to prepare some data for my  scenario
+
+  And this is more complex so I need a second step
+
+  And this is more complex so I need a third step
+
+  When I trigger some action
+
+  Then I can see the expected outcome
+
+  And this outcome also has a second step
+
+  And this outcome also has a third step
+  ```
+
+* **Steps with Tables**
+  
+  Keiblinger nos sugiere utilizar un colon (:) al final de los pasos que requieren más entrada de una tabla. Esto ayuda a hacer inmediatamente reconocible que se espera una tabla como parte de la entrada del paso.
+
+  Ejemplo de Sophie Keiblinger:
+
+  ```
+  Given I need to prepare the following data for my scenario:
+
+  |  column 1  | column 2 |
+  | necessary |     data     |
+  ```
+
+* **Reducing Noise**
+
+  Keiblinger sugiere utilizar valores por defecto para campos que el sistema requiere pero que no son pertinentes para el escenario en cuestión. Por ejemplo, al probar la validación de una fecha de nacimiento, no es necesario especificar el nombre de la persona, título académico o número de seguro social. Esta  inclusión no afecta al resultado del escenario. Esta práctica ayuda a simplificar los escenarios y a enfocarse en las características específicas que se están probando.
+
+  Ejemplo:
+
+  ```
+  When el visitante se acerque a la sección ‘Comunícate con nosotros’
+  ```
+
+* **Newlines between scenarios and separator comments**
+
+  Keiblinger nos dice que para mantener la claridad en los archivos de escenarios de Gherkin, especialmente cuando estos son extensos o contienen múltiples escenarios, se recomienda agregar dos líneas en blanco entre cada escenario. Esto ayuda a distinguir claramente dónde termina un escenario y comienza otro. Además, es común añadir un comentario separador para brindar una guía visual adicional y facilitar la navegación en el archivo.
+
+  Ejemplo:
+  ```
+  #-----------------------------------------------------------------------------------
+  Scenario: Acceso a la historia de TechZo
+          Given que soy un visitante de la landing page
+          When navegue por la página de inicio
+          And encuentre la sección titulada "¿Quiénes Somos?"
+          Then podré obtener información detallada sobre la historia de la startup.
+
+  #-----------------------------------------------------------------------------------
+
+      Scenario: Acceso a las redes sociales de TechZo
+          Given que el visitante se encuentra en el landing page
+          When el visitante de click en la etiqueta “Contáctanos”
+          And encuentre los botones con los logos de las redes sociales en las que puede encontrar la página de TechZo
+          And de click encima del botón con el logo de la red social que desee ver
+          Then el usuario será redireccionado a la red social que seleccionó previamente.
+  ```
+  
+  
+<br><br>
+
+### 6.1.4. Software Deployment Configuration.
+
+En esta sección mostraremos los pasos que hemos realizado para poder desplegar cada uno de nuestros proyectos.
+
+**Landing Page**
+
+Para desplegar nuestra Landing Page hemos optado por usar Netlify,el cual brinda la posibilidad de alojar sitios web estáticos sin costo alguno.
+
+**1. Ingresamos a la página web de Netlify**
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-landing-0.png?raw=true"  alt="netlify"></div>
+<br>
+
+**2. Iniciamos sesión con GitHub para poder usar los repositorios de nuestra cuenta**
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-landing-1.png?raw=true"  alt="netlify"></div>
+<br>
+
+**3. Seleccionamos el repositorio que queremos emplear**
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/Deploy-Evidence-2.png?raw=true"  alt="netlify"></div>
+<br>
+
+**4. Elegimos un nombre dentro de la documentación permitida, para el dominio de la página.**
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-3.png?raw=true"  alt="netlify"></div>
+<br>
+
+**5. Finalmente la Landing Page estaría disponible.**
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-4.png?raw=true"  alt="netlify"></div><br>
+
++ Landing Page: https://cambiazo-landing-page.netlify.app/<br><br>
+
+
+**Frontend**
+
+El despliegue de nuestra Aplicación Web también se realizó mediante Netlify, utilizando un proceso muy similar al que seguimos para la Landing Page. Gracias a la integración con GitHub, Netlify permite seleccionar cualquier repositorio y configurar fácilmente su despliegue.
+
+
+**1. Iniciamos sesión con GitHub para poder usar los repositorios de nuestra cuenta**
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-web-0.png?raw=true" alt="netlify"></div> <br>
+
+**2. Seleccionamos el repositorio donde se encuentra nuestra Aplicación Web**
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-web-1.png?raw=true" alt="netlify"></div> <br>
+
+**3. Elegimos un nombre válido para el dominio, dentro de las opciones permitidas**
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-web-2.png?raw=true" alt="netlify"></div> <br>
+
+**4. Finalmente, la Aplicación Web queda desplegada y accesible desde la URL asignada por Netlify**
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-web-3.png?raw=true" alt="netlify"></div> <br>
+
++ Aplicación Web: https://cambiazo-webapp.netlify.app/home/ <br><br>
+
+<br><br>
+
+**Backend**
+
+Para desplegar nuestro backend, hemos optado por usar Microsoft Azure, el cual permite alojar proyectos de backend de manera eficiente mediante servicios en la nube escalables.
+
+**1.  Ingresamos a Microsoft Azure, Creamos un servidor  y un Servicio Web**
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-0.png?raw=true" alt="backend deploy"><br><br>
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-1.png?raw=true" alt="backend deploy">
+</div><br><br>
+
+**2.  Vinculamos nuestro repositorio del back-end con el Servicio creado en Azure a través de la extensión Github Actions y deployamos**
+
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-2.png?raw=true" alt="backend deploy">
+</div><br><br>
+
+**3.  Finalmente, tendremos el back-end deployado**
+<div align="center">
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-IV/Deploy/Deploy-Evidence-3.png?raw=true" alt="backend deploy">
+</div><br><br>
+
++ Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
+
+
+## 6.2. Sprint 1
+En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
+
+#### 6.2.1.1. Sprint Planning 1.
+
+En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1.
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 1</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-05-15</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>10:00 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual mediante Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Santisteban Palomino, Ian Haziel Donato / Quispe Andia, Jeremy Joel / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre / Pin Matallana, Augusto Jose.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Review Summary</td>
+    <td>(No Aplica)</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Retrospective Summary</td>
+    <td>(No Aplica)</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 1</td>
+    <td>
+      Desarrollar la landing page, el frontend inicial y la primera versión funcional del backend.<br><br>
+      Métrica de Cumplimiento: Para evaluar el cumplimiento de este sprint, utilizaremos la siguiente métrica: Verificaremos que la landing page esté completamente diseñada y publicada, que el frontend cuente con una estructura básica funcional e integrada con el backend, y que el backend tenga implementada su primera versión con endpoints del user context y product context. El objetivo será completar el 100% de las funcionalidades planificadas y asegurar una correcta integración entre frontend y backend.
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Velocity</td>
+    <td>50 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>48 Story Points</td>
+  </tr>
+</table><br><br>
+
+
+#### 6.2.1.2. Aspect Leaders and Collaborators.
+
+En este Sprint, se identificaron aspectos clave necesarios para el desarrollo inicial del proyecto, tales como el diseño de la interfaz (UI/UX), la creación de la landing page, la creación del frontend, la estructuración de la base de datos y la primera versión del backend. Para cada uno de estos aspectos, se asignó un líder responsable de coordinar su desarrollo, así como colaboradores que apoyarán en la ejecución de las tareas. Esta distribución busca asegurar una mejor organización del equipo, fomentar la responsabilidad compartida y facilitar la comunicación durante el Sprint.
+
+<table>
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>ID/Código</th>
+    <th>Landing Page</th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Base de datos</th>
+    <th>UI/UX</th>
+  </tr>
+  <tr>
+    <td>Mendoza Carrion, Mathias Andre</td>
+    <td>U202216282</td>
+    <td>L</td>
+    <td>C</td>
+    <td></td>
+    <td></td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Quispe Andia, Jeremy Joel</td>
+    <td>U202216279</td>
+    <td>C</td>
+    <td>L</td>
+    <td></td>
+    <td></td>
+    <td>C</td>
+  </tr>
+    <tr>
+    <td>Huamani Mandujano, Joseph Alexis</td>
+    <td>U20221A133</td>
+    <td></td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+    <td>U202214059</td>
+    <td>C</td>
+    <td></td>
+    <td>C</td>
+    <td>L</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Pin Matallana, Augusto Jose</td>
+    <td>U202210257</td>
+    <td>C</td>
+    <td>C</td>
+    <td></td>
+    <td></td>
+    <td>L</td>
+  </tr>
+</table>
+
+### 6.2.1.3. Sprint Backlog 1.
+
+En este sprint se avanzó en la implementación de diversas funcionalidades clave para la aplicación, incluyendo el registro e inicio de sesión de usuarios, la creación y visualización de publicaciones para intercambio, así como la implementación de filtros para facilitar la búsqueda de objetos. También se trabajó en la mejora de la navegación y presentación de la Landing Page. Estas tareas contribuyeron a fortalecer la experiencia del usuario y sentaron las bases para futuras mejoras del sistema.
+
+Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131222462667a4335b4351448BFD/cambiazo-iot<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Sprint-1/Sprint1-Trello.png?raw=true" alt="sprints">
+</div><br><br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation (Hours)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US01</td>
+    <td rowspan="1">Registro de usuario</td>
+    <td>WI-01</td>
+    <td>Sección para nuevos usuarios</td>
+    <td>Implem entación de una pantalla de registro donde nuevos usuarios puedan sumarse a CambiaZo.</td>
+    <td>6</td>
+    <td>Jeremy Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US03</td>
+    <td rowspan="1">Iniciar sesión en la aplicación</td>
+    <td>WI-02</td>
+    <td>Pantalla de inicio de sesión</td>
+    <td>Se crea una pantalla en la cual el usuario podrá ingresar a la aplicación cuando introduzca el correo con el que creó su cuenta y su contraseña.</td>
+    <td>2</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US05</td>
+    <td rowspan="1">Cerrar sesión</td>
+    <td>WI-03</td>
+    <td>Funcionalidad de cerrar sesión</td>
+    <td>Implementación de la opción de cerrar sesión en la aplicación.</td>
+    <td>2</td>
+    <td>Jeremy Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US06</td>
+    <td rowspan="1">Filtrado de Objetos</td>
+    <td>WI-04</td>
+    <td>Implem entación de un filtro de búsqueda</td>
+    <td>Implementar un filtro de búsqueda para que los usuarios puedan encontrar de forma más rápida los objetos de su interés.</td>
+    <td>10</td>
+    <td>Ian Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US10</td>
+    <td rowspan="1">Visualización de artículos publicados para intercambio</td>
+    <td>WI-05</td>
+    <td>Listar artículos publicados</td>
+    <td>Creación de una sección donde se muestren los artículos publicados por los usuarios.</td>
+    <td>4</td>
+    <td>Joseph Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+  <td rowspan="1">US12</td>
+  <td rowspan="1">Crear publicación de intercambio</td>
+  <td>WI-06</td>
+  <td>Pantalla de creación de publicación</td>
+  <td>Implementar la pantalla donde los usuarios puedan crear publicaciones para intercambiar.</td>
+  <td>10</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+ </tr>
+  <tr>
+    <td rowspan="1">US16</td>
+    <td rowspan="1">Visualización de objetos disponibles para intercambio</td>
+    <td>WI-07</td>
+    <td>Listar los objetos disponibles</td>
+    <td>Creación de una sección en la que los usuarios registrados puedan ver los objetos por los que pueden realizar un intercambio.</td>
+    <td>10</td>
+    <td>Joseph Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+  <tr>
+    <td rowspan="1">US19</td>
+    <td rowspan="1">Ver la información detallada de un producto publicado</td>
+    <td>WI-08</td>
+    <td>Funcionalidad de detalles del producto</td>
+    <td>Implementar  la opción para  que los usuarios  vean información detallada  de un producto.</td>
+    <td>10</td>
+    <td>Jeremy Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US20</td>
+    <td rowspan="1">Adquirir suscripción premium</td>
+    <td>WI-09</td>
+    <td>Funcionalidad de adquirir suscripción</td>
+    <td>Permitir a los usuarios adquirir una suscripción premium para obtener beneficios adicionales.</td>
+    <td>16</td>
+    <td>Ian Santisteban</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US27</td>
+    <td rowspan="1">Visualización de la Historia de la Startup</td>
+    <td>WI-10</td>
+    <td>Sección “¿Quiénes somos?”</td>
+    <td>Implementación de la sección “¿Quiénes somos?” y las redes sociales y datos de contacto en el footer.</td>
+    <td>2</td>
+    <td>Augusto Pin</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US28</td>
+    <td rowspan="1">Visualizar las características clave de la aplicación</td>
+    <td>WI-11</td>
+    <td>Sección Caracte rísticas Principales</td>
+    <td>Desarrollo de la sección donde se pueden visualizar todas las características principales de CambiaZo y conocer lo que puede realizar dentro de esta.</td>
+    <td>4</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US29</td>
+    <td rowspan="1">Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
+    <td>WI-12</td>
+    <td>Formulario de contacto</td>
+    <td>Desarrollo del formulario para que los usuarios llenen sus datos de contacto y puedan recibir noticias relacionadas con CambiaZo.</td>
+    <td>10</td>
+    <td>Ian Santisteban</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td rowspan="1">US30</td>
+    <td rowspan="1">Descargar la aplicación de CambiaZo</td>
+    <td>WI-13</td>
+    <td>Redireccionar a Google Play Store</td>
+    <td>Implementación de botones que sirvan para redire ccionar a los usuarios de la Landing Page a Google Play Store para que descarguen la aplicación.</td>
+    <td>4</td>
+    <td>Joseph Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US31</td>
+    <td rowspan="1">Ver los planes y precios</td>
+    <td>WI-14</td>
+    <td>Sección de planes y precios</td>
+    <td>Desarrollo de la sección de planes, donde aparezcan los precios de cada plan y lo que incluye cada uno.</td>
+    <td>6</td>
+    <td>Jeremy Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US32</td>
+    <td rowspan="1">Navegación en la Landing Page</td>
+    <td>WI-15</td>
+    <td>Barra de Navegación</td>
+    <td>Implementación de una barra de navegación para que el usuario pueda desplazarse más rápido dentro de la Landing Page.</td>
+    <td>6</td>
+    <td>Mathias Mendoza</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS01</td>
+    <td rowspan="1">API User</td>
+    <td>WI-16</td>
+    <td>Metodos CRUD para Usuarios</td>
+    <td>Implementación de los metodos POST, GET, UPDATE y DELETE para poder manejar los datos de la tabla usuarios y relacionadas.</td>
+    <td>10</td>
+    <td>Augusto Pin</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">TS05</td>
+    <td rowspan="1">API Product</td>
+    <td>WI-17</td>
+    <td>Metodos CRUD para productos</td>
+    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para gestionar los datos de la tabla de productos, permitiendo a los usuarios manejar y organizar sus productos segun sus necesidades.</td>
+    <td>10</td>
+    <td>Ian Santisteban</td>
+    <td>Done</td>
+  </tr>
+</tr>
+</tbody>
+</table>
+
+### 6.2.1.4. Development Evidence for Sprint Review.
+
+Durante el Sprint 1, se realizaron múltiples commits en el repositorio del frontend de CambiaZo, vinculados a User Stories y Technical Stories. Estos reflejan avances clave como la edición y filtrado de productos, mejoras visuales, validaciones de formularios y optimización de solicitudes. El historial de commits evidencia un trabajo colaborativo y continuo en función de los objetivos del Sprint. 
+
+### Frontend: 
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>9d5167e</td>
+      <td>Initial commit</td>
+      <td></td>
+      <td>05/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>e11cd33</td>
+      <td>fix: updated v2 endpoints</td>
+      <td>-</td>
+      <td>13/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>c34ebbb</td>
+      <td>feat: updated endopoint changeProfileImage</td>
+      <td>-</td>
+      <td>13/05/25</td>
+    </tr>
+    <tr>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>32591c8</td>
+      <td>feat: add email js to contact formulary for funcionality</td>
+      <td>-</td>
+      <td>13/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>8ea1877</td>
+      <td>feat: added login and register with google auth</td>
+      <td>-</td>
+      <td>14/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>edc5b64</td>
+      <td>feat: added post exchange</td>
+      <td>-</td>
+      <td>24/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>725d045790c077</td>
+      <td>fix: corrected the content products</td>
+      <td>-</td>
+      <td>24/05/25</td>
+    </tr>
+    <tr>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>67e9980</td>
+      <td>feat: add styles to buy membership componente</td>
+      <td>-</td>
+      <td>26/05/25</td>
+    </tr>
+    <tr>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>aa111ff</td>
+      <td>feat: fix membership componente card placeholder</td>
+      <td>-</td>
+      <td>26/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>aa111ff</td>
+      <td>feat: corrected the structure and services of some components</td>
+      <td>-</td>
+      <td>09/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>86cbe36</td>
+      <td>feat: added corrected exchanges</td>
+      <td></td>
+      <td>09/06/25</td>
+    </tr>
+    <tr>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>d66fb3f</td>
+      <td>fix: corrected styles of latest products</td>
+      <td></td>
+      <td>09/06/25</td>
+    </tr>
+    <tr>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>96ac1be</td>
+      <td>feat: update endpoints for membership and favorites</td>
+      <td></td>
+      <td>09/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>fix</td>
+      <td>a3a3921</td>
+      <td>fix: fixed styles and functionality in product filter</td>
+      <td>Options were displayed in the location selects and changed style in buttons.</td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>fix</td>
+      <td>a88de01</td>
+      <td>fix: fixed product edit functionality</td>
+      <td>fix: fixed product edit functionality</td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>fix</td>
+      <td>041182</td>
+      <td>fix: fixed favorite products detail</td>
+      <td>Detalle de los productos mostrados en la sección de favoritos.</td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>fix</td>
+      <td>7bffcc5</td>
+      <td>feat: added enable style</td>
+      <td>added enable style on current button membership.</td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>fix</td>
+      <td>5f23aa2</td>
+      <td>fix: delete functionality in favorite products</td>
+      <td>fixed functionality to delete products in favorite section</td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>2cb703</td>
+      <td>feat: added corrected the images and firebase storage and skeleton</td>
+      <td></td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>fix</td>
+      <td>2d0886</td>
+      <td>fix: make a review</td>
+      <td>We fixed the endpoint to make a review.</td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>1224e05</td>
+      <td>feat: added validation post</td>
+      <td></td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>develop</td>
+      <td>101e81b</td>
+      <td>feat: added corrected register and login</td>
+      <td></td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>fix</td>
+      <td>111ced3</td>
+      <td>fix: display reviews</td>
+      <td>fixed review functionality</td>
+      <td>10/06/25</td>
+    </tr>
+  </tbody>
+</table>
+
+## Backend
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Hello/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>523c60f</td>
+      <td>feat: added new product update method</td>
+      <td>-</td>
+      <td>29/04/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>7555acd</td>
+      <td>fix: updated send email controller</td>
+      <td>I've updated send email controller</td>
+      <td>29/04/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>752ffe4</td>
+      <td>feat: added created at in get products methods</td>
+      <td>I've added created at in get products methods</td>
+      <td>29/04/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>4d326e3</td>
+      <td>feat: added completed endpoints for bounded context users and products</td>
+      <td>-</td>
+      <td>29/04/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>59fa996</td>
+      <td>feat: added cors configuration to allow access for frontend</td>
+      <td>-</td>
+      <td>30/04/25</td>
+    </tr>
+    <tr>
+      <td>IanHD04/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>bc9bd39</td>
+      <td>fix: update endpoint of get review by user and exchange ids</td>
+      <td>I've updated the endpoint of get review by userId a exchangeId</td>
+      <td>09/05/25</td>
+    </tr>
+    <tr>
+      <td>Hello/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>59fa996</td>
+      <td>fix: correct response for subscription POST request</td>
+      <td>Corrects the response format and status code for the subscription POST request.</td>
+      <td>14/05/25</td>
+    </tr>
+  </tbody>
+</table>
+
+### 6.2.1.5. Testing Suite Evidence for Sprint Review.
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>db88b11</td>
+      <td>Feat: Create US-01</td>
+      <td>In this part, we applied Gherkin to the US-01</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>e0c4005</td>
+      <td>Feat: Create US-03</td>
+      <td>In this part, we applied Gherkin to the US-03</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>02f9c7d</td>
+      <td>Feat: Create US-05</td>
+      <td>In this part, we applied Gherkin to the US-05</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>ab71ec2</td>
+      <td>Feat: Create US-06</td>
+      <td>In this part, we applied Gherkin to the US-06</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>3df14ac</td>
+      <td>Feat: Create US-10</td>
+      <td>In this part, we applied Gherkin to the US-10</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>8ed2a1b</td>
+      <td>Feat: Create US-12</td>
+      <td>In this part, we applied Gherkin to the US-12</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>1cb67f3</td>
+      <td>Feat: Create US-16</td>
+      <td>In this part, we applied Gherkin to the US-16</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>5fa8be6</td>
+      <td>Feat: Create US-19</td>
+      <td>In this part, we applied Gherkin to the US-19</td>
+      <td>16/05/25</td>
+    </tr>
+     <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>78bc43e</td>
+      <td>Feat: Create US-20</td>
+      <td>In this part, we applied Gherkin to the US-20</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>e01afbd</td>
+      <td>Feat: Create US-27</td>
+      <td>In this part, we applied Gherkin to the US-27</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>c3d14e9</td>
+      <td>Feat: Create US-28</td>
+      <td>In this part, we applied Gherkin to the US-28</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>b5fe28a</td>
+      <td>Feat: Create US-29</td>
+      <td>In this part, we applied Gherkin to the US-29</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>9ad13f0</td>
+      <td>Feat: Create US-30</td>
+      <td>In this part, we applied Gherkin to the US-30</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>f4b29dc</td>
+      <td>Feat: Create US-31</td>
+      <td>In this part, we applied Gherkin to the US-31</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>a7c93e1</td>
+      <td>Feat: Create US-32</td>
+      <td>In this part, we applied Gherkin to the US-32</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>f4b29dc</td>
+      <td>Feat: Create TS-01</td>
+      <td>In this part, we applied Gherkin to the TS-01</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>a7c93e1</td>
+      <td>Feat: Create TS-02</td>
+      <td>In this part, we applied Gherkin to the TS-02</td>
+      <td>16/05/25</td>
+    </tr>
+    </thread>
+    </table>
+
+
+### 6.2.1.6. Execution Evidence for Sprint Review.
+
+Durante el Sprint 1 se logró desplegar con éxito la landing page, avanzar en el desarrollo de la aplicación web y establecer la estructura base del backend. En la landing page se implementaron la barra de navegación, las secciones informativas clave y un formulario de contacto completamente funcional, conectado al backend para su procesamiento.
+
+En cuanto a la aplicación web, ya cuenta con las funcionalidades de inicio de sesión, registro de usuarios y una primera versión de la pantalla de explorar, donde los usuarios pueden visualizar los objetos disponibles para intercambio. Por su parte, el backend fue preparado con los primeros endpoints de autenticación y lectura de publicaciones, lo que permite comenzar a conectar la lógica de negocio con las interfaces.
+
+Asimismo, el equipo adoptó con éxito la metodología GitFlow, trabajando en ramas independientes según cada funcionalidad, lo que permitió realizar pruebas y actualizaciones sin comprometer la estabilidad de la rama principal.
+
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EbL3-8BLFs9JsZpIoe0lf38BJgioXU1a--mchjRTU7JgZA?e=P5NXpC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+<br><br>
+
+
+**Landing Page:**<br>
+
++ Landing Page: https://cambiazo-landing-page.netlify.app/<br><br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing1.png" alt="landing page" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing2.png" alt="landing page" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing3.png" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-4.png?raw=true" alt="landing page" ><br>
+
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-7.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-9.png?raw=true" alt="landing page" >
+</div>
+
+<br><br>
+
+**Página Web:**<br>
+
++ Aplicación Web: https://cambiazo-webapp.netlify.app/home/ <br><br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web1.png" alt="mobile app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web2.png" alt="mobile app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front3.png" alt="mobile app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web3.png" alt="mobile app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web4.png" alt="mobile app" ><br>
+</div>
+<br><br>
+
+**Backend:**<br>
+
++ Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
+
+<br><br>
+
+### 6.2.1.7. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 1, se desarrollaron funcionalidades clave en los tres frentes del sistema: backend, aplicación web y aplicación móvil, todas integradas en una plataforma de intercambios sostenibles potenciada por IoT. Desde el backend se implementaron endpoints seguros para cambiar contraseñas, gestionar reseñas y controlar la eliminación de cuentas, garantizando protección de datos y cumplimiento de buenas prácticas.
+
+En la web, se habilitaron interfaces intuitivas para editar publicaciones y administrar suscripciones premium, facilitando la trazabilidad y gestión de intercambios conectados a lockers inteligentes. En la app móvil, se integraron estas funcionalidades adaptadas a un entorno responsivo, priorizando accesibilidad y experiencia del usuario.
+
+Todo el trabajo fue coordinado a través de GitHub, usando ramas por módulo y User Story, lo que permitió una integración continua fluida y una base sólida para escalar la plataforma.
+
+### 6.2.1.8. Software Deployment Evidence for Sprint Review.
+Ahora procederemos a detallar los procesos que hemos realizado a lo largo del Sprint
+
+Continuaremos utilizando los repositorios en GitHub que hemos creado para la Aplicación Web y para los Acceptance Tests. Estos repositorios son fundamentales para el seguimiento y la implementación de las funcionalidades desarrolladas, asegurando que se mantenga una adecuada gestión del código y pruebas para validar el cumplimiento de los requisitos establecidos.
+
+  <div align="center">
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy123.png"  alt="Repositorio App Móvil">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy222.png" alt="Repositorio archivos feature">
+</div><br><br>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy888.png" alt="Repositorio archivos feature">
+</div><br><br>
+</div>
+
+En el repositorio de nuestro proyecto IoT, hemos adoptado la metodología GitFlow para gestionar las ramas de desarrollo, lo que nos ha permitido trabajar de forma ordenada y paralela en distintas funcionalidades del sistema.
+
+Siguiendo esta metodología, hemos creado ramas específicas para cada historia de usuario, utilizando la nomenclatura feature/US-[número de historia]. En estas ramas se han implementado tanto la lógica de sensores como las interfaces correspondientes en la aplicación web, de acuerdo a los requerimientos definidos en cada historia de usuario.
+
+
+</div>
+
+<br><br>
+
+### 6.2.1.9. Team Collaboration Insights during Sprint.
+
+Durante el Sprint, el equipo trabajó de forma coordinada para avanzar en los tres frentes del proyecto: landing page, aplicación móvil y backend. Cada integrante asumió responsabilidades específicas según sus fortalezas, asegurando un desarrollo paralelo y eficiente. Se establecieron reuniones constantes para alinear avances, resolver bloqueos y tomar decisiones técnicas en conjunto. La colaboración activa permitió integrar nuevas funcionalidades, validar prototipos y mejorar la calidad del código mediante revisiones cruzadas. Esta dinámica de trabajo colaborativo fue clave para cumplir los objetivos del sprint y mantener una integración continua sin contratiempos.
+
+Landing Page: 
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration1.png" alt="Repositorio archivos feature">
+</div><br><br>
+
+Aplicación Web: 
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration2.png" alt="Repositorio archivos feature">
+</div><br><br>
+
+Backend: 
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration3.png" alt="Repositorio archivos feature">
+</div><br><br>
+
+
 ## Conclusiones
 
 La investigación inicial confirmó con datos cualitativos que el modelo de economía lineal está generando niveles crecientes de residuos y desconfianza en los intercambios informales. Las más de cuatro entrevistas realizadas mostraron que el 100 % de los usuarios ha tenido experiencias negativas al intentar trueques a través de redes sociales tradicionales, lo que evidencia una oportunidad clara para una solución segura y automatizada como CambiaZo.
@@ -2179,6 +4101,9 @@ A través de la aplicación de metodologías Lean UX—definición de problem st
 La arquitectura propuesta, basada en EventStorming y Domain-Driven Design, establece una separación clara de responsabilidades mediante contextos acotados (Cuenta, Intercambios, Locker). Esta estrategia facilita la mantenibilidad del sistema y soporta tanto la capa web/móvil como los dispositivos IoT de los lockers inteligentes. Además, el uso de contenedores y bases de datos edge garantiza que el servicio permanezca operativo incluso ante interrupciones temporales de conectividad, sincronizándose luego de manera eficiente con CosmosDB en la nube.
 
 El conjunto de epics, user stories y technical stories definido cubre exhaustivamente todos los escenarios críticos: desde la gestión de cuentas y la publicación de intercambios, hasta la aceptación de ofertas, el manejo de suscripciones y la atención al usuario. Este backlog estructurado sienta las bases de un roadmap de desarrollo ágil que facilite la entrega temprana de valor y permita ajustar el producto de manera iterativa según el feedback real de los usuarios.
+
+Durante el Trabajo Parcial se cumplió con éxito el desarrollo de la landing page, el frontend inicial y la primera versión funcional del backend, integrando funcionalidades clave como registro, login, visualización de productos y filtros. Gracias a una coordinación efectiva, uso de GitFlow y enfoque colaborativo, se avanzó de forma sólida en la construcción de la plataforma CambiaZo, sentando las bases para los siguientes sprints.
+
 
 Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular y la sostenibilidad. Más allá de optimizar los procesos de trueque, la plataforma propone un modelo socialmente responsable que incluye donaciones a comunidades vulnerables y promueve hábitos de consumo consciente. De este modo, se alinea con la misión de impulsar un cambio positivo en la reducción de residuos y en la adopción de prácticas de reutilización a través de la tecnología.
 
@@ -2220,7 +4145,28 @@ Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular 
 
 # Anexos
 
-+ Repositorio GitHub de la Organización:[Ver Organización](https://github.com/TechZo-1ASI0572-2942)<br><br>
++ Landing Page: https://cambiazo-landing-page.netlify.app/<br><br>
+
++ Aplicación Web: https://cambiazo-webapp.netlify.app/home/ <br><br>
+
++ Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
+
++ Repositorio GitHub de la Organización: https://github.com/TechZo-1ASI0572-2942<br><br>
+
++ Repositorio GitHub de la Web App: https://github.com/TechZo-1ASI0572-2942/CambiaZo-WebApp<br><br>
+
++ Repositorio GitHub del Backend: https://github.com/TechZo-1ASI0572-2942/CambiaZo-Backend<br><br>
+
++ Repositorio GitHub de los Acceptance Tests: https://github.com/TechZo-1ASI0572-2942/Acceptance-Tests<br><br>
+
++ Repositorio GitHub de la Landing Page: https://github.com/TechZo-1ASI0572-2942/Cambiazo-LandingPage<br><br>
+
+
+## Needfinding Interviews
+
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EahtaVsRKF1Ds5n200RM-pwBZNttejscbL4slC6uZSlEKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EGcKBv
+
+
 
 ## Exposure video TB1
 
@@ -2229,7 +4175,7 @@ Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular 
  </div>
 
 
-Enlace: [Exposure video Tb1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EYSYg3R3BO1Aqs1aP8oqmsoBPvP7XyXfF9U_9dJE7y7PFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=osEOv1)
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EYSYg3R3BO1Aqs1aP8oqmsoBPvP7XyXfF9U_9dJE7y7PFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=osEOv1
 
 
 
