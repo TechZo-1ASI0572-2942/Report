@@ -1832,7 +1832,11 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 Nuestro proceso de Event Storming se llevó a cabo utilizando la herramienta MIRO, donde desarrollamos de forma colaborativa todo el flujo visual. Iniciamos con la fase de Exploración No Estructurada, en la cual analizamos y compartimos diferentes perspectivas sobre los eventos del dominio, siguiendo las recomendaciones metodológicas correspondientes. Para la selección de los eventos, consideramos criterios clave como su relevancia, frecuencia y temporalidad, asegurando así una representación coherente del comportamiento del sistema.
 
 <div align="center">
-	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-1.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+	<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-1.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+</div>
+
+<div align="center">
+	<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-2.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **Evidencia del desarrollo del flujo de autenticación**
