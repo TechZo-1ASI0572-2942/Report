@@ -3727,9 +3727,9 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
 
 ### 6.2.1.6. Execution Evidence for Sprint Review.
 
-Durante el Sprint 1 se logró desplegar con éxito la landing page, avanzar en el desarrollo de la aplicación móvil en Kotlin y establecer la estructura base del backend. En la landing page se implementaron la barra de navegación, las secciones informativas clave y un formulario de contacto completamente funcional, conectado al backend para su procesamiento.
+Durante el Sprint 1 se logró desplegar con éxito la landing page, avanzar en el desarrollo de la aplicación web y establecer la estructura base del backend. En la landing page se implementaron la barra de navegación, las secciones informativas clave y un formulario de contacto completamente funcional, conectado al backend para su procesamiento.
 
-En paralelo, la app móvil ya cuenta con las funcionalidades de inicio de sesión, registro de usuarios y una primera versión de la pantalla de explorar, donde los usuarios pueden visualizar los objetos disponibles para intercambio. Por su parte, el backend fue preparado con los primeros endpoints de autenticación y lectura de publicaciones, lo que permite comenzar a conectar la lógica de negocio con las interfaces web y móviles.
+En cuanto a la aplicación web, ya cuenta con las funcionalidades de inicio de sesión, registro de usuarios y una primera versión de la pantalla de explorar, donde los usuarios pueden visualizar los objetos disponibles para intercambio. Por su parte, el backend fue preparado con los primeros endpoints de autenticación y lectura de publicaciones, lo que permite comenzar a conectar la lógica de negocio con las interfaces.
 
 Asimismo, el equipo adoptó con éxito la metodología GitFlow, trabajando en ramas independientes según cada funcionalidad, lo que permitió realizar pruebas y actualizaciones sin comprometer la estabilidad de la rama principal.
 
@@ -3738,20 +3738,17 @@ Enlace: [Video del Execution Evidence for Sprint 1](https://upcedupe-my.sharepoi
 
 **Landing Page:**<br>
 
-Enlace: [Cambiazo Landing Page](https://cambiazo-site.netlify.app/)
+Enlace: [Cambiazo Landing Page](https://cambiazo-landing-.netlify.app/)
 
 <div align="center">
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-1.png?raw=true" alt="landing page" ><br>
+  <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing1.png" alt="landing page" ><br>
 
-<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-2.png?raw=true" alt="landing page" ><br>
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing2.png" alt="landing page" ><br>
 
-<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-3.png?raw=true" alt="landing page" ><br>
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing3.png" alt="landing page" ><br>
 
 <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-4.png?raw=true" alt="landing page" ><br>
 
-<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-5.png?raw=true" alt="landing page" ><br>
-
-<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-6.png?raw=true" alt="landing page" ><br>
 
 <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-7.png?raw=true" alt="landing page" ><br>
 
@@ -3765,15 +3762,15 @@ Enlace: [Cambiazo Landing Page](https://cambiazo-site.netlify.app/)
 **Página Web:**<br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front2.png" alt="mobile app" ><br>
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web1.png" alt="mobile app" ><br>
 
-<img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front1.png" alt="mobile app" ><br>
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web2.png" alt="mobile app" ><br>
 
 <img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front3.png" alt="mobile app" ><br>
 
-<img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front4.png" alt="mobile app" ><br>
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web3.png" alt="mobile app" ><br>
 
-<img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front5.png" alt="mobile app" ><br>
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web4.png" alt="mobile app" ><br>
 </div>
 
 <br><br>
@@ -3815,16 +3812,6 @@ Siguiendo esta metodología, hemos creado ramas específicas para cada historia 
 
 </div>
 
-<br>
-Aplicación Móvil
-En el módulo móvil, cada integrante trabajó en funcionalidades específicas (como el login, la pantalla de publicaciones o las notificaciones push), subiendo sus avances a ramas individuales ligadas a User Stories. Tras la revisión en equipo, los cambios se integraron a la rama develop y, una vez validados, fueron enviados a main para su despliegue a través de herramientas como Firebase App Distribution o Expo.
-
-Aplicación Web
-Para la plataforma web, se aplicó un flujo similar, subiendo componentes como el panel de intercambios, la gestión de lockers y el sistema de reseñas. Las ramas fueron organizadas por funcionalidad, con revisiones en pull requests antes de hacer merge a develop. Luego de asegurar la estabilidad del sistema, se pasaron a main y se desplegaron en Netlify como entorno productivo.
-
-Backend
-En el backend, cada endpoint (usuarios, intercambios, lockers, suscripciones) fue desarrollado en ramas separadas. Se realizaron pruebas unitarias y de integración antes de unir todo en develop. Tras verificar la coherencia y funcionamiento general, se subió a main y se desplegó en un entorno en la nube (como Render o Azure App Service), asegurando la conexión con la base de datos y servicios externos como correo o notificaciones.
-
 <br><br>
 
 ### 6.2.1.9. Team Collaboration Insights during Sprint.
@@ -3858,6 +3845,9 @@ A través de la aplicación de metodologías Lean UX—definición de problem st
 La arquitectura propuesta, basada en EventStorming y Domain-Driven Design, establece una separación clara de responsabilidades mediante contextos acotados (Cuenta, Intercambios, Locker). Esta estrategia facilita la mantenibilidad del sistema y soporta tanto la capa web/móvil como los dispositivos IoT de los lockers inteligentes. Además, el uso de contenedores y bases de datos edge garantiza que el servicio permanezca operativo incluso ante interrupciones temporales de conectividad, sincronizándose luego de manera eficiente con CosmosDB en la nube.
 
 El conjunto de epics, user stories y technical stories definido cubre exhaustivamente todos los escenarios críticos: desde la gestión de cuentas y la publicación de intercambios, hasta la aceptación de ofertas, el manejo de suscripciones y la atención al usuario. Este backlog estructurado sienta las bases de un roadmap de desarrollo ágil que facilite la entrega temprana de valor y permita ajustar el producto de manera iterativa según el feedback real de los usuarios.
+
+Durante el Trabajo Parcial se cumplió con éxito el desarrollo de la landing page, el frontend inicial y la primera versión funcional del backend, integrando funcionalidades clave como registro, login, visualización de productos y filtros. Gracias a una coordinación efectiva, uso de GitFlow y enfoque colaborativo, se avanzó de forma sólida en la construcción de la plataforma CambiaZo, sentando las bases para los siguientes sprints.
+
 
 Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular y la sostenibilidad. Más allá de optimizar los procesos de trueque, la plataforma propone un modelo socialmente responsable que incluye donaciones a comunidades vulnerables y promueve hábitos de consumo consciente. De este modo, se alinea con la misión de impulsar un cambio positivo en la reducción de residuos y en la adopción de prácticas de reutilización a través de la tecnología.
 
