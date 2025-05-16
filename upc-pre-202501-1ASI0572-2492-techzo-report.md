@@ -2434,23 +2434,39 @@ Implementando estas técnicas y acciones de navegación, buscamos que los usuari
 
 ### 5.3.1. Landing Page Wireframe
 
-Desktop:
+Para la creación del esquema inicial de nuestra Landing Page, se empleó la plataforma Figma en conjunto con una variedad de complementos que simplificaron considerablemente el proceso de diseño y desarrollo. Esta combinación de herramientas permitió una producción eficiente y efectiva del wireframe.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-desktop.png?raw=true" alt="">
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=0-1&t=TsdwraOjylYazZcP-1 <br><br>
 
-Mobile:
+**Landing Page**
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-mobile.png?raw=true" alt="">
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-desktop.png?raw=true" width="600px" alt="Wireframe">
+</div><br><br>
+
+**Landing Page en Mobile Web Browser**
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/wireframe-landing-mobile.png?raw=true" width="300px" alt="Wireframe Mobile">
+</div><br><br>
 
 ### 5.3.2. Landing Page Mock-up
 
-Desktop:
+Hemos completado con éxito la creación del mock-up de la Landing Page, lo que nos ha permitido destacar y aplicar los principios y elementos de diseño que hemos establecido. Estos principios y pautas heurísticas desempeñan un papel fundamental al hacer que la experiencia para los usuarios finales de nuestra plataforma sea más sencilla e intuitiva.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-desktop.png?raw=true" alt="">
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=0-1&t=TsdwraOjylYazZcP-1 <br><br>
 
-Mobile:
+**Landing Page**
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-mobile.png?raw=true" alt="">
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-desktop.png?raw=true" width="600px" alt="Mockup">
+</div><br><br>
+
+**Landing Page en Mobile Web Browser**
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Landing-Page-UI-Design/mock-up-landing-mobile.png?raw=true" width="300px" alt="Mockup Mobile">
+</div><br><br>
 
 ## 5.4 Applications UX/UI Design
 
