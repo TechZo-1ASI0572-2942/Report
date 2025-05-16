@@ -3912,9 +3912,6 @@ Continuaremos utilizando los repositorios en GitHub que hemos creado para la Apl
   <div align="center">
     <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy888.png" alt="Repositorio archivos feature">
 </div><br><br>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy999.png" alt="Repositorio archivos feature">
-</div><br><br>
 </div>
 
 En el repositorio de nuestro proyecto IoT, hemos adoptado la metodología GitFlow para gestionar las ramas de desarrollo, lo que nos ha permitido trabajar de forma ordenada y paralela en distintas funcionalidades del sistema.
@@ -3939,12 +3936,6 @@ Landing Page:
 Aplicación Web: 
   <div align="center">
     <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration2.png" alt="Repositorio archivos feature">
-</div><br><br>
-
-Aplicación Móvil:
-
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration3.png" alt="Repositorio archivos feature">
 </div><br><br>
 
 
