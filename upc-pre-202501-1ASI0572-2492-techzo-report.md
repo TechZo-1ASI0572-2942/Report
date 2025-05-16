@@ -3206,7 +3206,7 @@ En este Sprint, se identificaron aspectos clave necesarios para el desarrollo in
 
 En este sprint se avanzó en la implementación de diversas funcionalidades clave para la aplicación, incluyendo el registro e inicio de sesión de usuarios, la creación y visualización de publicaciones para intercambio, así como la implementación de filtros para facilitar la búsqueda de objetos. También se trabajó en la mejora de la navegación y presentación de la Landing Page. Estas tareas contribuyeron a fortalecer la experiencia del usuario y sentaron las bases para futuras mejoras del sistema.
 
-Enlace: [Sprints Backlogs Trello](https://trello.com/invite/b/68253f6b5a6b20fec48a9604/ATTIb8b2ae680b376e13193cf896e7e49970C1F19E6C/cambiazo-diseno)<br><br>
+Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131222462667a4335b4351448BFD/cambiazo-iot<br><br>
 
 <div align="center">
   <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Sprint-Backlog/Sprints.png?raw=true" alt="sprints">
@@ -3226,159 +3226,159 @@ Enlace: [Sprints Backlogs Trello](https://trello.com/invite/b/68253f6b5a6b20fec4
     <td>Id</td>
     <td>Title</td>
     <td>Description</td>
-    <td>Estim<br>ation (Hours)</td>
+    <td>Estimation (Hours)</td>
     <td>Assigned to</td>
     <td>Status (To-do / InProcess / ToReview / Done)</td>
   </tr>
   <tr>
     <td rowspan="1">US01</td>
-    <td rowspan="1">Registro<br>de<br>usuario</td>
+    <td rowspan="1">Registro de usuario</td>
     <td>WI-01</td>
-    <td>Sección<br>para<br>nuevos<br>usuarios</td>
-    <td>Implem<br>entación<br>de una<br>pantalla de<br>registro donde<br>nuevos usuarios<br>puedan sumarse<br>a CambiaZo.</td>
+    <td>Sección para nuevos usuarios</td>
+    <td>Implem entación de una pantalla de registro donde nuevos usuarios puedan sumarse a CambiaZo.</td>
     <td>6</td>
-    <td>Jeremy<br>Quispe</td>
+    <td>Jeremy Quispe</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US03</td>
-    <td rowspan="1">Iniciar<br>sesión<br>en la<br>aplicación</td>
+    <td rowspan="1">Iniciar sesión en la aplicación</td>
     <td>WI-02</td>
-    <td>Pantalla<br>de<br>inicio<br>de<br>sesión</td>
-    <td>Se crea una<br>pantalla en<br>la cual el<br>usuario podrá<br>ingresar a la<br>aplicación cuando<br>introduzca el<br>correo con el<br>que creó su<br>cuenta y su<br>contraseña.</td>
+    <td>Pantalla de inicio de sesión</td>
+    <td>Se crea una pantalla en la cual el usuario podrá ingresar a la aplicación cuando introduzca el correo con el que creó su cuenta y su contraseña.</td>
     <td>2</td>
-    <td>Mathias<br>Mendoza</td>
+    <td>Mathias Mendoza</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US05</td>
-    <td rowspan="1">Cerrar<br>sesión</td>
+    <td rowspan="1">Cerrar sesión</td>
     <td>WI-03</td>
-    <td>Funcionalidad<br>de<br>cerrar<br>sesión</td>
-    <td>Implementación<br>de la opción<br>de cerrar<br>sesión en la<br>aplicación.</td>
+    <td>Funcionalidad de cerrar sesión</td>
+    <td>Implementación de la opción de cerrar sesión en la aplicación.</td>
     <td>2</td>
-    <td>Jeremy<br>Quispe</td>
+    <td>Jeremy Quispe</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US06</td>
-    <td rowspan="1">Filtrado<br>de<br>Objetos</td>
+    <td rowspan="1">Filtrado de Objetos</td>
     <td>WI-04</td>
-    <td>Implem<br>entación<br>de<br>un<br>filtro<br>de<br>búsqueda</td>
-    <td>Implementar<br>un filtro<br>de búsqueda<br>para que<br>los usuarios<br>puedan encontrar<br>de forma más<br>rápida los<br>objetos de su<br>interés.</td>
+    <td>Implem entación de un filtro de búsqueda</td>
+    <td>Implementar un filtro de búsqueda para que los usuarios puedan encontrar de forma más rápida los objetos de su interés.</td>
     <td>10</td>
-    <td>Ian<br>Santisteban</td>
+    <td>Ian Santisteban</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US10</td>
-    <td rowspan="1">Visualización<br>de<br>artículos<br>publicados<br>para<br>intercambio</td>
+    <td rowspan="1">Visualización de artículos publicados para intercambio</td>
     <td>WI-05</td>
-    <td>Listar<br>artículos<br>publicados</td>
-    <td>Creación<br>de una sección<br>donde se muestren<br>los artículos<br>publicados por<br>los usuarios.</td>
+    <td>Listar artículos publicados</td>
+    <td>Creación de una sección donde se muestren los artículos publicados por los usuarios.</td>
     <td>4</td>
-    <td>Joseph<br>Huamani</td>
+    <td>Joseph Huamani</td>
     <td>Done</td>
   </tr>
   <tr>
   <td rowspan="1">US12</td>
-  <td rowspan="1">Crear<br>publicación<br>de<br>intercambio</td>
+  <td rowspan="1">Crear publicación de intercambio</td>
   <td>WI-06</td>
-  <td>Pantalla<br>de<br>creación<br>de<br>publicación</td>
-  <td>Implementar<br>la pantalla<br>donde los<br>usuarios puedan<br>crear publicaciones<br>para intercambiar.</td>
+  <td>Pantalla de creación de publicación</td>
+  <td>Implementar la pantalla donde los usuarios puedan crear publicaciones para intercambiar.</td>
   <td>10</td>
-  <td>Jeremy<br>Quispe</td>
+  <td>Jeremy Quispe</td>
   <td>Done</td>
  </tr>
   <tr>
     <td rowspan="1">US16</td>
-    <td rowspan="1">Visualización<br>de<br>objetos<br>disponibles<br>para<br>intercambio</td>
+    <td rowspan="1">Visualización de objetos disponibles para intercambio</td>
     <td>WI-07</td>
-    <td>Listar<br>los<br>objetos<br>disponibles</td>
-    <td>Creación de<br>una sección<br>en la que<br>los usuarios<br>registrados<br>puedan ver<br>los objetos<br>por los que<br>pueden<br>realizar un<br>intercambio.</td>
+    <td>Listar los objetos disponibles</td>
+    <td>Creación de una sección en la que los usuarios registrados puedan ver los objetos por los que pueden realizar un intercambio.</td>
     <td>10</td>
-    <td>Joseph<br>Huamani</td>
+    <td>Joseph Huamani</td>
     <td>Done</td>
   </tr>
   <tr>
   <tr>
     <td rowspan="1">US19</td>
-    <td rowspan="1">Ver la<br>información<br>detallada<br>de un<br>producto<br>publicado</td>
+    <td rowspan="1">Ver la información detallada de un producto publicado</td>
     <td>WI-08</td>
-    <td>Funcionalidad<br>de<br>detalles<br>del<br>producto</td>
-    <td>Implementar la opción para que los usuarios vean información detallada de un producto.</td>
+    <td>Funcionalidad de detalles del producto</td>
+    <td>Implementar  la opción para  que los usuarios  vean información detallada  de un producto.</td>
     <td>10</td>
-    <td>Jeremy<br>Quispe</td>
+    <td>Jeremy Quispe</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US20</td>
-    <td rowspan="1">Adquirir<br>suscripción<br>premium</td>
+    <td rowspan="1">Adquirir suscripción premium</td>
     <td>WI-09</td>
-    <td>Funcionalidad<br>de adquirir<br>suscripción</td>
-    <td>Permitir<br>a los usuarios<br>adquirir una<br>suscripción premium<br>para obtener<br>beneficios adicionales.</td>
+    <td>Funcionalidad de adquirir suscripción</td>
+    <td>Permitir a los usuarios adquirir una suscripción premium para obtener beneficios adicionales.</td>
     <td>16</td>
-    <td>Ian<br>Santisteban</td>
+    <td>Ian Santisteban</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US27</td>
-    <td rowspan="1">Visualización<br>de la<br>Historia<br>de la<br>Startup</td>
+    <td rowspan="1">Visualización de la Historia de la Startup</td>
     <td>WI-10</td>
-    <td>Sección<br>“¿Quiénes<br>somos?”</td>
-    <td>Implementación<br>de la<br>sección<br>“¿Quiénes<br>somos?”<br>y las<br>redes<br>sociales y<br>datos de<br>contacto en<br>el footer.</td>
+    <td>Sección “¿Quiénes somos?”</td>
+    <td>Implementación de la sección “¿Quiénes somos?” y las redes sociales y datos de contacto en el footer.</td>
     <td>2</td>
-    <td>Augusto<br>Pin</td>
+    <td>Augusto Pin</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US28</td>
-    <td rowspan="1">Visualizar<br>las<br>características<br>clave<br>de la<br>aplicación</td>
+    <td rowspan="1">Visualizar las características clave de la aplicación</td>
     <td>WI-11</td>
-    <td>Sección<br>Caracte<br>rísticas<br>Principales</td>
-    <td>Desarrollo<br>de la<br>sección donde<br>se pueden<br>visualizar todas<br>las características<br>principales de<br>CambiaZo y<br>conocer lo que<br>puede realizar<br>dentro de<br>esta.</td>
+    <td>Sección Caracte rísticas Principales</td>
+    <td>Desarrollo de la sección donde se pueden visualizar todas las características principales de CambiaZo y conocer lo que puede realizar dentro de esta.</td>
     <td>4</td>
-    <td>Mathias<br>Mendoza</td>
+    <td>Mathias Mendoza</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US29</td>
-    <td rowspan="1">Acceder<br>a un<br>formulario<br>para llenar<br>mis datos<br>de contacto<br>y recibir<br>noticias<br>relacionadas<br>con CambiaZo</td>
+    <td rowspan="1">Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
     <td>WI-12</td>
-    <td>Formulario<br>de<br>contacto</td>
-    <td>Desarrollo<br>del formulario<br>para que<br>los usuarios<br>llenen sus<br>datos de<br>contacto y<br>puedan recibir<br>noticias<br>relacionadas<br>con CambiaZo.</td>
+    <td>Formulario de contacto</td>
+    <td>Desarrollo del formulario para que los usuarios llenen sus datos de contacto y puedan recibir noticias relacionadas con CambiaZo.</td>
     <td>10</td>
-    <td>Ian<br>Santisteban</td>
+    <td>Ian Santisteban</td>
     <td>Done</td>
   </tr>
    <tr>
     <td rowspan="1">US30</td>
-    <td rowspan="1">Descargar<br>la aplicación<br>de<br>CambiaZo</td>
+    <td rowspan="1">Descargar la aplicación de CambiaZo</td>
     <td>WI-13</td>
-    <td>Redireccionar<br>a<br>Google<br>Play<br>Store</td>
-    <td>Implementación<br>de botones<br>que sirvan<br>para<br>redire<br>ccionar<br>a los<br>usuarios de<br>la Landing<br>Page a<br>Google Play<br>Store para<br>que descarguen<br>la aplicación.</td>
+    <td>Redireccionar a Google Play Store</td>
+    <td>Implementación de botones que sirvan para redire ccionar a los usuarios de la Landing Page a Google Play Store para que descarguen la aplicación.</td>
     <td>4</td>
-    <td>Joseph<br>Huamani</td>
+    <td>Joseph Huamani</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US31</td>
-    <td rowspan="1">Ver<br>los<br>planes<br>y<br>precios</td>
+    <td rowspan="1">Ver los planes y precios</td>
     <td>WI-14</td>
-    <td>Sección<br>de<br>planes<br>y<br>precios</td>
-    <td>Desarrollo<br>de la<br>sección de<br>planes,<br>donde<br>aparezcan<br>los precios<br>de cada<br>plan y lo<br>que incluye<br>cada uno.</td>
+    <td>Sección de planes y precios</td>
+    <td>Desarrollo de la sección de planes, donde aparezcan los precios de cada plan y lo que incluye cada uno.</td>
     <td>6</td>
-    <td>Jeremy<br>Quispe</td>
+    <td>Jeremy Quispe</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="1">US32</td>
-    <td rowspan="1">Navegación<br>en la<br>Landing<br>Page</td>
+    <td rowspan="1">Navegación en la Landing Page</td>
     <td>WI-15</td>
-    <td>Barra<br>de<br>Navegación</td>
-    <td>Implementación<br>de una<br>barra de<br>navegación<br>para que<br>el usuario<br>pueda<br>desplazarse<br>más rápido<br>dentro de<br>la Landing<br>Page.</td>
+    <td>Barra de Navegación</td>
+    <td>Implementación de una barra de navegación para que el usuario pueda desplazarse más rápido dentro de la Landing Page.</td>
     <td>6</td>
-    <td>Mathias<br>Mendoza</td>
+    <td>Mathias Mendoza</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -3660,7 +3660,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>Hello/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
       <td>main</td>
       <td>59fa996</td>
-      <td>feat: added cors configuration to allow access for frontend<td>
+      <td>feat: added cors configuration to allow access for frontend</td>
       <td>-</td>
       <td>30/04/25</td>
     </tr>
@@ -3701,14 +3701,38 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
       <td>main</td>
       <td>db88b11</td>
-      <td>feat: added features for sprint 1</td>
-      <td>-</td>
+      <td>Feat: Create US-01</td>
+      <td>In this part, we applied Gherkin to the US-01</td>
       <td>16/05/25</td>
     </tr>
     <tr>
       <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
       <td>main</td>
       <td>e0c4005</td>
+      <td>Feat: Create US-03</td>
+      <td>In this part, we applied Gherkin to the US-03</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>02f9c7d</td>
+      <td>Feat: Create US-05</td>
+      <td>In this part, we applied Gherkin to the US-05</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>ab71ec2</td>
+      <td>Feat: Create US-06</td>
+      <td>In this part, we applied Gherkin to the US-06</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>3df14ac</td>
       <td>Feat: Create US-10</td>
       <td>In this part, we applied Gherkin to the US-10</td>
       <td>16/05/25</td>
@@ -3716,9 +3740,97 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
     <tr>
       <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
       <td>main</td>
-      <td>f2de5ab</td>
+      <td>8ed2a1b</td>
+      <td>Feat: Create US-12</td>
+      <td>In this part, we applied Gherkin to the US-12</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>1cb67f3</td>
+      <td>Feat: Create US-16</td>
+      <td>In this part, we applied Gherkin to the US-16</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>5fa8be6</td>
+      <td>Feat: Create US-19</td>
+      <td>In this part, we applied Gherkin to the US-19</td>
+      <td>16/05/25</td>
+    </tr>
+     <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>78bc43e</td>
+      <td>Feat: Create US-20</td>
+      <td>In this part, we applied Gherkin to the US-20</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>e01afbd</td>
+      <td>Feat: Create US-27</td>
+      <td>In this part, we applied Gherkin to the US-27</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>c3d14e9</td>
+      <td>Feat: Create US-28</td>
+      <td>In this part, we applied Gherkin to the US-28</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>b5fe28a</td>
+      <td>Feat: Create US-29</td>
+      <td>In this part, we applied Gherkin to the US-29</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>9ad13f0</td>
+      <td>Feat: Create US-30</td>
+      <td>In this part, we applied Gherkin to the US-30</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>f4b29dc</td>
       <td>Feat: Create US-31</td>
       <td>In this part, we applied Gherkin to the US-31</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>a7c93e1</td>
+      <td>Feat: Create US-32</td>
+      <td>In this part, we applied Gherkin to the US-32</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>f4b29dc</td>
+      <td>Feat: Create TS-01</td>
+      <td>In this part, we applied Gherkin to the TS-01</td>
+      <td>16/05/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>a7c93e1</td>
+      <td>Feat: Create TS-02</td>
+      <td>In this part, we applied Gherkin to the TS-02</td>
       <td>16/05/25</td>
     </tr>
     </thread>
