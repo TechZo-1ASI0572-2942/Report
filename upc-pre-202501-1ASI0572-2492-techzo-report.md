@@ -822,6 +822,9 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 
 ### **Segmento Intercambiadores**<br>
 
+**Propósito de las entrevistas**
+
+Entender las motivaciones, problemas y comportamientos de los usuarios que realizan intercambios de objetos, con el fin de validar si la propuesta de lockers inteligentes de CambiaZo responde a sus necesidades reales, y detectar mejoras que optimicen su experiencia y confianza en la plataforma.
 
 <table>
 <colgroup>
@@ -883,6 +886,10 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
   <tr>
     <td>Duracion<br></td>
     <td>00:00 min - 4:03 min</td>
+  </tr>
+    <tr>
+    <tr>
+    <td>Proposito</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -3319,8 +3326,6 @@ Aplicación Móvil:
   <div align="center">
     <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration3.png" alt="Repositorio archivos feature">
 </div><br><br>
-
-
 
 
 ## Conclusiones
