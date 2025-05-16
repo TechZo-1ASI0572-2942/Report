@@ -2478,16 +2478,43 @@ Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id
 ## 5.4 Applications UX/UI Design
 
 ### 5.4.1. Applications Wireframes
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-0.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-1.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-2.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-3.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-4.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-5.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-6.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-7.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-8.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-9.png?raw=true" alt="">
+
+Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb0.png?raw=true"  alt="wireframes-appweb">
+</div><br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile0.png?raw=true"  alt="wireframes-appmovil">
+</div><br><br>
+
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-630&t=YzeRn0hMljz5YZrv-1 <br><br>
+
+A continuación, mostramos los wireframes de nuestra aplicación web y móvil:<br><br>
+
+**App Web**
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb1.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb2.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb3.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb4.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb5.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb6.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb7.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb8.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb1.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb9.png?raw=true" alt=""><br><br>
+
+**App Mobile**
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile1.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile2.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile3.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile4.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile5.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile6.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile7.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile8.png?raw=true" alt=""><br><br>
 
 
 ### 5.4.2. Applications Wireflow Diagrams
@@ -2530,17 +2557,44 @@ Los usuarios podrán dirigirse a la sección "Mis Ofertas" desde la barra de nav
 
 
 ### 5.4.3. Applications Mock-ups
+Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-0.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-1.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-2.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-3.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-4.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-5.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-6.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-7.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-8.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Mockups/mock-up-9.png?raw=true" alt="">
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile0.png?raw=true"  alt="mockup-appweb">
+</div><br><br>
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb0.png?raw=true"  alt="mockup-appmovil">
+</div><br><br>
+
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-630&t=YzeRn0hMljz5YZrv-1 <br><br>
+
+A continuación, mostramos los mock-ups de nuestra aplicación web y móvil:<br><br>
+
+**App Web**
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile1.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile2.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile3.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile4.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile5.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile6.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile7.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile7.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile8.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupmobile9.png?raw=true" alt="">
+<br><br>
+
+**App Mobile**
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb1.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb2.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb3.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb4.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb5.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb6.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb7.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Mockups/mockupweb8.png?raw=true" alt="">
+<br><br>
 
 ### 5.4.4. Applications User Flow Diagrams
 
@@ -2556,18 +2610,21 @@ Los usuarios podrán dirigirse a la sección "Mis Ofertas" desde la barra de nav
 <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-10.PNG?raw=true" alt="">
 
 ## 5.5 Applications Prototyping
+A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-0.PNG?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-1.PNG?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-2.PNG?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-3.PNG?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-4.PNG?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-5.PNG?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-6.PNG?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-7.PNG?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-8.PNG?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-9.PNG?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototype-10.PNG?raw=true" alt="">
+Video Enlace: 
+
+**App Web**
+Enlace: https://www.figma.com/proto/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-18404&t=YzeRn0hMljz5YZrv-0&scaling=scale-down&content-scaling=fixed&page-id=1%3A630
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototypeweb.png?raw=true"  alt="prototype-0">
+</div><br><br>
+
+**App Mobile**
+Enlace: https://www.figma.com/proto/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-1288&t=YzeRn0hMljz5YZrv-0&scaling=scale-down&content-scaling=fixed&page-id=1%3A629
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototypemobile.png?raw=true"  alt="prototype-0">
+</div><br><br>
 
 # Capítulo VI: Product Implementation, Validation & Deployment
 
