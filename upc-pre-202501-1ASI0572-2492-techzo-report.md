@@ -1619,7 +1619,7 @@ Tomamos como historia de usuario base la historia de usuario **US12**: *Como usu
     <td>Filtrado de Objetos</td>
     <td>Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.</td>
     <td>5</td>
-    <td rowspan="10"><strong>EP02</strong></td>
+    <td rowspan="9"><strong>EP02</strong></td>
   </tr>
   <tr>
   <tr>
@@ -1693,7 +1693,7 @@ Tomamos como historia de usuario base la historia de usuario **US12**: *Como usu
     <td>Asignación de locker para intercambio</td>
     <td>Como usuario quiero que la plataforma me sugiera un locker cercano para poder realizar el intercambio de manera sencilla.</td>
     <td>5</td>
-      <td rowspan="6"><strong>EP03</strong></td>
+    <td rowspan="6"><strong>EP03</strong></td>
   </tr>
   <tr>
     <td>24</td>
@@ -2169,24 +2169,266 @@ En esta sección, se presenta el diagrama de base de datos que detalla los objet
 # Capítulo V: Solution UI/UX Design
 
 ## 5.1 Style Guidelines
+En esta sección, compartimos nuestra propuesta de diseño para el landing page, la aplicación web y movil, con el objetivo de ofrecer una interfaz intuitiva y fácil de usar para nuestros usuarios. Para lograrlo, hemos optado por utilizar recursos visuales que se adapten a la problemática que queremos abordar, al mismo tiempo que generan un atractivo visual para nuestro público objetivo.
 
 ### 5.1.1. General Style Guidelines
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/General-Style-Guildelines/cambiazo-logo-negro.png?raw=true" alt="">
+A continuación, se presentan las pautas generales para asegurar una presentación coherente de nuestros productos y una experiencia visual y comunicativa alineada con los valores de CambiaZo, tanto en aplicaciones web como móviles.
+
+**Colors:**
+
+Hemos seleccionado cuidadosamente una paleta de colores para representar nuestro aplicativo CambiaZo. Nuestro enfoque se centra en tonalidades que incluyen el amarillo (#FFE03C), el blanco (#FFFFFF), el negro (#000000) y degradados del negro para crear transiciones suaves entre los colores. Optamos por el amarillo para reflejar energía y positividad, el blanco para transmitir sofisticación y claridad, y el negro para agregar un toque de elegancia y prestigio. Además, el degradado del negro se utiliza para suavizar las transiciones entre los elementos visuales y añadir profundidad. Por último, el blanco humo (#F8F7F4) complementa la paleta al proporcionar un aspecto moderno y neutro. Este conjunto de colores busca armonizar con nuestra misión de resolver problemas y promover un ambiente de intercambio amigable y dinámico.
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/color-pallete.png?raw=true">
+</div><br><br><br>
+
+**Branding:**
+
+El branding es un proceso creativo fundamental que orienta el rumbo de una empresa y forja su identidad de marca. Su finalidad es la creación de marcas sólidas y fácilmente identificables en el mercado, logrando establecer una identidad y presencia apropiadas a través del diseño gráfico. En nuestro caso, el logo de la marca que queremos transmitir a nuestros usuarios es:
+
+<div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/cambiazo-logo-negro.png?raw=true">
+</div><br><br><br>
+
+**Typography:**
+
+Elegir una fuente adecuada es esencial para lograr un diseño cohesivo y equilibrado que se alinee con la imagen e identidad de la marca. Esta elección refleja nuestro compromiso de construir una identidad visual sólida y reconocible. La tipografía, incluida la fuente, el tamaño y el ancho, contribuirá significativamente a la percepción y el reconocimiento de la marca en el mercado objetivo.  
+La tipografía utilizada será Montserrat, que incluye las variantes Regular, Medium, Semi-Bold y Bold. El tamaño de la letra varía entre 1 rem (16 px), 1.5 rem (24 px), 2 rem (32 px) y 3 rem (48 px).
+
++ **Montserrat - Google fonts**
+
+<div align="center">
+    <a href="https://fonts.google.com/specimen/Montserrat">
+        <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/tipography.png?raw=true">
+    </a>
+</div><br>
+
+Referencia: [Montserrat - Google fonts](https://fonts.google.com/specimen/Montserrat)<br><br>
+
+**Spacing**
+
+El espacio en el diseño de **aplicaciones web y móviles** es crucial para crear una experiencia de usuario fluida y agradable. El espaciado adecuado ayuda a que la interfaz sea más clara, fácil de navegar y visualmente atractiva. En nuestros proyectos, seguimos principios clave de **Material Design**, adaptándolos a las necesidades específicas de ambas plataformas.
+
+- **Botones**: Utilizamos un **padding** de 1 rem (16 px) en la dirección vertical y de 2 rem (32 px) en la horizontal. Esto asegura que los botones sean cómodos de interactuar tanto en pantallas táctiles como con mouse.
+- **Márgenes entre texto**: Para mejorar la legibilidad, mantenemos un **margen de 1 rem (16 px)** entre elementos de texto, creando una separación clara y estética.
+- **Márgenes entre elementos**: Aseguramos que haya un margen de **1.5 rem (24 px)** entre distintos elementos como imágenes, botones y cuadros de texto.
+- **Márgenes entre secciones**: Para una organización más clara de la interfaz, establecemos un margen de **6 rem (72 px)** entre secciones de contenido, permitiendo una mejor separación visual.
+
+**Dimensions (Tono y Comunicación)**
+
+Nuestra aplicación maneja distintos niveles de tono comunicativo según el público objetivo y el contexto. El diseño considera no solo dimensiones visuales, sino también de **lenguaje y estilo de interacción**, estableciendo una comunicación coherente y efectiva:
+
+- **Divertido vs. Serio**: El tono predilecto es **divertido pero responsable**, promoviendo un ambiente alegre sin perder la claridad en las instrucciones o advertencias.
+- **Formal vs. Casual**: Se opta por un estilo **casual y accesible**, adecuado para un público joven y dinámico, pero sin caer en la informalidad excesiva.
+- **Respetuoso vs. Irreverente**: Toda comunicación se mantiene **respetuosa**, incluso en contextos relajados, con mensajes pensados para fomentar la empatía, el respeto mutuo y la colaboración.
+- **Entusiasta vs. Sereno**: La interfaz y microcopys reflejan una actitud **entusiasta y motivadora**, sin saturar al usuario con estímulos innecesarios. Se invita a la acción mediante frases claras, breves y optimistas.
+
+Además, las dimensiones visuales de los elementos (tarjetas, botones, inputs) siguen un sistema modular que respeta las guías de diseño web y móvil, facilitando la adaptación a distintos tamaños de pantalla y asegurando una experiencia fluida y coherente en todos los dispositivos.
+
 
 ### 5.1.2. Web, Mobile and IoT Style Guidelines
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/General-Style-Guildelines/color-pallete.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/General-Style-Guildelines/tipography.png?raw=true" alt="">
+En esta sección se explican e ilustran las decisiones sobre los estándares visuales y de interacción para interfaces responsivas web, aplicaciones móviles y aplicaciones IoT (Internet of Things). Nuestro objetivo es asegurar una experiencia coherente, accesible y atractiva para los usuarios, independientemente del dispositivo o plataforma desde la cual interactúen con CambiaZo.
 
+
+#### Web Style Guidelines
+
+En nuestras pautas de estilo web, priorizamos la adaptación de nuestros principios de diseño a la experiencia de usuario en entornos de navegación en línea. Esto incluye:
+
+- **Diseño Responsivo**: El sitio se adapta fluidamente a diferentes tamaños de pantalla, desde computadoras de escritorio hasta dispositivos móviles como tabletas y teléfonos inteligentes, garantizando accesibilidad sin importar el dispositivo.
+
+- **Navegación Intuitiva**: Implementamos una barra de navegación clara y organizada con un "Botón hamburguesa" en dispositivos móviles que despliega el menú principal de forma compacta y accesible.
+
+- **Consistencia Visual**: Mantenemos una estética coherente usando colores, tipografías y elementos visuales que reflejan la identidad de marca de CambiaZo, para crear una experiencia unificada y memorable.
+
+- **Accesibilidad**: Aplicamos buenas prácticas como etiquetas alt en imágenes, contraste adecuado entre texto y fondo, y opciones de navegación alternativas para usuarios con discapacidades.
+
+#### Mobile Style Guidelines
+
+Para la aplicación móvil de CambiaZo, combinamos los lineamientos nativos de iOS y Android con nuestra identidad visual para brindar una experiencia fluida y coherente en todos los dispositivos móviles.
+
+- **Paleta de Colores**: Conservamos el uso del amarillo (#FFE03C), blanco (#FFFFFF), negro (#000000) y blanco humo (#F8F7F4), con degradados sutiles para mejorar la inmersión visual y mantener una estética fresca y moderna.
+
+- **Tipografía**: Utilizamos la familia Montserrat en variantes Regular, Medium, Semi-Bold y Bold, asegurando legibilidad y jerarquía en todas las pantallas, adaptándose al sistema de texto dinámico de iOS y Material Design en Android.
+
+- **Espaciado y Márgenes**: Seguimos las recomendaciones de Human Interface Guidelines para iOS y Material Design para Android, con márgenes generosos y padding adecuado en botones y textos que optimizan la navegación táctil y claridad visual.
+
+- **Navegación y Controles**: Incorporamos gestos, botones de tamaño óptimo y menús accesibles para facilitar la interacción en pantallas táctiles, asegurando una navegación intuitiva y ágil.
+
+- **Comunicación Visual y Tonalidad**: Adaptamos el tono comunicativo para ser empático, directo y accesible, buscando un balance entre funcionalidad y estilo acorde con cada sistema operativo, sin perder la identidad de marca.
+
+#### IoT Style Guidelines
+
+Para las interfaces de usuario en aplicaciones IoT, que suelen tener pantallas pequeñas o controles limitados, hemos desarrollado lineamientos específicos para garantizar interacción eficiente, clara y coherente con la identidad de CambiaZo.
+
+- **Diseño Minimalista y Funcional**: Priorizamos interfaces limpias con elementos grandes y legibles, mostrando solo la información y funcionalidades esenciales para evitar saturar al usuario.
+
+- **Consistencia Visual Adaptada**: Aplicamos la paleta de colores principal (amarillo, blanco, negro y blanco humo) con alto contraste para facilitar la lectura bajo distintas condiciones de luz y tamaños reducidos.
+
+- **Interacciones Simplificadas**: Diseñamos botones y controles táctiles o físicos de gran tamaño con respuestas visuales claras; para dispositivos sin interfaz táctil, consideramos métodos alternativos como comandos de voz o controles remotos.
+
+- **Notificaciones y Feedback Inmediato**: Proporcionamos retroalimentación rápida y visible para confirmar acciones o alertar sobre eventos importantes, facilitando una experiencia intuitiva y sin confusión.
+
+- **Accesibilidad y Usabilidad**: Incorporamos estándares para usuarios con capacidades diferentes, asegurando que los dispositivos IoT sean cómodos y fáciles de usar para todos.
+
+<br><br>
 
 ## 5.2 Information Architecture
-
 ### 5.2.1. Organization Systems
+En CambiaZo, empleamos diversos sistemas de organización de la información para mejorar la experiencia del usuario en entornos web y móviles. Estos sistemas se adaptan a los distintos contextos de uso, resoluciones de pantalla y necesidades de navegación, facilitando el acceso intuitivo y eficiente al contenido desde cualquier dispositivo.
+
+**Organización visual del contenido:**
+
+- **Jerárquica (Visual Hierarchy):** Aplicamos una jerarquía visual clara tanto en la interfaz web como en la móvil, resaltando los elementos más importantes, como publicaciones destacadas, botones principales o notificaciones. En web, esto se logra mediante tamaños de fuente, colores contrastantes y ubicación estratégica en la pantalla. En móviles, optimizamos el orden vertical del contenido para que lo esencial esté siempre visible sin necesidad de desplazamientos excesivos.
+
+- **Secuencial (Step-by-step):** Para flujos como el registro de usuario, creación de publicaciones o procesos de intercambio, implementamos una estructura paso a paso. En la versión web, esta se presenta mediante formularios progresivos o asistentes visuales; en la versión móvil, priorizamos una navegación lineal y simplificada, optimizada para pantallas reducidas y gestos táctiles.
+
+- **Matricial (cuando corresponde):** En ambas plataformas, aplicamos una organización matricial en secciones donde los usuarios necesitan comparar múltiples opciones —como listados de publicaciones filtradas o categorías cruzadas—, presentando tarjetas o grillas que permiten una visualización simultánea de varios elementos.
+
+
+**Esquemas de categorización del contenido:**
+
+- **Por tópicos:** Tanto en la app móvil como en la versión web, los productos se agrupan por categorías temáticas (tecnología, moda, hogar, juguetes, etc.), facilitando la exploración de contenido relevante según los intereses del usuario.
+
+- **Según audiencia (Grupos de usuarios):** Ofrecemos vistas específicas orientadas a ciertos segmentos de usuarios —como artículos infantiles, escolares o deportivos— permitiendo una experiencia personalizada basada en sus necesidades o preferencias.
+
+- **Cronológico:** En feeds de publicaciones, secciones de novedades o notificaciones, se utiliza una organización cronológica que prioriza los contenidos más recientes, manteniendo al usuario informado en tiempo real, independientemente del dispositivo.
+
+- **Alfabético:** Para listas como preguntas frecuentes, términos de búsqueda o nombres de productos, empleamos un orden alfabético que agiliza la navegación y mejora la localización de elementos específicos, especialmente en entornos web con mayor capacidad de visualización.
+
+
 ### 5.2.2. Labeling Systems
+
+En CambiaZo, empleamos un sistema de etiquetado consistente, claro y adaptado tanto a la experiencia móvil como a la navegación web. Las etiquetas se seleccionan cuidadosamente para ser comprensibles, breves y orientadas a la acción, considerando el contexto de uso de cada plataforma.
+
+**Etiquetas principales comunes en web y móvil:**
+
+- **Inicio / Home:** Proporciona una visión general de la plataforma, incluyendo publicaciones destacadas, navegación rápida y accesos a funciones clave. En móvil, se prioriza una visualización vertical optimizada; en web, se aprovecha el espacio horizontal para presentar más contenido de un vistazo.
+
+- **Conócenos / About Us:** Describe la misión, visión y propósito de CambiaZo. En la versión web, esta sección puede incluir más contenido visual y narrativo; en móvil, se resume con bloques de texto breves e íconos informativos.
+
+- **Características / Features:** Enumera los beneficios clave de usar la plataforma, tales como la facilidad de intercambio, seguridad, y sostenibilidad. En móvil, se presenta como una lista compacta o tarjetas deslizable; en web, se usa diseño en columnas o animaciones ligeras.
+
+- **ONGs Afiliadas / Affiliated NGOs:** Muestra las organizaciones aliadas, su logo y una breve descripción. En móviles, esta lista se adapta a scroll horizontal o vertical con tarjetas; en web, se presenta en una cuadrícula más amplia.
+
+- **Planes / Subscriptions:** Explica los diferentes planes disponibles, sus beneficios y precios. En móvil, se muestran en tarjetas que permiten comparación sencilla con desplazamiento; en web, se puede usar una tabla comparativa más amplia.
+
+- **Contáctanos / Contact Us:** Ofrece canales de contacto como correo electrónico, redes sociales y un formulario integrado. En móvil, se prioriza la accesibilidad del formulario y botones de contacto rápido; en web, se aprovecha el espacio para incluir mapas o más información contextual.
+
+- **Registrarse / Sign Up:** Permite a los nuevos usuarios crear una cuenta. En la versión móvil, el formulario está optimizado para interacción táctil con validaciones en tiempo real; en la web, se pueden ofrecer opciones adicionales como registro mediante redes sociales o email corporativo.
+
+
 ### 5.2.3. SEO Tags and Meta Tags
+
+La optimización de la visibilidad de CambiaZo se realiza a través de técnicas de **SEO** en la plataforma web y de **ASO** en la aplicación móvil. A continuación, se detallan los elementos clave implementados en cada entorno.
+
+#### Web: Landing Page y Web Application
+
+Para la versión web de CambiaZo (landing page y aplicación web), se aplican etiquetas SEO estándar que mejoran el posicionamiento en buscadores y ofrecen una vista previa clara del contenido al usuario.
+
+**Landing Page**
+
+- **Título:**
+```html
+<title>
+Cambiazo - Intercambia artículos de forma segura y justa
+</title>
+```
+
+- **Descripción:**
+```
+  
+ <meta name="description" content="Intercambia artículos de manera segura y justa con Cambiazo. Explora una amplia variedad de productos, garantizando transacciones transparentes y beneficiosas para todos."/>
+
+```
+
+- **Palabras clave:**
+```
+
+<meta name="keywords" content="Intercambio de artículos, plataforma de intercambio, seguridad en el intercambio, justicia en el intercambio, comunidad de intercambio, donaciones de artículos."/>
+```
+
++ **Autor:**
+```
+
+<meta name="author" content="TechZo Startup" />
+
+```
+
+- **Copyright:**
+```
+
+<meta name="copyright" content="© TechZo, 2024" />
+
+```
+
+Estos tags están diseñados para resaltar los aspectos clave de Cambiazo, como la seguridad en los intercambios. Esto ayuda a mejorar la visibilidad en los motores de búsqueda y atraer a usuarios interesados en la plataforma.<br><br>
+
+
 ### 5.2.4. Searching Systems
+Para garantizar una experiencia de búsqueda eficiente y satisfactoria para los usuarios en Cambiazo, tanto en la aplicación web como en la móvil, implementamos un sistema robusto de búsqueda con múltiples opciones y filtros adaptados a cada plataforma.
+
+#### Funcionalidades comunes para app web y móvil:
+
+- **Búsqueda básica:**  
+  Un campo de búsqueda simple estará siempre accesible en la parte superior de la pantalla, permitiendo que los usuarios ingresen palabras clave relacionadas con los productos que desean encontrar. Esto facilita una búsqueda rápida y directa.
+
+- **Filtros avanzados:**  
+  Los usuarios podrán refinar sus resultados mediante filtros como categoría de producto, estado del artículo, rango de precios y ubicación. Estos filtros estarán disponibles a través de menús desplegables o paneles laterales, según la plataforma, para mejorar la usabilidad.
+
+- **Ordenación de resultados:**  
+  Después de realizar una búsqueda, los resultados podrán ordenarse según criterios como relevancia, precio (ascendente/descendente), fecha de publicación, y popularidad. Este selector será intuitivo y accesible para optimizar la navegación.
+
+- **Vista clara y detallada de resultados:**  
+  Los productos encontrados se mostrarán con imágenes, título, breve descripción, precio y ubicación del vendedor, permitiendo una comparación rápida y una evaluación visual clara.
+
+- **Sugerencias de búsqueda:**  
+  Mientras el usuario escribe, el sistema ofrecerá sugerencias automáticas basadas en términos populares y búsquedas previas, facilitando la entrada de consultas relevantes.
+
+#### Consideraciones específicas por plataforma:
+
+- **Aplicación Web:**  
+  La interfaz aprovechará el espacio disponible para mostrar filtros en un panel lateral y resultados en formato de lista o cuadrícula con más detalles visibles, permitiendo una navegación fluida en pantallas grandes.
+
+- **Aplicación Móvil:**  
+  Los filtros estarán accesibles mediante menús desplegables o modales para optimizar el espacio, y la presentación de resultados será más compacta, priorizando la usabilidad táctil y la rapidez de carga.
+
+Con este sistema de búsqueda integrado en ambas plataformas, buscamos evitar que los usuarios se sientan perdidos o abrumados por la cantidad de información, facilitando que encuentren rápida y fácilmente los productos que necesitan en Cambiazo.
+
+
 ### 5.2.5. Navigation Systems
+
+En esta sección se describen las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones de Cambiazo, facilitando que cumplan sus metas y disfruten de una interacción satisfactoria con el producto. Se explica cómo los usuarios recorrerán el contenido de manera intuitiva y fluida.
+
+#### Navegación en el Landing Page (Sitio Web Estático):
+
+- **Menú principal claro y visible:**  
+  En la parte superior del Landing Page, se mostrará un menú con enlaces directos a las secciones clave como "Inicio", "Conócenos", "Características", "ONGs Afiliadas", "Planes" y "Contáctanos". Este menú será fijo para que esté siempre accesible al hacer scroll.
+
+- **Secciones ancladas y navegación fluida:**  
+  La navegación será principalmente vertical, con anclajes que permiten saltar rápidamente a diferentes secciones de la página, facilitando la exploración y la obtención de información relevante sin perderse.
+
+- **Botones de llamada a la acción (CTA):**  
+  Se incluirán CTAs destacados, como "Regístrate" o "Descarga la app", ubicados estratégicamente para atraer la atención del usuario y motivar la interacción.
+
+
+#### Navegación en la Aplicación Web y Móvil:
+
+- **Menú de navegación accesible y consistente:**  
+  En ambas aplicaciones, habrá un menú de navegación persistente ubicado en la parte inferior (en móvil) o en la barra lateral (en web app), con enlaces directos a secciones principales: "Inicio", "Donaciones", "Mi perfil" y "Ayuda". Esto facilitará el acceso rápido a las funcionalidades clave.
+
+- **Campo de búsqueda prominente:**  
+  En la parte superior de cada pantalla, se ubicará un campo de búsqueda visible que permitirá a los usuarios encontrar productos, categorías o ONGs con rapidez.
+
+- **Botones de llamada a la acción (CTA):**  
+  Botones como "Publicar", "Inicia sesión", "Categorías", entre otros, estarán ubicados estratégicamente para guiar a los usuarios a realizar acciones importantes y avanzar en su experiencia.
+
+- **Navegación intuitiva y coherente:**  
+  La estructura de la aplicación seguirá estándares de diseño y convenciones UX, asegurando que la navegación sea clara, predecible y homogénea en todas las pantallas, para que los usuarios se sientan cómodos y confiados durante su recorrido.
+
+Implementando estas técnicas y acciones de navegación, buscamos que los usuarios de Cambiazo, ya sea en el Landing Page o en las aplicaciones, puedan explorar el contenido, encontrar lo que necesitan y completar sus objetivos de forma fluida y satisfactoria.
+
 
 ## 5.3 Landing Page UI Design
 
@@ -2841,6 +3083,11 @@ Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular 
 
 
 # Anexos
+
++ Landing Page: https://cambiazo-landing-page.netlify.app/
+<br><br>
+
++ Aplicación Web:<br><br>
 
 + Repositorio GitHub de la Organización:[Ver Organización](https://github.com/TechZo-1ASI0572-2942)<br><br>
 
