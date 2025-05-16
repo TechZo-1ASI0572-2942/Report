@@ -3130,23 +3130,23 @@ En esta sección mostraremos los pasos que hemos realizado para poder desplegar 
 Para desplegar nuestra Landing Page hemos optado por usar Netlify,el cual brinda la posibilidad de alojar sitios web estáticos sin costo alguno.
 
 **1. Ingresamos a la página web de Netlify**
-<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-0.png?raw=true"  alt="netlify"></div>
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-landing-0.png?raw=true"  alt="netlify"></div>
 <br>
 
 **2. Iniciamos sesión con GitHub para poder usar los repositorios de nuestra cuenta**
-<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-1.png?raw=true"  alt="netlify"></div>
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-landing-1.png?raw=true"  alt="netlify"></div>
 <br>
 
 **3. Seleccionamos el repositorio que queremos emplear**
-<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-2.png?raw=true"  alt="netlify"></div>
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/Deploy-Evidence-2.png?raw=true"  alt="netlify"></div>
 <br>
 
 **4. Elegimos un nombre dentro de la documentación permitida, para el dominio de la página.**
-<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-3.png?raw=true"  alt="netlify"></div>
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-3.png?raw=true"  alt="netlify"></div>
 <br>
 
 **5. Finalmente la Landing Page estaría disponible.**
-<div  align="center"><img  src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-4.png?raw=true"  alt="netlify"></div><br>
+<div  align="center"><img  src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-V/Software-Deployment-Configuration/deploy-landing-4.png?raw=true"  alt="netlify"></div><br>
 
 + Landing Page: https://cambiazo-landing-page.netlify.app/<br><br>
 
