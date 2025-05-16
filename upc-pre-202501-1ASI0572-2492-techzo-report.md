@@ -2575,7 +2575,7 @@ Los usuarios podrán dirigirse a la sección "Mis Artículos" desde la barra de 
 
 **User goal 8:** Como usuario, quiero poder verificar las ofertas que he recibido por mis publicaciones y aceptarlas o declinar en caso contrario.<br><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-8.PNG?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireflow-Diagrams/wireflow-8.png?raw=true" alt="">
 
 Los usuarios podrán dirigirse a la sección "Mis Ofertas" desde la barra de navegación, donde visualizarán sus intercambios enviados, recibidos y aceptados. Al seleccionar una oferta en la sección de recibidos, verán los detalles de los artículos ofrecidos. Aquí podrán aceptar o rechazar la oferta mediante un menú con ambas opciones. Si eligen rechazar, se continuara con el proceso de eleccion del los lockers para efectuar el intercambio.<br><br>
 
