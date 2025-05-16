@@ -77,7 +77,7 @@ https://github.com/TechZo-1ASI0572-2942/Report
 
 
         + **Contributors Image of Github Insights**
-        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/contributors.png?raw=true"></div><br><br>
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/contributors.png?raw=true"></div><br><br>
 
 
 <strong>*Entrega TP:*</strong>
@@ -93,7 +93,7 @@ https://github.com/TechZo-1ASI0572-2942/Report
 + **Evidencias de colaboración y commits - Github:**
     * **Análiticos de colaboración** <br><br>
         + **Pulse Image of Github Insights**
-        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/pulse1.png?raw=true"></div><br><br>
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/pulse1.png?raw=true"></div><br><br>
 
 
         + **Contributors Image of Github Insights**
@@ -586,7 +586,7 @@ Estas personas buscan deshacerse de productos que ya no desean y adquirir nuevos
 
      <div align="center">	
 	     <strong id="imagen-2">Imagen 2: Motivos para Realizar Trueques según el Estudio de la Universidad Nacional del Altiplano</strong><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-I/Target-Segment/cuadro-estadistica-1.PNG?raw=true" alt="Estadistica Segmentos" style="width: 500px; height: auto;"><br><br>
+    <img src="https://raw.githubusercontent.com/TechZo-CC238-SW63/Report/refs/heads/main/Resources/Chapter-I/Target-Segment/cuadro-estadistica-1.PNG" alt="Estadistica Segmentos" style="width: 500px; height: auto;"><br><br>
 	
     </div>
   + **Preferencias de Uso:** Valoran una plataforma intuitiva que facilite la búsqueda y el intercambio de productos. Prefieren opciones que ofrezcan seguridad y transparencia en las transacciones.<br><br>
@@ -892,7 +892,7 @@ Entender las motivaciones, problemas y comportamientos de los usuarios que reali
   </tr>
     <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-II/Interviews/mathiashildago_interview.png?raw=true" alt="mathias-hidalgo-interview"></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tb1/Resources/Chapter-II/Interviews/mathiashildago_interview.png" alt="mathias-hidalgo-interview"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1237,7 +1237,7 @@ Las respuestas de nuestros entrevistados evidencian que sería beneficioso y út
 <div align="center">
 	<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-2.PNG?raw=true" alt="Estadistica 2" style="width: 600px; height: auto;"><br><br>
     <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-3.PNG?raw=true" alt="Estadistica 3" style="width: 600px; height: auto;"><br><br>
-    <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-4.PNG?raw=truee" alt="Estadistica 4" style="width: 600px; height: auto;"><br><br>
+    <img src="https://raw.githubusercontent.com/TechZo-CC238-SW63/Report/refs/heads/main/Resources/Chapter-II/Statistics/segmento-objetivo-1-grafica-4.PNG" alt="Estadistica 4" style="width: 600px; height: auto;"><br><br>
 </div>
 
 El 100% de los entrevistados utiliza redes sociales para realizar intercambios. Sin embargo, todos los usuarios se sienten inseguros al utilizar estos métodos debido a malas experiencias previas, ya que el 100% ha tenido problemas al realizar intercambios a través de redes sociales. Estas malas experiencias reflejan claramente la necesidad de una plataforma más segura y confiable.
@@ -1283,7 +1283,7 @@ Después de analizar las entrevistas de nuestro segmento objetivo, nuestra tarea
 
 <div align="center">
 
-![User Persona 1](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-1.PNG?raw=true)
+![User Persona 1](https://raw.githubusercontent.com/TechZo-CC238-SW63/Report/refs/heads/main/Resources/Chapter-II/Needfinding/User-Persona/user-persona-1.PNG)
 </div>
 
 
@@ -1353,7 +1353,7 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 
 <div align="center">
 
-![User Journey Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png?raw=true)
+![User Journey Mapping.](https://raw.githubusercontent.com/TechZo-CC238-SW63/Report/refs/heads/main/Resources/Chapter-II/Needfinding/User-Journey-Mapping/user-journey-mapping-1.png)
 </div>
 
 
@@ -1381,7 +1381,7 @@ En esta sección, exploraremos los escenarios actuales de los usuarios, mapeando
 
 <div align="center">
 
-![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG?raw=true)
+![As-Is Scenario Mapping.](https://raw.githubusercontent.com/TechZo-CC238-SW63/Report/refs/heads/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG)
 </div>
 
 **Enlace:** https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033
@@ -2131,7 +2131,7 @@ En esta sección se presenta el Diagrama de Clases del Domain Layer del Bounded 
 ##### 4.2.2.6.2 Bounded Context Database Design Diagram
 El Diagrama de Base de Datos del Bounded Context de Exchange presenta las tablas necesarias para gestionar productos, ofertas de intercambio, usuarios, categorías, estados y eventos. Incluye tablas como Product, ExchangeOffer, User, Category, ExchangeStatus y ProductStatus, cada una con sus correspondientes columnas y claves foráneas. Las relaciones entre estas tablas permiten gestionar interacciones como la propiedad de productos por parte de usuarios, las ofertas de intercambio, y el seguimiento de su estado. Además, los repositorios ProductRepository, ExchangeOfferRepository y CategoryRepository facilitan la persistencia y recuperación de los datos necesarios para las operaciones dentro de este contexto.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/exchange/databasediagram_exchange.png?raw=true" alt="exchange-database-diagram">
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/exchange/databasediagram_exchange.png" alt="exchange-database-diagram">
 
 
 ### 4.2.3 Bounded Context: Locker
@@ -2153,13 +2153,13 @@ La Capa de Interfaz en Locker Management está encargada de proporcionar puntos 
 
 La Capa de Aplicación actúa como intermediaria entre la lógica de negocio y la infraestructura, gestionando el flujo de datos y las interacciones. En este contexto, se incluyen Command Handlers y Event Handlers que coordinan acciones de escritura y eventos del sistema relacionados con los casilleros, como la actualización de estados o la activación de sensores.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker/applicationlayer_locker.png?raw=true" alt="Locker-Application-Layer">
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker/applicationlayer_locker.png" alt="Locker-Application-Layer">
 
 #### 4.2.3.4 Infrastructure Layer
 
 La Capa de Infraestructura es responsable de proporcionar los componentes técnicos necesarios para la persistencia y la interacción con sistemas externos. En este caso, se incluye la implementación del repositorio LockerRepository, que maneja la persistencia de los casilleros en la base de datos. Este repositorio se encarga de operaciones como guardar, buscar, encontrar casilleros disponibles y eliminar casilleros, interactuando con la base de datos para asegurar que la información esté correctamente almacenada y accesible.
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker/infrastructurelayer_locker.png?raw=true" alt="Locker-Infrastructure-Layer">
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tb1/Resources/Chapter-IV/Tactical-Level-Domain-Driven-Design/locker/infrastructurelayer_locker.png" alt="Locker-Infrastructure-Layer">
 
 #### 4.2.3.5 Bounded Context Software Architecture Component Level Diagrams
 
@@ -2202,7 +2202,7 @@ Hemos seleccionado cuidadosamente una paleta de colores para representar nuestro
 El branding es un proceso creativo fundamental que orienta el rumbo de una empresa y forja su identidad de marca. Su finalidad es la creación de marcas sólidas y fácilmente identificables en el mercado, logrando establecer una identidad y presencia apropiadas a través del diseño gráfico. En nuestro caso, el logo de la marca que queremos transmitir a nuestros usuarios es:
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-III/General-Style-Guidelines/cambiazo-logo-negro.png?raw=true">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/main/Resources/Chapter-III/General-Style-Guidelines/cambiazo-logo-negro.png">
 </div><br><br><br>
 
 **Typography:**
@@ -2492,11 +2492,11 @@ Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id
 
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb0.png?raw=true"  alt="wireframes-appweb">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/raw/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesweb0.png?raw=true"  alt="wireframes-appweb">
 </div><br><br>
 
 <div align="center">
-    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile0.png?raw=true"  alt="wireframes-appmovil">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframesmobile0.png"  alt="wireframes-appmovil">
 </div><br><br>
 
 
@@ -3150,7 +3150,7 @@ Para desplegar nuestra Landing Page hemos optado por usar Netlify,el cual brinda
 <br>
 
 **2. Iniciamos sesión con GitHub para poder usar los repositorios de nuestra cuenta**
-<div  align="center"><img  src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-landing-1.png?raw=true"  alt="netlify"></div>
+<div  align="center"><img  src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Software-Deployment-Configuration/deploy-landing-1.png"  alt="netlify"></div>
 <br>
 
 **3. Seleccionamos el repositorio que queremos emplear**
