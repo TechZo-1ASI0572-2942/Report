@@ -3303,6 +3303,25 @@ En el backend, cada endpoint (usuarios, intercambios, lockers, suscripciones) fu
 
 Durante el Sprint, el equipo trabajó de forma coordinada para avanzar en los tres frentes del proyecto: landing page, aplicación móvil y backend. Cada integrante asumió responsabilidades específicas según sus fortalezas, asegurando un desarrollo paralelo y eficiente. Se establecieron reuniones constantes para alinear avances, resolver bloqueos y tomar decisiones técnicas en conjunto. La colaboración activa permitió integrar nuevas funcionalidades, validar prototipos y mejorar la calidad del código mediante revisiones cruzadas. Esta dinámica de trabajo colaborativo fue clave para cumplir los objetivos del sprint y mantener una integración continua sin contratiempos.
 
+Landing Page: 
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration1.png" alt="Repositorio archivos feature">
+</div><br><br>
+
+Aplicación Web: 
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration2.png" alt="Repositorio archivos feature">
+</div><br><br>
+
+Aplicación Móvil:
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration2.png" alt="Repositorio archivos feature">
+</div><br><br>
+
+
+
 ## Conclusiones
 
 La investigación inicial confirmó con datos cualitativos que el modelo de economía lineal está generando niveles crecientes de residuos y desconfianza en los intercambios informales. Las más de cuatro entrevistas realizadas mostraron que el 100 % de los usuarios ha tenido experiencias negativas al intentar trueques a través de redes sociales tradicionales, lo que evidencia una oportunidad clara para una solución segura y automatizada como CambiaZo.
