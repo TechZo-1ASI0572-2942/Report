@@ -1617,7 +1617,7 @@ Tomamos como historia de usuario base la historia de usuario **US12**: *Como usu
     <td>Filtrado de Objetos</td>
     <td>Como usuario Intercambiador, quiero la capacidad de filtrar los objetos disponibles de intercambio para encontrar la opción que mejor se adapte a mis preferencias de intercambio.</td>
     <td>5</td>
-    <td rowspan="9"><strong>EP02</strong></td>
+    <td rowspan="10"><strong>EP02</strong></td>
   </tr>
   <tr>
   <tr>
