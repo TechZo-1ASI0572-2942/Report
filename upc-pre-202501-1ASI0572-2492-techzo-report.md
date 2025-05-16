@@ -3199,13 +3199,11 @@ En este Sprint, se identificaron aspectos clave necesarios para el desarrollo in
 
 ### 6.2.1.6. Execution Evidence for Sprint Review.
 
-Lo que se logró en el Sprint 1 es desplegar nuestra landing page, avanzar en el desarrollo inicial de la aplicación móvil en Kotlin y comenzar con la base del backend. En la landing page, se implementaron la barra de navegación, las secciones informativas y un formulario de contacto funcional conectado al backend.
+Durante el Sprint 1 se logró desplegar con éxito la landing page, avanzar en el desarrollo de la aplicación móvil en Kotlin y establecer la estructura base del backend. En la landing page se implementaron la barra de navegación, las secciones informativas clave y un formulario de contacto completamente funcional, conectado al backend para su procesamiento.
 
-Por otro lado, la app móvil ya cuenta con las funcionalidades de inicio de sesión, registro de usuarios y la pantalla de explorar, donde se visualizan los objetos disponibles para intercambio. En paralelo, el backend fue preparado con los primeros endpoints de autenticación y lectura de publicaciones, sentando las bases para la conexión entre dispositivos y la lógica del sistema.
+En paralelo, la app móvil ya cuenta con las funcionalidades de inicio de sesión, registro de usuarios y una primera versión de la pantalla de explorar, donde los usuarios pueden visualizar los objetos disponibles para intercambio. Por su parte, el backend fue preparado con los primeros endpoints de autenticación y lectura de publicaciones, lo que permite comenzar a conectar la lógica de negocio con las interfaces web y móviles.
 
-Además, se adoptó exitosamente la metodología GitFlow, trabajando en ramas independientes para pruebas y desarrollo sin comprometer la estabilidad de la rama principal.
-
-A continuación, se presenta un video explicativo sobre estos avances, así como imágenes que muestran lo logrado en este Sprint 1, tanto en la landing page y la app móvil..
+Asimismo, el equipo adoptó con éxito la metodología GitFlow, trabajando en ramas independientes según cada funcionalidad, lo que permitió realizar pruebas y actualizaciones sin comprometer la estabilidad de la rama principal.
 
 Enlace: [Video del Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EVYXrW-IDaNOn5b8AKu1MAEBvUv4tubPri0uW8cEW5IVsA?e=3rOfT0)
 <br><br>
@@ -3239,17 +3237,15 @@ Enlace: [Cambiazo Landing Page](https://cambiazo-site.netlify.app/)
 **Página Web:**<br>
 
 <div align="center">
-  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-VI/Execution-Evidence/execution-1?raw=true" alt="mobile app" ><br>
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front2.png" alt="mobile app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-VI/Execution-Evidence/execution-2?raw=true" alt="mobile app" ><br>
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front1.png" alt="mobile app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-VI/Execution-Evidence/execution-3?raw=true" alt="mobile app" ><br>
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front3.png" alt="mobile app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-VI/Execution-Evidence/execution-4?raw=true" alt="mobile app" ><br>
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front4.png" alt="mobile app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-VI/Execution-Evidence/execution-5?raw=true" alt="mobile app" ><br>
-
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-VI/Execution-Evidence/execution-5?raw=true" alt="mobile app" ><br>
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front5.png" alt="mobile app" ><br>
 </div>
 
 <br><br>
@@ -3315,15 +3311,8 @@ En el backend, cada endpoint (usuarios, intercambios, lockers, suscripciones) fu
 <br><br>
 
 ### 6.2.1.9. Team Collaboration Insights during Sprint.
-## Conclusiones
 
-La investigación inicial evidenció que el modelo de economía lineal genera residuos y desconfianza en intercambios informales. El 100 % de los entrevistados reportó experiencias negativas en trueques por redes sociales, lo que respalda la necesidad de una solución segura y automatizada como CambiaZo, basada en IoT.
-
-Se aplicó Lean UX y se construyeron User Personas, Journey Maps y Empathy Maps para identificar flujos y puntos críticos, priorizando funciones como la asignación automática de lockers inteligentes, validación fotográfica, generación de PINs y sistema de calificaciones.
-
-La arquitectura, basada en EventStorming y DDD, separa los contextos de Cuenta, Intercambios y Locker, integrando dispositivos IoT, capa web/móvil y bases de datos edge, garantizando operación offline con sincronización en la nube vía CosmosDB.
-
-El backlog cubre la gestión de cuentas, publicaciones, suscripciones y atención al usuario, permitiendo entregas ágiles y adaptadas al feedback. CambiaZo impulsa la economía circular y el consumo consciente con tecnología IoT al servicio de la sostenibilidad.
+Durante el Sprint, el equipo trabajó de forma coordinada para avanzar en los tres frentes del proyecto: landing page, aplicación móvil y backend. Cada integrante asumió responsabilidades específicas según sus fortalezas, asegurando un desarrollo paralelo y eficiente. Se establecieron reuniones constantes para alinear avances, resolver bloqueos y tomar decisiones técnicas en conjunto. La colaboración activa permitió integrar nuevas funcionalidades, validar prototipos y mejorar la calidad del código mediante revisiones cruzadas. Esta dinámica de trabajo colaborativo fue clave para cumplir los objetivos del sprint y mantener una integración continua sin contratiempos.
 
 ## Conclusiones
 
