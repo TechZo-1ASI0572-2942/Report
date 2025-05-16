@@ -3326,7 +3326,7 @@ En este sprint se avanzó en la implementación de diversas funcionalidades clav
 Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131222462667a4335b4351448BFD/cambiazo-iot<br><br>
 
 <div align="center">
-  <img src="https://github.com/TechZo-1ASI0732-4453/Report/blob/tb1/Resources/Chapter-V/Sprint-1/Sprint-Backlog/Sprints.png?raw=true" alt="sprints">
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Sprint-1/Sprint1-Trello.png?raw=true" alt="sprints">
 </div><br><br>
 
 <table>
