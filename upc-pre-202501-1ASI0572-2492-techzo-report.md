@@ -2478,16 +2478,17 @@ Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id
 ## 5.4 Applications UX/UI Design
 
 ### 5.4.1. Applications Wireframes
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-0.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-1.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-2.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-3.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-4.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-5.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-6.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-7.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-8.png?raw=true" alt="">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframes-9.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-0.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-1.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-2.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-3.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-4.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-5.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-6.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-7.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-8.png?raw=true" alt="">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-III/Mobile-Applications-Wireframes/wireframe-9.png?raw=true" alt="">
+
 
 ### 5.4.2. Applications Wireflow Diagrams
 
