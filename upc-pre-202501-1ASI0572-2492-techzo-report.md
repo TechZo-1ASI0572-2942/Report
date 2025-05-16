@@ -2626,34 +2626,34 @@ A continuación, mostramos los mock-ups de nuestra aplicación web y móvil:<br>
 ### 5.4.4. Applications User Flow Diagrams
 
 **User 1:** Como usuario, quiero ingresar a la aplicación web utilizando una cuenta.
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-1.PNG?raw=true" alt="userflow">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-1.png?raw=true" alt="userflow">
 
 **User 2:** Como usuario, quiero buscar objetos para intercambiar fácilmente y obtener información detallada sobre ellos.
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-2.PNG?raw=true" alt="userflow">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-2.png?raw=true" alt="userflow">
 
 **User 3:** Como usuario, quiero que otros usuarios vean los objetos que publiqué para intercambiar.
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-3.PNG?raw=true" alt="userflow">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-3.png?raw=true" alt="userflow">
 
 **User 4:** Como usuario, quiero solicitar un intercambio a cambio de uno de los objetos de mi publicación.
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-4.PNG?raw=true" alt="userflow">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-4.png?raw=true" alt="userflow">
 
 **User 5:** Como usuario, quiero poder verificar las ofertas que he recibido para poder aceptarlas o rechazarlas según mi preferencia.
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-5.PNG?raw=true" alt="userflow">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-5.png?raw=true" alt="userflow">
 
 **User 6:** Como usuario, quiero realizar mis intercambios de forma segura mediante lockers inteligentes.
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-6.PNG?raw=true" alt="userflow">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-6.png?raw=true" alt="userflow">
 
 **User 7:** Como usuario, quiero explorar y obtener información sobre los perfiles de otros usuarios.
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-7.PNG?raw=true" alt="userflow">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-7.png?raw=true" alt="userflow">
 
 **User 8:** Como usuario, quiero tener la opción de pagar una membresía y disfrutar de los beneficios que ofrece.
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-9.PNG?raw=true" alt="userflow">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-8.png?raw=true" alt="userflow">
 
 **User 9:** Como usuario, quiero tener acceso claro y fácil a toda la información relevante de la aplicación.
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-8.PNG?raw=true" alt="userflow">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-9.png?raw=true" alt="userflow">
 
 **User 10:** Como usuario, quiero poder realizar modificaciones en mis publicaciones si considero que necesitan ajustes.
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-10.PNG?raw=true" alt="userflow">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-User-Flow-Diagrams/userflow-10.png?raw=true" alt="userflow">
 
 ## 5.5 Applications Prototyping
 A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
