@@ -1537,7 +1537,7 @@ Tomamos como historia de usuario base la historia de usuario **US12**: *Como usu
     <td>Adquirir la suscripción premium</td>
     <td>Como usuario, quiero poder adquirir una suscripción premium para poder obtener beneficios adicionales que mejoren mi experiencia.</td>
     <td>8</td>
-    <td rowspan="12"><strong>EP01</strong></td>
+    <td rowspan="10"><strong>EP01</strong></td>
   </tr>
   <tr>
     <td>2</td>
@@ -1602,13 +1602,6 @@ Tomamos como historia de usuario base la historia de usuario **US12**: *Como usu
     <td>Como usuario registrado quiero cerrar sesión en la aplicación para asegurarme de que mi cuenta no quede almacenada en mi dispositivo web.</td>
     <td>1</td>
   </tr>
-  <tr>
-    <td>11</td>
-    <td><strong>US23</strong></td>
-    <td>Gestionar mis favoritos en la aplicación</td>
-    <td>Como usuario de CambiaZo, quiero tener la opción de acceder a un centro de soporte para reportar y resolver mis problemas técnicos.</td>
-    <td>1</td>
-  </tr>
 
   <!-- EPIC ID: EP02 -->
   <tr>
@@ -1619,7 +1612,6 @@ Tomamos como historia de usuario base la historia de usuario **US12**: *Como usu
     <td>5</td>
     <td rowspan="10"><strong>EP02</strong></td>
   </tr>
-  <tr>
   <tr>
     <td>14</td>
     <td><strong>US12</strong></td>
@@ -2202,7 +2194,7 @@ La tipografía utilizada será Montserrat, que incluye las variantes Regular, Me
     </a>
 </div><br>
 
-Referencia: [Montserrat - Google fonts](https://fonts.google.com/specimen/Montserrat)<br><br>
+Referencia: https://fonts.google.com/specimen/Montserrat<br><br>
 
 **Spacing**
 
