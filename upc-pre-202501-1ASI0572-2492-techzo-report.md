@@ -257,24 +257,36 @@ La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos propo
 proporcionar liderazgo en
 forma conjunta</td>
       <td colspan="3" align="justify">
-      <h3>Joseph Alexis Huamani Mandujano</h3> 
+    <h3>Joseph Alexis Huamani Mandujano</h3> 
       <b>TB1</b> 
-      <p>Para el primer hito de nuestro proyecto de IoT, me encargué de definir el Problem Statement enfocado en la automatización de riego agrícola, estableciendo una base clara para orientar las soluciones tecnológicas. Además, desarrollé Asumptions e Hypothesis orientadas a la viabilidad del uso de sensores y controladores en entornos agrícolas. Mi análisis crítico y capacidad de síntesis fueron clave para sentar las bases técnicas que guiaron nuestras decisiones de hardware y software.</p> 
+      <p>Para el primer hito de nuestro proyecto de IoT, me encargué de definir el Problem Statement enfocado en la automatización de riego agrícola, estableciendo una base clara para orientar las soluciones tecnológicas. Además, desarrollé Asumptions e Hypothesis orientadas a la viabilidad del uso de sensores y controladores en entornos agrícolas. Mi análisis crítico y capacidad de síntesis fueron clave para sentar las bases técnicas que guiaron nuestras decisiones de hardware y software.</p>
+      <b>TP1</b> 
+      <p>Formé parte del equipo de testing y validación, contribuyendo al desarrollo del Testing Suite y la recolección de evidencias para la revisión del Sprint. Propuse una estrategia de control de calidad distribuida y acompañé al equipo en la revisión de sus entregables. Esta experiencia me enseñó que cumplir objetivos como equipo requiere organización, liderazgo compartido y confianza mutua.</p>  
     <h3>Mathias André Mendoza Carrión</h3>
-    <b>TB1</b>
-    <p>Durante esta fase inicial, realicé un análisis detallado de soluciones IoT agrícolas existentes, identificando brechas de mercado y oportunidades de innovación. Conduje entrevistas con agricultores tecnificados, cuyos insights nos permitieron modelar los requerimientos funcionales de nuestro sistema. Esto fortaleció mis habilidades de investigación y empatía tecnológica, asegurando que nuestra propuesta responda efectivamente a necesidades reales.</p>
+      <b>TB1</b>
+      <p>Durante esta fase inicial, realicé un análisis detallado de soluciones IoT agrícolas existentes, identificando brechas de mercado y oportunidades de innovación. Conduje entrevistas con agricultores tecnificados, cuyos insights nos permitieron modelar los requerimientos funcionales de nuestro sistema. Esto fortaleció mis habilidades de investigación y empatía tecnológica, asegurando que nuestra propuesta responda efectivamente a necesidades reales.</p>
+      <b>TP1</b> 
+      <p>Durante el diseño del UI/UX, asumí el liderazgo en las decisiones visuales clave, guiando al equipo en la elaboración de los mock-ups y wireframes. Organicé sesiones de retroalimentación para asegurar que todos pudieran participar y aportar ideas. Esta experiencia me enseñó que liderar también implica escuchar y facilitar un entorno en el que cada voz cuenta.</p>  
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
-    <b>TB1</b>
-    <p>En este primer entregable, gestioné la documentación técnica y los requerimientos del sistema IoT, asegurando una comunicación fluida dentro del equipo y con potenciales usuarios. La coordinación efectiva de criterios técnicos permitió integrar de manera precisa sensores de humedad, controladores de riego y plataformas de monitoreo, consolidando una visión clara y colaborativa para el desarrollo del prototipo.</p>
+      <b>TB1</b>
+      <p>En este primer entregable, gestioné la documentación técnica y los requerimientos del sistema IoT, asegurando una comunicación fluida dentro del equipo y con potenciales usuarios. La coordinación efectiva de criterios técnicos permitió integrar de manera precisa sensores de humedad, controladores de riego y plataformas de monitoreo, consolidando una visión clara y colaborativa para el desarrollo del prototipo.</p>
+      <b>TP1</b> 
+      <p>Participé activamente en la planificación del Sprint 1, ayudando a organizar el backlog y asignar tareas según fortalezas individuales. También me desempeñé como colaboradora en el sistema de navegación, manteniendo una comunicación constante con mis compañeros para integrar sus avances de forma coherente. Este proceso me permitió desarrollar habilidades de coordinación y adaptación dentro de un entorno colaborativo.</p>  
     <h3>Jeremy Joel Quispe Andia</h3>
-    <b>TB1</b>
-    <p>Trabajé en la estructuración de User Stories específicas para nuestro sistema de monitoreo de cultivos, priorizando funcionalidades como alertas automáticas y control remoto. También desarrollé la propuesta de valor enfocada en eficiencia hídrica y facilidad de uso, asegurando que nuestro proyecto se alineara con las demandas prácticas del sector agrícola tecnificado.</p>
+      <b>TB1</b>
+      <p>Trabajé en la estructuración de User Stories específicas para nuestro sistema de monitoreo de cultivos, priorizando funcionalidades como alertas automáticas y control remoto. También desarrollé la propuesta de valor enfocada en eficiencia hídrica y facilidad de uso, asegurando que nuestro proyecto se alineara con las demandas prácticas del sector agrícola tecnificado.</p>
+      <b>TP1</b> 
+      <p>Lideré la configuración del entorno de desarrollo y el control de versiones. A través de reuniones técnicas, ayudé a resolver dudas del equipo y a unificar criterios en el estilo del código fuente. Promoví un ambiente de apoyo mutuo en el que todos pudimos avanzar con claridad y orden. Esta experiencia fortaleció mi capacidad para organizar tareas y acompañar a mis compañeros en el cumplimiento de objetivos.</p>  
     <h3>Augusto Jose Pin Matallana</h3>
-    <b>TB1</b>
-    <p>Diseñé diagramas de arquitectura del sistema que integran hardware y software, como la comunicación entre sensores, actuadores y servidores en la nube. Esta representación clara de flujos de información y control fue clave para asegurar la interoperabilidad de los componentes y para proyectar un sistema escalable y eficiente en el contexto agrícola.</p>
+      <b>TB1</b>
+      <p>Diseñé diagramas de arquitectura del sistema que integran hardware y software, como la comunicación entre sensores, actuadores y servidores en la nube. Esta representación clara de flujos de información y control fue clave para asegurar la interoperabilidad de los componentes y para proyectar un sistema escalable y eficiente en el contexto agrícola.</p>
+      <b>TP1</b> 
+      <p>Durante el diseño de la arquitectura de información, tomé la iniciativa de documentar las estructuras de navegación y los sistemas de etiquetado. Al hacerlo, motivé al equipo a revisar y proponer mejoras continuamente. Mi rol no fue solo técnico, sino también facilitador del trabajo conjunto, generando un entorno participativo e inclusivo para el desarrollo del sistema.</p>  
     <td colspan="3">
     <b>TB1</b>
     <p>Al concluir el primer hito de nuestro proyecto de IoT, nuestro equipo ha demostrado un avance sólido en la definición de soluciones tecnológicas aplicadas a la agricultura de precisión. Logramos definir claramente los problemas a resolver, realizar una investigación profunda de necesidades reales y proponer una arquitectura robusta basada en sensores y controladores. La colaboración efectiva y la comunicación fluida nos permitieron integrar diversas perspectivas técnicas, estableciendo bases firmes para el desarrollo de un prototipo funcional. Este progreso inicial ha fortalecido tanto nuestras competencias tecnológicas como nuestra cohesión como equipo, preparándonos para enfrentar exitosamente los retos de las siguientes etapas.</p>
+    <b>TP1</b>
+    <p>Durante el desarrollo de los capítulos V y VI, el equipo logró trabajar de manera cohesionada, estableciendo objetivos comunes y distribuyendo responsabilidades de manera equitativa. Cada integrante asumió roles de liderazgo en distintas etapas del proceso, desde el diseño hasta el despliegue, fomentando un entorno colaborativo e inclusivo. A través de la planificación de tareas, el seguimiento de avances y la resolución conjunta de problemas, se consolidó una dinámica de trabajo efectiva que permitió alcanzar los objetivos técnicos y fortalecer las habilidades interpersonales esenciales para el desarrollo profesional en soluciones de software</p>
   </td>
     </tr>
     <tr>
@@ -283,25 +295,37 @@ inclusivo, establece metas,
 planifica tareas y cumple
 objetivos.</td>
       <td colspan="3" align="justify">
-      <h3>Joseph Alexis Huamani Mandujano</h3>
-    <b>TB1</b>
-    <p>En este primer hito, desarrollé una visión integral del problema de gestión de riego agrícola, formulando suposiciones y problemáticas claves que fundamentaron nuestras decisiones de selección de sensores y microcontroladores. Esta tarea reforzó mi capacidad de analizar entornos reales y plantear soluciones técnicas efectivas, reafirmando la importancia del aprendizaje práctico en IoT.</p>
-      <h3>Mathias André Mendoza Carrión</h3>
-    <b>TB1</b>
-    <p>El análisis de competidores y entrevistas a agricultores me permitió identificar necesidades no satisfechas en el mercado actual, lo que afianzó mi comprensión del impacto que tiene la correcta selección de tecnologías IoT en proyectos reales. Aprender a interpretar los requerimientos de usuarios y convertirlos en especificaciones técnicas ha sido una lección valiosa para mi formación.</p>
+    <h3>Joseph Alexis Huamani Mandujano</h3>
+      <b>TB1</b>
+      <p>En este primer hito, desarrollé una visión integral del problema de gestión de riego agrícola, formulando suposiciones y problemáticas claves que fundamentaron nuestras decisiones de selección de sensores y microcontroladores. Esta tarea reforzó mi capacidad de analizar entornos reales y plantear soluciones técnicas efectivas, reafirmando la importancia del aprendizaje práctico en IoT.</p>
+      <b>TP1</b>
+      <p>Durante la planificación del Sprint 1, propuse un enfoque visual para dividir tareas utilizando un tablero Kanban, permitiendo que todos los miembros tuvieran visibilidad y voz en la asignación de responsabilidades. Además, me aseguré de incluir a todos en las decisiones de diseño, fomentando un ambiente donde cada opinión era considerada y valorada.</p>
+    <h3>Mathias André Mendoza Carrión</h3>
+      <b>TB1</b>
+      <p>El análisis de competidores y entrevistas a agricultores me permitió identificar necesidades no satisfechas en el mercado actual, lo que afianzó mi comprensión del impacto que tiene la correcta selección de tecnologías IoT en proyectos reales. Aprender a interpretar los requerimientos de usuarios y convertirlos en especificaciones técnicas ha sido una lección valiosa para mi formación.</p>
+      <b>TP1</b>
+      <p>Mi participación se centró en liderar el diseño de los wireframes y flujos de usuario para la aplicación móvil. Desde el inicio, planteé objetivos claros y medibles por cada iteración, guiando al equipo con fechas de revisión y criterios de avance. El compromiso conjunto permitió cumplir con lo propuesto en el cronograma establecido.</p>
      <h3>Ian Haziel Donato Santisteban Palomino</h3>
-    <b>TB1</b>
-    <p>Al liderar la estructuración de requerimientos y documentación técnica, consolidé habilidades fundamentales para planificar proyectos IoT que integren distintos dispositivos y plataformas. Esta experiencia práctica subraya la importancia de actualizar permanentemente mis conocimientos sobre protocolos de comunicación, seguridad de datos y gestión de dispositivos conectados.</p>
-      <h3>Jeremy Joel Quispe Andia</h3>
-    <b>TB1</b>
-    <p>La definición de funcionalidades y necesidades a partir de User Stories me permitió comprender de manera aplicada cómo traducir problemas agrícolas reales en soluciones tecnológicas. Esta práctica resalta la necesidad de formarse continuamente en nuevas plataformas, hardware emergente y mejores prácticas de desarrollo para crear soluciones IoT efectivas y sostenibles.</p>
+      <b>TB1</b>
+      <p>Al liderar la estructuración de requerimientos y documentación técnica, consolidé habilidades fundamentales para planificar proyectos IoT que integren distintos dispositivos y plataformas. Esta experiencia práctica subraya la importancia de actualizar permanentemente mis conocimientos sobre protocolos de comunicación, seguridad de datos y gestión de dispositivos conectados.</p>
+      <b>TP1</b>
+      <p>Encabecé la elaboración de la documentación SEO y de etiquetas meta, y para lograrlo organicé reuniones cortas y constantes, asignando subtareas a cada miembro interesado en aprender sobre posicionamiento web. Esta experiencia me permitió distribuir eficientemente las tareas, considerando tanto las habilidades como los intereses del equipo.</p>
+    <h3>Jeremy Joel Quispe Andia</h3>
+      <b>TB1</b>
+      <p>La definición de funcionalidades y necesidades a partir de User Stories me permitió comprender de manera aplicada cómo traducir problemas agrícolas reales en soluciones tecnológicas. Esta práctica resalta la necesidad de formarse continuamente en nuevas plataformas, hardware emergente y mejores prácticas de desarrollo para crear soluciones IoT efectivas y sostenibles.</p>
+      <b>TP1</b>
+      <p>Trabajé en el desarrollo del mock-up del landing page, asegurándome de integrar las ideas de todos, incluso aquellas que venían de compañeros menos familiarizados con diseño visual. Esto fortaleció la cohesión del grupo y mostró que un entorno inclusivo mejora los resultados finales y refuerza la motivación colectiva.</p>
     <h3>Augusto Jose Pin Matallana</h3>
-    <b>TB1</b>
-    <p>Participé activamente en la definición de la arquitectura técnica del sistema IoT, considerando factores como conectividad, energía y entorno operativo. Esta experiencia fue crucial para entender la importancia de un enfoque sistémico y me impulsó a profundizar en el aprendizaje de nuevas herramientas de diseño y simulación para fortalecer futuras soluciones de ingeniería.</p>
+      <b>TB1</b>
+      <p>Participé activamente en la definición de la arquitectura técnica del sistema IoT, considerando factores como conectividad, energía y entorno operativo. Esta experiencia fue crucial para entender la importancia de un enfoque sistémico y me impulsó a profundizar en el aprendizaje de nuevas herramientas de diseño y simulación para fortalecer futuras soluciones de ingeniería.</p>
+      <b>TP1</b>
+      <p>Me responsabilicé del control de versiones y del despliegue del entorno de desarrollo. Desde el primer momento, establecí hitos técnicos que nos permitieran validar el avance de cada módulo. A través de una planificación clara y reuniones semanales, el equipo logró cumplir los objetivos sin retrasos, manteniendo siempre una actitud de apoyo mutuo.</p>
     </td>
       <td colspan="3">
     <b>TB1</b>
     <p>Al concluir este primer hito, nuestro equipo ha reafirmado la importancia de combinar conocimientos teóricos con experiencia práctica para lograr proyectos IoT exitosos. Cada integrante ha mostrado una evolución constante, aplicando aprendizajes técnicos a situaciones reales del sector agrícola. La colaboración, investigación de campo y el enfoque en necesidades del usuario nos permitieron plantear una solución sólida, adaptada a contextos exigentes. El aprendizaje continuo en sensores, plataformas de conectividad, protocolos de comunicación y desarrollo de interfaces será clave para seguir creciendo en las siguientes fases del proyecto. Esta etapa nos ha preparado mejor para enfrentar los desafíos tecnológicos futuros con una mentalidad crítica, creativa y resolutiva.</p>
+    <b>TP1</b>
+    <p>A lo largo del desarrollo de los capítulos V y VI, el equipo mostró una fuerte capacidad para crear un entorno de trabajo colaborativo e inclusivo, donde cada integrante pudo participar activamente en la toma de decisiones. Se establecieron metas claras, se planificaron tareas con enfoque estratégico y se cumplieron los objetivos propuestos dentro de los plazos establecidos. La experiencia consolidó no solo el avance técnico del proyecto, sino también la formación de competencias blandas fundamentales para el trabajo profesional en equipos de desarrollo de software.</p>
   </td>
     </tr>
   </tbody>
