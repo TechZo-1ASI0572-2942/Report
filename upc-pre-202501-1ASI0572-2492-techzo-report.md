@@ -3034,6 +3034,70 @@ Para desplegar nuestro backend, hemos optado por usar Microsoft Azure, el cual p
 </div><br><br>
 
 
+
+## 6.2. Sprint 1
+En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
+
+#### 6.2.1.1. Sprint Planning 1.
+
+En esta sección, nos sumergiremos en los detalles del Sprint Planning Meeting 1.
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 1</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-05-15</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>10:00 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual mediante Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Santisteban Palomino, Ian Haziel Donato / Quispe Andia, Jeremy Joel / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre / Pin Matallana, Augusto Jose.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Review Summary</td>
+    <td>(No Aplica)</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Retrospective Summary</td>
+    <td>(No Aplica)</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 1</td>
+    <td>
+      Desarrollar la landing page, el frontend inicial y la primera versión funcional del backend.<br><br>
+      Métrica de Cumplimiento: Para evaluar el cumplimiento de este sprint, utilizaremos la siguiente métrica: Verificaremos que la landing page esté completamente diseñada y publicada, que el frontend cuente con una estructura básica funcional e integrada con el backend, y que el backend tenga implementada su primera versión con endpoints del user context y product context. El objetivo será completar el 100% de las funcionalidades planificadas y asegurar una correcta integración entre frontend y backend.
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Velocity</td>
+    <td>50 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>48 Story Points</td>
+  </tr>
+</table><br><br>
+
 ## Conclusiones
 
 La investigación inicial confirmó con datos cualitativos que el modelo de economía lineal está generando niveles crecientes de residuos y desconfianza en los intercambios informales. Las más de cuatro entrevistas realizadas mostraron que el 100 % de los usuarios ha tenido experiencias negativas al intentar trueques a través de redes sociales tradicionales, lo que evidencia una oportunidad clara para una solución segura y automatizada como CambiaZo.
