@@ -80,33 +80,24 @@
         <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/contributors.png?raw=true"></div><br><br>
 
 
-    * **Commits**
+<strong>*Entrega TP:*</strong>
 
-         A continuacion se muestran algunos commits realizados en este entrega de TB1.
++ Desarrollo de Actividades
+    Durante el desarrollo del Trabajo Parcial 1 (TP1) del proyecto CambiaZo, el equipo realizó sus primeras coordinaciones a través de Discord, una plataforma que fue elegida por la comodidad y familiaridad de la mayoría de los integrantes. A partir de allí, tanto las reuniones de avance como las sesiones de trabajo colaborativo se llevaron a cabo por ese medio.
 
-        + **Ian Santisteban**
-            <div style="display: flex; align-items: center;">
-            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/ian_commits.png?raw=true" >
-            </div><br>
+    Para la elaboración del informe, se realizó una distribución equitativa de responsabilidades entre los miembros del equipo, procurando un balance justo en la carga de trabajo. Esta estrategia permitió avanzar de manera organizada y asegurar la participación activa de todos.
 
-        + **Jeremy Quispe**
-            <div style="display: flex; align-items: center;">
-            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/jeremy_commits.png?raw=true">
-            </div><br>
+    Además, el tiempo asignado en clase para resolver dudas y recibir retroalimentación del docente fue de gran valor, ya que facilitó el progreso del equipo considerando que no todos contaban con la misma disponibilidad horaria fuera del aula.
 
-        + **Joseph Huamani**
-            <div style="display: flex; align-items: center;">
-            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/joseph_commits.png?raw=true">
-            </div><br>
-        + **Mathias Mendoza**
-            <div style="display: flex; align-items: center;">
-            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/mathias_commits.png?raw=true">
-            </div><br>
-        + **Augusto Pin**
-            <div style="display: flex; align-items: center;">
-            <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/augusto_commits.png?raw=true">
-            </div><br><br>
 
++ **Evidencias de colaboración y commits - Github:**
+    * **Análiticos de colaboración** <br><br>
+        + **Pulse Image of Github Insights**
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/pulse1.png?raw=true"></div><br><br>
+
+
+        + **Contributors Image of Github Insights**
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/contributors1.png?raw=true"></div><br><br>
 
 
 
@@ -1369,7 +1360,7 @@ En esta sección, exploraremos los escenarios actuales de los usuarios, mapeando
 ![As-Is Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/As-Is-Scenario-Mapping/as-is-scenario-1.PNG?raw=true)
 </div>
 
-**Enlace:** [As-Is Scenario Mapping en Miro](https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033)
+**Enlace:** https://miro.com/welcomeonboard/QmU3aWdWM21SdGwzeFR6Tm90cUhkZG5mQW5ZZDNVMGJpTHJkSk9xaWU3U1ZvcnhLNjRJMnVJRFo4Z3J0bnNMWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=316469654033
 <br><br>
 
 
@@ -1389,7 +1380,7 @@ En esta sección, visualizaremos los escenarios futuros propuestos para nuestros
 ![To-Be Scenario Mapping.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-II/Needfinding/To-Be-Scenario-Mapping/to-be-scenario-1.png?raw=true)
 </div>
 
-**Enlace:** [To-Be Scenario Mapping en Miro](https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040)
+**Enlace:** https://miro.com/welcomeonboard/cndoaHZpeWJQalZSYTZ2UGVFbnFOdTVUWVZxQ2k2RGF2dkRsS2IzUkdxYlZ4bDFwWHVudVRmYXN2Sng4TzFVWHwzNDU4NzY0NTU2Nzc0MzI2MzAxfDI=?share_link_id=404223194040
 <br><br>
 
 ## 3.2. User Stories
@@ -1826,7 +1817,7 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 
 <div align="center">
 
-[![Product Backlog.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Product-Backlog/pivotal.png?raw=true)](https://www.pivotaltracker.com/n/projects/2699481)
+[![Product Backlog.](https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-III/Product-Backlog/pivotal.png?raw=true)]()
 </div>
 
 
@@ -1897,7 +1888,7 @@ Evidencia del desarrollo del Event Storming:
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-8.png?raw=true" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
 </div>
 
-****Enlace:**** [Event Storming [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+**Enlace:** https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742
 
 #### 4.1.1.2 Domain Message Flows Modeling
 
@@ -1921,7 +1912,7 @@ En esta seccion, se identificaron y priorizaron los flujos de mensajería más r
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/intercambios.png?raw=true" alt="intercambios" style="width: 600px; height: auto;"><br><br>
 </div>
 
-****Enlace:**** [Domain Message Flows Modeling [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+**Enlace:** https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742
 
 #### 4.1.1.3 Bounded Context Canvases
 
@@ -1945,7 +1936,7 @@ De acuerdo con los bounded contexts definidos previamente, se desarrollaron sus 
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/canvases-locker.png?raw=true" alt="canvases-locker" style="width: 600px; height: auto;"><br><br>
 </div>
 
-****Enlace:**** [Bounded Context Canvases [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+**Enlace:** https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742
 
 ### 4.1.2 Context Mapping
 
@@ -1984,7 +1975,7 @@ Aunque se enfocan en funcionalidades distintas, ambos contextos comparten elemen
 	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb1/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/evidence-8.png?raw=true" alt="evidence/8" style="width: 600px; height: auto;"><br><br>
 </div>
 
-**Enlace:** [Mejor visualización [Miro]](https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742)
+**Enlace:** https://miro.com/app/board/uXjVI-wOQLQ=/?share_link_id=989495558742
 
 ### 4.1.3 Software Architecture
 
@@ -2649,9 +2640,9 @@ En esta sección se describen las herramientas de software utilizadas por el equ
 
 El equipo utiliza **GitHub** como sistema de control de versiones y plataforma de colaboración para el desarrollo del sistema CambiaZo-WebApp. El repositorio oficial del proyecto es:
 
-- **Repositorio del Frontend**: [https://github.com/TechZo-1ASI0572-2942/CambiaZo-WebApp](https://github.com/TechZo-1ASI0572-2942/CambiaZo-WebApp)
-- **Repositorio del Landing Page**: [https://github.com/TechZo-1ASI0572-2942/CambiaZo-Landing-Page.git](https://github.com/TechZo-1ASI0572-2942/CambiaZo-Landing-Page.git)
-- **Repositorio del Backend**: [https://github.com/TechZo-1ASI0572-2942/CambiaZo-Backend.git](https://github.com/TechZo-1ASI0572-2942/CambiaZo-Backend.git)
+- **Repositorio del Frontend**: https://github.com/TechZo-1ASI0572-2942/CambiaZo-WebApp
+- **Repositorio del Landing Page**: https://github.com/TechZo-1ASI0572-2942/CambiaZo-Landing-Page.git
+- **Repositorio del Backend**: https://github.com/TechZo-1ASI0572-2942/CambiaZo-Backend.git
 
 #### Git Workflow: GitFlow adaptado
 
@@ -3930,12 +3921,13 @@ En cuanto a la aplicación web, ya cuenta con las funcionalidades de inicio de s
 
 Asimismo, el equipo adoptó con éxito la metodología GitFlow, trabajando en ramas independientes según cada funcionalidad, lo que permitió realizar pruebas y actualizaciones sin comprometer la estabilidad de la rama principal.
 
-Enlace: [Video del Execution Evidence for Sprint 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EbL3-8BLFs9JsZpIoe0lf38BJgioXU1a--mchjRTU7JgZA?e=P5NXpC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EbL3-8BLFs9JsZpIoe0lf38BJgioXU1a--mchjRTU7JgZA?e=P5NXpC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
 <br><br>
+
 
 **Landing Page:**<br>
 
-Enlace: [Cambiazo Landing Page](https://cambiazo-landing-.netlify.app/)
++ Landing Page: https://cambiazo-landing-page.netlify.app/<br><br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing1.png" alt="landing page" ><br>
@@ -3958,6 +3950,8 @@ Enlace: [Cambiazo Landing Page](https://cambiazo-landing-.netlify.app/)
 
 **Página Web:**<br>
 
++ Aplicación Web: https://cambiazo-webapp.netlify.app/home/ <br><br>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web1.png" alt="mobile app" ><br>
 
@@ -3969,6 +3963,11 @@ Enlace: [Cambiazo Landing Page](https://cambiazo-landing-.netlify.app/)
 
 <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web4.png" alt="mobile app" ><br>
 </div>
+<br><br>
+
+**Backend:**<br>
+
++ Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
 
 <br><br>
 
@@ -3983,7 +3982,7 @@ Todo el trabajo fue coordinado a través de GitHub, usando ramas por módulo y U
 ### 6.2.1.8. Software Deployment Evidence for Sprint Review.
 Ahora procederemos a detallar los procesos que hemos realizado a lo largo del Sprint
 
-Continuaremos utilizando los repositorios en GitHub que hemos creado para la Aplicación Móvil y para los Acceptance Tests. Estos repositorios son fundamentales para el seguimiento y la implementación de las funcionalidades desarrolladas, asegurando que se mantenga una adecuada gestión del código y pruebas para validar el cumplimiento de los requisitos establecidos.
+Continuaremos utilizando los repositorios en GitHub que hemos creado para la Aplicación Web y para los Acceptance Tests. Estos repositorios son fundamentales para el seguimiento y la implementación de las funcionalidades desarrolladas, asegurando que se mantenga una adecuada gestión del código y pruebas para validar el cumplimiento de los requisitos establecidos.
 
   <div align="center">
 
@@ -4082,12 +4081,28 @@ Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular 
 
 # Anexos
 
-+ Landing Page: https://cambiazo-landing-page.netlify.app/
-<br><br>
++ Landing Page: https://cambiazo-landing-page.netlify.app/<br><br>
 
-+ Aplicación Web: https://cambiazo-webapp.netlify.app/ <br><br>
++ Aplicación Web: https://cambiazo-webapp.netlify.app/home/ <br><br>
 
-+ Repositorio GitHub de la Organización:[Ver Organización](https://github.com/TechZo-1ASI0572-2942)<br><br>
++ Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
+
++ Repositorio GitHub de la Organización: https://github.com/TechZo-1ASI0572-2942<br><br>
+
++ Repositorio GitHub de la Web App: https://github.com/TechZo-1ASI0572-2942/CambiaZo-WebApp<br><br>
+
++ Repositorio GitHub del Backend: https://github.com/TechZo-1ASI0572-2942/CambiaZo-Backend<br><br>
+
++ Repositorio GitHub de los Acceptance Tests: https://github.com/TechZo-1ASI0572-2942/Acceptance-Tests<br><br>
+
++ Repositorio GitHub de la Landing Page: https://github.com/TechZo-1ASI0572-2942/Cambiazo-LandingPage<br><br>
+
+
+## Needfinding Interviews
+
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EahtaVsRKF1Ds5n200RM-pwBZNttejscbL4slC6uZSlEKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EGcKBv
+
+
 
 ## Exposure video TB1
 
@@ -4096,7 +4111,7 @@ Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular 
  </div>
 
 
-Enlace: [Exposure video Tb1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EYSYg3R3BO1Aqs1aP8oqmsoBPvP7XyXfF9U_9dJE7y7PFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=osEOv1)
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EYSYg3R3BO1Aqs1aP8oqmsoBPvP7XyXfF9U_9dJE7y7PFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=osEOv1
 
 
 
