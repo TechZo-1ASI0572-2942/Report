@@ -3765,36 +3765,6 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
   </tbody>
 </table>
 
-## 6.2.2. Sprint 2
-
-### 6.2.2.1. Sprint Planning 2
-
-### 6.2.2.2. Aspect Leaders and Collaborators
-
-### 6.2.2.3. Sprint Backlog 2
-
-### 6.2.2.4. Development Evidence for Sprint Review
-
-### 6.2.2.5. Testing Suite Evidence for Sprint Review
-
-### 6.2.2.6. Execution Evidence for Sprint Review
-
-### 6.2.2.7. Services Documentation Evidence for Sprint Review
-
-### 6.2.2.8. Software Deployment Evidence for Sprint Review
-
-### 6.2.2.9. Team Collaboration Insights during Sprint
-
-## 6.3. Validation Interviews
-
-### 6.3.1. Diseño de Entrevistas
-
-### 6.3.2. Registro de Entrevistas
-
-### 6.3.3. Evaluaciones según heurísticas
-
-## 6.4. Video About-the-Product
-
 ## Backend
 
 <table>
@@ -4136,6 +4106,139 @@ Backend:
     <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration3.png" alt="Repositorio archivos feature">
 </div><br><br>
 
+## 6.2.2. Sprint 2
+
+### 6.2.2.1. Sprint Planning 2
+
+### 6.2.2.2. Aspect Leaders and Collaborators
+
+### 6.2.2.3. Sprint Backlog 2
+
+### 6.2.2.4. Development Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+### 6.2.2.5. Testing Suite Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+### 6.2.2.6. Execution Evidence for Sprint Review.
+
+Durante el Sprint 2 nos enfocamos en optimizar la experiencia de usuario y fortalecer la interacción entre la aplicación web, el backend y, en especial, la aplicación móvil.
+
+En la aplicación web, hemos implementado el flujo completo para la creación de publicaciones, permitiendo a los usuarios añadir objetos con todos sus detalles. También se integró el perfil de usuario, dando a cada miembro de la plataforma un espacio personalizado. Para la aplicación móvil, el enfoque estuvo en pulir las interfaces existentes, mejorar la navegación y asegurar una experiencia responsiva y fluida. Esto incluyó la optimización de la pantalla de exploración y los flujos de inicio de sesión/registro.
+
+Por el lado del backend, extendimos la API para soportar la creación de publicaciones, así como la gestión de perfiles de usuario. Se realizaron pruebas exhaustivas en todos los endpoints para garantizar la integridad y seguridad de los datos. La integración continua sigue siendo un pilar, con mejoras en los procesos de despliegue que nos permiten iterar rápidamente y mantener la estabilidad del sistema.
+
+**Landing Page:**<br>
+
++ Landing Page: https://cambiazo-landing-page.netlify.app/<br><br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing1.png" alt="landing page" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing2.png" alt="landing page" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing3.png" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-4.png?raw=true" alt="landing page" ><br>
+
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-7.png?raw=true" alt="landing page" ><br>
+
+<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" ><br>
+
+  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-9.png?raw=true" alt="landing page" >
+</div>
+
+<br><br>
+
+**Página Web:**<br>
+
++ Aplicación Web: https://cambiazo-webapp.netlify.app/home/ <br><br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web1.png" alt="mobile app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web2.png" alt="mobile app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front3.png" alt="mobile app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web3.png" alt="mobile app" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web4.png" alt="mobile app" ><br>
+</div>
+<br><br>
+
+**Backend:**<br>
+
++ Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
+
+<br><br>
+
+### 6.2.2.7. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2, hemos culminado casi por completo el desarrollo de nuestra plataforma, con el frontend implementando las últimas características y adoptando plenamente la funcionalidad IoT. En el backend, finalizamos todas las validaciones y pruebas, asegurando la robustez y seguridad del sistema. La aplicación móvil también ha sido pulida, con detalles afinados para una experiencia de usuario excepcional.
+
+La integración IoT es ahora central, permitiendo una trazabilidad fluida de los intercambios con lockers inteligentes. El backend refuerza esto con endpoints seguros para contraseñas, reseñas y eliminación de cuentas, garantizando la protección de datos.
+
+La coordinación en GitHub, mediante ramas por módulo y User Story, ha sido clave para una integración continua y sentar una base sólida para la escalabilidad.
+
+### 6.2.2.8. Software Deployment Evidence for Sprint Review
+
+### 6.2.2.9. Team Collaboration Insights during Sprint
+
+## 6.3. Validation Interviews
+
+### 6.3.1. Diseño de Entrevistas
+
+### 6.3.2. Registro de Entrevistas
+
+### 6.3.3. Evaluaciones según heurísticas
+
+## 6.4. Video About-the-Product
 
 ## Conclusiones
 
