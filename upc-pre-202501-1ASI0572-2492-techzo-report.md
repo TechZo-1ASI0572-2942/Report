@@ -4153,16 +4153,30 @@ Backend:
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>8c7651</td><td>feat: added features</td><td></td><td>2025-05-14 21:06:11</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>14753f</td><td>test: AccountNumberControllerTest & BenefitControllerTest tested.</td><td></td><td>2025-05-14 20:23:15</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>e3083e</td><td>fix: all tests fixed</td><td></td><td>2025-05-14 18:05:42</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>92600c</td><td>test: RoleCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:55:01</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>00c5d6</td><td>test: ReviewCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:54:09</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>e41d7b</td><td>test: ProductCategoryCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:28:31</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>1e912d</td><td>test: PlanCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:26:21</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>99f48a</td><td>test: FavoriteProductCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:22:06</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>06662c</td><td>test: ExchangeCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:17:25</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>276eef</td><td>test: DistrictCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:11:39</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>bbe3d1</td><td>test: DepartamentCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:09:37</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>fc7e40</td><td>test: CountryCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:05:41</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>3c5145</td><td>test: BenefitCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:03:22</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>3492be</td><td>test: SocialNetworkCommandServiceImplTest tested</td><td></td><td>2025-05-14 15:53:43</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>632edc</td><td>test: ProjectCommandServiceImplTest tested</td><td></td><td>2025-05-14 15:50:04</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>60c78c</td><td>test: OngCommandServiceImplTest.java tested</td><td></td><td>2025-05-14 15:45:35</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>aac035</td><td>test:  CategoryOngCommandServiceImplTest tested</td><td></td><td>2025-05-14 15:29:54</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>35aa04</td><td>refactor: AccountNumberCommandServiceImplTest refactored.</td><td></td><td>2025-05-14 14:53:52</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>a5cabe</td><td>test: UserCommandServiceImplTest tested.</td><td></td><td>2025-05-14 14:49:18</td></tr>
+    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>d6ddaa</td><td>test: AccountNumberCommandServiceImplTest tested.</td><td></td><td>2025-05-14 14:49:01</td></tr>
   </tbody>
 </table>
+
+
 
 ### 6.2.2.6. Execution Evidence for Sprint Review.
 
