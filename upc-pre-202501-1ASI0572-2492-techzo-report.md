@@ -14,7 +14,7 @@
 **Profesor:** Marco Antonio Leon Baca
 
 ----
-## Informe del Trabajo Parcial
+## Informe del Trabajo TB2
 ### Nombre del Startup: TechZo
 
 ### Nombre del Producto: CambiaZo
@@ -30,7 +30,7 @@
 </div>
 
 
-<br><div align="center"><h3>Mayo 2025</h3></div><br>
+<br><div align="center"><h3>Junio 2025</h3></div><br>
 
 
 
@@ -46,6 +46,7 @@
 | - | - | - | - |
 |TB1|7/04/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
 |TP1|15/05/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo V: Solution UI/UX Design y Capítulo VI: Product Implementation, Validation & Deployment|
+|TB2|21/06/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo VI: Product Implementation, Validation & Deployment |
 
 <br><br>
 
@@ -4108,9 +4109,138 @@ Backend:
 
 ## 6.2.2. Sprint 2
 
-### 6.2.2.1. Sprint Planning 2
+En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
 
-### 6.2.2.2. Aspect Leaders and Collaborators
+### 6.2.2.1. Sprint Planning 2.
+
+En esta sección, detallamos la planificación realizada para el segundo sprint del proyecto. Durante la reunión de planificación del Sprint 2, el equipo definió las funcionalidades clave a implementar, así como los objetivos a alcanzar.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 2</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-06-07</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>10:00 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual mediante Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Santisteban Palomino, Ian Haziel Donato / Quispe Andia, Jeremy Joel / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre / Pin Matallana, Augusto Jose.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Review Summary</td>
+    <td>En el Sprint 1 se completó exitosamente el diseño y publicación de la landing page inicial, se construyó la estructura básica del frontend y se implementó una primera versión funcional del backend. Se desarrollaron endpoints para el manejo de usuarios (User Context) y productos (Product Context), y se logró establecer una integración básica entre el frontend y backend, permitiendo las primeras interacciones de prueba entre componentes.</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Retrospective Summary</td>
+    <td>Durante la retrospectiva del Sprint 1, el equipo reconoció que uno de los principales desafíos fue la sincronización en los tiempos de desarrollo entre frontend y backend. También se identificaron problemas relacionados con el manejo de errores en la comunicación entre capas. Se propuso como mejora para el siguiente sprint: la implementación de pruebas tempranas, establecer protocolos más claros para las integraciones y fomentar la revisión cruzada de código entre pares. </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 2</td>
+    <td>
+      Implementar la gestión de intercambios (crear, ver, aceptar o rechazar ofertas) con actualización en tiempo real, e iniciar la integración con los **lockers inteligentes**. Además, desarrollar una nueva versión de la **landing page** para web y móvil con videos (“About the Product” y “About the Team”), integrar la **app embebida** y liberar una primera versión de la **Edge Application**.<br><br>**Métrica de Cumplimiento**: Se completará el sprint si se habilitan todas las acciones de intercambio, se publica la nueva landing con los videos, se integra la app embebida, se activa un endpoint para lockers y se libera una versión básica de la Edge App.
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Velocity</td>
+    <td>50 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>47 Story Points</td>
+  </tr>
+</table><br><br>
+
+
+<h3>6.2.2.2. Aspect Leaders and Collaborators</h3>
+
+<p>Durante el Sprint 2, el equipo abordó funcionalidades clave como la nueva versión de la landing page con videos informativos, avances en el frontend y backend, ajustes en la base de datos, además del desarrollo de la aplicación embebida y la Edge Application. Se designaron líderes y colaboradores por aspecto, promoviendo una ejecución eficiente y coordinada.</p>
+
+<table>
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>ID/Código</th>
+    <th>Landing Page (Nueva versión)</th>
+    <th>Frontend (Web y Móvil)</th>
+    <th>Backend</th>
+    <th>Base de Datos</th>
+    <th>Aplicación Embebida</th>
+    <th>Edge Application</th>
+  </tr>
+  <tr>
+    <td>Mendoza Carrion, Mathias Andre</td>
+    <td>U202216282</td>
+    <td>C</td>
+    <td>C</td>
+    <td></td>
+    <td><b>L</b></td>
+    <td>C</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Quispe Andia, Jeremy Joel</td>
+    <td>U202216279</td>
+    <td>C</td>
+    <td>C</td>
+    <td><b>L</b></td>
+    <td></td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Huamani Mandujano, Joseph Alexis</td>
+    <td>U20221A133</td>
+    <td></td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td><b>L</b></td>
+    <td><b>L</b></td>
+  </tr>
+  <tr>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+    <td>U202214059</td>
+    <td><b>L</b></td>
+    <td></td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Pin Matallana, Augusto Jose</td>
+    <td>U202210257</td>
+    <td>C</td>
+    <td><b>L</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>C</td>
+  </tr>
+</table>
+
+<p><b>L = Líder</b>, <b>C = Colaborador</b></p>
+
 
 ### 6.2.2.3. Sprint Backlog 2
 
