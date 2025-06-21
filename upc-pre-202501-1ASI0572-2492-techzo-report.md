@@ -4128,16 +4128,34 @@ Backend:
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>f30da1</td><td>CambiaZoApp_v4.1</td><td>CambiaZoApp_v4.1</td><td>2024-11-21 16:01:35</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>59a440</td><td>Merge: 1d62a17 2311667</td><td>CambiaZoApp_v4.0</td><td>2024-11-21 09:38:27</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>231166</td><td>fix: eliminated duplicate code and optimized functionality</td><td>Removed redundant code across multiple sections of the project by consolidating duplicated functionalities into reusable methods.</td><td>2024-11-21 09:36:17</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>91dfde</td><td>fix: resolve merge conflicts from recent pull request</td><td>Resolved merge conflicts caused by the recent pull request.</td><td>2024-11-21 03:30:40</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>584e6f</td><td>Merge: e6d2de1 2ad8f27</td><td>Merge Feature/us03 to develop</td><td>2024-11-21 02:28:48</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>2ad8f2</td><td>feat: add logout functionality for Google accounts</td><td>Implemented a logout feature for users logged in via Google.</td><td>2024-11-21 02:28:11</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>c47734</td><td>feat: persist Google login session</td><td>Implemented functionality to persist user sessions for accounts logged in via Google.</td><td>2024-11-21 02:20:46</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>6b2c17</td><td>feat: add Google account flag to User model</td><td>Updated the User model to include a new field indicating whether the account is registered with Google.</td><td>2024-11-21 02:12:55</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>d546f5</td><td>Merge: c903af3 e6d2de1</td><td>Merge Develop to feature/US03</td><td>2024-11-21 01:50:12</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>e6d2de</td><td>Merge: 123fb98 d606b05</td><td>Merge feature/US18 to develop</td><td>2024-11-21 01:49:04</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>123fb9</td><td>Merge: 8e236a0 c5a13ac</td><td>Merge Feature/us02 into develop</td><td>2024-11-21 01:45:56</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>c5a13a</td><td>Merge: 082fd4f 8e236a0</td><td>Merge branch 'develop' into feature/US02</td><td>2024-11-21 01:45:36</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>082fd4</td><td>feat: add routing for SettingsScreen</td><td>Integrated routing for the new SettingsScreen into the application's navigation system.</td><td>2024-11-21 01:38:18</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>02352e</td><td>feat: add method to delete user account</td><td>Added a method to handle user account deletion. This method includes logic to confirm the user's intent, interact with the backend API for account removal.</td><td>2024-11-21 01:37:38</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>06d819</td><td>feat: add new SettingsScreen</td><td>Added a new SettingsScreen to the application. This screen serves as a centralized hub for user configuration options, providing better accessibility and organization for settings.</td><td>2024-11-21 01:31:15</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>3fa38d</td><td>feat: restructure options display in ProfileScreen</td><td>Restructured the options displayed in the ProfileScreen to improve clarity and user experience.</td><td>2024-11-21 01:29:27</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>d606b0</td><td>Merge: 4eabbd9 8e236a0</td><td>Merge develop into Feature/US18</td><td>2024-11-20 23:43:25</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>8e236a</td><td>Merge: 80cfa9b 3cb82a8</td><td>Merge branch feature/US12 into develop</td><td>2024-11-20 21:51:14</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>3cb82a</td><td>Merge: 4458d57 80cfa9b</td><td>Merge branch 'develop' into feature/US12</td><td>2024-11-20 21:51:02</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>4458d5</td><td>fix: displayed product limit message on publish screen</td><td>Adjusted the product limit message to appear correctly when entering the publish section.</td><td>2024-11-20 20:44:14</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>70b7b1</td><td>refactor: updated exchange lists on action changes</td><td>Fixed the exchange lists to refresh automatically when an action such as reject, accept, or cancel is performed.</td><td>2024-11-20 20:34:16</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>064c10</td><td>fix: reset product list on category filter in explorer</td><td>Adjusted the LazyColumn in the Explorer screen to properly reset the product list when filtering by categories.</td><td>2024-11-20 18:15:19</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>e60539</td><td>Merge: bb9796a 80cfa9b</td><td>Merge Develop into feature/US02</td><td>2024-11-20 17:13:20</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>80cfa9</td><td>Merge: 5c87f9d 7a110f9</td><td>Merge Feature/US01 into Develop</td><td>2024-11-20 16:58:17</td></tr>
+    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>7a110f</td><td>fix: updated the exchange details screen with validation of review</td><td>I've updated the exchange details screen with validations of the reviews, if a review exist with the author id, the screen dont show the button of send review</td><td>2024-11-20 16:48:30</td></tr>
   </tbody>
 </table>
+
 
 ### 6.2.2.5. Testing Suite Evidence for Sprint Review
 
@@ -4175,8 +4193,6 @@ Backend:
     <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>d6ddaa</td><td>test: AccountNumberCommandServiceImplTest tested.</td><td></td><td>2025-05-14 14:49:01</td></tr>
   </tbody>
 </table>
-
-
 
 ### 6.2.2.6. Execution Evidence for Sprint Review.
 
