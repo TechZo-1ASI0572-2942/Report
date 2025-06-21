@@ -4244,6 +4244,342 @@ En esta sección, detallamos la planificación realizada para el segundo sprint 
 
 ### 6.2.2.3. Sprint Backlog 2
 
+En este sprint se continuó con el desarrollo de funcionalidades fundamentales para la operatividad de la aplicación. Se implementaron procesos clave como la creación y envío de ofertas de intercambio, la visualización y gestión de intercambios recibidos, enviados y aceptados, así como la edición y eliminación de publicaciones existentes. Además, se trabajó en la asignación automática y manual de lockers, asegurando una experiencia fluida en los procesos logísticos del intercambio. También se desarrollaron e integraron las APIs necesarias para manejar datos relacionados a los lockers y a los intercambios, fortaleciendo así la conectividad del sistema. Estas mejoras consolidan los flujos críticos de la plataforma y aportan a una experiencia de usuario más completa y dinámica.
+
+Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131222462667a4335b4351448BFD/cambiazo-iot<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Sprint-1/Sprint1-Trello.png?raw=true" alt="sprints">
+</div><br><br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation (Hours)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+  <tr>
+  <td rowspan="3">US07</td>
+  <td rowspan="3">Asignación de locker para intercambio</td>
+  <td>WI-49</td>
+  <td>Mostrar mapa interactivo con lockers disponibles</td>
+  <td>Implementar una vista con mapa donde se visualicen los lockers disponibles, resaltando automáticamente el más cercano al usuario.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-50</td>
+  <td>Confirmar asignación automática del locker</td>
+  <td>Desarrollar la funcionalidad que registra la selección del locker sugerido cuando el usuario presiona “Confirmar locker”.</td>
+  <td>1.5</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-51</td>
+  <td>Permitir cambio manual del locker</td>
+  <td>Permitir al usuario seleccionar otro locker desde un listado desplegable y mostrar la confirmación actualizada en pantalla.</td>
+  <td>1.5</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US11</td>
+  <td rowspan="3">Realización de una oferta de intercambio</td>
+  <td>WI-46</td>
+  <td>Mostrar lista de artículos propios al ofertar</td>
+  <td>Diseñar e implementar la pantalla donde el usuario ve sus artículos disponibles al presionar el botón “Ofertar”.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-47</td>
+  <td>Confirmar selección de oferta y mostrar detalles</td>
+  <td>Desarrollar la pantalla de confirmación donde se visualizan los detalles del artículo ofrecido y el solicitado.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-48</td>
+  <td>Enviar oferta y mostrar mensaje de éxito</td>
+  <td>Implementar el envío de la oferta y mostrar el mensaje “¡Oferta Enviada!” junto con la notificación a la otra parte.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US13</td>
+  <td rowspan="3">Editar publicación de intercambio</td>
+  <td>WI-43</td>
+  <td>Mostrar opción de editar publicación</td>
+  <td>Habilitar el botón de edición en la interfaz para publicaciones propias, redirigiendo al formulario con los datos prellenados.</td>
+  <td>1</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-44</td>
+  <td>Guardar cambios realizados en el formulario</td>
+  <td>Implementar la lógica para actualizar los datos de la publicación editada al presionar el botón “Publicar”.</td>
+  <td>1</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-45</td>
+  <td>Cancelar edición y retornar sin cambios</td>
+  <td>Agregar la opción “Cancelar” que redirige al usuario a la pantalla principal sin aplicar los cambios.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US14</td>
+  <td rowspan="3">Eliminar publicación de intercambio</td>
+  <td>WI-40</td>
+  <td>Agregar botón de eliminación en interfaz</td>
+  <td>Mostrar botón o ícono de eliminar junto a cada publicación visible para el usuario autenticado.</td>
+  <td>0.5</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-41</td>
+  <td>Mostrar mensaje de confirmación</td>
+  <td>Diseñar e implementar una ventana emergente para confirmar la acción de eliminación.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-42</td>
+  <td>Eliminar o cancelar según respuesta</td>
+  <td>Ejecutar la eliminación definitiva si se confirma o cancelar la acción si se presiona “Cancelar”.</td>
+  <td>0.5</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US15</td>
+  <td rowspan="3">Gestión de intercambios</td>
+  <td>WI-37</td>
+  <td>Mostrar lista de intercambios enviados</td>
+  <td>Implementar la vista para listar los intercambios que el usuario ha enviado, mostrando su estado actual y permitiendo ver más detalles.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-38</td>
+  <td>Mostrar lista de intercambios recibidos</td>
+  <td>Desarrollar la funcionalidad que permite visualizar las ofertas recibidas con sus detalles y opciones para aceptarlas o rechazarlas.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-39</td>
+  <td>Mostrar lista de intercambios aceptados</td>
+  <td>Permitir al usuario revisar los intercambios aceptados desde la pestaña correspondiente y acceder a sus detalles.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US17</td>
+  <td rowspan="3">Visualizar el perfil del usuario que publique un producto</td>
+  <td>WI-16</td>
+  <td>Habilitar acceso al perfil desde la publicación</td>
+  <td>Agregar funcionalidad para que al hacer clic en el recuadro del autor de una publicación se redirija al perfil correspondiente.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-17</td>
+  <td>Diseñar vista del perfil de usuario</td>
+  <td>Crear la interfaz del perfil de usuario mostrando nombre, tiempo en la app, intercambios exitosos y valoración promedio.</td>
+  <td>1</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-18</td>
+  <td>Mostrar reseñas en el perfil</td>
+  <td>Desarrollar la sección de reseñas dentro del perfil para mostrar comentarios y datos relevantes de otros usuarios.</td>
+  <td>1</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US18</td>
+  <td rowspan="3">Aceptar o Rechazar un Intercambio</td>
+  <td>WI-19</td>
+  <td>Mostrar detalles de oferta recibida</td>
+  <td>Implementar la vista para revisar los detalles completos de una oferta pendiente en la sección “Intercambios”.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-20</td>
+  <td>Funcionalidad para aceptar oferta</td>
+  <td>Permitir al usuario aceptar una oferta, mostrar un popup de confirmación y mover la oferta aceptada a la sección correspondiente.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-21</td>
+  <td>Funcionalidad para rechazar oferta</td>
+  <td>Desarrollar la lógica para rechazar ofertas, incluyendo un mensaje de advertencia y la eliminación permanente de la oferta tras confirmación.</td>
+  <td>1</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US22</td>
+  <td rowspan="3">Recepción de PIN para apertura de locker</td>
+  <td>WI-22</td>
+  <td>Mostrar PIN seguro tras asignación de locker</td>
+  <td>Desarrollar funcionalidad para mostrar de manera segura el PIN de apertura en la página de detalles del intercambio, visible solo una vez tras confirmar el locker.</td>
+  <td>2</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-23</td>
+  <td>Visualizar PIN desde “Mis Intercambios”</td>
+  <td>Permitir la visualización del PIN en la sección “Mis Intercambios” bajo autenticación adicional, en caso el usuario necesite revisarlo nuevamente.</td>
+  <td>1.5</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-24</td>
+  <td>Generar nuevo PIN si el anterior expiró</td>
+  <td>Implementar el botón “Generar nuevo PIN” que invalida el PIN anterior y crea uno nuevo, asegurando que sea único y funcional para el mismo intercambio.</td>
+  <td>1.5</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US25</td>
+  <td rowspan="3">Confirmación de objeto depositado en locker</td>
+  <td>WI-25</td>
+  <td>Captura automática y registro de imagen</td>
+  <td>Implementar la funcionalidad para que, al detectarse el cierre del locker, el sistema capture automáticamente una fotografía y la registre en el detalle del intercambio.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-26</td>
+  <td>Notificación por correo de imagen disponible</td>
+  <td>Desarrollar el envío automático de un correo electrónico al usuario una vez la imagen del objeto esté procesada, indicando que puede revisarla en “Mis intercambios”.</td>
+  <td>1.5</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-27</td>
+  <td>Visualización de imagen en la plataforma</td>
+  <td>Permitir que el usuario acceda manualmente a la imagen capturada desde la interfaz de “Mis intercambios” como evidencia de entrega.</td>
+  <td>1.5</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US26</td>
+  <td rowspan="3">Validación final y desbloqueo del locker</td>
+  <td>WI-28</td>
+  <td>Confirmación manual y generación de PIN de retiro</td>
+  <td>Desarrollar funcionalidad para que el usuario confirme que el objeto depositado es correcto y, tras la validación, se genere el PIN final para el retiro.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-29</td>
+  <td>Reporte de problema y bloqueo de locker</td>
+  <td>Implementar opción “Reportar problema” que bloquee el locker y notifique automáticamente al equipo de soporte para activar el protocolo de resolución.</td>
+  <td>2</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-30</td>
+  <td>Recordatorio automático de validación por correo</td>
+  <td>Desarrollar sistema de recordatorio por correo electrónico si el usuario no valida el estado del objeto tras un tiempo determinado.</td>
+  <td>1</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">TS02</td>
+  <td rowspan="3">API Exchange</td>
+  <td>T-31</td>
+  <td>Diseñar endpoints y rutas para intercambios</td>
+  <td>Definir las rutas necesarias para crear, leer, actualizar y eliminar intercambios, con sus respectivas validaciones y seguridad.</td>
+  <td>2</td>
+  <td>Joseph Huamani</td>
+</tr>
+<tr>
+  <td>T-32</td>
+  <td>Implementar lógica de intercambio y manejo de errores</td>
+  <td>Desarrollar la lógica para manejar operaciones válidas e inválidas (duplicados, inexistentes) y retornar códigos HTTP adecuados.</td>
+  <td>2</td>
+  <td>Joseph Huamani</td>
+</tr>
+<tr>
+  <td>T-33</td>
+  <td>Integrar y probar la API Exchange</td>
+  <td>Conectar la API con el resto del sistema, realizar pruebas funcionales y asegurar que responde correctamente a las operaciones requeridas.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+</tr>
+<tr>
+  <td rowspan="3">TS03</td>
+  <td rowspan="3">API Lockers</td>
+  <td>T-34</td>
+  <td>Diseñar endpoints para gestión de lockers</td>
+  <td>Crear rutas REST para registrar, consultar y gestionar lockers, considerando autenticación y permisos necesarios.</td>
+  <td>2</td>
+  <td>Joseph Huamani</td>
+</tr>
+<tr>
+  <td>T-35</td>
+  <td>Implementar lógica de lockers y validaciones</td>
+  <td>Codificar la lógica que permita operar sobre lockers, incluyendo respuestas adecuadas ante errores o datos duplicados.</td>
+  <td>2</td>
+  <td>Joseph Huamani</td>
+</tr>
+<tr>
+  <td>T-36</td>
+  <td>Integrar y probar la API Lockers</td>
+  <td>Conectar la API con el sistema, validar su funcionamiento completo y asegurar que responde correctamente a las solicitudes esperadas.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+</tr>
+</tr>
+</tbody>
+</table>
+
 ### 6.2.2.4. Development Evidence for Sprint Review
 
 <table>
@@ -4393,6 +4729,50 @@ La coordinación en GitHub, mediante ramas por módulo y User Story, ha sido cla
 ## 6.3. Validation Interviews
 
 ### 6.3.1. Diseño de Entrevistas
+
+**Preguntas generales**
+
+* ¿Cuál es su nombre completo?  
+* ¿Qué edad tiene?  
+* ¿A qué se dedica?  
+* ¿En qué distrito reside?  
+<br>
+
+**Segmento objetivo 1:** Personas adultas que desean obtener nuevos artículos (Intercambiadores)
+
+
+**Inmersión**
+
+1. ¿Ha participado antes en intercambios de objetos con otras personas? ¿Qué tan positiva o negativa fue su experiencia?  
+2. ¿Qué tipo de objetos le interesaría intercambiar a través de una aplicación como CambiaZo?  
+3. ¿Qué métodos o espacios considera seguros para realizar un intercambio entre personas que no se conocen previamente?  
+<br>
+
+**Indagación sobre seguridad y confianza**
+
+4. ¿Cuáles son los principales temores o dudas que tendría al realizar un intercambio por primera vez mediante una aplicación?  
+5. ¿Qué tan importante considera que es la existencia de un sistema que brinde verificación del intercambio sin necesidad de contacto físico directo?  
+6. ¿Qué opinión le merece el uso de lockers como un punto intermedio seguro para dejar y recoger objetos en un intercambio?  
+<br>
+
+**Verificación y funcionalidades esperadas**
+
+7. ¿Qué tipo de información le gustaría recibir antes de abrir un locker con un objeto destinado para usted?  
+8. ¿Cómo debería actuar la aplicación si el objeto en el locker no coincide con lo acordado en el intercambio?  
+9. ¿Cree que una funcionalidad como la confirmación del depósito del objeto por parte del otro usuario le daría más confianza en el proceso? ¿Por qué?  
+<br>
+
+**Evaluación de utilidad y frecuencia de uso**
+
+10. ¿Qué beneficios personales cree que le ofrecería un sistema de intercambio con lockers integrados en una app?  
+11. Si la experiencia es segura y fácil, ¿con qué frecuencia cree que utilizaría CambiaZo para intercambiar objetos?  
+12. ¿Qué mejoras o sugerencias tendría para que el proceso de intercambio mediante lockers sea más claro, confiable y atractivo para usted?  
+<br>
+
+**Cierre**
+
+Le agradezco nuevamente por su tiempo y sus respuestas. Esta información es muy valiosa para seguir construyendo una plataforma más segura y confiable. ¡Muchas gracias!
+
 
 ### 6.3.2. Registro de Entrevistas
 
