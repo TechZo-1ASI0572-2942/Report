@@ -5452,7 +5452,7 @@ Por el lado del backend, extendimos la API para soportar la creación de publica
   <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing1.png" alt="landing page" ><br>
 
 <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing2.png" alt="landing page" ><br>
-
+</div>
 <br><br>
 
 **Página Web:**<br>
