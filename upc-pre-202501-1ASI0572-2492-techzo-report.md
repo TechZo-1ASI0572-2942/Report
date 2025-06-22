@@ -4477,7 +4477,7 @@ En esta sección, detallamos la planificación realizada para el segundo sprint 
     </td>
   </tr>
   <tr>
-    <td>Sprint 1 Velocity</td>
+    <td>Sprint 2 Velocity</td>
     <td>50 Story Points</td>
   </tr>
   <tr>
@@ -5638,7 +5638,7 @@ Gracias a esta dinámica colaborativa se logró avanzar con eficiencia en todos 
 Landing Page: 
 
   <div align="center">
-    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Insights/landing.png?raw=true" alt="Insights">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Insights/mobilea.png?raw=true" alt="Insights">
 </div><br><br>
 
 Aplicación Web: 
@@ -5709,6 +5709,203 @@ Le agradezco nuevamente por su tiempo y sus respuestas. Esta información es muy
 
 
 ### 6.3.2. Registro de Entrevistas
+
+
+### 5.3.2 Registro de Entrevistas
+
+En esta sección presentaremos el registro de cada entrevista de validación que hemos realizado para nuestro segmento objetivo principal de nuestro proyecto.
+
+**Segmento Intercambiadores**<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Mathias</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Kunimoto</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Isidro</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Agusto Pin</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Validation-Interviews/erick-maycol-evidence.png?raw=true" alt="Erick Maycol Evidence"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://youtu.be/DRN3mUdxJf8?si=5jWcZc0YY2Tu72EV" title="Title">Youtube</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 20:24 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> Erick Maycol, en la Validation Interview, nos menciona que CambiaZo tiene un diseño visualmente atractivo y funcional, pero podría mejorar destacando secciones como testimonios y botones de acción, además de incluir preguntas frecuentes. Resalta la importancia de optimizar filtros, el sistema de calificación de usuarios y tiempos de carga. Sugiere añadir validaciones de identidad, opciones de transacciones protegidas y eventos comunitarios para fortalecer la confianza. Aunque valora el enfoque comunitario, destaca la necesidad de mejoras en la seguridad y experiencia del usuario para consolidar su potencial. </td>
+  </tr>
+</tbody>
+</table>
+
+
+	    
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Nelson Elías</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Serrano</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Miraflores</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Mathías Andre Mendoza Carrión</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Validation-Interviews/entrevista-nelson.png?raw=true" alt="Nelson Elías Serrano"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://youtu.be/DRN3mUdxJf8?si=5jWcZc0YY2Tu72EV" title="Title">Youtube</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>20:25 min - 32:03 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Durante la entrevista, Nelson Elías Serrano, un estudiante de 20 años de la UPC que reside en Villa María del Triunfo, compartió su experiencia con la aplicación CambiaZo. En general, Nelson destacó positivamente la dinámica de intercambiar objetos, un concepto poco común en otras plataformas. Aunque encontró la landing page y la aplicación fáciles de usar, sugirió agregar mensajes tutoriales al inicio para facilitar la experiencia a usuarios menos experimentados. También mencionó que, aunque la aplicación genera confianza mediante reseñas, sería importante aplicar medidas adicionales de seguridad, como la verificación de identidad y la protección de datos. Nelson comentó que, a pesar de algunas dudas iniciales sobre la fiabilidad de los usuarios, la facilidad de uso y el concepto de intercambiar objetos le parecieron innovadores. También recomendó la implementación de opciones de envío dentro de la plataforma y eventos comunitarios para mejorar la experiencia. Por último, calificó la aplicación con un 4.5 sobre 5, destacando la utilidad de la plataforma y sugiriendo que sería valioso agregar funciones que permitan la promoción de eventos de intercambio o ferias virtuales. </td>
+  </tr>
+</tbody>
+</table>
+	    
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Saúl David</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Díaz Suárez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>24 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Meet</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Joseph Alexis Huamani Mandujano</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Validation-Interviews/entrevista-saul.png?raw=true" alt="Saúl Díaz Evidence"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://youtu.be/DRN3mUdxJf8?si=5jWcZc0YY2Tu72EV" title="Title">Youtube</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>32:04 min - 48:41 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Saúl David Díaz Suárez, un comerciante de San Juan de Lurigancho, evaluó CambiaZo destacando su claridad, facilidad de uso y enfoque en intercambios seguros. Aunque encontró la aplicación intuitiva y bien estructurada, sugirió añadir una sección de preguntas frecuentes y mejorar la verificación de usuarios para mayor confianza. Le interesan principalmente artículos de electrónica y hogar y usaría la app unas tres veces al mes.
+        Comparando CambiaZo con otras plataformas, valoró su enfoque en intercambios, aunque vería beneficios en una opción gratuita limitada con funciones adicionales de pago. Prefiere coordinar intercambios dentro de la app, con la opción de puntos de encuentro sugeridos. También sugirió agregar opciones de envío y eventos comunitarios para conectar a usuarios.
+        Saúl calificó la plataforma con 4.5 de 5 y la recomendaría a amigos y familiares, mencionando su seguridad y el ahorro que ofrece. Concluyó que CambiaZo tiene un gran potencial si sigue mejorando la confianza y seguridad para los usuarios.
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+
 
 ### 6.3.3. Evaluaciones según heurísticas
 
@@ -5952,11 +6149,12 @@ A través de todo el proceso de realización del proyecto hemos conseguido valid
 
 En esta sección se presenta el video promocional de CambiaZo, una aplicación diseñada para facilitar el intercambio de objetos a través de lockers inteligentes. El video expone el propósito de la plataforma, sus características principales y los beneficios que ofrece a los usuarios. Incluye demostraciones reales de la interfaz, así como un testimonio que refuerza el valor percibido del producto. La edición mantiene una secuencia coherente de escenas, incorpora música de fondo y resalta los elementos de branding de la startup, logrando una presentación profesional y atractiva.
 
-Link: https://www.youtube.com/watch?v=
+Youtube: https://youtu.be/9nQ0t5Dicuc<br><br>
 
+Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Ec22UIJgCHVLl7dPCf6Ho-sBDYkPP4fapUd2i_-s3J8InA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aDwtkH <br><br>
 
   <div align="center">
-    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Videos/about-the-product.png?raw=true" alt="About the Product">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Videos/about-the.product.png?raw=true" alt="About the Product">
  </div>
 
 
@@ -6051,8 +6249,15 @@ Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/
 
 ## Validation Interviews
 
-Enlace:
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZ7rQsoFLMVKteWmsVXPpeQBbSaw1GzYdNea0ex7Zri5hA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=F7N5uP
 
+
+
+## About the Team
+
+Youtube: https://youtu.be/bqYlbluvIF8
+
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EePpSqQpSARPlTmbiqooN08BeajG_Pi2D_M6qaV6mI7emQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=izHwrx
 
 
 </div>
