@@ -100,6 +100,23 @@ https://github.com/TechZo-1ASI0572-2942/Report
         <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/contributors1.png?raw=true"></div><br><br>
 
 
+**Entrega TB2**
+
++ **Desarrollo de Actividades**  
+  Durante el TB2 del proyecto CambiaZo, el equipo continuó sus coordinaciones mediante la plataforma Discord, realizando reuniones regulares para la toma de decisiones técnicas, revisión de avances y resolución de bloqueos. Esta etapa se enfocó en la implementación de nuevas funcionalidades clave como el sistema de intercambios, la conexión con lockers inteligentes mediante la Edge App, la mejora de la interfaz web, y el despliegue de la Embedded App. La asignación de tareas fue equitativa y se alineó con las competencias individuales, lo que permitió una ejecución más fluida. Asimismo, se aprovechó el tiempo de clases para resolver dudas con el docente, fortaleciendo el trabajo colaborativo y reduciendo los tiempos de retrabajo.
+
++ **Evidencias de colaboración y commits - GitHub:**  
+  * **Gráficos de actividad y colaboración** <br><br>
+      + **Pulse view desde GitHub Insights**  
+      <div align="center">
+        <img src="" alt="Pulse GitHub TB2">
+      </div><br><br>
+
+      + **Vista de contributors en GitHub Insights**  
+      <div align="center">
+        <img src="" alt="Contributors GitHub TB2">
+      </div><br><br>
+
 
 <div style="page-break-after: always;"></div>
 
@@ -4185,6 +4202,7 @@ Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/
  </div>
 
 
-Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Ee1ze5XOD9lGkPIIbQm65D8BaSOlNgXmkSBD2DgIrUb4hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gCQhQW
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EYSYg3R3BO1Aqs1aP8oqmsoBPvP7XyXfF9U_9dJE7y7PFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=osEOv1
+
 
 </div>
