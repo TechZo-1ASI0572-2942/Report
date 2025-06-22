@@ -109,14 +109,11 @@ https://github.com/TechZo-1ASI0572-2942/Report
 + **Evidencias de colaboración y commits - GitHub:**  
   * **Gráficos de actividad y colaboración** <br><br>
       + **Pulse view desde GitHub Insights**  
-      <div align="center">
-        <img src="" alt="Pulse GitHub TB2">
-      </div><br><br>
+      
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/pulse.png?raw=true"></div><br><br>
 
       + **Vista de contributors en GitHub Insights**  
-      <div align="center">
-        <img src="" alt="Contributors GitHub TB2">
-      </div><br><br>
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/contributors-tb2.png?raw=true"></div><br><br>
 
 
 <div style="page-break-after: always;"></div>
@@ -6248,7 +6245,7 @@ Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/
  </div>
 
 
-Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EYSYg3R3BO1Aqs1aP8oqmsoBPvP7XyXfF9U_9dJE7y7PFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=osEOv1
+Enlace:
 
 
 ## Validation Interviews
