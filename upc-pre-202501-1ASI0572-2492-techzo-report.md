@@ -5641,42 +5641,40 @@ Backend:
 * ¿Qué edad tiene?  
 * ¿A qué se dedica?  
 * ¿En qué distrito reside?  
+
 <br>
 
 **Segmento objetivo 1:** Personas adultas que desean obtener nuevos artículos (Intercambiadores)
 
+1. ¿Qué le pareció la landing page y la presentación general de CambiaZo? ¿Le resultó clara la propuesta de valor?
 
-**Inmersión**
+2. ¿La aplicación le pareció intuitiva y fácil de usar? ¿Hubo algo que le generó confusión?
 
-1. ¿Ha participado antes en intercambios de objetos con otras personas? ¿Qué tan positiva o negativa fue su experiencia?  
-2. ¿Qué tipo de objetos le interesaría intercambiar a través de una aplicación como CambiaZo?  
-3. ¿Qué métodos o espacios considera seguros para realizar un intercambio entre personas que no se conocen previamente?  
-<br>
+3. ¿Qué opina sobre el sistema de intercambio mediante lockers asignados automáticamente por la app? ¿Le parece una alternativa viable frente a intercambios presenciales?
 
-**Indagación sobre seguridad y confianza**
+4. ¿Se sentiría cómodo dejando su objeto en un locker y confiando en que el otro usuario hará lo mismo? ¿Por qué?
 
-4. ¿Cuáles son los principales temores o dudas que tendría al realizar un intercambio por primera vez mediante una aplicación?  
-5. ¿Qué tan importante considera que es la existencia de un sistema que brinde verificación del intercambio sin necesidad de contacto físico directo?  
-6. ¿Qué opinión le merece el uso de lockers como un punto intermedio seguro para dejar y recoger objetos en un intercambio?  
-<br>
+5. ¿Cómo percibe el proceso de validación que incluye enviar una fotografía del objeto depositado como prueba antes de desbloquear el locker?
 
-**Verificación y funcionalidades esperadas**
+6. ¿Cree que el hecho de que ambas partes deban confirmar el objeto antes de recibir el suyo aumenta la seguridad del intercambio?
 
-7. ¿Qué tipo de información le gustaría recibir antes de abrir un locker con un objeto destinado para usted?  
-8. ¿Cómo debería actuar la aplicación si el objeto en el locker no coincide con lo acordado en el intercambio?  
-9. ¿Cree que una funcionalidad como la confirmación del depósito del objeto por parte del otro usuario le daría más confianza en el proceso? ¿Por qué?  
-<br>
+7. ¿Considera útil que la aplicación le notifique cuando el otro usuario haya dejado su objeto en el locker correspondiente?
 
-**Evaluación de utilidad y frecuencia de uso**
+8. ¿Qué tan importante es para usted contar con un código único de desbloqueo que solo se genere cuando ambas partes hayan completado y confirmado el proceso?
 
-10. ¿Qué beneficios personales cree que le ofrecería un sistema de intercambio con lockers integrados en una app?  
-11. Si la experiencia es segura y fácil, ¿con qué frecuencia cree que utilizaría CambiaZo para intercambiar objetos?  
-12. ¿Qué mejoras o sugerencias tendría para que el proceso de intercambio mediante lockers sea más claro, confiable y atractivo para usted?  
+9. ¿Qué le daría más confianza a la hora de usar este sistema de lockers? ¿Cambiaría o añadiría alguna medida de verificación adicional?
+
+10. ¿Qué tipo de artículos estaría más interesado en intercambiar mediante CambiaZo? ¿Por qué?
+
+11. En comparación con otras plataformas, ¿considera que CambiaZo aporta algún valor diferencial con su sistema de lockers inteligentes y validación de objetos?
+
+12. ¿Qué mejoras propondría en la experiencia general de la aplicación para que el sistema de intercambio por lockers le resulte más confiable y cómodo?
 <br>
 
 **Cierre**
 
 Le agradezco nuevamente por su tiempo y sus respuestas. Esta información es muy valiosa para seguir construyendo una plataforma más segura y confiable. ¡Muchas gracias!
+
 
 
 ### 6.3.2. Registro de Entrevistas
