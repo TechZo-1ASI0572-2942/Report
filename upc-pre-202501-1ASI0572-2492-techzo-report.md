@@ -3387,176 +3387,450 @@ Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131
     <td>Status (To-do / InProcess / ToReview / Done)</td>
   </tr>
   <tr>
-    <td rowspan="1">US01</td>
-    <td rowspan="1">Registro de usuario</td>
-    <td>WI-01</td>
-    <td>Sección para nuevos usuarios</td>
-    <td>Implem entación de una pantalla de registro donde nuevos usuarios puedan sumarse a CambiaZo.</td>
-    <td>6</td>
-    <td>Jeremy Quispe</td>
-    <td>Done</td>
-  </tr>
+     <tr>
+      <td rowspan="3">US01</td>
+      <td rowspan="3">Registro de usuario</td>
+      <td>WI-01</td>
+      <td>Implementar navegación a la página de registro</td>
+      <td>Desarrollar la lógica que permita al usuario ir desde la vista de inicio de sesión hacia la página de registro al hacer clic en el botón “Registrarse”.</td>
+      <td>1</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-02</td>
+      <td>Diseñar e implementar formulario de registro</td>
+      <td>Crear la interfaz de usuario para el formulario de registro e implementar el envío correcto de los datos al backend.</td>
+      <td>1</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-03</td>
+      <td>Validar datos ingresados por el usuario</td>
+      <td>Implementar validaciones para campos incompletos o inválidos, mostrando mensajes de error si corresponde.</td>
+      <td>1</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
   <tr>
-    <td rowspan="1">US03</td>
-    <td rowspan="1">Iniciar sesión en la aplicación</td>
-    <td>WI-02</td>
-    <td>Pantalla de inicio de sesión</td>
-    <td>Se crea una pantalla en la cual el usuario podrá ingresar a la aplicación cuando introduzca el correo con el que creó su cuenta y su contraseña.</td>
-    <td>2</td>
+    <td rowspan="3">US03</td>
+    <td rowspan="3">Iniciar sesión en la aplicación</td>
+    <td>WI-04</td>
+    <td>Acceso a la pantalla de login</td>
+    <td>Permitir que el usuario navegue desde el home a la pantalla de inicio de sesión al hacer clic en "Iniciar sesión".</td>
+    <td>0.3</td>
     <td>Mathias Mendoza</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="1">US05</td>
-    <td rowspan="1">Cerrar sesión</td>
-    <td>WI-03</td>
-    <td>Funcionalidad de cerrar sesión</td>
-    <td>Implementación de la opción de cerrar sesión en la aplicación.</td>
-    <td>2</td>
+    <td>WI-05</td>
+    <td>Autenticación exitosa</td>
+    <td>Desarrollar la lógica para iniciar sesión con credenciales válidas y redireccionar al usuario a la pantalla principal.</td>
+    <td>0.5</td>
     <td>Jeremy Quispe</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="1">US06</td>
-    <td rowspan="1">Filtrado de Objetos</td>
-    <td>WI-04</td>
-    <td>Implem entación de un filtro de búsqueda</td>
-    <td>Implementar un filtro de búsqueda para que los usuarios puedan encontrar de forma más rápida los objetos de su interés.</td>
-    <td>10</td>
+    <td>WI-06</td>
+    <td>Manejo de errores</td>
+    <td>Mostrar mensaje de error si el usuario introduce credenciales incorrectas.</td>
+    <td>0.2</td>
     <td>Ian Santisteban</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="1">US10</td>
-    <td rowspan="1">Visualización de artículos publicados para intercambio</td>
-    <td>WI-05</td>
-    <td>Listar artículos publicados</td>
-    <td>Creación de una sección donde se muestren los artículos publicados por los usuarios.</td>
-    <td>4</td>
-    <td>Joseph Huamani</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-  <td rowspan="1">US12</td>
-  <td rowspan="1">Crear publicación de intercambio</td>
-  <td>WI-06</td>
-  <td>Pantalla de creación de publicación</td>
-  <td>Implementar la pantalla donde los usuarios puedan crear publicaciones para intercambiar.</td>
-  <td>10</td>
+  <td rowspan="3">US05</td>
+  <td rowspan="3">Cerrar sesión</td>
+  <td>WI-07</td>
+  <td>Acceso a la opción de cerrar sesión</td>
+  <td>Mostrar la opción de cerrar sesión dentro del menú de configuración de la cuenta.</td>
+  <td>0.3</td>
   <td>Jeremy Quispe</td>
   <td>Done</td>
- </tr>
+</tr>
+<tr>
+  <td>WI-08</td>
+  <td>Ejecutar cierre de sesión</td>
+  <td>Implementar la funcionalidad que elimina la sesión activa del usuario.</td>
+  <td>0.4</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-09</td>
+  <td>Redirigir a inicio de sesión</td>
+  <td>Redirigir automáticamente al usuario a la pantalla de inicio de sesión después de cerrar sesión.</td>
+  <td>0.3</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US16</td>
-    <td rowspan="1">Visualización de objetos disponibles para intercambio</td>
-    <td>WI-07</td>
-    <td>Listar los objetos disponibles</td>
-    <td>Creación de una sección en la que los usuarios registrados puedan ver los objetos por los que pueden realizar un intercambio.</td>
-    <td>10</td>
-    <td>Joseph Huamani</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US06</td>
+  <td rowspan="3">Filtrado de Objetos</td>
+  <td>WI-10</td>
+  <td>Diseñar interfaz de filtros</td>
+  <td>Crear un panel con opciones de filtro por categoría, ubicación y precio, con diseño responsive.</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-11</td>
+  <td>Implementar lógica de filtrado</td>
+  <td>Aplicar los filtros seleccionados al listado de objetos, actualizando dinámicamente los resultados mostrados.</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-12</td>
+  <td>Gestionar resultados vacíos</td>
+  <td>Mostrar mensaje adecuado cuando no se encuentren objetos que cumplan con los filtros aplicados, e incluir sugerencias.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
   <tr>
+  <td rowspan="3">US10</td>
+  <td rowspan="3">Visualización de artículos publicados para intercambio</td>
+  <td>WI-13</td>
+  <td>Diseñar sección “Mis artículos”</td>
+  <td>Crear una vista donde los usuarios puedan acceder a sus artículos publicados, mostrando tarjetas por publicación.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-14</td>
+  <td>Mostrar mensaje sin publicaciones</td>
+  <td>Diseñar e implementar un mensaje atractivo que invite al usuario a publicar cuando aún no tiene artículos registrados.</td>
+  <td>0.5</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-15</td>
+  <td>Agregar menú de opciones por artículo</td>
+  <td>Incluir botón de opciones (tres puntos) en cada tarjeta de artículo con acciones contextuales como editar o eliminar.</td>
+  <td>0.5</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US19</td>
-    <td rowspan="1">Ver la información detallada de un producto publicado</td>
-    <td>WI-08</td>
-    <td>Funcionalidad de detalles del producto</td>
-    <td>Implementar  la opción para  que los usuarios  vean información detallada  de un producto.</td>
-    <td>10</td>
-    <td>Jeremy Quispe</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US12</td>
+  <td rowspan="3">Crear publicación de intercambio</td>
+  <td>WI-16</td>
+  <td>Diseñar formulario de creación</td>
+  <td>Diseñar e implementar un formulario con campos para título, descripción, categoría, condición del artículo e imágenes.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-17</td>
+  <td>Validación y envío de formulario</td>
+  <td>Agregar validaciones necesarias a los campos y lógica para enviar correctamente los datos al backend.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-18</td>
+  <td>Reflejar publicación en “Mis artículos”</td>
+  <td>Actualizar la lista de artículos en el perfil para incluir automáticamente la nueva publicación luego de su creación.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US20</td>
-    <td rowspan="1">Adquirir suscripción premium</td>
-    <td>WI-09</td>
-    <td>Funcionalidad de adquirir suscripción</td>
-    <td>Permitir a los usuarios adquirir una suscripción premium para obtener beneficios adicionales.</td>
-    <td>16</td>
-    <td>Ian Santisteban</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US16</td>
+  <td rowspan="3">Visualización de objetos disponibles para intercambio</td>
+  <td>WI-19</td>
+  <td>Diseño de sección de exploración</td>
+  <td>Diseñar la sección "Explorar/Home" con barra de búsqueda, categorías y tarjetas de objetos con foto, valor, nombre, ubicación y descripción.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-20</td>
+  <td>Implementación de la lista de objetos</td>
+  <td>Programar la lógica para obtener y mostrar los objetos disponibles en la pantalla, con toda su información.</td>
+  <td>2.0</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-21</td>
+  <td>Funcionalidad de búsqueda</td>
+  <td>Desarrollar la función de búsqueda para filtrar objetos por nombre o palabra clave.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US27</td>
-    <td rowspan="1">Visualización de la Historia de la Startup</td>
-    <td>WI-10</td>
-    <td>Sección “¿Quiénes somos?”</td>
-    <td>Implementación de la sección “¿Quiénes somos?” y las redes sociales y datos de contacto en el footer.</td>
-    <td>2</td>
-    <td>Augusto Pin</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US19</td>
+  <td rowspan="3">Ver la información detallada de un producto publicado</td>
+  <td>WI-22</td>
+  <td>Diseñar interfaz de detalle de producto</td>
+  <td>Crear una vista que muestre imagen, nombre, descripción, categoría, ubicación, valor y propietario del producto.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-23</td>
+  <td>Conectar con API de productos</td>
+  <td>Obtener la información del producto desde el backend utilizando el ID del producto seleccionado.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-24</td>
+  <td>Agregar opción para interacción</td>
+  <td>Implementar botones o enlaces para guardar en favoritos o proponer intercambio desde la vista de detalles.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US28</td>
-    <td rowspan="1">Visualizar las características clave de la aplicación</td>
-    <td>WI-11</td>
-    <td>Sección Caracte rísticas Principales</td>
-    <td>Desarrollo de la sección donde se pueden visualizar todas las características principales de CambiaZo y conocer lo que puede realizar dentro de esta.</td>
-    <td>4</td>
-    <td>Mathias Mendoza</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US20</td>
+  <td rowspan="3">Adquirir la suscripción premium</td>
+  <td>WI-25</td>
+  <td>Diseño de la sección de suscripción</td>
+  <td>Diseñar la interfaz de los planes de suscripción tanto en la vista web como en la mobile, mostrando información clara de cada plan disponible.</td>
+  <td>3</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-26</td>
+  <td>Integración con pasarela de pago</td>
+  <td>Implementar la lógica para redirigir al usuario a PayPal al seleccionar un plan desde cualquiera de las plataformas (web o mobile).</td>
+  <td>3</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-27</td>
+  <td>Activación de suscripción y feedback</td>
+  <td>Confirmar la activación de la suscripción tras el pago y mostrar un mensaje de éxito al usuario. Guardar el estado premium en la base de datos.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US29</td>
-    <td rowspan="1">Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
-    <td>WI-12</td>
-    <td>Formulario de contacto</td>
-    <td>Desarrollo del formulario para que los usuarios llenen sus datos de contacto y puedan recibir noticias relacionadas con CambiaZo.</td>
-    <td>10</td>
-    <td>Ian Santisteban</td>
-    <td>Done</td>
-  </tr>
+ <tr>
+  <td rowspan="3">US27</td>
+  <td rowspan="3">Visualización de la Historia de la Startup</td>
+  <td>WI-28</td>
+  <td>Diseño de la sección “¿Quiénes somos?”</td>
+  <td>Crear la estructura visual de la sección que introduce la historia de CambiaZo y su propósito de sostenibilidad.</td>
+  <td>0.4</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-29</td>
+  <td>Integración de video introductorio</td>
+  <td>Insertar un video que refuerce el mensaje de la historia de CambiaZo, asegurando su correcta reproducción.</td>
+  <td>0.3</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-30</td>
+  <td>Presentación del equipo en slider</td>
+  <td>Desarrollar un carrusel que muestre fotos, nombres y roles de los miembros del equipo de CambiaZo.</td>
+  <td>0.3</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US28</td>
+  <td rowspan="3">Visualizar las características clave de la aplicación</td>
+  <td>WI-31</td>
+  <td>Acceso e introducción a la sección de características</td>
+  <td>Implementar la navegación desde el botón “Características” hasta la sección introductoria de beneficios principales (intercambios y donaciones).</td>
+  <td>0.5</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-32</td>
+  <td>Diseño visual de productos intercambiables</td>
+  <td>Crear un carrusel o cuadrícula con imágenes de productos que los usuarios pueden intercambiar, con estilos visuales claros.</td>
+  <td>0.8</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-33</td>
+  <td>Despliegue de valores y alianzas</td>
+  <td>Mostrar el bloque de “Intercambios Sostenibles” con sus características diferenciadoras, e incluir las imágenes de ONGs aliadas.</td>
+  <td>0.7</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US29</td>
+  <td rowspan="3">Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
+  <td>WI-34</td>
+  <td>Navegación hacia sección “¡Únete a CambiaZo!”</td>
+  <td>Habilitar que al hacer clic en "Contáctanos", el visitante sea redirigido automáticamente a la sección correspondiente de la landing page.</td>
+  <td>1.5</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-35</td>
+  <td>Diseño e implementación del formulario de suscripción</td>
+  <td>Desarrollar el formulario con campos para nombre, apellido y correo electrónico, aplicando validaciones básicas de entrada.</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-36</td>
+  <td>Botón y lógica para envío de formulario</td>
+  <td>Agregar un botón funcional que almacene los datos del formulario en el backend o base de datos simulada y muestre una confirmación visual.</td>
+  <td>1.5</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
    <tr>
-    <td rowspan="1">US30</td>
-    <td rowspan="1">Descargar la aplicación de CambiaZo</td>
-    <td>WI-13</td>
-    <td>Redireccionar a Google Play Store</td>
-    <td>Implementación de botones que sirvan para redire ccionar a los usuarios de la Landing Page a Google Play Store para que descarguen la aplicación.</td>
-    <td>4</td>
-    <td>Joseph Huamani</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US30</td>
+  <td rowspan="3">Descargar la aplicación de CambiaZo</td>
+  <td>WI-37</td>
+  <td>Diseño de botones de acción visibles</td>
+  <td>Diseñar los botones "Iniciar ahora" y "Descargar" con estilos llamativos y ubicarlos en secciones estratégicas de la landing page.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-38</td>
+  <td>Redirección a aplicación web</td>
+  <td>Implementar funcionalidad del botón "Iniciar ahora" que redirige correctamente a la aplicación web de CambiaZo.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-39</td>
+  <td>Redirección a Play Store</td>
+  <td>Configurar el botón "Descargar" para redirigir al usuario hacia la página de descarga de la app en Google Play Store.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US31</td>
-    <td rowspan="1">Ver los planes y precios</td>
-    <td>WI-14</td>
-    <td>Sección de planes y precios</td>
-    <td>Desarrollo de la sección de planes, donde aparezcan los precios de cada plan y lo que incluye cada uno.</td>
-    <td>6</td>
-    <td>Jeremy Quispe</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US31</td>
+  <td rowspan="3">Ver los planes y precios</td>
+  <td>WI-40</td>
+  <td>Diseño de sección de planes</td>
+  <td>Diseñar visualmente la sección de "Planes", mostrando los tipos de suscripción disponibles junto a sus precios y beneficios.</td>
+  <td>0.75</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-41</td>
+  <td>Implementación de detalles de planes</td>
+  <td>Implementar el contenido con los beneficios y precios de cada plan de suscripción en la sección correspondiente de la landing page.</td>
+  <td>0.75</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-42</td>
+  <td>Redirección desde botón “¡Empieza ahora!”</td>
+  <td>Configurar el botón de acción para que redirija al usuario hacia la aplicación web, donde puede completar la suscripción.</td>
+  <td>0.5</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US32</td>
-    <td rowspan="1">Navegación en la Landing Page</td>
-    <td>WI-15</td>
-    <td>Barra de Navegación</td>
-    <td>Implementación de una barra de navegación para que el usuario pueda desplazarse más rápido dentro de la Landing Page.</td>
-    <td>6</td>
-    <td>Mathias Mendoza</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US32</td>
+  <td rowspan="3">Navegación en la Landing Page</td>
+  <td>WI-43</td>
+  <td>Diseño y estructura de la barra de navegación</td>
+  <td>Diseñar una barra de navegación clara y accesible con etiquetas como “Nosotros”, “Características”, “Planes”, “Contáctanos”, “Iniciar ahora” y “Descargar”.</td>
+  <td>1</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-44</td>
+  <td>Programar navegación entre secciones</td>
+  <td>Implementar la lógica para que cada etiqueta redirija a su sección correspondiente dentro de la landing page.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-45</td>
+  <td>Pruebas de navegación y responsividad</td>
+  <td>Realizar pruebas para asegurar que la navegación funciona correctamente tanto en desktop como en dispositivos móviles.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">TS01</td>
-    <td rowspan="1">API User</td>
-    <td>WI-16</td>
-    <td>Metodos CRUD para Usuarios</td>
-    <td>Implementación de los metodos POST, GET, UPDATE y DELETE para poder manejar los datos de la tabla usuarios y relacionadas.</td>
-    <td>10</td>
-    <td>Augusto Pin</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">TS01</td>
+  <td rowspan="3">API User</td>
+  <td>WI-46</td>
+  <td>Diseñar endpoints y rutas para usuarios</td>
+  <td>Definir las rutas necesarias para crear, leer, actualizar y eliminar usuarios, incluyendo requisitos de autenticación y seguridad.</td>
+  <td>2</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-47</td>
+  <td>Implementar lógica y validaciones</td>
+  <td>Desarrollar la lógica para el manejo de usuarios (registro, login, update, delete), controlando errores y devolviendo los códigos HTTP adecuados.</td>
+  <td>2</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-48</td>
+  <td>Integrar y probar la API de usuarios</td>
+  <td>Conectar la API con el sistema, realizar pruebas funcionales, y asegurar el correcto funcionamiento ante distintos escenarios (200, 201, 400, 404, 202).</td>
+  <td>1</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">TS05</td>
-    <td rowspan="1">API Product</td>
-    <td>WI-17</td>
-    <td>Metodos CRUD para productos</td>
-    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para gestionar los datos de la tabla de productos, permitiendo a los usuarios manejar y organizar sus productos segun sus necesidades.</td>
-    <td>10</td>
-    <td>Ian Santisteban</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">TS05</td>
+  <td rowspan="3">API Product</td>
+  <td>WI-49</td>
+  <td>Diseñar endpoints y rutas para productos</td>
+  <td>Definir las rutas necesarias para crear, leer, actualizar y eliminar productos, estableciendo validaciones y tipos de archivos permitidos.</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-50</td>
+  <td>Implementar lógica de gestión de productos</td>
+  <td>Desarrollar la lógica CRUD de productos, control de duplicados y respuestas HTTP adecuadas (200, 201, 400, 404).</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-51</td>
+  <td>Pruebas e integración con el sistema</td>
+  <td>Probar funcionalidad de la API, integrarla con el backend y validar la recepción y envío correcto de datos.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+
 </tr>
 </tbody>
 </table>
