@@ -5546,6 +5546,10 @@ Por el lado del backend, extendimos la API para soportar la creación de publica
 
 <br><br>
 
+**Link del Execution Evidence for Sprint Review 2:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EY3iSuliRnFNuZuvlaBTW1IB52OvOK8qHyJ61mzVh0b_TA?e=N6sMYC
+
+<br>
+
 ### 6.2.2.7. Services Documentation Evidence for Sprint Review
 
 <p>
