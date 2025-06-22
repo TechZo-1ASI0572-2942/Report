@@ -2466,7 +2466,7 @@ Implementando estas técnicas y acciones de navegación, buscamos que los usuari
 
 Para la creación del esquema inicial de nuestra Landing Page, se empleó la plataforma Figma en conjunto con una variedad de complementos que simplificaron considerablemente el proceso de diseño y desarrollo. Esta combinación de herramientas permitió una producción eficiente y efectiva del wireframe.
 
-Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=0-1&t=TsdwraOjylYazZcP-1 <br><br>
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=0-1&t=xxKfFLKoPIS6bBEm-1 <br><br>
 
 **Landing Page**
 
@@ -2484,7 +2484,7 @@ Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id
 
 Hemos completado con éxito la creación del mock-up de la Landing Page, lo que nos ha permitido destacar y aplicar los principios y elementos de diseño que hemos establecido. Estos principios y pautas heurísticas desempeñan un papel fundamental al hacer que la experiencia para los usuarios finales de nuestra plataforma sea más sencilla e intuitiva.
 
-Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=0-1&t=TsdwraOjylYazZcP-1 <br><br>
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=0-1&t=xxKfFLKoPIS6bBEm-1 <br><br>
 
 **Landing Page**
 
@@ -2504,7 +2504,7 @@ Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id
 
 Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
 
-Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-630&t=YzeRn0hMljz5YZrv-1 <br><br>
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-629&t=xxKfFLKoPIS6bBEm-1 <br><br>
 
 
 <div align="center">
@@ -2599,7 +2599,7 @@ Los usuarios podrán dirigirse a la sección "Mis Ofertas" desde la barra de nav
 ### 5.4.3. Applications Mock-ups
 Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
 
-Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-630&t=YzeRn0hMljz5YZrv-1 <br><br>
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-629&t=xxKfFLKoPIS6bBEm-1 <br><br>
 
 
 <div align="center">
@@ -2676,7 +2676,7 @@ A continuación, se presenta el prototipo que se realizó en base a los mockups 
 
 **App Web**<br><br>
 
-Enlace: https://www.figma.com/proto/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-18404&t=YzeRn0hMljz5YZrv-0&scaling=scale-down&content-scaling=fixed&page-id=1%
+Enlace: https://www.figma.com/proto/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-16975&t=tizBsMOHgZ3ijxLH-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A630
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototypeweb.png?raw=true"  alt="prototype-0">
@@ -2684,7 +2684,7 @@ Enlace: https://www.figma.com/proto/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=
 
 **App Mobile**<br><br>
 
-Enlace: https://www.figma.com/proto/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-1288&t=YzeRn0hMljz5YZrv-0&scaling=scale-down&content-scaling=fixed&page-id=1%3A629
+Enlace: https://www.figma.com/proto/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-1288&t=aGZ8VFUqDE6Mn0If-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A629
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototypemobile.png?raw=true"  alt="prototype-0">
@@ -4249,7 +4249,7 @@ En este sprint se continuó con el desarrollo de funcionalidades fundamentales p
 Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131222462667a4335b4351448BFD/cambiazo-iot<br><br>
 
 <div align="center">
-  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-VI/Sprint-1/Sprint1-Trello.png?raw=true" alt="sprints">
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Sprint2-Trello.png?raw=true" alt="sprints">
 </div><br><br>
 
 <table>
@@ -5047,7 +5047,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
 
 ### 6.2.2.5. Testing Suite Evidence for Sprint Review
 
-<table>
+<table border="1">
   <thead>
     <tr>
       <th>Repository</th>
@@ -5055,32 +5055,110 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <th>Commit Id</th>
       <th>Commit Message</th>
       <th>Commit Message Body</th>
-      <th>Commited</th>
+      <th>Committed On (Date)</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>8c7651</td><td>feat: added features</td><td></td><td>2025-05-14 21:06:11</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>14753f</td><td>test: AccountNumberControllerTest & BenefitControllerTest tested.</td><td></td><td>2025-05-14 20:23:15</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>e3083e</td><td>fix: all tests fixed</td><td></td><td>2025-05-14 18:05:42</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>92600c</td><td>test: RoleCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:55:01</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>00c5d6</td><td>test: ReviewCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:54:09</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>e41d7b</td><td>test: ProductCategoryCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:28:31</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>1e912d</td><td>test: PlanCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:26:21</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>99f48a</td><td>test: FavoriteProductCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:22:06</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>06662c</td><td>test: ExchangeCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:17:25</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>276eef</td><td>test: DistrictCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:11:39</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>bbe3d1</td><td>test: DepartamentCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:09:37</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>fc7e40</td><td>test: CountryCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:05:41</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>3c5145</td><td>test: BenefitCommandServiceImplTest tested</td><td></td><td>2025-05-14 16:03:22</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>3492be</td><td>test: SocialNetworkCommandServiceImplTest tested</td><td></td><td>2025-05-14 15:53:43</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>632edc</td><td>test: ProjectCommandServiceImplTest tested</td><td></td><td>2025-05-14 15:50:04</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>60c78c</td><td>test: OngCommandServiceImplTest.java tested</td><td></td><td>2025-05-14 15:45:35</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>aac035</td><td>test:  CategoryOngCommandServiceImplTest tested</td><td></td><td>2025-05-14 15:29:54</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>35aa04</td><td>refactor: AccountNumberCommandServiceImplTest refactored.</td><td></td><td>2025-05-14 14:53:52</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>a5cabe</td><td>test: UserCommandServiceImplTest tested.</td><td></td><td>2025-05-14 14:49:18</td></tr>
-    <tr><td>CambiaZo-Backend</td><td>test/JUNIT</td><td>d6ddaa</td><td>test: AccountNumberCommandServiceImplTest tested.</td><td></td><td>2025-05-14 14:49:01</td></tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>4f9a2bd</td>
+      <td>Feat: Create US-07</td>
+      <td>In this part, we applied Gherkin to the US-07</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>c2a1d89</td>
+      <td>Feat: Create US-11</td>
+      <td>In this part, we applied Gherkin to the US-11</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>ee57a3f</td>
+      <td>Feat: Create US-13</td>
+      <td>In this part, we applied Gherkin to the US-13</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>b8c9f02</td>
+      <td>Feat: Create US-14</td>
+      <td>In this part, we applied Gherkin to the US-14</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>90af3be</td>
+      <td>Feat: Create US-15</td>
+      <td>In this part, we applied Gherkin to the US-15</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>a1d56fb</td>
+      <td>Feat: Create US-17</td>
+      <td>In this part, we applied Gherkin to the US-17</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>7bb8d44</td>
+      <td>Feat: Create US-18</td>
+      <td>In this part, we applied Gherkin to the US-18</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>19b73af</td>
+      <td>Feat: Create US-22</td>
+      <td>In this part, we applied Gherkin to the US-22</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>d3e4a76</td>
+      <td>Feat: Create US-25</td>
+      <td>In this part, we applied Gherkin to the US-25</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>ac5d8ef</td>
+      <td>Feat: Create US-26</td>
+      <td>In this part, we applied Gherkin to the US-26</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>6e9f001</td>
+      <td>Feat: Create TS-02</td>
+      <td>In this part, we applied Gherkin to the TS-02</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>3ffb760</td>
+      <td>Feat: Create TS-03</td>
+      <td>In this part, we applied Gherkin to the TS-03</td>
+      <td>20/06/25</td>
+    </tr>
   </tbody>
 </table>
+
+
 
 ### 6.2.2.6. Execution Evidence for Sprint Review.
 
@@ -5128,13 +5206,31 @@ Por el lado del backend, extendimos la API para soportar la creación de publica
 
 ### 6.2.2.7. Services Documentation Evidence for Sprint Review
 
-Durante el Sprint 2, hemos culminado casi por completo el desarrollo de nuestra plataforma, con el frontend implementando las últimas características y adoptando plenamente la funcionalidad IoT. En el backend, finalizamos todas las validaciones y pruebas, asegurando la robustez y seguridad del sistema. La aplicación móvil también ha sido pulida, con detalles afinados para una experiencia de usuario excepcional.
+<p>
+Durante el <strong>Sprint 2</strong>, se ha logrado culminar casi por completo el desarrollo de la plataforma. El <strong>frontend</strong> ha sido actualizado con las últimas características, integrando plenamente la funcionalidad <strong>IoT</strong>. El <strong>backend</strong> completó las validaciones y pruebas necesarias, garantizando un sistema robusto, seguro y confiable.
+</p>
 
-La integración IoT es ahora central, permitiendo una trazabilidad fluida de los intercambios con lockers inteligentes. El backend refuerza esto con endpoints seguros para contraseñas, reseñas y eliminación de cuentas, garantizando la protección de datos.
+<p>
+Se ha implementado una primera versión de la <strong>embedded app</strong>, la cual permite interactuar con el sistema desde la misma página web, mejorando la accesibilidad y experiencia de los usuarios desde múltiples dispositivos. Asimismo, se ha liberado una versión inicial de la <strong>Edge Application</strong>, diseñada para optimizar el rendimiento del sistema en condiciones de conectividad limitada y permitir futuras integraciones con dispositivos físicos.
+</p>
 
-La coordinación en GitHub, mediante ramas por módulo y User Story, ha sido clave para una integración continua y sentar una base sólida para la escalabilidad.
+<p>
+La <strong>aplicación móvil</strong> también ha sido optimizada, incorporando mejoras clave que ofrecen una experiencia de usuario más fluida. La integración con dispositivos <strong>IoT</strong> se ha consolidado como un componente fundamental del sistema, permitiendo la trazabilidad completa de los intercambios a través de <strong>lockers inteligentes</strong>.
+</p>
+
+<p>
+El backend respalda esta integración con endpoints específicos para funcionalidades críticas como <strong>gestión de contraseñas</strong>, <strong>reseñas de usuarios</strong> y <strong>eliminación de cuentas</strong>, cumpliendo con estándares de seguridad y protección de datos.
+</p>
+
+<p>
+La coordinación técnica mediante <strong>GitHub</strong>, estructurada en <strong>ramas por módulo y por User Story</strong>, ha facilitado una integración continua eficiente y estableció las bases para la <strong>escalabilidad</strong> del sistema en futuras versiones.
+</p>
+
 
 ### 6.2.2.8. Software Deployment Evidence for Sprint Review
+
+
+
 
 ### 6.2.2.9. Team Collaboration Insights during Sprint
 
