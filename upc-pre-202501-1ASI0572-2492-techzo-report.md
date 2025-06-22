@@ -4484,7 +4484,7 @@ En esta sección, detallamos la planificación realizada para el segundo sprint 
 </table><br><br>
 
 
-<h3>6.2.2.2. Aspect Leaders and Collaborators</h3>
+### 6.2.2.2. Aspect Leaders and Collaborators
 
 <p>Durante el Sprint 2, el equipo abordó funcionalidades clave como la nueva versión de la landing page con videos informativos, avances en el frontend y backend, ajustes en la base de datos, además del desarrollo de la aplicación embebida y la Edge Application. Se designaron líderes y colaboradores por aspecto, promoviendo una ejecución eficiente y coordinada.</p>
 
@@ -4894,7 +4894,7 @@ Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131
 
 ### 6.2.2.4. Development Evidence for Sprint Review
 
-Durante el Sprint 1, se realizaron múltiples commits en el repositorio del frontend de CambiaZo, vinculados a User Stories y Technical Stories. Estos reflejan avances clave como la edición y filtrado de productos, mejoras visuales, validaciones de formularios y optimización de solicitudes. El historial de commits evidencia un trabajo colaborativo y continuo en función de los objetivos del Sprint. 
+Durante el Sprint 2, se realizaron múltiples commits en el repositorio del frontend de CambiaZo, vinculados a User Stories y Technical Stories. Estos reflejan avances clave como la edición y filtrado de productos, mejoras visuales, validaciones de formularios y optimización de solicitudes. El historial de commits evidencia un trabajo colaborativo y continuo en función de los objetivos del Sprint. 
 
 ### Frontend: 
 
@@ -5482,6 +5482,8 @@ Desarrollamos el edge application que nos permitió simular el comportamiento de
 
 Por el lado del backend, extendimos la API para soportar la creación de publicaciones, así como la gestión de perfiles de usuario. Se realizaron pruebas exhaustivas en todos los endpoints para garantizar la integridad y seguridad de los datos. La integración continua sigue siendo un pilar, con mejoras en los procesos de despliegue que nos permiten iterar rápidamente y mantener la estabilidad del sistema.
 
+**Link del Execution Evidence for Sprint Review 2:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EY3iSuliRnFNuZuvlaBTW1IB52OvOK8qHyJ61mzVh0b_TA?e=N6sMYC
+
 **Landing Page:**<br>
 
 + Landing Page: https://cambiazo-landing-page.netlify.app/<br><br>
@@ -5545,8 +5547,6 @@ Por el lado del backend, extendimos la API para soportar la creación de publica
 </div>
 
 <br><br>
-
-**Link del Execution Evidence for Sprint Review 2:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EY3iSuliRnFNuZuvlaBTW1IB52OvOK8qHyJ61mzVh0b_TA?e=N6sMYC
 
 <br>
 
@@ -6268,7 +6268,7 @@ Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/
 ## Exposure video TB2
 
   <div align="center">
-    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Videos/expo.png?raw=true" alt="Exposure video Tb1">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Videos/expo.png?raw=true" alt="Exposure video Tb2">
  </div>
 
 
