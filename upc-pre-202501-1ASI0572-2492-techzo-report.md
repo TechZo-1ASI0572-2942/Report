@@ -61,7 +61,7 @@ https://github.com/TechZo-1ASI0572-2942
 https://github.com/TechZo-1ASI0572-2942/Report
 
 
-<strong>*Entrega TB1:*</strong>
+<strong>Entrega TB1:</strong>
 
 + Desarrollo de Actividades
     En el entregable de TB1, el equipo se reunió por discord para hacer las primeras coordinaciones y posteriormente todo el desarrollo y reuniones de avance. Esto se debe, a que la mayoría de integrantes se siente más cómodo con esta aplicación. 
@@ -81,7 +81,7 @@ https://github.com/TechZo-1ASI0572-2942/Report
         <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/contributors.png?raw=true"></div><br><br>
 
 
-<strong>*Entrega TP:*</strong>
+<strong>Entrega TP:</strong>
 
 + Desarrollo de Actividades
     Durante el desarrollo del Trabajo Parcial 1 (TP1) del proyecto CambiaZo, el equipo realizó sus primeras coordinaciones a través de Discord, una plataforma que fue elegida por la comodidad y familiaridad de la mayoría de los integrantes. A partir de allí, tanto las reuniones de avance como las sesiones de trabajo colaborativo se llevaron a cabo por ese medio.
@@ -100,6 +100,23 @@ https://github.com/TechZo-1ASI0572-2942/Report
         + **Contributors Image of Github Insights**
         <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/contributors1.png?raw=true"></div><br><br>
 
+
+**Entrega TB2**
+
++ **Desarrollo de Actividades**  
+  Durante el TB2 del proyecto CambiaZo, el equipo continuó sus coordinaciones mediante la plataforma Discord, realizando reuniones regulares para la toma de decisiones técnicas, revisión de avances y resolución de bloqueos. Esta etapa se enfocó en la implementación de nuevas funcionalidades clave como el sistema de intercambios, la conexión con lockers inteligentes mediante la Edge App, la mejora de la interfaz web, y el despliegue de la Embedded App. La asignación de tareas fue equitativa y se alineó con las competencias individuales, lo que permitió una ejecución más fluida. Asimismo, se aprovechó el tiempo de clases para resolver dudas con el docente, fortaleciendo el trabajo colaborativo y reduciendo los tiempos de retrabajo.
+
++ **Evidencias de colaboración y commits - GitHub:**  
+  * **Gráficos de actividad y colaboración** <br><br>
+      + **Pulse view desde GitHub Insights**  
+      <div align="center">
+        <img src="" alt="Pulse GitHub TB2">
+      </div><br><br>
+
+      + **Vista de contributors en GitHub Insights**  
+      <div align="center">
+        <img src="" alt="Contributors GitHub TB2">
+      </div><br><br>
 
 
 <div style="page-break-after: always;"></div>
@@ -277,32 +294,44 @@ forma conjunta</td>
       <b>TB1</b> 
       <p>Para el primer hito de nuestro proyecto de IoT, me encargué de definir el Problem Statement enfocado en la automatización de riego agrícola, estableciendo una base clara para orientar las soluciones tecnológicas. Además, desarrollé Asumptions e Hypothesis orientadas a la viabilidad del uso de sensores y controladores en entornos agrícolas. Mi análisis crítico y capacidad de síntesis fueron clave para sentar las bases técnicas que guiaron nuestras decisiones de hardware y software.</p>
       <b>TP1</b> 
-      <p>Formé parte del equipo de testing y validación, contribuyendo al desarrollo del Testing Suite y la recolección de evidencias para la revisión del Sprint. Propuse una estrategia de control de calidad distribuida y acompañé al equipo en la revisión de sus entregables. Esta experiencia me enseñó que cumplir objetivos como equipo requiere organización, liderazgo compartido y confianza mutua.</p>  
+      <p>Formé parte del equipo de testing y validación, contribuyendo al desarrollo del Testing Suite y la recolección de evidencias para la revisión del Sprint. Propuse una estrategia de control de calidad distribuida y acompañé al equipo en la revisión de sus entregables. Esta experiencia me enseñó que cumplir objetivos como equipo requiere organización, liderazgo compartido y confianza mutua.</p>
+      <b>TB2</b> 
+      <p>Fui responsable del despliegue del software para la revisión del Sprint 2, asegurando que todos los servicios estuvieran correctamente documentados y funcionales. Guié la integración de los módulos con servicios externos, y apoyé a mis compañeros en pruebas de ejecución. Además, coordiné parte de la edición del video About-the-Product. Este trabajo conjunto reforzó mi rol de liderazgo técnico, manteniendo siempre un entorno inclusivo y resolutivo.</p> 
     <h3>Mathias André Mendoza Carrión</h3>
       <b>TB1</b>
       <p>Durante esta fase inicial, realicé un análisis detallado de soluciones IoT agrícolas existentes, identificando brechas de mercado y oportunidades de innovación. Conduje entrevistas con agricultores tecnificados, cuyos insights nos permitieron modelar los requerimientos funcionales de nuestro sistema. Esto fortaleció mis habilidades de investigación y empatía tecnológica, asegurando que nuestra propuesta responda efectivamente a necesidades reales.</p>
       <b>TP1</b> 
-      <p>Durante el diseño del UI/UX, asumí el liderazgo en las decisiones visuales clave, guiando al equipo en la elaboración de los mock-ups y wireframes. Organicé sesiones de retroalimentación para asegurar que todos pudieran participar y aportar ideas. Esta experiencia me enseñó que liderar también implica escuchar y facilitar un entorno en el que cada voz cuenta.</p>  
+      <p>Durante el diseño del UI/UX, asumí el liderazgo en las decisiones visuales clave, guiando al equipo en la elaboración de los mock-ups y wireframes. Organicé sesiones de retroalimentación para asegurar que todos pudieran participar y aportar ideas. Esta experiencia me enseñó que liderar también implica escuchar y facilitar un entorno en el que cada voz cuenta.</p>
+      <b>TB2</b>
+      <p>Durante este bloque, coordiné las tareas de planificación del Sprint 2, ayudando a estructurar el Sprint Backlog e identificando riesgos asociados a la carga de trabajo. También contribuí en la documentación de servicios desarrollados y supervisé la integración de avances técnicos en la evidencia del Sprint Review. Mi enfoque en la cohesión del equipo fue clave para alinear las entregas parciales en función de los objetivos generales del proyecto.</p>
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
       <b>TB1</b>
       <p>En este primer entregable, gestioné la documentación técnica y los requerimientos del sistema IoT, asegurando una comunicación fluida dentro del equipo y con potenciales usuarios. La coordinación efectiva de criterios técnicos permitió integrar de manera precisa sensores de humedad, controladores de riego y plataformas de monitoreo, consolidando una visión clara y colaborativa para el desarrollo del prototipo.</p>
       <b>TP1</b> 
-      <p>Participé activamente en la planificación del Sprint 1, ayudando a organizar el backlog y asignar tareas según fortalezas individuales. También me desempeñé como colaboradora en el sistema de navegación, manteniendo una comunicación constante con mis compañeros para integrar sus avances de forma coherente. Este proceso me permitió desarrollar habilidades de coordinación y adaptación dentro de un entorno colaborativo.</p>  
+      <p>Participé activamente en la planificación del Sprint 1, ayudando a organizar el backlog y asignar tareas según fortalezas individuales. También me desempeñé como colaboradora en el sistema de navegación, manteniendo una comunicación constante con mis compañeros para integrar sus avances de forma coherente. Este proceso me permitió desarrollar habilidades de coordinación y adaptación dentro de un entorno colaborativo.</p>
+      <b>TB2</b> 
+      <p>En esta entrega, asumí el liderazgo en la aplicación de evaluaciones heurísticas, guiando al equipo en la identificación de mejoras de usabilidad. Coordiné la recopilación de hallazgos y propuse criterios para priorizar cambios. También participé en la elaboración del video About-the-Product, asegurando que se destacaran los avances funcionales del sistema. Mi enfoque combinó liderazgo técnico y comunicación visual para transmitir con claridad el progreso del equipo.</p>
     <h3>Jeremy Joel Quispe Andia</h3>
       <b>TB1</b>
       <p>Trabajé en la estructuración de User Stories específicas para nuestro sistema de monitoreo de cultivos, priorizando funcionalidades como alertas automáticas y control remoto. También desarrollé la propuesta de valor enfocada en eficiencia hídrica y facilidad de uso, asegurando que nuestro proyecto se alineara con las demandas prácticas del sector agrícola tecnificado.</p>
       <b>TP1</b> 
-      <p>Lideré la configuración del entorno de desarrollo y el control de versiones. A través de reuniones técnicas, ayudé a resolver dudas del equipo y a unificar criterios en el estilo del código fuente. Promoví un ambiente de apoyo mutuo en el que todos pudimos avanzar con claridad y orden. Esta experiencia fortaleció mi capacidad para organizar tareas y acompañar a mis compañeros en el cumplimiento de objetivos.</p>  
+      <p>Lideré la configuración del entorno de desarrollo y el control de versiones. A través de reuniones técnicas, ayudé a resolver dudas del equipo y a unificar criterios en el estilo del código fuente. Promoví un ambiente de apoyo mutuo en el que todos pudimos avanzar con claridad y orden. Esta experiencia fortaleció mi capacidad para organizar tareas y acompañar a mis compañeros en el cumplimiento de objetivos.</p>
+      <b>TB2</b>
+      <p>Contribuí activamente en el diseño y ejecución de las entrevistas de validación, redactando guiones, coordinando horarios y sistematizando los registros. También apoyé en la redacción colaborativa de las conclusiones del informe y la organización de los anexos. Mi disposición para facilitar acuerdos y adaptar el cronograma a las necesidades del equipo ayudó a mantener un flujo de trabajo inclusivo y eficiente.</p>
     <h3>Augusto Jose Pin Matallana</h3>
       <b>TB1</b>
       <p>Diseñé diagramas de arquitectura del sistema que integran hardware y software, como la comunicación entre sensores, actuadores y servidores en la nube. Esta representación clara de flujos de información y control fue clave para asegurar la interoperabilidad de los componentes y para proyectar un sistema escalable y eficiente en el contexto agrícola.</p>
       <b>TP1</b> 
-      <p>Durante el diseño de la arquitectura de información, tomé la iniciativa de documentar las estructuras de navegación y los sistemas de etiquetado. Al hacerlo, motivé al equipo a revisar y proponer mejoras continuamente. Mi rol no fue solo técnico, sino también facilitador del trabajo conjunto, generando un entorno participativo e inclusivo para el desarrollo del sistema.</p>  
+      <p>Durante el diseño de la arquitectura de información, tomé la iniciativa de documentar las estructuras de navegación y los sistemas de etiquetado. Al hacerlo, motivé al equipo a revisar y proponer mejoras continuamente. Mi rol no fue solo técnico, sino también facilitador del trabajo conjunto, generando un entorno participativo e inclusivo para el desarrollo del sistema.</p>
+      <b>TB2</b> 
+      <p>En esta entrega, me enfoqué en organizar las evidencias de ejecución y testing del Sprint 2. Revisé los módulos implementados, validando su funcionalidad y documentando los resultados para el Sprint Review. También propuse mejoras en la estructura del repositorio y aseguré que las tareas estuvieran correctamente etiquetadas. Mi liderazgo técnico se centró en la organización y trazabilidad del avance del equipo.</p>  
     <td colspan="3">
     <b>TB1</b>
     <p>Al concluir el primer hito de nuestro proyecto de IoT, nuestro equipo ha demostrado un avance sólido en la definición de soluciones tecnológicas aplicadas a la agricultura de precisión. Logramos definir claramente los problemas a resolver, realizar una investigación profunda de necesidades reales y proponer una arquitectura robusta basada en sensores y controladores. La colaboración efectiva y la comunicación fluida nos permitieron integrar diversas perspectivas técnicas, estableciendo bases firmes para el desarrollo de un prototipo funcional. Este progreso inicial ha fortalecido tanto nuestras competencias tecnológicas como nuestra cohesión como equipo, preparándonos para enfrentar exitosamente los retos de las siguientes etapas.</p>
     <b>TP1</b>
     <p>Durante el desarrollo de los capítulos V y VI, el equipo logró trabajar de manera cohesionada, estableciendo objetivos comunes y distribuyendo responsabilidades de manera equitativa. Cada integrante asumió roles de liderazgo en distintas etapas del proceso, desde el diseño hasta el despliegue, fomentando un entorno colaborativo e inclusivo. A través de la planificación de tareas, el seguimiento de avances y la resolución conjunta de problemas, se consolidó una dinámica de trabajo efectiva que permitió alcanzar los objetivos técnicos y fortalecer las habilidades interpersonales esenciales para el desarrollo profesional en soluciones de software</p>
+    <b>TB2</b>
+    <p>Durante el segundo sprint, el equipo demostró una madurez creciente en la organización de tareas, el liderazgo compartido y la colaboración continua. Se logró realizar con éxito la planificación del Sprint 2, asignando líderes por aspecto y detallando el Sprint Backlog con claridad. Cada miembro contribuyó activamente en el desarrollo, pruebas, documentación y despliegue del software, generando evidencia concreta para la revisión. Además, se implementaron entrevistas de validación, evaluaciones heurísticas y un video explicativo del producto, fortaleciendo tanto la perspectiva técnica como la experiencia del usuario. Las reflexiones de colaboración evidencian un equipo comprometido, capaz de alinear sus fortalezas individuales en favor de un objetivo común, consolidando así una dinámica ágil y eficaz en el trabajo en equipo.</p>
   </td>
     </tr>
     <tr>
@@ -316,32 +345,44 @@ objetivos.</td>
       <p>En este primer hito, desarrollé una visión integral del problema de gestión de riego agrícola, formulando suposiciones y problemáticas claves que fundamentaron nuestras decisiones de selección de sensores y microcontroladores. Esta tarea reforzó mi capacidad de analizar entornos reales y plantear soluciones técnicas efectivas, reafirmando la importancia del aprendizaje práctico en IoT.</p>
       <b>TP1</b>
       <p>Durante la planificación del Sprint 1, propuse un enfoque visual para dividir tareas utilizando un tablero Kanban, permitiendo que todos los miembros tuvieran visibilidad y voz en la asignación de responsabilidades. Además, me aseguré de incluir a todos en las decisiones de diseño, fomentando un ambiente donde cada opinión era considerada y valorada.</p>
+      <b>TB2</b>
+      <p>Durante el segundo hito, participé activamente en la validación de componentes, coordinando con mis compañeros para establecer una secuencia de pruebas y verificar el funcionamiento del sistema de riego. Promoví espacios de revisión conjunta y retroalimentación, lo que permitió una toma de decisiones más colaborativa. Esta experiencia fortaleció mi capacidad para coordinar tareas técnicas en un ambiente inclusivo y orientado al logro de objetivos comunes.</p>
     <h3>Mathias André Mendoza Carrión</h3>
       <b>TB1</b>
       <p>El análisis de competidores y entrevistas a agricultores me permitió identificar necesidades no satisfechas en el mercado actual, lo que afianzó mi comprensión del impacto que tiene la correcta selección de tecnologías IoT en proyectos reales. Aprender a interpretar los requerimientos de usuarios y convertirlos en especificaciones técnicas ha sido una lección valiosa para mi formación.</p>
       <b>TP1</b>
       <p>Mi participación se centró en liderar el diseño de los wireframes y flujos de usuario para la aplicación móvil. Desde el inicio, planteé objetivos claros y medibles por cada iteración, guiando al equipo con fechas de revisión y criterios de avance. El compromiso conjunto permitió cumplir con lo propuesto en el cronograma establecido.</p>
+      <b>TB2</b>
+      <p>Colaboré en el desarrollo de casos de uso y en la validación con usuarios, proponiendo un enfoque centrado en el usuario para asegurar que las metas del sprint se alinearan con sus expectativas. Organicé reuniones breves para revisar avances y redistribuir tareas cuando fue necesario. Fomenté un ambiente donde todos pudieran aportar sus ideas y sentirse escuchados, lo cual fue clave para cumplir los entregables a tiempo y con calidad.</p>
      <h3>Ian Haziel Donato Santisteban Palomino</h3>
       <b>TB1</b>
       <p>Al liderar la estructuración de requerimientos y documentación técnica, consolidé habilidades fundamentales para planificar proyectos IoT que integren distintos dispositivos y plataformas. Esta experiencia práctica subraya la importancia de actualizar permanentemente mis conocimientos sobre protocolos de comunicación, seguridad de datos y gestión de dispositivos conectados.</p>
       <b>TP1</b>
       <p>Encabecé la elaboración de la documentación SEO y de etiquetas meta, y para lograrlo organicé reuniones cortas y constantes, asignando subtareas a cada miembro interesado en aprender sobre posicionamiento web. Esta experiencia me permitió distribuir eficientemente las tareas, considerando tanto las habilidades como los intereses del equipo.</p>
+      <b>TB2</b>
+      <p>Me encargué de coordinar el seguimiento de tareas durante el Sprint 2, utilizando herramientas colaborativas para visualizar el progreso y asegurar que todos los miembros pudieran avanzar con claridad. Propicié un entorno de trabajo horizontal donde se valoraron todas las ideas, y realicé ajustes en la planificación según la disponibilidad y fortalezas del equipo. Esta experiencia reforzó mi habilidad para promover la inclusión y el cumplimiento efectivo de los objetivos.</p>
     <h3>Jeremy Joel Quispe Andia</h3>
       <b>TB1</b>
       <p>La definición de funcionalidades y necesidades a partir de User Stories me permitió comprender de manera aplicada cómo traducir problemas agrícolas reales en soluciones tecnológicas. Esta práctica resalta la necesidad de formarse continuamente en nuevas plataformas, hardware emergente y mejores prácticas de desarrollo para crear soluciones IoT efectivas y sostenibles.</p>
       <b>TP1</b>
       <p>Trabajé en el desarrollo del mock-up del landing page, asegurándome de integrar las ideas de todos, incluso aquellas que venían de compañeros menos familiarizados con diseño visual. Esto fortaleció la cohesión del grupo y mostró que un entorno inclusivo mejora los resultados finales y refuerza la motivación colectiva.</p>
+      <b>TB2</b>
+      <p>Lideré la coordinación técnica del desarrollo del backend durante el Sprint 2, estableciendo metas claras y ayudando a descomponer tareas complejas en subtareas más manejables para el equipo. Generé espacios de consulta para resolver dudas y garantizar que todos tuvieran el mismo entendimiento del flujo de datos. Mi participación fue clave para fomentar un entorno colaborativo en el que cada integrante pudo desarrollar su potencial y contribuir al avance general del sistema.</p>
     <h3>Augusto Jose Pin Matallana</h3>
       <b>TB1</b>
       <p>Participé activamente en la definición de la arquitectura técnica del sistema IoT, considerando factores como conectividad, energía y entorno operativo. Esta experiencia fue crucial para entender la importancia de un enfoque sistémico y me impulsó a profundizar en el aprendizaje de nuevas herramientas de diseño y simulación para fortalecer futuras soluciones de ingeniería.</p>
       <b>TP1</b>
       <p>Me responsabilicé del control de versiones y del despliegue del entorno de desarrollo. Desde el primer momento, establecí hitos técnicos que nos permitieran validar el avance de cada módulo. A través de una planificación clara y reuniones semanales, el equipo logró cumplir los objetivos sin retrasos, manteniendo siempre una actitud de apoyo mutuo.</p>
+      <b>TB2</b>
+      <p>Durante este hito, participé en la planificación y validación de la arquitectura del sistema. Propuse sesiones breves de revisión para validar decisiones técnicas y verificar que todos los módulos se integraran correctamente. Motivé al equipo a compartir observaciones y a corregir en conjunto cualquier desviación en el cumplimiento de objetivos. Esta colaboración activa permitió mantener una dinámica de trabajo organizada, inclusiva y orientada a resultados.</p>
     </td>
       <td colspan="3">
     <b>TB1</b>
     <p>Al concluir este primer hito, nuestro equipo ha reafirmado la importancia de combinar conocimientos teóricos con experiencia práctica para lograr proyectos IoT exitosos. Cada integrante ha mostrado una evolución constante, aplicando aprendizajes técnicos a situaciones reales del sector agrícola. La colaboración, investigación de campo y el enfoque en necesidades del usuario nos permitieron plantear una solución sólida, adaptada a contextos exigentes. El aprendizaje continuo en sensores, plataformas de conectividad, protocolos de comunicación y desarrollo de interfaces será clave para seguir creciendo en las siguientes fases del proyecto. Esta etapa nos ha preparado mejor para enfrentar los desafíos tecnológicos futuros con una mentalidad crítica, creativa y resolutiva.</p>
     <b>TP1</b>
     <p>A lo largo del desarrollo de los capítulos V y VI, el equipo mostró una fuerte capacidad para crear un entorno de trabajo colaborativo e inclusivo, donde cada integrante pudo participar activamente en la toma de decisiones. Se establecieron metas claras, se planificaron tareas con enfoque estratégico y se cumplieron los objetivos propuestos dentro de los plazos establecidos. La experiencia consolidó no solo el avance técnico del proyecto, sino también la formación de competencias blandas fundamentales para el trabajo profesional en equipos de desarrollo de software.</p>
+    <b>TB2</b>
+    <p>En este segundo hito, el equipo fortaleció su capacidad para establecer metas claras, planificar tareas con anticipación y cumplir con los objetivos definidos. Se fomentó un entorno colaborativo e inclusivo donde cada miembro aportó desde sus fortalezas, promoviendo la participación equitativa y la toma de decisiones compartida. Las sesiones de planificación y las revisiones del Sprint reflejaron una mejora continua en la coordinación, así como un compromiso colectivo con la calidad del producto. Este avance consolidó tanto el rendimiento técnico como la cohesión del grupo, sentando una base sólida para los siguientes retos del proyecto.</p>
   </td>
     </tr>
   </tbody>
@@ -352,11 +393,11 @@ objetivos.</td>
 
 <br><br>
 
-
-<div style="page-break-after: always;"></div>
   
 # Capítulo I: Presentación
+
 ## 1.1 Startup Profile
+
 ### 1.1.1 Descripción de la Startup
 
 **Nombre:**  TechZo
@@ -5202,6 +5243,10 @@ Por el lado del backend, extendimos la API para soportar la creación de publica
 
 + Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
 
+**Edge Application:**<br>
+
++ Edge Application: https://cambiazo-edge.onrender.com<br><br>
+
 <br><br>
 
 ### 6.2.2.7. Services Documentation Evidence for Sprint Review
@@ -5229,10 +5274,88 @@ La coordinación técnica mediante <strong>GitHub</strong>, estructurada en <str
 
 ### 6.2.2.8. Software Deployment Evidence for Sprint Review
 
+<p>
+Durante el Sprint 2, se consolidaron los procesos de despliegue del sistema, abarcando tanto la aplicación web como los componentes embebidos y del Edge. Se fortaleció la estructura de los repositorios en GitHub, que han sido fundamentales para organizar el trabajo del equipo y garantizar la integración continua de nuevas funcionalidades.
+</p>
+
+<p>
+El despliegue se realizó siguiendo la metodología <strong>GitFlow</strong>, con ramas diferenciadas por funcionalidades y por historia de usuario, lo que permitió a los integrantes trabajar de forma paralela y ordenada. Se mantuvo la convención de nomenclatura <code>feature/US-[número]</code> para mantener trazabilidad con el backlog y facilitar la revisión cruzada del código.
+</p>
+
+<p>
+En este sprint, se avanzó significativamente en los siguientes despliegues:
+</p>
+<ul>
+  <li><strong>Aplicación Web:</strong> Se desplegó una nueva versión con integración de endpoints de backend y pruebas funcionales completas.</li>
+  <li><strong>Embedded App:</strong> Se desarrolló la interfaz y lógica necesaria para su ejecución en el entorno físico de lockers, con conexión directa al sistema central.</li>
+  <li><strong>Edge Application:</strong> Se construyó el componente intermedio encargado de gestionar la comunicación entre el backend y los dispositivos IoT, validando su funcionamiento mediante simulaciones y pruebas de conectividad.</li>
+  <li><strong>Backend:</strong> Se integraron endpoints adicionales para operaciones críticas como autenticación, gestión de contraseñas, manejo de reseñas y soporte para la eliminación de cuentas.</li>
+</ul>
+
+<p>
+Además, se ejecutaron pruebas automatizadas y de aceptación que validaron las funcionalidades de cada módulo antes de su integración final. Este enfoque de trabajo ha permitido consolidar un entorno robusto y seguro, con una arquitectura modular escalable.
+</p>
+
+<div align="center">
+  <div align="center">
+    <img src=""  alt="Repositorio App Web">
+  </div><br><br>
+
+  <div align="center">
+    <img src=""  alt="Repositorio App Movil">
+  </div><br><br>
+
+  <div align="center">
+    <img src=""  alt="Repositorio Embedded App">
+  </div><br><br>
+
+  <div align="center">
+    <img src="" alt="Repositorio Backend">
+  </div><br><br>
+
+  <div align="center">
+    <img src="" alt="Repositorio Edge Application">
+  </div><br><br>
+
+
+</div>
 
 
 
 ### 6.2.2.9. Team Collaboration Insights during Sprint
+
+<p>
+Durante el Sprint 2, el equipo trabajó de manera coordinada para avanzar en las funcionalidades clave del sistema, incluyendo la actualización de la <strong>landing page</strong>, la implementación de nuevas secciones en el <strong>frontend</strong>, la consolidación del <strong>backend</strong>, y el desarrollo de la <strong>embedded app</strong> y la <strong>Edge Application</strong>. Cada miembro asumió un rol de liderazgo específico, permitiendo un desarrollo en paralelo sin comprometer la cohesión del proyecto.
+</p>
+
+<p>
+Se mantuvieron reuniones técnicas recurrentes para alinear criterios de integración, resolver obstáculos de conectividad entre módulos y acordar decisiones sobre arquitectura. La gestión por ramas de GitHub permitió a los integrantes trabajar por feature de manera aislada y ordenada, facilitando las pruebas y validaciones antes del merge final.
+</p>
+
+<p>
+Gracias a esta dinámica colaborativa se logró avanzar con eficiencia en todos los frentes, garantizando la calidad del código mediante revisiones cruzadas, y sentando una base técnica sólida para futuras integraciones con sistemas IoT y dispositivos físicos.
+</p>
+
+Landing Page: 
+
+  <div align="center">
+    <img src="" alt="Repositorio archivos feature">
+</div><br><br>
+
+Aplicación Web: 
+
+  <div align="center">
+    <img src="" alt="Repositorio archivos feature">
+</div><br><br>
+
+Backend: 
+
+  <div align="center">
+    <img src="" alt="Repositorio archivos feature">
+</div><br><br>
+
+
+
 
 ## 6.3. Validation Interviews
 
@@ -5524,6 +5647,8 @@ A través de todo el proceso de realización del proyecto hemos conseguido valid
 
 ## 6.4. Video About-the-Product
 
+
+
 ## Conclusiones
 
 La investigación inicial confirmó con datos cualitativos que el modelo de economía lineal está generando niveles crecientes de residuos y desconfianza en los intercambios informales. Las más de cuatro entrevistas realizadas mostraron que el 100 % de los usuarios ha tenido experiencias negativas al intentar trueques a través de redes sociales tradicionales, lo que evidencia una oportunidad clara para una solución segura y automatizada como CambiaZo.
@@ -5534,10 +5659,10 @@ La arquitectura propuesta, basada en EventStorming y Domain-Driven Design, estab
 
 El conjunto de epics, user stories y technical stories definido cubre exhaustivamente todos los escenarios críticos: desde la gestión de cuentas y la publicación de intercambios, hasta la aceptación de ofertas, el manejo de suscripciones y la atención al usuario. Este backlog estructurado sienta las bases de un roadmap de desarrollo ágil que facilite la entrega temprana de valor y permita ajustar el producto de manera iterativa según el feedback real de los usuarios.
 
-Durante el Trabajo Parcial se cumplió con éxito el desarrollo de la landing page, el frontend inicial y la primera versión funcional del backend, integrando funcionalidades clave como registro, login, visualización de productos y filtros. Gracias a una coordinación efectiva, uso de GitFlow y enfoque colaborativo, se avanzó de forma sólida en la construcción de la plataforma CambiaZo, sentando las bases para los siguientes sprints.
+Durante el desarrollo del proyecto se cumplió con éxito el desarrollo de la landing page, el frontend inicial y la primera versión funcional del backend, integrando funcionalidades clave como registro, login, visualización de productos y filtros. Gracias a una coordinación efectiva, uso de GitFlow y enfoque colaborativo, se avanzó de forma sólida en la construcción de la plataforma CambiaZo, sentando las bases para los siguientes sprints.
 
+Se consolidó un ecosistema funcional con la incorporación de la Embedded App y la Edge Application, conectando efectivamente el software con el hardware de lockers físicos. La validación técnica fue complementada con entrevistas y pruebas de usabilidad, lo que reafirmó el potencial del producto y permitió pulir detalles críticos para una futura implementación en entornos reales.
 
-Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular y la sostenibilidad. Más allá de optimizar los procesos de trueque, la plataforma propone un modelo socialmente responsable que incluye donaciones a comunidades vulnerables y promueve hábitos de consumo consciente. De este modo, se alinea con la misión de impulsar un cambio positivo en la reducción de residuos y en la adopción de prácticas de reutilización a través de la tecnología.
 
 # Bibliografía
 <br>
@@ -5583,6 +5708,8 @@ Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular 
 
 + Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
 
++ Edge: https://cambiazo-edge.onrender.com <br><br>
+
 + Repositorio GitHub de la Organización: https://github.com/TechZo-1ASI0572-2942<br><br>
 
 + Repositorio GitHub de la Web App: https://github.com/TechZo-1ASI0572-2942/CambiaZo-WebApp<br><br>
@@ -5608,6 +5735,12 @@ Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/
 
 
 Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EYSYg3R3BO1Aqs1aP8oqmsoBPvP7XyXfF9U_9dJE7y7PFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=osEOv1
+
+
+
+## Validation Interviews
+
+Enlace:
 
 
 
