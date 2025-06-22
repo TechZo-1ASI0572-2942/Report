@@ -1903,11 +1903,11 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 Nuestro proceso de Event Storming se llevó a cabo utilizando la herramienta MIRO, donde desarrollamos de forma colaborativa todo el flujo visual. Iniciamos con la fase de Exploración No Estructurada, en la cual analizamos y compartimos diferentes perspectivas sobre los eventos del dominio, siguiendo las recomendaciones metodológicas correspondientes. Para la selección de los eventos, consideramos criterios clave como su relevancia, frecuencia y temporalidad, asegurando así una representación coherente del comportamiento del sistema.
 
 <div align="center">
-	<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-1.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-1.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
 </div>
 
 <div align="center">
-	<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-2.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-2.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **Evidencia del desarrollo del flujo de autenticación**
@@ -6253,6 +6253,16 @@ Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/
 Youtube: https://youtu.be/bqYlbluvIF8
 
 Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EePpSqQpSARPlTmbiqooN08BeajG_Pi2D_M6qaV6mI7emQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=izHwrx
+
+
+## Exposure video TB2
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Videos/expo.png?raw=true" alt="Exposure video Tb1">
+ </div>
+
+
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EYSYg3R3BO1Aqs1aP8oqmsoBPvP7XyXfF9U_9dJE7y7PFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=osEOv1
 
 
 </div>
