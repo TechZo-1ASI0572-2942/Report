@@ -3580,7 +3580,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
   </thead>
   <tbody>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>9d5167e</td>
       <td>Initial commit</td>
@@ -3588,7 +3588,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>05/05/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>e11cd33</td>
       <td>fix: updated v2 endpoints</td>
@@ -3596,7 +3596,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/05/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>c34ebbb</td>
       <td>feat: updated endopoint changeProfileImage</td>
@@ -3604,7 +3604,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/05/25</td>
     </tr>
     <tr>
-      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>32591c8</td>
       <td>feat: add email js to contact formulary for funcionality</td>
@@ -3612,7 +3612,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/05/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>8ea1877</td>
       <td>feat: added login and register with google auth</td>
@@ -3620,7 +3620,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>14/05/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>edc5b64</td>
       <td>feat: added post exchange</td>
@@ -3628,7 +3628,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>24/05/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>725d045790c077</td>
       <td>fix: corrected the content products</td>
@@ -3636,7 +3636,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>24/05/25</td>
     </tr>
     <tr>
-      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>67e9980</td>
       <td>feat: add styles to buy membership componente</td>
@@ -3644,7 +3644,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>26/05/25</td>
     </tr>
     <tr>
-      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>aa111ff</td>
       <td>feat: fix membership componente card placeholder</td>
@@ -3652,7 +3652,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>26/05/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>aa111ff</td>
       <td>feat: corrected the structure and services of some components</td>
@@ -3660,7 +3660,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>09/06/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>86cbe36</td>
       <td>feat: added corrected exchanges</td>
@@ -3668,7 +3668,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>09/06/25</td>
     </tr>
     <tr>
-      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>d66fb3f</td>
       <td>fix: corrected styles of latest products</td>
@@ -3676,7 +3676,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>09/06/25</td>
     </tr>
     <tr>
-      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>96ac1be</td>
       <td>feat: update endpoints for membership and favorites</td>
@@ -3684,7 +3684,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>09/06/25</td>
     </tr>
     <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>fix</td>
       <td>a3a3921</td>
       <td>fix: fixed styles and functionality in product filter</td>
@@ -3692,7 +3692,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>fix</td>
       <td>a88de01</td>
       <td>fix: fixed product edit functionality</td>
@@ -3700,7 +3700,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>fix</td>
       <td>041182</td>
       <td>fix: fixed favorite products detail</td>
@@ -3708,7 +3708,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>fix</td>
       <td>7bffcc5</td>
       <td>feat: added enable style</td>
@@ -3716,7 +3716,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>fix</td>
       <td>5f23aa2</td>
       <td>fix: delete functionality in favorite products</td>
@@ -3724,7 +3724,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>2cb703</td>
       <td>feat: added corrected the images and firebase storage and skeleton</td>
@@ -3732,7 +3732,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>fix</td>
       <td>2d0886</td>
       <td>fix: make a review</td>
@@ -3740,7 +3740,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>1224e05</td>
       <td>feat: added validation post</td>
@@ -3748,7 +3748,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>101e81b</td>
       <td>feat: added corrected register and login</td>
@@ -3756,7 +3756,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>fix</td>
       <td>111ced3</td>
       <td>fix: display reviews</td>
@@ -4582,6 +4582,10 @@ Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131
 
 ### 6.2.2.4. Development Evidence for Sprint Review
 
+Durante el Sprint 1, se realizaron múltiples commits en el repositorio del frontend de CambiaZo, vinculados a User Stories y Technical Stories. Estos reflejan avances clave como la edición y filtrado de productos, mejoras visuales, validaciones de formularios y optimización de solicitudes. El historial de commits evidencia un trabajo colaborativo y continuo en función de los objetivos del Sprint. 
+
+### Frontend: 
+
 <table>
   <thead>
     <tr>
@@ -4590,35 +4594,453 @@ Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131
       <th>Commit Id</th>
       <th>Commit Message</th>
       <th>Commit Message Body</th>
-      <th>Commited</th>
+      <th>Commited On (Date)</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>f30da1</td><td>CambiaZoApp_v4.1</td><td>CambiaZoApp_v4.1</td><td>2024-11-21 16:01:35</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>59a440</td><td>Merge: 1d62a17 2311667</td><td>CambiaZoApp_v4.0</td><td>2024-11-21 09:38:27</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>231166</td><td>fix: eliminated duplicate code and optimized functionality</td><td>Removed redundant code across multiple sections of the project by consolidating duplicated functionalities into reusable methods.</td><td>2024-11-21 09:36:17</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>91dfde</td><td>fix: resolve merge conflicts from recent pull request</td><td>Resolved merge conflicts caused by the recent pull request.</td><td>2024-11-21 03:30:40</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>584e6f</td><td>Merge: e6d2de1 2ad8f27</td><td>Merge Feature/us03 to develop</td><td>2024-11-21 02:28:48</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>2ad8f2</td><td>feat: add logout functionality for Google accounts</td><td>Implemented a logout feature for users logged in via Google.</td><td>2024-11-21 02:28:11</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>c47734</td><td>feat: persist Google login session</td><td>Implemented functionality to persist user sessions for accounts logged in via Google.</td><td>2024-11-21 02:20:46</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>6b2c17</td><td>feat: add Google account flag to User model</td><td>Updated the User model to include a new field indicating whether the account is registered with Google.</td><td>2024-11-21 02:12:55</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>d546f5</td><td>Merge: c903af3 e6d2de1</td><td>Merge Develop to feature/US03</td><td>2024-11-21 01:50:12</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>e6d2de</td><td>Merge: 123fb98 d606b05</td><td>Merge feature/US18 to develop</td><td>2024-11-21 01:49:04</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>123fb9</td><td>Merge: 8e236a0 c5a13ac</td><td>Merge Feature/us02 into develop</td><td>2024-11-21 01:45:56</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>c5a13a</td><td>Merge: 082fd4f 8e236a0</td><td>Merge branch 'develop' into feature/US02</td><td>2024-11-21 01:45:36</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>082fd4</td><td>feat: add routing for SettingsScreen</td><td>Integrated routing for the new SettingsScreen into the application's navigation system.</td><td>2024-11-21 01:38:18</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>02352e</td><td>feat: add method to delete user account</td><td>Added a method to handle user account deletion. This method includes logic to confirm the user's intent, interact with the backend API for account removal.</td><td>2024-11-21 01:37:38</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>06d819</td><td>feat: add new SettingsScreen</td><td>Added a new SettingsScreen to the application. This screen serves as a centralized hub for user configuration options, providing better accessibility and organization for settings.</td><td>2024-11-21 01:31:15</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>3fa38d</td><td>feat: restructure options display in ProfileScreen</td><td>Restructured the options displayed in the ProfileScreen to improve clarity and user experience.</td><td>2024-11-21 01:29:27</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>d606b0</td><td>Merge: 4eabbd9 8e236a0</td><td>Merge develop into Feature/US18</td><td>2024-11-20 23:43:25</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>8e236a</td><td>Merge: 80cfa9b 3cb82a8</td><td>Merge branch feature/US12 into develop</td><td>2024-11-20 21:51:14</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>3cb82a</td><td>Merge: 4458d57 80cfa9b</td><td>Merge branch 'develop' into feature/US12</td><td>2024-11-20 21:51:02</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>4458d5</td><td>fix: displayed product limit message on publish screen</td><td>Adjusted the product limit message to appear correctly when entering the publish section.</td><td>2024-11-20 20:44:14</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>70b7b1</td><td>refactor: updated exchange lists on action changes</td><td>Fixed the exchange lists to refresh automatically when an action such as reject, accept, or cancel is performed.</td><td>2024-11-20 20:34:16</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>064c10</td><td>fix: reset product list on category filter in explorer</td><td>Adjusted the LazyColumn in the Explorer screen to properly reset the product list when filtering by categories.</td><td>2024-11-20 18:15:19</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>e60539</td><td>Merge: bb9796a 80cfa9b</td><td>Merge Develop into feature/US02</td><td>2024-11-20 17:13:20</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>80cfa9</td><td>Merge: 5c87f9d 7a110f9</td><td>Merge Feature/US01 into Develop</td><td>2024-11-20 16:58:17</td></tr>
-    <tr><td>CambiaZo-MobileApp</td><td>main</td><td>7a110f</td><td>fix: updated the exchange details screen with validation of review</td><td>I've updated the exchange details screen with validations of the reviews, if a review exist with the author id, the screen dont show the button of send review</td><td>2024-11-20 16:48:30</td></tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US12/publicar-intercambio</td>
+      <td>b3c8e78</td>
+      <td>feat: implement offer exchange feature</td>
+      <td>-</td>
+      <td>01/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US12/publicar-intercambio</td>
+      <td>437ac40</td>
+      <td>feat: enable delete post option</td>
+      <td>-</td>
+      <td>02/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US12/publicar-intercambio</td>
+      <td>3903575</td>
+      <td>feat: allow user to view other profiles</td>
+      <td>-</td>
+      <td>03/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US12/publicar-intercambio</td>
+      <td>9bffcc6</td>
+      <td>feat: display exchange management section</td>
+      <td>-</td>
+      <td>04/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US12/publicar-intercambio</td>
+      <td>63e52d0</td>
+      <td>feat: accept and reject offers</td>
+      <td>-</td>
+      <td>05/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>f00fe95</td>
+      <td>feat: show locker PIN securely on web</td>
+      <td>-</td>
+      <td>06/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>4e0d270</td>
+      <td>feat: confirm deposit with locker photo</td>
+      <td>-</td>
+      <td>07/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>eae3bf6</td>
+      <td>feat: validate locker contents before unlock</td>
+      <td>-</td>
+      <td>08/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>67d8102</td>
+      <td>feat: edit exchange post</td>
+      <td>-</td>
+      <td>11/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>f4b48f1</td>
+      <td>feat: split exchange flow in frontend</td>
+      <td>-</td>
+      <td>12/06/25</td>
+    </tr>
+  </tbody>
+</table>
+
+### App movil: 
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US11</td>
+      <td>e381a25</td>
+      <td>chore: corrected routes of 'NavScreen' for 'OfferScreens' implementations</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US11</td>
+      <td>c4c298b</td>
+      <td>chore: corrected the repositories and services for 'OfferScreens' implementations</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US11</td>
+      <td>b34231e</td>
+      <td>feat: added 'ArticleExchange' component</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US11</td>
+      <td>fbc8a7e</td>
+      <td>feat: added 'ConfirmationOfferScreen'</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US11</td>
+      <td>5c19d92</td>
+      <td>feat: added 'OfferViewModel'</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US11</td>
+      <td>9e7bbd2</td>
+      <td>feat: added 'MakeOfferScreen'</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US08</td>
+      <td>bb71a34</td>
+      <td>feat: added add review function in review view model</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US08</td>
+      <td>345b0ec</td>
+      <td>feat: added show dialog 3 for add review</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US08</td>
+      <td>ddc197a</td>
+      <td>feat: added add review function in review repository</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US08</td>
+      <td>f58920d</td>
+      <td>feat: fix updated add review function in review service</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US08</td>
+      <td>a9cb1d6</td>
+      <td>feat: added review request dto</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US08</td>
+      <td>d7f50d4</td>
+      <td>feat: added new functions in custom dialog</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>IanHD04/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>develop</td>
+      <td>cc6e23a</td>
+      <td>feat: enhance design across multiple screens</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>b2c4e1d</td>
+      <td>feat: added whatsapp button</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>af2ddc1</td>
+      <td>refactor: renamed variable to avoid duplication</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>d7c8ee2</td>
+      <td>refactor: added reusable component to buttons</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>7f82ab5</td>
+      <td>feat: created article card component</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>f3b1e2c</td>
+      <td>feat: added action in button of accept or decline</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>a1f8c37</td>
+      <td>fix: reorganizated and cleaned the code of exchange screen</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>c203f11</td>
+      <td>feat: added new update function in viewmodel</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>e65fa21</td>
+      <td>feat: added new put function in exchange repository</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>6c11ac7</td>
+      <td>feat: added empty state composable</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>30c5eab</td>
+      <td>feat: added exchange product</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>9a7c62e</td>
+      <td>fix: updated exchange data class</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>8ebc2f3</td>
+      <td>feat: added update exchange status method</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>0e48db6</td>
+      <td>fix: updated exchange dto</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>e06d97d</td>
+      <td>feat: added exchange status request dto</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>19be8f2</td>
+      <td>fix: updated provide exchange repository in cambiazo module</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### Backend:
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/TS02/exchange-api</td>
+      <td>a5f9b6c</td>
+      <td>feat: implemented exchange controller and routes</td>
+      <td>-</td>
+      <td>01/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/TS02/exchange-api</td>
+      <td>c38e44a</td>
+      <td>feat: add validations and auth in exchange endpoints</td>
+      <td>-</td>
+      <td>02/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/TS02/exchange-api</td>
+      <td>d9af4be</td>
+      <td>fix: corrected 404 and 400 error handling for exchanges</td>
+      <td>-</td>
+      <td>03/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/TS03/lockers-api</td>
+      <td>f4b8cda</td>
+      <td>feat: created locker controller and endpoints</td>
+      <td>-</td>
+      <td>04/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/TS03/lockers-api</td>
+      <td>3b7e2e8</td>
+      <td>feat: add locker POST and GET with validations</td>
+      <td>-</td>
+      <td>05/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/TS03/lockers-api</td>
+      <td>ad12b90</td>
+      <td>fix: handled errors for locker not found and duplicates</td>
+      <td>-</td>
+      <td>06/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/US11/intercambios</td>
+      <td>dc982f5</td>
+      <td>feat: implemented send offer logic</td>
+      <td>-</td>
+      <td>07/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/US14/publicaciones</td>
+      <td>f1e3aa7</td>
+      <td>feat: delete publication endpoint added</td>
+      <td>-</td>
+      <td>08/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/US13/publicaciones</td>
+      <td>cb84d61</td>
+      <td>feat: edit publication endpoint added</td>
+      <td>-</td>
+      <td>09/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/US07/locker-sugerido</td>
+      <td>b188e2f</td>
+      <td>feat: locker suggestion algorithm implemented</td>
+      <td>-</td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/US22/pin-entrega</td>
+      <td>db5a92e</td>
+      <td>feat: show locker PIN logic added</td>
+      <td>-</td>
+      <td>11/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/US25/evidencia-locker</td>
+      <td>9a01333</td>
+      <td>feat: added support for locker photo storage</td>
+      <td>-</td>
+      <td>12/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/US26/validacion-retiro</td>
+      <td>8136dd7</td>
+      <td>feat: validate and unlock locker logic</td>
+      <td>-</td>
+      <td>13/06/25</td>
+    </tr>
   </tbody>
 </table>
 
@@ -4664,7 +5086,9 @@ Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131
 
 Durante el Sprint 2 nos enfocamos en optimizar la experiencia de usuario y fortalecer la interacción entre la aplicación web, el backend y, en especial, la aplicación móvil.
 
-En la aplicación web, hemos implementado el flujo completo para la creación de publicaciones, permitiendo a los usuarios añadir objetos con todos sus detalles. También se integró el perfil de usuario, dando a cada miembro de la plataforma un espacio personalizado. Para la aplicación móvil, el enfoque estuvo en pulir las interfaces existentes, mejorar la navegación y asegurar una experiencia responsiva y fluida. Esto incluyó la optimización de la pantalla de exploración y los flujos de inicio de sesión/registro.
+En la aplicación web, hemos implementado el flujo completo para la creación de publicaciones, permitiendo a los usuarios añadir objetos con todos sus detalles. También se integró el perfil de usuario, dando a cada miembro de la plataforma un espacio personalizado. Para la aplicación móvil, el enfoque estuvo en pulir las interfaces existentes, mejorar la navegación y asegurar una experiencia responsiva y fluida. Esto incluyó la optimización de la pantalla de exploración y los flujos de inicio de sesión/registro. 
+
+Desarrollamos el edge application que nos permitió simular el comportamiento de los lockers físicos, validando flujos como la asignación, desbloqueo y verificación de entrega de objetos, con el fin de asegurar una experiencia realista y robusta para el usuario en futuros escenarios de intercambio físico.
 
 Por el lado del backend, extendimos la API para soportar la creación de publicaciones, así como la gestión de perfiles de usuario. Se realizaron pruebas exhaustivas en todos los endpoints para garantizar la integridad y seguridad de los datos. La integración continua sigue siendo un pilar, con mejoras en los procesos de despliegue que nos permiten iterar rápidamente y mantener la estabilidad del sistema.
 
@@ -4676,18 +5100,6 @@ Por el lado del backend, extendimos la API para soportar la creación de publica
   <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing1.png" alt="landing page" ><br>
 
 <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing2.png" alt="landing page" ><br>
-
-<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing3.png" alt="landing page" ><br>
-
-<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-4.png?raw=true" alt="landing page" ><br>
-
-
-<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-7.png?raw=true" alt="landing page" ><br>
-
-<img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-8.png?raw=true" alt="landing page" ><br>
-
-  <img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Sprint-1/Execution-Evidence/landing-page-9.png?raw=true" alt="landing page" >
-</div>
 
 <br><br>
 
