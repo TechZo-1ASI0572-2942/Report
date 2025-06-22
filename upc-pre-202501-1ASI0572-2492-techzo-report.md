@@ -5517,13 +5517,31 @@ Por el lado del backend, extendimos la API para soportar la creación de publica
 </div>
 <br><br>
 
+**Movil:**<br>
+
+  <div align="center">
+  <img src="" alt="movil app" ><br>
+
+  <img src="" alt="movil app" ><br>
+
+  <img src="" alt="movil app" ><br>
+</div>
+
+
 **Backend:**<br>
 
 + Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
 
-**Edge Application:**<br>
+<img src="" alt="backend" ><br>
+
+**Embedded System:**<br>
 
 + Edge Application: https://cambiazo-edge.onrender.com<br><br>
+
+
+<div align="center">
+<img src="" alt="embedded" ><br>
+</div>
 
 <br><br>
 
