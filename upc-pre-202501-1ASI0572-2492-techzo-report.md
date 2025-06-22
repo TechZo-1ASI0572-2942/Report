@@ -5710,9 +5710,6 @@ Le agradezco nuevamente por su tiempo y sus respuestas. Esta información es muy
 
 ### 6.3.2. Registro de Entrevistas
 
-
-### 5.3.2 Registro de Entrevistas
-
 En esta sección presentaremos el registro de cada entrevista de validación que hemos realizado para nuestro segmento objetivo principal de nuestro proyecto.
 
 **Segmento Intercambiadores**<br>
@@ -5728,11 +5725,11 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Mathias</td>
+    <td>Franco</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Kunimoto</td>
+    <td>Barrionuevo</td>
   </tr>
   <tr>
     <td>Edad</td>
@@ -5760,15 +5757,15 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Validation-Interviews/erick-maycol-evidence.png?raw=true" alt="Erick Maycol Evidence"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Validation-Interview/franco.png?raw=true" alt="Franco Evidence"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://youtu.be/DRN3mUdxJf8?si=5jWcZc0YY2Tu72EV" title="Title">Youtube</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZ7rQsoFLMVKteWmsVXPpeQBbSaw1GzYdNea0ex7Zri5hA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Z7a9Oc" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - 20:24 min</td>
+    <td>00:00 min - 06:43 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -5790,11 +5787,11 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Nelson Elías</td>
+    <td>Edu</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Serrano</td>
+    <td>Gutierrez</td>
   </tr>
   <tr>
     <td>Edad</td>
@@ -5802,7 +5799,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Miraflores</td>
+    <td>La Molina</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -5818,23 +5815,23 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>Mathías Andre Mendoza Carrión</td>
+    <td>Ian Santisteban</td>
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Validation-Interviews/entrevista-nelson.png?raw=true" alt="Nelson Elías Serrano"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Validation-Interview/edu.png?raw=true" alt="Edu Evidence"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://youtu.be/DRN3mUdxJf8?si=5jWcZc0YY2Tu72EV" title="Title">Youtube</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZ7rQsoFLMVKteWmsVXPpeQBbSaw1GzYdNea0ex7Zri5hA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Z7a9Oc" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>20:25 min - 32:03 min</td>
+    <td>06:44 min - 12:56 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Durante la entrevista, Nelson Elías Serrano, un estudiante de 20 años de la UPC que reside en Villa María del Triunfo, compartió su experiencia con la aplicación CambiaZo. En general, Nelson destacó positivamente la dinámica de intercambiar objetos, un concepto poco común en otras plataformas. Aunque encontró la landing page y la aplicación fáciles de usar, sugirió agregar mensajes tutoriales al inicio para facilitar la experiencia a usuarios menos experimentados. También mencionó que, aunque la aplicación genera confianza mediante reseñas, sería importante aplicar medidas adicionales de seguridad, como la verificación de identidad y la protección de datos. Nelson comentó que, a pesar de algunas dudas iniciales sobre la fiabilidad de los usuarios, la facilidad de uso y el concepto de intercambiar objetos le parecieron innovadores. También recomendó la implementación de opciones de envío dentro de la plataforma y eventos comunitarios para mejorar la experiencia. Por último, calificó la aplicación con un 4.5 sobre 5, destacando la utilidad de la plataforma y sugiriendo que sería valioso agregar funciones que permitan la promoción de eventos de intercambio o ferias virtuales. </td>
+    <td>Edu reconoce que la aplicación CambiaZo tiene un enfoque social interesante y podría consolidarse como una herramienta útil para fomentar una economía más circular. Sin embargo, remarca que para llegar a ese punto, es necesario implementar mejoras clave. Entre ellas, sugiere incorporar una sección de favoritos para guardar objetos de interés, así como un sistema de chat en tiempo real que facilite la comunicación directa entre usuarios. Además, considera crucial el desarrollo de filtros más específicos por categoría, estado del producto o ubicación para mejorar la búsqueda. También señala que el sistema de reputación debería ser más visible y claro, mostrando valoraciones y comentarios antes de concretar cualquier tipo de intercambio, lo cual ayudaría a generar mayor confianza entre los participantes.</td>
   </tr>
 </tbody>
 </table>
@@ -5852,19 +5849,19 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Saúl David</td>
+    <td>Mathias</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Díaz Suárez</td>
+    <td>Kunimoto</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>24 años</td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>San Juan de Lurigancho</td>
+    <td>San Isidro</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -5880,25 +5877,23 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>Joseph Alexis Huamani Mandujano</td>
+    <td>Agusto Pin</td>
   </tr>
    <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/TechZo-CC238-SW63/Report/blob/main/Resources/Chapter-V/Validation-Interviews/entrevista-saul.png?raw=true" alt="Saúl Díaz Evidence"></div></td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Validation-Interview/mathias.png?raw=true" alt="Mathias Evidence"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://youtu.be/DRN3mUdxJf8?si=5jWcZc0YY2Tu72EV" title="Title">Youtube</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZ7rQsoFLMVKteWmsVXPpeQBbSaw1GzYdNea0ex7Zri5hA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Z7a9Oc" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>32:04 min - 48:41 min</td>
+    <td>12:57 min - 19:00 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td>Saúl David Díaz Suárez, un comerciante de San Juan de Lurigancho, evaluó CambiaZo destacando su claridad, facilidad de uso y enfoque en intercambios seguros. Aunque encontró la aplicación intuitiva y bien estructurada, sugirió añadir una sección de preguntas frecuentes y mejorar la verificación de usuarios para mayor confianza. Le interesan principalmente artículos de electrónica y hogar y usaría la app unas tres veces al mes.
-        Comparando CambiaZo con otras plataformas, valoró su enfoque en intercambios, aunque vería beneficios en una opción gratuita limitada con funciones adicionales de pago. Prefiere coordinar intercambios dentro de la app, con la opción de puntos de encuentro sugeridos. También sugirió agregar opciones de envío y eventos comunitarios para conectar a usuarios.
-        Saúl calificó la plataforma con 4.5 de 5 y la recomendaría a amigos y familiares, mencionando su seguridad y el ahorro que ofrece. Concluyó que CambiaZo tiene un gran potencial si sigue mejorando la confianza y seguridad para los usuarios.
+    <td>Mathias opina que CambiaZo cuenta con un diseño visualmente atractivo y bien organizado, lo que genera una buena primera impresión. No obstante, enfatiza que hay áreas clave que podrían mejorarse para optimizar la experiencia del usuario. Por ejemplo, sugiere destacar secciones como los testimonios y las preguntas frecuentes, ya que esto aportaría mayor credibilidad y resolvería dudas comunes rápidamente. También recomienda mejorar el rendimiento y los tiempos de carga, pues considera que la fluidez es esencial en una aplicación moderna. En cuanto a la seguridad, propone implementar validaciones de identidad, un sistema de transacciones protegidas y fomentar la organización de eventos comunitarios que refuercen el sentido de comunidad. A pesar de valorar el enfoque colaborativo de la app, insiste en que la confianza y la protección del usuario deben ser prioridades para que CambiaZo pueda consolidarse a largo plazo.
     </td>
   </tr>
 </tbody>
