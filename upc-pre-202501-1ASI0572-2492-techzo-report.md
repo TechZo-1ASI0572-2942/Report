@@ -5501,15 +5501,19 @@ Por el lado del backend, extendimos la API para soportar la creación de publica
 + Aplicación Web: https://cambiazo-webapp.netlify.app/home/ <br><br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web1.png" alt="mobile app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web1.png?raw=true" alt="web app" ><br>
 
-<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web2.png" alt="mobile app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web2.png?raw=true" alt="web app" ><br>
 
-<img src="https://raw.githubusercontent.com/TechZo-1ASI0732-4453/Report/refs/heads/tb2/Resources/Chapter-V/Implemented-Frontend/front3.png" alt="mobile app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web3.png?raw=true" alt="web app" ><br>
 
-<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web3.png" alt="mobile app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web4.png?raw=true" alt="web app" ><br>
 
-<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/web4.png" alt="mobile app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web5.png?raw=true" alt="web app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web5.png?raw=true" alt="web app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web6.png?raw=true" alt="web app" ><br>
 </div>
 <br><br>
 
