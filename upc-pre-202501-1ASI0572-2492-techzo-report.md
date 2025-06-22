@@ -5576,25 +5576,24 @@ Además, se ejecutaron pruebas automatizadas y de aceptación que validaron las 
 
 <div align="center">
   <div align="center">
-    <img src=""  alt="Repositorio App Web">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/web.png?raw=true"  alt="Repositorio App Web">
   </div><br><br>
 
   <div align="center">
-    <img src=""  alt="Repositorio App Movil">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/mobile.png?raw=true"  alt="Repositorio App Movil">
   </div><br><br>
 
   <div align="center">
-    <img src=""  alt="Repositorio Embedded App">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/embebbed.png?raw=true"  alt="Repositorio Embedded App">
   </div><br><br>
 
   <div align="center">
-    <img src="" alt="Repositorio Backend">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/backend.png?raw=true" alt="Repositorio Backend">
   </div><br><br>
 
   <div align="center">
-    <img src="" alt="Repositorio Edge Application">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/edge.png?raw=true" alt="Repositorio Edge Application">
   </div><br><br>
-
 
 </div>
 
@@ -5617,19 +5616,25 @@ Gracias a esta dinámica colaborativa se logró avanzar con eficiencia en todos 
 Landing Page: 
 
   <div align="center">
-    <img src="" alt="Repositorio archivos feature">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Insights/landing.png?raw=true" alt="Insights">
 </div><br><br>
 
 Aplicación Web: 
 
   <div align="center">
-    <img src="" alt="Repositorio archivos feature">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Insights/web.png?raw=true" alt="Insights">
+</div><br><br>
+
+Aplicación Movil: 
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Insights/mobile.png?raw=true" alt="Insights">
 </div><br><br>
 
 Backend: 
 
   <div align="center">
-    <img src="" alt="Repositorio archivos feature">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Insights/backend.png?raw=true" alt="Insights">
 </div><br><br>
 
 
@@ -5923,6 +5928,14 @@ A través de todo el proceso de realización del proyecto hemos conseguido valid
 
 ## 6.4. Video About-the-Product
 
+En esta sección se presenta el video promocional de CambiaZo, una aplicación diseñada para facilitar el intercambio de objetos a través de lockers inteligentes. El video expone el propósito de la plataforma, sus características principales y los beneficios que ofrece a los usuarios. Incluye demostraciones reales de la interfaz, así como un testimonio que refuerza el valor percibido del producto. La edición mantiene una secuencia coherente de escenas, incorpora música de fondo y resalta los elementos de branding de la startup, logrando una presentación profesional y atractiva.
+
+Link: https://www.youtube.com/watch?v=
+
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Videos/about-the-product.png?raw=true" alt="About the Product">
+ </div>
 
 
 ## Conclusiones
