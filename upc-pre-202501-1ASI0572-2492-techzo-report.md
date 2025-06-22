@@ -14,7 +14,7 @@
 **Profesor:** Marco Antonio Leon Baca
 
 ----
-## Informe del Trabajo Parcial
+## Informe del Trabajo TB2
 ### Nombre del Startup: TechZo
 
 ### Nombre del Producto: CambiaZo
@@ -30,7 +30,7 @@
 </div>
 
 
-<br><div align="center"><h3>Mayo 2025</h3></div><br>
+<br><div align="center"><h3>Junio 2025</h3></div><br>
 
 
 
@@ -46,6 +46,7 @@
 | - | - | - | - |
 |TB1|7/04/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
 |TP1|15/05/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo V: Solution UI/UX Design y Capítulo VI: Product Implementation, Validation & Deployment|
+|TB2|21/06/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo VI: Product Implementation, Validation & Deployment |
 
 <br><br>
 
@@ -60,7 +61,7 @@ https://github.com/TechZo-1ASI0572-2942
 https://github.com/TechZo-1ASI0572-2942/Report
 
 
-<strong>*Entrega TB1:*</strong>
+<strong>Entrega TB1:</strong>
 
 + Desarrollo de Actividades
     En el entregable de TB1, el equipo se reunió por discord para hacer las primeras coordinaciones y posteriormente todo el desarrollo y reuniones de avance. Esto se debe, a que la mayoría de integrantes se siente más cómodo con esta aplicación. 
@@ -80,7 +81,7 @@ https://github.com/TechZo-1ASI0572-2942/Report
         <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/contributors.png?raw=true"></div><br><br>
 
 
-<strong>*Entrega TP:*</strong>
+<strong>Entrega TP:</strong>
 
 + Desarrollo de Actividades
     Durante el desarrollo del Trabajo Parcial 1 (TP1) del proyecto CambiaZo, el equipo realizó sus primeras coordinaciones a través de Discord, una plataforma que fue elegida por la comodidad y familiaridad de la mayoría de los integrantes. A partir de allí, tanto las reuniones de avance como las sesiones de trabajo colaborativo se llevaron a cabo por ese medio.
@@ -99,6 +100,23 @@ https://github.com/TechZo-1ASI0572-2942/Report
         + **Contributors Image of Github Insights**
         <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/contributors1.png?raw=true"></div><br><br>
 
+
+**Entrega TB2**
+
++ **Desarrollo de Actividades**  
+  Durante el TB2 del proyecto CambiaZo, el equipo continuó sus coordinaciones mediante la plataforma Discord, realizando reuniones regulares para la toma de decisiones técnicas, revisión de avances y resolución de bloqueos. Esta etapa se enfocó en la implementación de nuevas funcionalidades clave como el sistema de intercambios, la conexión con lockers inteligentes mediante la Edge App, la mejora de la interfaz web, y el despliegue de la Embedded App. La asignación de tareas fue equitativa y se alineó con las competencias individuales, lo que permitió una ejecución más fluida. Asimismo, se aprovechó el tiempo de clases para resolver dudas con el docente, fortaleciendo el trabajo colaborativo y reduciendo los tiempos de retrabajo.
+
++ **Evidencias de colaboración y commits - GitHub:**  
+  * **Gráficos de actividad y colaboración** <br><br>
+      + **Pulse view desde GitHub Insights**  
+      <div align="center">
+        <img src="" alt="Pulse GitHub TB2">
+      </div><br><br>
+
+      + **Vista de contributors en GitHub Insights**  
+      <div align="center">
+        <img src="" alt="Contributors GitHub TB2">
+      </div><br><br>
 
 
 <div style="page-break-after: always;"></div>
@@ -226,6 +244,21 @@ https://github.com/TechZo-1ASI0572-2942/Report
     - [6.2.1.7. Services Documentation Evidence for Sprint Review](#6217-services-documentation-evidence-for-sprint-review)
     - [6.2.1.8. Software Deployment Evidence for Sprint Review](#6218-software-deployment-evidence-for-sprint-review)
     - [6.2.1.9. Team Collaboration Insights during Sprint](#6219-team-collaboration-insights-during-sprint)
+  - [6.2.2. Sprint 2](#622-sprint-2)  
+    - [6.2.2.1. Sprint Planning 2](#6221-sprint-planning-2)  
+    - [6.2.2.2. Aspect Leaders and Collaborators](#6222-aspect-leaders-and-collaborators)  
+    - [6.2.2.3. Sprint Backlog 2](#6223-sprint-backlog-2)  
+    - [6.2.2.4. Development Evidence for Sprint Review](#6224-development-evidence-for-sprint-review)  
+    - [6.2.2.5. Testing Suite Evidence for Sprint Review](#6225-testing-suite-evidence-for-sprint-review)  
+    - [6.2.2.6. Execution Evidence for Sprint Review](#6226-execution-evidence-for-sprint-review)  
+    - [6.2.2.7. Services Documentation Evidence for Sprint Review](#6227-services-documentation-evidence-for-sprint-review)  
+    - [6.2.2.8. Software Deployment Evidence for Sprint Review](#6228-software-deployment-evidence-for-sprint-review)  
+    - [6.2.2.9. Team Collaboration Insights during Sprint](#6229-team-collaboration-insights-during-sprint)  
+- [6.3. Validation Interviews](#63-validation-interviews)  
+  - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)  
+  - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)  
+  - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-según-heurísticas)  
+- [6.4. Video About-the-Product](#64-video-about-the-product)  
 
 ### [Conclusiones](#conclusiones)
 
@@ -261,32 +294,44 @@ forma conjunta</td>
       <b>TB1</b> 
       <p>Para el primer hito de nuestro proyecto de IoT, me encargué de definir el Problem Statement enfocado en la automatización de riego agrícola, estableciendo una base clara para orientar las soluciones tecnológicas. Además, desarrollé Asumptions e Hypothesis orientadas a la viabilidad del uso de sensores y controladores en entornos agrícolas. Mi análisis crítico y capacidad de síntesis fueron clave para sentar las bases técnicas que guiaron nuestras decisiones de hardware y software.</p>
       <b>TP1</b> 
-      <p>Formé parte del equipo de testing y validación, contribuyendo al desarrollo del Testing Suite y la recolección de evidencias para la revisión del Sprint. Propuse una estrategia de control de calidad distribuida y acompañé al equipo en la revisión de sus entregables. Esta experiencia me enseñó que cumplir objetivos como equipo requiere organización, liderazgo compartido y confianza mutua.</p>  
+      <p>Formé parte del equipo de testing y validación, contribuyendo al desarrollo del Testing Suite y la recolección de evidencias para la revisión del Sprint. Propuse una estrategia de control de calidad distribuida y acompañé al equipo en la revisión de sus entregables. Esta experiencia me enseñó que cumplir objetivos como equipo requiere organización, liderazgo compartido y confianza mutua.</p>
+      <b>TB2</b> 
+      <p>Fui responsable del despliegue del software para la revisión del Sprint 2, asegurando que todos los servicios estuvieran correctamente documentados y funcionales. Guié la integración de los módulos con servicios externos, y apoyé a mis compañeros en pruebas de ejecución. Además, coordiné parte de la edición del video About-the-Product. Este trabajo conjunto reforzó mi rol de liderazgo técnico, manteniendo siempre un entorno inclusivo y resolutivo.</p> 
     <h3>Mathias André Mendoza Carrión</h3>
       <b>TB1</b>
       <p>Durante esta fase inicial, realicé un análisis detallado de soluciones IoT agrícolas existentes, identificando brechas de mercado y oportunidades de innovación. Conduje entrevistas con agricultores tecnificados, cuyos insights nos permitieron modelar los requerimientos funcionales de nuestro sistema. Esto fortaleció mis habilidades de investigación y empatía tecnológica, asegurando que nuestra propuesta responda efectivamente a necesidades reales.</p>
       <b>TP1</b> 
-      <p>Durante el diseño del UI/UX, asumí el liderazgo en las decisiones visuales clave, guiando al equipo en la elaboración de los mock-ups y wireframes. Organicé sesiones de retroalimentación para asegurar que todos pudieran participar y aportar ideas. Esta experiencia me enseñó que liderar también implica escuchar y facilitar un entorno en el que cada voz cuenta.</p>  
+      <p>Durante el diseño del UI/UX, asumí el liderazgo en las decisiones visuales clave, guiando al equipo en la elaboración de los mock-ups y wireframes. Organicé sesiones de retroalimentación para asegurar que todos pudieran participar y aportar ideas. Esta experiencia me enseñó que liderar también implica escuchar y facilitar un entorno en el que cada voz cuenta.</p>
+      <b>TB2</b>
+      <p>Durante este bloque, coordiné las tareas de planificación del Sprint 2, ayudando a estructurar el Sprint Backlog e identificando riesgos asociados a la carga de trabajo. También contribuí en la documentación de servicios desarrollados y supervisé la integración de avances técnicos en la evidencia del Sprint Review. Mi enfoque en la cohesión del equipo fue clave para alinear las entregas parciales en función de los objetivos generales del proyecto.</p>
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
       <b>TB1</b>
       <p>En este primer entregable, gestioné la documentación técnica y los requerimientos del sistema IoT, asegurando una comunicación fluida dentro del equipo y con potenciales usuarios. La coordinación efectiva de criterios técnicos permitió integrar de manera precisa sensores de humedad, controladores de riego y plataformas de monitoreo, consolidando una visión clara y colaborativa para el desarrollo del prototipo.</p>
       <b>TP1</b> 
-      <p>Participé activamente en la planificación del Sprint 1, ayudando a organizar el backlog y asignar tareas según fortalezas individuales. También me desempeñé como colaboradora en el sistema de navegación, manteniendo una comunicación constante con mis compañeros para integrar sus avances de forma coherente. Este proceso me permitió desarrollar habilidades de coordinación y adaptación dentro de un entorno colaborativo.</p>  
+      <p>Participé activamente en la planificación del Sprint 1, ayudando a organizar el backlog y asignar tareas según fortalezas individuales. También me desempeñé como colaboradora en el sistema de navegación, manteniendo una comunicación constante con mis compañeros para integrar sus avances de forma coherente. Este proceso me permitió desarrollar habilidades de coordinación y adaptación dentro de un entorno colaborativo.</p>
+      <b>TB2</b> 
+      <p>En esta entrega, asumí el liderazgo en la aplicación de evaluaciones heurísticas, guiando al equipo en la identificación de mejoras de usabilidad. Coordiné la recopilación de hallazgos y propuse criterios para priorizar cambios. También participé en la elaboración del video About-the-Product, asegurando que se destacaran los avances funcionales del sistema. Mi enfoque combinó liderazgo técnico y comunicación visual para transmitir con claridad el progreso del equipo.</p>
     <h3>Jeremy Joel Quispe Andia</h3>
       <b>TB1</b>
       <p>Trabajé en la estructuración de User Stories específicas para nuestro sistema de monitoreo de cultivos, priorizando funcionalidades como alertas automáticas y control remoto. También desarrollé la propuesta de valor enfocada en eficiencia hídrica y facilidad de uso, asegurando que nuestro proyecto se alineara con las demandas prácticas del sector agrícola tecnificado.</p>
       <b>TP1</b> 
-      <p>Lideré la configuración del entorno de desarrollo y el control de versiones. A través de reuniones técnicas, ayudé a resolver dudas del equipo y a unificar criterios en el estilo del código fuente. Promoví un ambiente de apoyo mutuo en el que todos pudimos avanzar con claridad y orden. Esta experiencia fortaleció mi capacidad para organizar tareas y acompañar a mis compañeros en el cumplimiento de objetivos.</p>  
+      <p>Lideré la configuración del entorno de desarrollo y el control de versiones. A través de reuniones técnicas, ayudé a resolver dudas del equipo y a unificar criterios en el estilo del código fuente. Promoví un ambiente de apoyo mutuo en el que todos pudimos avanzar con claridad y orden. Esta experiencia fortaleció mi capacidad para organizar tareas y acompañar a mis compañeros en el cumplimiento de objetivos.</p>
+      <b>TB2</b>
+      <p>Contribuí activamente en el diseño y ejecución de las entrevistas de validación, redactando guiones, coordinando horarios y sistematizando los registros. También apoyé en la redacción colaborativa de las conclusiones del informe y la organización de los anexos. Mi disposición para facilitar acuerdos y adaptar el cronograma a las necesidades del equipo ayudó a mantener un flujo de trabajo inclusivo y eficiente.</p>
     <h3>Augusto Jose Pin Matallana</h3>
       <b>TB1</b>
       <p>Diseñé diagramas de arquitectura del sistema que integran hardware y software, como la comunicación entre sensores, actuadores y servidores en la nube. Esta representación clara de flujos de información y control fue clave para asegurar la interoperabilidad de los componentes y para proyectar un sistema escalable y eficiente en el contexto agrícola.</p>
       <b>TP1</b> 
-      <p>Durante el diseño de la arquitectura de información, tomé la iniciativa de documentar las estructuras de navegación y los sistemas de etiquetado. Al hacerlo, motivé al equipo a revisar y proponer mejoras continuamente. Mi rol no fue solo técnico, sino también facilitador del trabajo conjunto, generando un entorno participativo e inclusivo para el desarrollo del sistema.</p>  
+      <p>Durante el diseño de la arquitectura de información, tomé la iniciativa de documentar las estructuras de navegación y los sistemas de etiquetado. Al hacerlo, motivé al equipo a revisar y proponer mejoras continuamente. Mi rol no fue solo técnico, sino también facilitador del trabajo conjunto, generando un entorno participativo e inclusivo para el desarrollo del sistema.</p>
+      <b>TB2</b> 
+      <p>En esta entrega, me enfoqué en organizar las evidencias de ejecución y testing del Sprint 2. Revisé los módulos implementados, validando su funcionalidad y documentando los resultados para el Sprint Review. También propuse mejoras en la estructura del repositorio y aseguré que las tareas estuvieran correctamente etiquetadas. Mi liderazgo técnico se centró en la organización y trazabilidad del avance del equipo.</p>  
     <td colspan="3">
     <b>TB1</b>
     <p>Al concluir el primer hito de nuestro proyecto de IoT, nuestro equipo ha demostrado un avance sólido en la definición de soluciones tecnológicas aplicadas a la agricultura de precisión. Logramos definir claramente los problemas a resolver, realizar una investigación profunda de necesidades reales y proponer una arquitectura robusta basada en sensores y controladores. La colaboración efectiva y la comunicación fluida nos permitieron integrar diversas perspectivas técnicas, estableciendo bases firmes para el desarrollo de un prototipo funcional. Este progreso inicial ha fortalecido tanto nuestras competencias tecnológicas como nuestra cohesión como equipo, preparándonos para enfrentar exitosamente los retos de las siguientes etapas.</p>
     <b>TP1</b>
     <p>Durante el desarrollo de los capítulos V y VI, el equipo logró trabajar de manera cohesionada, estableciendo objetivos comunes y distribuyendo responsabilidades de manera equitativa. Cada integrante asumió roles de liderazgo en distintas etapas del proceso, desde el diseño hasta el despliegue, fomentando un entorno colaborativo e inclusivo. A través de la planificación de tareas, el seguimiento de avances y la resolución conjunta de problemas, se consolidó una dinámica de trabajo efectiva que permitió alcanzar los objetivos técnicos y fortalecer las habilidades interpersonales esenciales para el desarrollo profesional en soluciones de software</p>
+    <b>TB2</b>
+    <p>Durante el segundo sprint, el equipo demostró una madurez creciente en la organización de tareas, el liderazgo compartido y la colaboración continua. Se logró realizar con éxito la planificación del Sprint 2, asignando líderes por aspecto y detallando el Sprint Backlog con claridad. Cada miembro contribuyó activamente en el desarrollo, pruebas, documentación y despliegue del software, generando evidencia concreta para la revisión. Además, se implementaron entrevistas de validación, evaluaciones heurísticas y un video explicativo del producto, fortaleciendo tanto la perspectiva técnica como la experiencia del usuario. Las reflexiones de colaboración evidencian un equipo comprometido, capaz de alinear sus fortalezas individuales en favor de un objetivo común, consolidando así una dinámica ágil y eficaz en el trabajo en equipo.</p>
   </td>
     </tr>
     <tr>
@@ -300,32 +345,44 @@ objetivos.</td>
       <p>En este primer hito, desarrollé una visión integral del problema de gestión de riego agrícola, formulando suposiciones y problemáticas claves que fundamentaron nuestras decisiones de selección de sensores y microcontroladores. Esta tarea reforzó mi capacidad de analizar entornos reales y plantear soluciones técnicas efectivas, reafirmando la importancia del aprendizaje práctico en IoT.</p>
       <b>TP1</b>
       <p>Durante la planificación del Sprint 1, propuse un enfoque visual para dividir tareas utilizando un tablero Kanban, permitiendo que todos los miembros tuvieran visibilidad y voz en la asignación de responsabilidades. Además, me aseguré de incluir a todos en las decisiones de diseño, fomentando un ambiente donde cada opinión era considerada y valorada.</p>
+      <b>TB2</b>
+      <p>Durante el segundo hito, participé activamente en la validación de componentes, coordinando con mis compañeros para establecer una secuencia de pruebas y verificar el funcionamiento del sistema de riego. Promoví espacios de revisión conjunta y retroalimentación, lo que permitió una toma de decisiones más colaborativa. Esta experiencia fortaleció mi capacidad para coordinar tareas técnicas en un ambiente inclusivo y orientado al logro de objetivos comunes.</p>
     <h3>Mathias André Mendoza Carrión</h3>
       <b>TB1</b>
       <p>El análisis de competidores y entrevistas a agricultores me permitió identificar necesidades no satisfechas en el mercado actual, lo que afianzó mi comprensión del impacto que tiene la correcta selección de tecnologías IoT en proyectos reales. Aprender a interpretar los requerimientos de usuarios y convertirlos en especificaciones técnicas ha sido una lección valiosa para mi formación.</p>
       <b>TP1</b>
       <p>Mi participación se centró en liderar el diseño de los wireframes y flujos de usuario para la aplicación móvil. Desde el inicio, planteé objetivos claros y medibles por cada iteración, guiando al equipo con fechas de revisión y criterios de avance. El compromiso conjunto permitió cumplir con lo propuesto en el cronograma establecido.</p>
+      <b>TB2</b>
+      <p>Colaboré en el desarrollo de casos de uso y en la validación con usuarios, proponiendo un enfoque centrado en el usuario para asegurar que las metas del sprint se alinearan con sus expectativas. Organicé reuniones breves para revisar avances y redistribuir tareas cuando fue necesario. Fomenté un ambiente donde todos pudieran aportar sus ideas y sentirse escuchados, lo cual fue clave para cumplir los entregables a tiempo y con calidad.</p>
      <h3>Ian Haziel Donato Santisteban Palomino</h3>
       <b>TB1</b>
       <p>Al liderar la estructuración de requerimientos y documentación técnica, consolidé habilidades fundamentales para planificar proyectos IoT que integren distintos dispositivos y plataformas. Esta experiencia práctica subraya la importancia de actualizar permanentemente mis conocimientos sobre protocolos de comunicación, seguridad de datos y gestión de dispositivos conectados.</p>
       <b>TP1</b>
       <p>Encabecé la elaboración de la documentación SEO y de etiquetas meta, y para lograrlo organicé reuniones cortas y constantes, asignando subtareas a cada miembro interesado en aprender sobre posicionamiento web. Esta experiencia me permitió distribuir eficientemente las tareas, considerando tanto las habilidades como los intereses del equipo.</p>
+      <b>TB2</b>
+      <p>Me encargué de coordinar el seguimiento de tareas durante el Sprint 2, utilizando herramientas colaborativas para visualizar el progreso y asegurar que todos los miembros pudieran avanzar con claridad. Propicié un entorno de trabajo horizontal donde se valoraron todas las ideas, y realicé ajustes en la planificación según la disponibilidad y fortalezas del equipo. Esta experiencia reforzó mi habilidad para promover la inclusión y el cumplimiento efectivo de los objetivos.</p>
     <h3>Jeremy Joel Quispe Andia</h3>
       <b>TB1</b>
       <p>La definición de funcionalidades y necesidades a partir de User Stories me permitió comprender de manera aplicada cómo traducir problemas agrícolas reales en soluciones tecnológicas. Esta práctica resalta la necesidad de formarse continuamente en nuevas plataformas, hardware emergente y mejores prácticas de desarrollo para crear soluciones IoT efectivas y sostenibles.</p>
       <b>TP1</b>
       <p>Trabajé en el desarrollo del mock-up del landing page, asegurándome de integrar las ideas de todos, incluso aquellas que venían de compañeros menos familiarizados con diseño visual. Esto fortaleció la cohesión del grupo y mostró que un entorno inclusivo mejora los resultados finales y refuerza la motivación colectiva.</p>
+      <b>TB2</b>
+      <p>Lideré la coordinación técnica del desarrollo del backend durante el Sprint 2, estableciendo metas claras y ayudando a descomponer tareas complejas en subtareas más manejables para el equipo. Generé espacios de consulta para resolver dudas y garantizar que todos tuvieran el mismo entendimiento del flujo de datos. Mi participación fue clave para fomentar un entorno colaborativo en el que cada integrante pudo desarrollar su potencial y contribuir al avance general del sistema.</p>
     <h3>Augusto Jose Pin Matallana</h3>
       <b>TB1</b>
       <p>Participé activamente en la definición de la arquitectura técnica del sistema IoT, considerando factores como conectividad, energía y entorno operativo. Esta experiencia fue crucial para entender la importancia de un enfoque sistémico y me impulsó a profundizar en el aprendizaje de nuevas herramientas de diseño y simulación para fortalecer futuras soluciones de ingeniería.</p>
       <b>TP1</b>
       <p>Me responsabilicé del control de versiones y del despliegue del entorno de desarrollo. Desde el primer momento, establecí hitos técnicos que nos permitieran validar el avance de cada módulo. A través de una planificación clara y reuniones semanales, el equipo logró cumplir los objetivos sin retrasos, manteniendo siempre una actitud de apoyo mutuo.</p>
+      <b>TB2</b>
+      <p>Durante este hito, participé en la planificación y validación de la arquitectura del sistema. Propuse sesiones breves de revisión para validar decisiones técnicas y verificar que todos los módulos se integraran correctamente. Motivé al equipo a compartir observaciones y a corregir en conjunto cualquier desviación en el cumplimiento de objetivos. Esta colaboración activa permitió mantener una dinámica de trabajo organizada, inclusiva y orientada a resultados.</p>
     </td>
       <td colspan="3">
     <b>TB1</b>
     <p>Al concluir este primer hito, nuestro equipo ha reafirmado la importancia de combinar conocimientos teóricos con experiencia práctica para lograr proyectos IoT exitosos. Cada integrante ha mostrado una evolución constante, aplicando aprendizajes técnicos a situaciones reales del sector agrícola. La colaboración, investigación de campo y el enfoque en necesidades del usuario nos permitieron plantear una solución sólida, adaptada a contextos exigentes. El aprendizaje continuo en sensores, plataformas de conectividad, protocolos de comunicación y desarrollo de interfaces será clave para seguir creciendo en las siguientes fases del proyecto. Esta etapa nos ha preparado mejor para enfrentar los desafíos tecnológicos futuros con una mentalidad crítica, creativa y resolutiva.</p>
     <b>TP1</b>
     <p>A lo largo del desarrollo de los capítulos V y VI, el equipo mostró una fuerte capacidad para crear un entorno de trabajo colaborativo e inclusivo, donde cada integrante pudo participar activamente en la toma de decisiones. Se establecieron metas claras, se planificaron tareas con enfoque estratégico y se cumplieron los objetivos propuestos dentro de los plazos establecidos. La experiencia consolidó no solo el avance técnico del proyecto, sino también la formación de competencias blandas fundamentales para el trabajo profesional en equipos de desarrollo de software.</p>
+    <b>TB2</b>
+    <p>En este segundo hito, el equipo fortaleció su capacidad para establecer metas claras, planificar tareas con anticipación y cumplir con los objetivos definidos. Se fomentó un entorno colaborativo e inclusivo donde cada miembro aportó desde sus fortalezas, promoviendo la participación equitativa y la toma de decisiones compartida. Las sesiones de planificación y las revisiones del Sprint reflejaron una mejora continua en la coordinación, así como un compromiso colectivo con la calidad del producto. Este avance consolidó tanto el rendimiento técnico como la cohesión del grupo, sentando una base sólida para los siguientes retos del proyecto.</p>
   </td>
     </tr>
   </tbody>
@@ -336,11 +393,11 @@ objetivos.</td>
 
 <br><br>
 
-
-<div style="page-break-after: always;"></div>
   
 # Capítulo I: Presentación
+
 ## 1.1 Startup Profile
+
 ### 1.1.1 Descripción de la Startup
 
 **Nombre:**  TechZo
@@ -1846,11 +1903,11 @@ A continuación se presenta una representación gráfica del mismo en la platafo
 Nuestro proceso de Event Storming se llevó a cabo utilizando la herramienta MIRO, donde desarrollamos de forma colaborativa todo el flujo visual. Iniciamos con la fase de Exploración No Estructurada, en la cual analizamos y compartimos diferentes perspectivas sobre los eventos del dominio, siguiendo las recomendaciones metodológicas correspondientes. Para la selección de los eventos, consideramos criterios clave como su relevancia, frecuencia y temporalidad, asegurando así una representación coherente del comportamiento del sistema.
 
 <div align="center">
-	<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-1.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-1.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
 </div>
 
 <div align="center">
-	<img src="./Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-2.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
+	<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-IV/Strategic-Level-Domain-Driven-Design/EventStorming-2.png?raw=true" alt="eventstorming" style="width: 600px; height: auto;"><br><br>
 </div>
 
 **Evidencia del desarrollo del flujo de autenticación**
@@ -2450,7 +2507,7 @@ Implementando estas técnicas y acciones de navegación, buscamos que los usuari
 
 Para la creación del esquema inicial de nuestra Landing Page, se empleó la plataforma Figma en conjunto con una variedad de complementos que simplificaron considerablemente el proceso de diseño y desarrollo. Esta combinación de herramientas permitió una producción eficiente y efectiva del wireframe.
 
-Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=0-1&t=TsdwraOjylYazZcP-1 <br><br>
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=0-1&t=xxKfFLKoPIS6bBEm-1 <br><br>
 
 **Landing Page**
 
@@ -2468,7 +2525,7 @@ Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id
 
 Hemos completado con éxito la creación del mock-up de la Landing Page, lo que nos ha permitido destacar y aplicar los principios y elementos de diseño que hemos establecido. Estos principios y pautas heurísticas desempeñan un papel fundamental al hacer que la experiencia para los usuarios finales de nuestra plataforma sea más sencilla e intuitiva.
 
-Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=0-1&t=TsdwraOjylYazZcP-1 <br><br>
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=0-1&t=xxKfFLKoPIS6bBEm-1 <br><br>
 
 **Landing Page**
 
@@ -2488,7 +2545,7 @@ Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id
 
 Los wireframes son esenciales en el diseño de nuestras aplicaciones, ya que ayudan a planificar la interfaz y la navegación antes de empezar el desarrollo. En nuestro proyecto, utilizamos 'Figma' para crear los wireframes de manera eficiente y colaborativa.
 
-Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-630&t=YzeRn0hMljz5YZrv-1 <br><br>
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-629&t=xxKfFLKoPIS6bBEm-1 <br><br>
 
 
 <div align="center">
@@ -2583,7 +2640,7 @@ Los usuarios podrán dirigirse a la sección "Mis Ofertas" desde la barra de nav
 ### 5.4.3. Applications Mock-ups
 Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo.
 
-Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-630&t=YzeRn0hMljz5YZrv-1 <br><br>
+Enlace: https://www.figma.com/design/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-629&t=xxKfFLKoPIS6bBEm-1 <br><br>
 
 
 <div align="center">
@@ -2660,7 +2717,7 @@ A continuación, se presenta el prototipo que se realizó en base a los mockups 
 
 **App Web**<br><br>
 
-Enlace: https://www.figma.com/proto/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-18404&t=YzeRn0hMljz5YZrv-0&scaling=scale-down&content-scaling=fixed&page-id=1%
+Enlace: https://www.figma.com/proto/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-16975&t=tizBsMOHgZ3ijxLH-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A630
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototypeweb.png?raw=true"  alt="prototype-0">
@@ -2668,7 +2725,7 @@ Enlace: https://www.figma.com/proto/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=
 
 **App Mobile**<br><br>
 
-Enlace: https://www.figma.com/proto/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-1288&t=YzeRn0hMljz5YZrv-0&scaling=scale-down&content-scaling=fixed&page-id=1%3A629
+Enlace: https://www.figma.com/proto/FK7lvPHyKvLR09AV0oITaO/Cambiazo-Iot?node-id=1-1288&t=aGZ8VFUqDE6Mn0If-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A629
 
 <div align="center">
     <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-III/Mobile-Applications-Prototyping/prototypemobile.png?raw=true"  alt="prototype-0">
@@ -3217,7 +3274,7 @@ Para desplegar nuestro backend, hemos optado por usar Microsoft Azure, el cual p
 + Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
 
 
-## 6.2. Sprint 1
+## 6.2.1 Sprint 1
 En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
 
 #### 6.2.1.1. Sprint Planning 1.
@@ -3371,176 +3428,450 @@ Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131
     <td>Status (To-do / InProcess / ToReview / Done)</td>
   </tr>
   <tr>
-    <td rowspan="1">US01</td>
-    <td rowspan="1">Registro de usuario</td>
-    <td>WI-01</td>
-    <td>Sección para nuevos usuarios</td>
-    <td>Implem entación de una pantalla de registro donde nuevos usuarios puedan sumarse a CambiaZo.</td>
-    <td>6</td>
-    <td>Jeremy Quispe</td>
-    <td>Done</td>
-  </tr>
+     <tr>
+      <td rowspan="3">US01</td>
+      <td rowspan="3">Registro de usuario</td>
+      <td>WI-01</td>
+      <td>Implementar navegación a la página de registro</td>
+      <td>Desarrollar la lógica que permita al usuario ir desde la vista de inicio de sesión hacia la página de registro al hacer clic en el botón “Registrarse”.</td>
+      <td>1</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-02</td>
+      <td>Diseñar e implementar formulario de registro</td>
+      <td>Crear la interfaz de usuario para el formulario de registro e implementar el envío correcto de los datos al backend.</td>
+      <td>1</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-03</td>
+      <td>Validar datos ingresados por el usuario</td>
+      <td>Implementar validaciones para campos incompletos o inválidos, mostrando mensajes de error si corresponde.</td>
+      <td>1</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
   <tr>
-    <td rowspan="1">US03</td>
-    <td rowspan="1">Iniciar sesión en la aplicación</td>
-    <td>WI-02</td>
-    <td>Pantalla de inicio de sesión</td>
-    <td>Se crea una pantalla en la cual el usuario podrá ingresar a la aplicación cuando introduzca el correo con el que creó su cuenta y su contraseña.</td>
-    <td>2</td>
+    <td rowspan="3">US03</td>
+    <td rowspan="3">Iniciar sesión en la aplicación</td>
+    <td>WI-04</td>
+    <td>Acceso a la pantalla de login</td>
+    <td>Permitir que el usuario navegue desde el home a la pantalla de inicio de sesión al hacer clic en "Iniciar sesión".</td>
+    <td>0.3</td>
     <td>Mathias Mendoza</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="1">US05</td>
-    <td rowspan="1">Cerrar sesión</td>
-    <td>WI-03</td>
-    <td>Funcionalidad de cerrar sesión</td>
-    <td>Implementación de la opción de cerrar sesión en la aplicación.</td>
-    <td>2</td>
+    <td>WI-05</td>
+    <td>Autenticación exitosa</td>
+    <td>Desarrollar la lógica para iniciar sesión con credenciales válidas y redireccionar al usuario a la pantalla principal.</td>
+    <td>0.5</td>
     <td>Jeremy Quispe</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="1">US06</td>
-    <td rowspan="1">Filtrado de Objetos</td>
-    <td>WI-04</td>
-    <td>Implem entación de un filtro de búsqueda</td>
-    <td>Implementar un filtro de búsqueda para que los usuarios puedan encontrar de forma más rápida los objetos de su interés.</td>
-    <td>10</td>
+    <td>WI-06</td>
+    <td>Manejo de errores</td>
+    <td>Mostrar mensaje de error si el usuario introduce credenciales incorrectas.</td>
+    <td>0.2</td>
     <td>Ian Santisteban</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="1">US10</td>
-    <td rowspan="1">Visualización de artículos publicados para intercambio</td>
-    <td>WI-05</td>
-    <td>Listar artículos publicados</td>
-    <td>Creación de una sección donde se muestren los artículos publicados por los usuarios.</td>
-    <td>4</td>
-    <td>Joseph Huamani</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-  <td rowspan="1">US12</td>
-  <td rowspan="1">Crear publicación de intercambio</td>
-  <td>WI-06</td>
-  <td>Pantalla de creación de publicación</td>
-  <td>Implementar la pantalla donde los usuarios puedan crear publicaciones para intercambiar.</td>
-  <td>10</td>
+  <td rowspan="3">US05</td>
+  <td rowspan="3">Cerrar sesión</td>
+  <td>WI-07</td>
+  <td>Acceso a la opción de cerrar sesión</td>
+  <td>Mostrar la opción de cerrar sesión dentro del menú de configuración de la cuenta.</td>
+  <td>0.3</td>
   <td>Jeremy Quispe</td>
   <td>Done</td>
- </tr>
+</tr>
+<tr>
+  <td>WI-08</td>
+  <td>Ejecutar cierre de sesión</td>
+  <td>Implementar la funcionalidad que elimina la sesión activa del usuario.</td>
+  <td>0.4</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-09</td>
+  <td>Redirigir a inicio de sesión</td>
+  <td>Redirigir automáticamente al usuario a la pantalla de inicio de sesión después de cerrar sesión.</td>
+  <td>0.3</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US16</td>
-    <td rowspan="1">Visualización de objetos disponibles para intercambio</td>
-    <td>WI-07</td>
-    <td>Listar los objetos disponibles</td>
-    <td>Creación de una sección en la que los usuarios registrados puedan ver los objetos por los que pueden realizar un intercambio.</td>
-    <td>10</td>
-    <td>Joseph Huamani</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US06</td>
+  <td rowspan="3">Filtrado de Objetos</td>
+  <td>WI-10</td>
+  <td>Diseñar interfaz de filtros</td>
+  <td>Crear un panel con opciones de filtro por categoría, ubicación y precio, con diseño responsive.</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-11</td>
+  <td>Implementar lógica de filtrado</td>
+  <td>Aplicar los filtros seleccionados al listado de objetos, actualizando dinámicamente los resultados mostrados.</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-12</td>
+  <td>Gestionar resultados vacíos</td>
+  <td>Mostrar mensaje adecuado cuando no se encuentren objetos que cumplan con los filtros aplicados, e incluir sugerencias.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
   <tr>
+  <td rowspan="3">US10</td>
+  <td rowspan="3">Visualización de artículos publicados para intercambio</td>
+  <td>WI-13</td>
+  <td>Diseñar sección “Mis artículos”</td>
+  <td>Crear una vista donde los usuarios puedan acceder a sus artículos publicados, mostrando tarjetas por publicación.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-14</td>
+  <td>Mostrar mensaje sin publicaciones</td>
+  <td>Diseñar e implementar un mensaje atractivo que invite al usuario a publicar cuando aún no tiene artículos registrados.</td>
+  <td>0.5</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-15</td>
+  <td>Agregar menú de opciones por artículo</td>
+  <td>Incluir botón de opciones (tres puntos) en cada tarjeta de artículo con acciones contextuales como editar o eliminar.</td>
+  <td>0.5</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US19</td>
-    <td rowspan="1">Ver la información detallada de un producto publicado</td>
-    <td>WI-08</td>
-    <td>Funcionalidad de detalles del producto</td>
-    <td>Implementar  la opción para  que los usuarios  vean información detallada  de un producto.</td>
-    <td>10</td>
-    <td>Jeremy Quispe</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US12</td>
+  <td rowspan="3">Crear publicación de intercambio</td>
+  <td>WI-16</td>
+  <td>Diseñar formulario de creación</td>
+  <td>Diseñar e implementar un formulario con campos para título, descripción, categoría, condición del artículo e imágenes.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-17</td>
+  <td>Validación y envío de formulario</td>
+  <td>Agregar validaciones necesarias a los campos y lógica para enviar correctamente los datos al backend.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-18</td>
+  <td>Reflejar publicación en “Mis artículos”</td>
+  <td>Actualizar la lista de artículos en el perfil para incluir automáticamente la nueva publicación luego de su creación.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US20</td>
-    <td rowspan="1">Adquirir suscripción premium</td>
-    <td>WI-09</td>
-    <td>Funcionalidad de adquirir suscripción</td>
-    <td>Permitir a los usuarios adquirir una suscripción premium para obtener beneficios adicionales.</td>
-    <td>16</td>
-    <td>Ian Santisteban</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US16</td>
+  <td rowspan="3">Visualización de objetos disponibles para intercambio</td>
+  <td>WI-19</td>
+  <td>Diseño de sección de exploración</td>
+  <td>Diseñar la sección "Explorar/Home" con barra de búsqueda, categorías y tarjetas de objetos con foto, valor, nombre, ubicación y descripción.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-20</td>
+  <td>Implementación de la lista de objetos</td>
+  <td>Programar la lógica para obtener y mostrar los objetos disponibles en la pantalla, con toda su información.</td>
+  <td>2.0</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-21</td>
+  <td>Funcionalidad de búsqueda</td>
+  <td>Desarrollar la función de búsqueda para filtrar objetos por nombre o palabra clave.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US27</td>
-    <td rowspan="1">Visualización de la Historia de la Startup</td>
-    <td>WI-10</td>
-    <td>Sección “¿Quiénes somos?”</td>
-    <td>Implementación de la sección “¿Quiénes somos?” y las redes sociales y datos de contacto en el footer.</td>
-    <td>2</td>
-    <td>Augusto Pin</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US19</td>
+  <td rowspan="3">Ver la información detallada de un producto publicado</td>
+  <td>WI-22</td>
+  <td>Diseñar interfaz de detalle de producto</td>
+  <td>Crear una vista que muestre imagen, nombre, descripción, categoría, ubicación, valor y propietario del producto.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-23</td>
+  <td>Conectar con API de productos</td>
+  <td>Obtener la información del producto desde el backend utilizando el ID del producto seleccionado.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-24</td>
+  <td>Agregar opción para interacción</td>
+  <td>Implementar botones o enlaces para guardar en favoritos o proponer intercambio desde la vista de detalles.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US28</td>
-    <td rowspan="1">Visualizar las características clave de la aplicación</td>
-    <td>WI-11</td>
-    <td>Sección Caracte rísticas Principales</td>
-    <td>Desarrollo de la sección donde se pueden visualizar todas las características principales de CambiaZo y conocer lo que puede realizar dentro de esta.</td>
-    <td>4</td>
-    <td>Mathias Mendoza</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US20</td>
+  <td rowspan="3">Adquirir la suscripción premium</td>
+  <td>WI-25</td>
+  <td>Diseño de la sección de suscripción</td>
+  <td>Diseñar la interfaz de los planes de suscripción tanto en la vista web como en la mobile, mostrando información clara de cada plan disponible.</td>
+  <td>3</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-26</td>
+  <td>Integración con pasarela de pago</td>
+  <td>Implementar la lógica para redirigir al usuario a PayPal al seleccionar un plan desde cualquiera de las plataformas (web o mobile).</td>
+  <td>3</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-27</td>
+  <td>Activación de suscripción y feedback</td>
+  <td>Confirmar la activación de la suscripción tras el pago y mostrar un mensaje de éxito al usuario. Guardar el estado premium en la base de datos.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US29</td>
-    <td rowspan="1">Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
-    <td>WI-12</td>
-    <td>Formulario de contacto</td>
-    <td>Desarrollo del formulario para que los usuarios llenen sus datos de contacto y puedan recibir noticias relacionadas con CambiaZo.</td>
-    <td>10</td>
-    <td>Ian Santisteban</td>
-    <td>Done</td>
-  </tr>
+ <tr>
+  <td rowspan="3">US27</td>
+  <td rowspan="3">Visualización de la Historia de la Startup</td>
+  <td>WI-28</td>
+  <td>Diseño de la sección “¿Quiénes somos?”</td>
+  <td>Crear la estructura visual de la sección que introduce la historia de CambiaZo y su propósito de sostenibilidad.</td>
+  <td>0.4</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-29</td>
+  <td>Integración de video introductorio</td>
+  <td>Insertar un video que refuerce el mensaje de la historia de CambiaZo, asegurando su correcta reproducción.</td>
+  <td>0.3</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-30</td>
+  <td>Presentación del equipo en slider</td>
+  <td>Desarrollar un carrusel que muestre fotos, nombres y roles de los miembros del equipo de CambiaZo.</td>
+  <td>0.3</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US28</td>
+  <td rowspan="3">Visualizar las características clave de la aplicación</td>
+  <td>WI-31</td>
+  <td>Acceso e introducción a la sección de características</td>
+  <td>Implementar la navegación desde el botón “Características” hasta la sección introductoria de beneficios principales (intercambios y donaciones).</td>
+  <td>0.5</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-32</td>
+  <td>Diseño visual de productos intercambiables</td>
+  <td>Crear un carrusel o cuadrícula con imágenes de productos que los usuarios pueden intercambiar, con estilos visuales claros.</td>
+  <td>0.8</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-33</td>
+  <td>Despliegue de valores y alianzas</td>
+  <td>Mostrar el bloque de “Intercambios Sostenibles” con sus características diferenciadoras, e incluir las imágenes de ONGs aliadas.</td>
+  <td>0.7</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US29</td>
+  <td rowspan="3">Acceder a un formulario para llenar mis datos de contacto y recibir noticias relacionadas con CambiaZo</td>
+  <td>WI-34</td>
+  <td>Navegación hacia sección “¡Únete a CambiaZo!”</td>
+  <td>Habilitar que al hacer clic en "Contáctanos", el visitante sea redirigido automáticamente a la sección correspondiente de la landing page.</td>
+  <td>1.5</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-35</td>
+  <td>Diseño e implementación del formulario de suscripción</td>
+  <td>Desarrollar el formulario con campos para nombre, apellido y correo electrónico, aplicando validaciones básicas de entrada.</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-36</td>
+  <td>Botón y lógica para envío de formulario</td>
+  <td>Agregar un botón funcional que almacene los datos del formulario en el backend o base de datos simulada y muestre una confirmación visual.</td>
+  <td>1.5</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
    <tr>
-    <td rowspan="1">US30</td>
-    <td rowspan="1">Descargar la aplicación de CambiaZo</td>
-    <td>WI-13</td>
-    <td>Redireccionar a Google Play Store</td>
-    <td>Implementación de botones que sirvan para redire ccionar a los usuarios de la Landing Page a Google Play Store para que descarguen la aplicación.</td>
-    <td>4</td>
-    <td>Joseph Huamani</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US30</td>
+  <td rowspan="3">Descargar la aplicación de CambiaZo</td>
+  <td>WI-37</td>
+  <td>Diseño de botones de acción visibles</td>
+  <td>Diseñar los botones "Iniciar ahora" y "Descargar" con estilos llamativos y ubicarlos en secciones estratégicas de la landing page.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-38</td>
+  <td>Redirección a aplicación web</td>
+  <td>Implementar funcionalidad del botón "Iniciar ahora" que redirige correctamente a la aplicación web de CambiaZo.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-39</td>
+  <td>Redirección a Play Store</td>
+  <td>Configurar el botón "Descargar" para redirigir al usuario hacia la página de descarga de la app en Google Play Store.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US31</td>
-    <td rowspan="1">Ver los planes y precios</td>
-    <td>WI-14</td>
-    <td>Sección de planes y precios</td>
-    <td>Desarrollo de la sección de planes, donde aparezcan los precios de cada plan y lo que incluye cada uno.</td>
-    <td>6</td>
-    <td>Jeremy Quispe</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US31</td>
+  <td rowspan="3">Ver los planes y precios</td>
+  <td>WI-40</td>
+  <td>Diseño de sección de planes</td>
+  <td>Diseñar visualmente la sección de "Planes", mostrando los tipos de suscripción disponibles junto a sus precios y beneficios.</td>
+  <td>0.75</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-41</td>
+  <td>Implementación de detalles de planes</td>
+  <td>Implementar el contenido con los beneficios y precios de cada plan de suscripción en la sección correspondiente de la landing page.</td>
+  <td>0.75</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-42</td>
+  <td>Redirección desde botón “¡Empieza ahora!”</td>
+  <td>Configurar el botón de acción para que redirija al usuario hacia la aplicación web, donde puede completar la suscripción.</td>
+  <td>0.5</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">US32</td>
-    <td rowspan="1">Navegación en la Landing Page</td>
-    <td>WI-15</td>
-    <td>Barra de Navegación</td>
-    <td>Implementación de una barra de navegación para que el usuario pueda desplazarse más rápido dentro de la Landing Page.</td>
-    <td>6</td>
-    <td>Mathias Mendoza</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">US32</td>
+  <td rowspan="3">Navegación en la Landing Page</td>
+  <td>WI-43</td>
+  <td>Diseño y estructura de la barra de navegación</td>
+  <td>Diseñar una barra de navegación clara y accesible con etiquetas como “Nosotros”, “Características”, “Planes”, “Contáctanos”, “Iniciar ahora” y “Descargar”.</td>
+  <td>1</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-44</td>
+  <td>Programar navegación entre secciones</td>
+  <td>Implementar la lógica para que cada etiqueta redirija a su sección correspondiente dentro de la landing page.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-45</td>
+  <td>Pruebas de navegación y responsividad</td>
+  <td>Realizar pruebas para asegurar que la navegación funciona correctamente tanto en desktop como en dispositivos móviles.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">TS01</td>
-    <td rowspan="1">API User</td>
-    <td>WI-16</td>
-    <td>Metodos CRUD para Usuarios</td>
-    <td>Implementación de los metodos POST, GET, UPDATE y DELETE para poder manejar los datos de la tabla usuarios y relacionadas.</td>
-    <td>10</td>
-    <td>Augusto Pin</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">TS01</td>
+  <td rowspan="3">API User</td>
+  <td>WI-46</td>
+  <td>Diseñar endpoints y rutas para usuarios</td>
+  <td>Definir las rutas necesarias para crear, leer, actualizar y eliminar usuarios, incluyendo requisitos de autenticación y seguridad.</td>
+  <td>2</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-47</td>
+  <td>Implementar lógica y validaciones</td>
+  <td>Desarrollar la lógica para el manejo de usuarios (registro, login, update, delete), controlando errores y devolviendo los códigos HTTP adecuados.</td>
+  <td>2</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-48</td>
+  <td>Integrar y probar la API de usuarios</td>
+  <td>Conectar la API con el sistema, realizar pruebas funcionales, y asegurar el correcto funcionamiento ante distintos escenarios (200, 201, 400, 404, 202).</td>
+  <td>1</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
   <tr>
-    <td rowspan="1">TS05</td>
-    <td rowspan="1">API Product</td>
-    <td>WI-17</td>
-    <td>Metodos CRUD para productos</td>
-    <td>Implementación de los métodos POST, GET, UPDATE y DELETE para gestionar los datos de la tabla de productos, permitiendo a los usuarios manejar y organizar sus productos segun sus necesidades.</td>
-    <td>10</td>
-    <td>Ian Santisteban</td>
-    <td>Done</td>
-  </tr>
+  <td rowspan="3">TS05</td>
+  <td rowspan="3">API Product</td>
+  <td>WI-49</td>
+  <td>Diseñar endpoints y rutas para productos</td>
+  <td>Definir las rutas necesarias para crear, leer, actualizar y eliminar productos, estableciendo validaciones y tipos de archivos permitidos.</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-50</td>
+  <td>Implementar lógica de gestión de productos</td>
+  <td>Desarrollar la lógica CRUD de productos, control de duplicados y respuestas HTTP adecuadas (200, 201, 400, 404).</td>
+  <td>2</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-51</td>
+  <td>Pruebas e integración con el sistema</td>
+  <td>Probar funcionalidad de la API, integrarla con el backend y validar la recepción y envío correcto de datos.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+
 </tr>
 </tbody>
 </table>
@@ -3564,7 +3895,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
   </thead>
   <tbody>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>9d5167e</td>
       <td>Initial commit</td>
@@ -3572,7 +3903,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>05/05/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>e11cd33</td>
       <td>fix: updated v2 endpoints</td>
@@ -3580,7 +3911,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/05/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>c34ebbb</td>
       <td>feat: updated endopoint changeProfileImage</td>
@@ -3588,7 +3919,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/05/25</td>
     </tr>
     <tr>
-      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>32591c8</td>
       <td>feat: add email js to contact formulary for funcionality</td>
@@ -3596,7 +3927,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>13/05/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>8ea1877</td>
       <td>feat: added login and register with google auth</td>
@@ -3604,7 +3935,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>14/05/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>edc5b64</td>
       <td>feat: added post exchange</td>
@@ -3612,7 +3943,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>24/05/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>725d045790c077</td>
       <td>fix: corrected the content products</td>
@@ -3620,7 +3951,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>24/05/25</td>
     </tr>
     <tr>
-      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>67e9980</td>
       <td>feat: add styles to buy membership componente</td>
@@ -3628,7 +3959,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>26/05/25</td>
     </tr>
     <tr>
-      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>aa111ff</td>
       <td>feat: fix membership componente card placeholder</td>
@@ -3636,7 +3967,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>26/05/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>aa111ff</td>
       <td>feat: corrected the structure and services of some components</td>
@@ -3644,7 +3975,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>09/06/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>86cbe36</td>
       <td>feat: added corrected exchanges</td>
@@ -3652,7 +3983,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>09/06/25</td>
     </tr>
     <tr>
-      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>d66fb3f</td>
       <td>fix: corrected styles of latest products</td>
@@ -3660,7 +3991,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>09/06/25</td>
     </tr>
     <tr>
-      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>GutoPin/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>96ac1be</td>
       <td>feat: update endpoints for membership and favorites</td>
@@ -3668,7 +3999,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>09/06/25</td>
     </tr>
     <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>fix</td>
       <td>a3a3921</td>
       <td>fix: fixed styles and functionality in product filter</td>
@@ -3676,7 +4007,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>fix</td>
       <td>a88de01</td>
       <td>fix: fixed product edit functionality</td>
@@ -3684,7 +4015,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>fix</td>
       <td>041182</td>
       <td>fix: fixed favorite products detail</td>
@@ -3692,7 +4023,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>fix</td>
       <td>7bffcc5</td>
       <td>feat: added enable style</td>
@@ -3700,7 +4031,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>fix</td>
       <td>5f23aa2</td>
       <td>fix: delete functionality in favorite products</td>
@@ -3708,7 +4039,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>2cb703</td>
       <td>feat: added corrected the images and firebase storage and skeleton</td>
@@ -3716,7 +4047,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>fix</td>
       <td>2d0886</td>
       <td>fix: make a review</td>
@@ -3724,7 +4055,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>1224e05</td>
       <td>feat: added validation post</td>
@@ -3732,7 +4063,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>develop</td>
       <td>101e81b</td>
       <td>feat: added corrected register and login</td>
@@ -3740,7 +4071,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
       <td>10/06/25</td>
     </tr>
     <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-Frontend</td>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
       <td>fix</td>
       <td>111ced3</td>
       <td>fix: display reviews</td>
@@ -4091,6 +4422,1736 @@ Backend:
     <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration3.png" alt="Repositorio archivos feature">
 </div><br><br>
 
+## 6.2.2. Sprint 2
+
+En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
+
+### 6.2.2.1. Sprint Planning 2.
+
+En esta sección, detallamos la planificación realizada para el segundo sprint del proyecto. Durante la reunión de planificación del Sprint 2, el equipo definió las funcionalidades clave a implementar, así como los objetivos a alcanzar.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 2</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-06-07</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>10:00 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual mediante Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Santisteban Palomino, Ian Haziel Donato / Quispe Andia, Jeremy Joel / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre / Pin Matallana, Augusto Jose.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Review Summary</td>
+    <td>En el Sprint 1 se completó exitosamente el diseño y publicación de la landing page inicial, se construyó la estructura básica del frontend y se implementó una primera versión funcional del backend. Se desarrollaron endpoints para el manejo de usuarios (User Context) y productos (Product Context), y se logró establecer una integración básica entre el frontend y backend, permitiendo las primeras interacciones de prueba entre componentes.</td>
+  </tr>
+  <tr>
+    <td>Sprint n-1 Retrospective Summary</td>
+    <td>Durante la retrospectiva del Sprint 1, el equipo reconoció que uno de los principales desafíos fue la sincronización en los tiempos de desarrollo entre frontend y backend. También se identificaron problemas relacionados con el manejo de errores en la comunicación entre capas. Se propuso como mejora para el siguiente sprint: la implementación de pruebas tempranas, establecer protocolos más claros para las integraciones y fomentar la revisión cruzada de código entre pares. </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 2</td>
+    <td>
+      Implementar la gestión de intercambios (crear, ver, aceptar o rechazar ofertas) con actualización en tiempo real, e iniciar la integración con los **lockers inteligentes**. Además, desarrollar una nueva versión de la **landing page** para web y móvil con videos (“About the Product” y “About the Team”), integrar la **app embebida** y liberar una primera versión de la **Edge Application**.<br><br>**Métrica de Cumplimiento**: Se completará el sprint si se habilitan todas las acciones de intercambio, se publica la nueva landing con los videos, se integra la app embebida, se activa un endpoint para lockers y se libera una versión básica de la Edge App.
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Velocity</td>
+    <td>50 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>47 Story Points</td>
+  </tr>
+</table><br><br>
+
+
+<h3>6.2.2.2. Aspect Leaders and Collaborators</h3>
+
+<p>Durante el Sprint 2, el equipo abordó funcionalidades clave como la nueva versión de la landing page con videos informativos, avances en el frontend y backend, ajustes en la base de datos, además del desarrollo de la aplicación embebida y la Edge Application. Se designaron líderes y colaboradores por aspecto, promoviendo una ejecución eficiente y coordinada.</p>
+
+<table>
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>ID/Código</th>
+    <th>Landing Page (Nueva versión)</th>
+    <th>Frontend (Web y Móvil)</th>
+    <th>Backend</th>
+    <th>Base de Datos</th>
+    <th>Aplicación Embebida</th>
+    <th>Edge Application</th>
+  </tr>
+  <tr>
+    <td>Mendoza Carrion, Mathias Andre</td>
+    <td>U202216282</td>
+    <td>C</td>
+    <td>C</td>
+    <td></td>
+    <td><b>L</b></td>
+    <td>C</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Quispe Andia, Jeremy Joel</td>
+    <td>U202216279</td>
+    <td>C</td>
+    <td>C</td>
+    <td><b>L</b></td>
+    <td></td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Huamani Mandujano, Joseph Alexis</td>
+    <td>U20221A133</td>
+    <td></td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td><b>L</b></td>
+    <td><b>L</b></td>
+  </tr>
+  <tr>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+    <td>U202214059</td>
+    <td><b>L</b></td>
+    <td></td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Pin Matallana, Augusto Jose</td>
+    <td>U202210257</td>
+    <td>C</td>
+    <td><b>L</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>C</td>
+  </tr>
+</table>
+
+<p><b>L = Líder</b>, <b>C = Colaborador</b></p>
+
+
+### 6.2.2.3. Sprint Backlog 2
+
+En este sprint se continuó con el desarrollo de funcionalidades fundamentales para la operatividad de la aplicación. Se implementaron procesos clave como la creación y envío de ofertas de intercambio, la visualización y gestión de intercambios recibidos, enviados y aceptados, así como la edición y eliminación de publicaciones existentes. Además, se trabajó en la asignación automática y manual de lockers, asegurando una experiencia fluida en los procesos logísticos del intercambio. También se desarrollaron e integraron las APIs necesarias para manejar datos relacionados a los lockers y a los intercambios, fortaleciendo así la conectividad del sistema. Estas mejoras consolidan los flujos críticos de la plataforma y aportan a una experiencia de usuario más completa y dinámica.
+
+Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131222462667a4335b4351448BFD/cambiazo-iot<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Sprint2-Trello.png?raw=true" alt="sprints">
+</div><br><br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation (Hours)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+  <tr>
+  <td rowspan="3">US07</td>
+  <td rowspan="3">Asignación de locker para intercambio</td>
+  <td>WI-49</td>
+  <td>Mostrar mapa interactivo con lockers disponibles</td>
+  <td>Implementar una vista con mapa donde se visualicen los lockers disponibles, resaltando automáticamente el más cercano al usuario.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-50</td>
+  <td>Confirmar asignación automática del locker</td>
+  <td>Desarrollar la funcionalidad que registra la selección del locker sugerido cuando el usuario presiona “Confirmar locker”.</td>
+  <td>1.5</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-51</td>
+  <td>Permitir cambio manual del locker</td>
+  <td>Permitir al usuario seleccionar otro locker desde un listado desplegable y mostrar la confirmación actualizada en pantalla.</td>
+  <td>1.5</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US11</td>
+  <td rowspan="3">Realización de una oferta de intercambio</td>
+  <td>WI-46</td>
+  <td>Mostrar lista de artículos propios al ofertar</td>
+  <td>Diseñar e implementar la pantalla donde el usuario ve sus artículos disponibles al presionar el botón “Ofertar”.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-47</td>
+  <td>Confirmar selección de oferta y mostrar detalles</td>
+  <td>Desarrollar la pantalla de confirmación donde se visualizan los detalles del artículo ofrecido y el solicitado.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-48</td>
+  <td>Enviar oferta y mostrar mensaje de éxito</td>
+  <td>Implementar el envío de la oferta y mostrar el mensaje “¡Oferta Enviada!” junto con la notificación a la otra parte.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US13</td>
+  <td rowspan="3">Editar publicación de intercambio</td>
+  <td>WI-43</td>
+  <td>Mostrar opción de editar publicación</td>
+  <td>Habilitar el botón de edición en la interfaz para publicaciones propias, redirigiendo al formulario con los datos prellenados.</td>
+  <td>1</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-44</td>
+  <td>Guardar cambios realizados en el formulario</td>
+  <td>Implementar la lógica para actualizar los datos de la publicación editada al presionar el botón “Publicar”.</td>
+  <td>1</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-45</td>
+  <td>Cancelar edición y retornar sin cambios</td>
+  <td>Agregar la opción “Cancelar” que redirige al usuario a la pantalla principal sin aplicar los cambios.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US14</td>
+  <td rowspan="3">Eliminar publicación de intercambio</td>
+  <td>WI-40</td>
+  <td>Agregar botón de eliminación en interfaz</td>
+  <td>Mostrar botón o ícono de eliminar junto a cada publicación visible para el usuario autenticado.</td>
+  <td>0.5</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-41</td>
+  <td>Mostrar mensaje de confirmación</td>
+  <td>Diseñar e implementar una ventana emergente para confirmar la acción de eliminación.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-42</td>
+  <td>Eliminar o cancelar según respuesta</td>
+  <td>Ejecutar la eliminación definitiva si se confirma o cancelar la acción si se presiona “Cancelar”.</td>
+  <td>0.5</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US15</td>
+  <td rowspan="3">Gestión de intercambios</td>
+  <td>WI-37</td>
+  <td>Mostrar lista de intercambios enviados</td>
+  <td>Implementar la vista para listar los intercambios que el usuario ha enviado, mostrando su estado actual y permitiendo ver más detalles.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-38</td>
+  <td>Mostrar lista de intercambios recibidos</td>
+  <td>Desarrollar la funcionalidad que permite visualizar las ofertas recibidas con sus detalles y opciones para aceptarlas o rechazarlas.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-39</td>
+  <td>Mostrar lista de intercambios aceptados</td>
+  <td>Permitir al usuario revisar los intercambios aceptados desde la pestaña correspondiente y acceder a sus detalles.</td>
+  <td>1</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US17</td>
+  <td rowspan="3">Visualizar el perfil del usuario que publique un producto</td>
+  <td>WI-16</td>
+  <td>Habilitar acceso al perfil desde la publicación</td>
+  <td>Agregar funcionalidad para que al hacer clic en el recuadro del autor de una publicación se redirija al perfil correspondiente.</td>
+  <td>1</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-17</td>
+  <td>Diseñar vista del perfil de usuario</td>
+  <td>Crear la interfaz del perfil de usuario mostrando nombre, tiempo en la app, intercambios exitosos y valoración promedio.</td>
+  <td>1</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-18</td>
+  <td>Mostrar reseñas en el perfil</td>
+  <td>Desarrollar la sección de reseñas dentro del perfil para mostrar comentarios y datos relevantes de otros usuarios.</td>
+  <td>1</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US18</td>
+  <td rowspan="3">Aceptar o Rechazar un Intercambio</td>
+  <td>WI-19</td>
+  <td>Mostrar detalles de oferta recibida</td>
+  <td>Implementar la vista para revisar los detalles completos de una oferta pendiente en la sección “Intercambios”.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-20</td>
+  <td>Funcionalidad para aceptar oferta</td>
+  <td>Permitir al usuario aceptar una oferta, mostrar un popup de confirmación y mover la oferta aceptada a la sección correspondiente.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-21</td>
+  <td>Funcionalidad para rechazar oferta</td>
+  <td>Desarrollar la lógica para rechazar ofertas, incluyendo un mensaje de advertencia y la eliminación permanente de la oferta tras confirmación.</td>
+  <td>1</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US22</td>
+  <td rowspan="3">Recepción de PIN para apertura de locker</td>
+  <td>WI-22</td>
+  <td>Mostrar PIN seguro tras asignación de locker</td>
+  <td>Desarrollar funcionalidad para mostrar de manera segura el PIN de apertura en la página de detalles del intercambio, visible solo una vez tras confirmar el locker.</td>
+  <td>2</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-23</td>
+  <td>Visualizar PIN desde “Mis Intercambios”</td>
+  <td>Permitir la visualización del PIN en la sección “Mis Intercambios” bajo autenticación adicional, en caso el usuario necesite revisarlo nuevamente.</td>
+  <td>1.5</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-24</td>
+  <td>Generar nuevo PIN si el anterior expiró</td>
+  <td>Implementar el botón “Generar nuevo PIN” que invalida el PIN anterior y crea uno nuevo, asegurando que sea único y funcional para el mismo intercambio.</td>
+  <td>1.5</td>
+  <td>Ian Santisteban</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US25</td>
+  <td rowspan="3">Confirmación de objeto depositado en locker</td>
+  <td>WI-25</td>
+  <td>Captura automática y registro de imagen</td>
+  <td>Implementar la funcionalidad para que, al detectarse el cierre del locker, el sistema capture automáticamente una fotografía y la registre en el detalle del intercambio.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-26</td>
+  <td>Notificación por correo de imagen disponible</td>
+  <td>Desarrollar el envío automático de un correo electrónico al usuario una vez la imagen del objeto esté procesada, indicando que puede revisarla en “Mis intercambios”.</td>
+  <td>1.5</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-27</td>
+  <td>Visualización de imagen en la plataforma</td>
+  <td>Permitir que el usuario acceda manualmente a la imagen capturada desde la interfaz de “Mis intercambios” como evidencia de entrega.</td>
+  <td>1.5</td>
+  <td>Augusto Pin</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">US26</td>
+  <td rowspan="3">Validación final y desbloqueo del locker</td>
+  <td>WI-28</td>
+  <td>Confirmación manual y generación de PIN de retiro</td>
+  <td>Desarrollar funcionalidad para que el usuario confirme que el objeto depositado es correcto y, tras la validación, se genere el PIN final para el retiro.</td>
+  <td>2</td>
+  <td>Jeremy Quispe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-29</td>
+  <td>Reporte de problema y bloqueo de locker</td>
+  <td>Implementar opción “Reportar problema” que bloquee el locker y notifique automáticamente al equipo de soporte para activar el protocolo de resolución.</td>
+  <td>2</td>
+  <td>Joseph Huamani</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>WI-30</td>
+  <td>Recordatorio automático de validación por correo</td>
+  <td>Desarrollar sistema de recordatorio por correo electrónico si el usuario no valida el estado del objeto tras un tiempo determinado.</td>
+  <td>1</td>
+  <td>Mathias Mendoza</td>
+  <td>Done</td>
+</tr>
+  <tr>
+  <td rowspan="3">TS02</td>
+  <td rowspan="3">API Exchange</td>
+  <td>T-31</td>
+  <td>Diseñar endpoints y rutas para intercambios</td>
+  <td>Definir las rutas necesarias para crear, leer, actualizar y eliminar intercambios, con sus respectivas validaciones y seguridad.</td>
+  <td>2</td>
+  <td>Joseph Huamani</td>
+</tr>
+<tr>
+  <td>T-32</td>
+  <td>Implementar lógica de intercambio y manejo de errores</td>
+  <td>Desarrollar la lógica para manejar operaciones válidas e inválidas (duplicados, inexistentes) y retornar códigos HTTP adecuados.</td>
+  <td>2</td>
+  <td>Joseph Huamani</td>
+</tr>
+<tr>
+  <td>T-33</td>
+  <td>Integrar y probar la API Exchange</td>
+  <td>Conectar la API con el resto del sistema, realizar pruebas funcionales y asegurar que responde correctamente a las operaciones requeridas.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+</tr>
+<tr>
+  <td rowspan="3">TS03</td>
+  <td rowspan="3">API Lockers</td>
+  <td>T-34</td>
+  <td>Diseñar endpoints para gestión de lockers</td>
+  <td>Crear rutas REST para registrar, consultar y gestionar lockers, considerando autenticación y permisos necesarios.</td>
+  <td>2</td>
+  <td>Joseph Huamani</td>
+</tr>
+<tr>
+  <td>T-35</td>
+  <td>Implementar lógica de lockers y validaciones</td>
+  <td>Codificar la lógica que permita operar sobre lockers, incluyendo respuestas adecuadas ante errores o datos duplicados.</td>
+  <td>2</td>
+  <td>Joseph Huamani</td>
+</tr>
+<tr>
+  <td>T-36</td>
+  <td>Integrar y probar la API Lockers</td>
+  <td>Conectar la API con el sistema, validar su funcionamiento completo y asegurar que responde correctamente a las solicitudes esperadas.</td>
+  <td>1</td>
+  <td>Joseph Huamani</td>
+</tr>
+</tr>
+</tbody>
+</table>
+
+### 6.2.2.4. Development Evidence for Sprint Review
+
+Durante el Sprint 1, se realizaron múltiples commits en el repositorio del frontend de CambiaZo, vinculados a User Stories y Technical Stories. Estos reflejan avances clave como la edición y filtrado de productos, mejoras visuales, validaciones de formularios y optimización de solicitudes. El historial de commits evidencia un trabajo colaborativo y continuo en función de los objetivos del Sprint. 
+
+### Frontend: 
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US12/publicar-intercambio</td>
+      <td>b3c8e78</td>
+      <td>feat: implement offer exchange feature</td>
+      <td>-</td>
+      <td>01/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US12/publicar-intercambio</td>
+      <td>437ac40</td>
+      <td>feat: enable delete post option</td>
+      <td>-</td>
+      <td>02/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US12/publicar-intercambio</td>
+      <td>3903575</td>
+      <td>feat: allow user to view other profiles</td>
+      <td>-</td>
+      <td>03/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US12/publicar-intercambio</td>
+      <td>9bffcc6</td>
+      <td>feat: display exchange management section</td>
+      <td>-</td>
+      <td>04/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US12/publicar-intercambio</td>
+      <td>63e52d0</td>
+      <td>feat: accept and reject offers</td>
+      <td>-</td>
+      <td>05/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>f00fe95</td>
+      <td>feat: show locker PIN securely on web</td>
+      <td>-</td>
+      <td>06/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>4e0d270</td>
+      <td>feat: confirm deposit with locker photo</td>
+      <td>-</td>
+      <td>07/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>eae3bf6</td>
+      <td>feat: validate locker contents before unlock</td>
+      <td>-</td>
+      <td>08/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>67d8102</td>
+      <td>feat: edit exchange post</td>
+      <td>-</td>
+      <td>11/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>f4b48f1</td>
+      <td>feat: split exchange flow in frontend</td>
+      <td>-</td>
+      <td>12/06/25</td>
+    </tr>
+  </tbody>
+</table>
+
+### App movil: 
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US11</td>
+      <td>e381a25</td>
+      <td>chore: corrected routes of 'NavScreen' for 'OfferScreens' implementations</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US11</td>
+      <td>c4c298b</td>
+      <td>chore: corrected the repositories and services for 'OfferScreens' implementations</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US11</td>
+      <td>b34231e</td>
+      <td>feat: added 'ArticleExchange' component</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US11</td>
+      <td>fbc8a7e</td>
+      <td>feat: added 'ConfirmationOfferScreen'</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US11</td>
+      <td>5c19d92</td>
+      <td>feat: added 'OfferViewModel'</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US11</td>
+      <td>9e7bbd2</td>
+      <td>feat: added 'MakeOfferScreen'</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US08</td>
+      <td>bb71a34</td>
+      <td>feat: added add review function in review view model</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US08</td>
+      <td>345b0ec</td>
+      <td>feat: added show dialog 3 for add review</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US08</td>
+      <td>ddc197a</td>
+      <td>feat: added add review function in review repository</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US08</td>
+      <td>f58920d</td>
+      <td>feat: fix updated add review function in review service</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US08</td>
+      <td>a9cb1d6</td>
+      <td>feat: added review request dto</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US08</td>
+      <td>d7f50d4</td>
+      <td>feat: added new functions in custom dialog</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>IanHD04/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>develop</td>
+      <td>cc6e23a</td>
+      <td>feat: enhance design across multiple screens</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>b2c4e1d</td>
+      <td>feat: added whatsapp button</td>
+      <td>-</td>
+      <td>24/10/24</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>af2ddc1</td>
+      <td>refactor: renamed variable to avoid duplication</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>d7c8ee2</td>
+      <td>refactor: added reusable component to buttons</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>7f82ab5</td>
+      <td>feat: created article card component</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>f3b1e2c</td>
+      <td>feat: added action in button of accept or decline</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>a1f8c37</td>
+      <td>fix: reorganizated and cleaned the code of exchange screen</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>c203f11</td>
+      <td>feat: added new update function in viewmodel</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>e65fa21</td>
+      <td>feat: added new put function in exchange repository</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>6c11ac7</td>
+      <td>feat: added empty state composable</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>30c5eab</td>
+      <td>feat: added exchange product</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>9a7c62e</td>
+      <td>fix: updated exchange data class</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>8ebc2f3</td>
+      <td>feat: added update exchange status method</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>0e48db6</td>
+      <td>fix: updated exchange dto</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>e06d97d</td>
+      <td>feat: added exchange status request dto</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+    <tr>
+      <td>HelloNerk/TechZo-1ASI0572-3585-Funda/CambiaZo-MobileApp</td>
+      <td>feature/US18</td>
+      <td>19be8f2</td>
+      <td>fix: updated provide exchange repository in cambiazo module</td>
+      <td>-</td>
+      <td>23/10/24</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### Backend:
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/TS02/exchange-api</td>
+      <td>a5f9b6c</td>
+      <td>feat: implemented exchange controller and routes</td>
+      <td>-</td>
+      <td>01/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/TS02/exchange-api</td>
+      <td>c38e44a</td>
+      <td>feat: add validations and auth in exchange endpoints</td>
+      <td>-</td>
+      <td>02/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/TS02/exchange-api</td>
+      <td>d9af4be</td>
+      <td>fix: corrected 404 and 400 error handling for exchanges</td>
+      <td>-</td>
+      <td>03/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/TS03/lockers-api</td>
+      <td>f4b8cda</td>
+      <td>feat: created locker controller and endpoints</td>
+      <td>-</td>
+      <td>04/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/TS03/lockers-api</td>
+      <td>3b7e2e8</td>
+      <td>feat: add locker POST and GET with validations</td>
+      <td>-</td>
+      <td>05/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/TS03/lockers-api</td>
+      <td>ad12b90</td>
+      <td>fix: handled errors for locker not found and duplicates</td>
+      <td>-</td>
+      <td>06/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/US11/intercambios</td>
+      <td>dc982f5</td>
+      <td>feat: implemented send offer logic</td>
+      <td>-</td>
+      <td>07/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/US14/publicaciones</td>
+      <td>f1e3aa7</td>
+      <td>feat: delete publication endpoint added</td>
+      <td>-</td>
+      <td>08/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/US13/publicaciones</td>
+      <td>cb84d61</td>
+      <td>feat: edit publication endpoint added</td>
+      <td>-</td>
+      <td>09/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/US07/locker-sugerido</td>
+      <td>b188e2f</td>
+      <td>feat: locker suggestion algorithm implemented</td>
+      <td>-</td>
+      <td>10/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/US22/pin-entrega</td>
+      <td>db5a92e</td>
+      <td>feat: show locker PIN logic added</td>
+      <td>-</td>
+      <td>11/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/US25/evidencia-locker</td>
+      <td>9a01333</td>
+      <td>feat: added support for locker photo storage</td>
+      <td>-</td>
+      <td>12/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/US26/validacion-retiro</td>
+      <td>8136dd7</td>
+      <td>feat: validate and unlock locker logic</td>
+      <td>-</td>
+      <td>13/06/25</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### 6.2.2.5. Testing Suite Evidence for Sprint Review
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>4f9a2bd</td>
+      <td>Feat: Create US-07</td>
+      <td>In this part, we applied Gherkin to the US-07</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>c2a1d89</td>
+      <td>Feat: Create US-11</td>
+      <td>In this part, we applied Gherkin to the US-11</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>ee57a3f</td>
+      <td>Feat: Create US-13</td>
+      <td>In this part, we applied Gherkin to the US-13</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>b8c9f02</td>
+      <td>Feat: Create US-14</td>
+      <td>In this part, we applied Gherkin to the US-14</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>90af3be</td>
+      <td>Feat: Create US-15</td>
+      <td>In this part, we applied Gherkin to the US-15</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>a1d56fb</td>
+      <td>Feat: Create US-17</td>
+      <td>In this part, we applied Gherkin to the US-17</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>7bb8d44</td>
+      <td>Feat: Create US-18</td>
+      <td>In this part, we applied Gherkin to the US-18</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>19b73af</td>
+      <td>Feat: Create US-22</td>
+      <td>In this part, we applied Gherkin to the US-22</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>d3e4a76</td>
+      <td>Feat: Create US-25</td>
+      <td>In this part, we applied Gherkin to the US-25</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>ac5d8ef</td>
+      <td>Feat: Create US-26</td>
+      <td>In this part, we applied Gherkin to the US-26</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>6e9f001</td>
+      <td>Feat: Create TS-02</td>
+      <td>In this part, we applied Gherkin to the TS-02</td>
+      <td>20/06/25</td>
+    </tr>
+    <tr>
+      <td>Jemisas/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>3ffb760</td>
+      <td>Feat: Create TS-03</td>
+      <td>In this part, we applied Gherkin to the TS-03</td>
+      <td>20/06/25</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+### 6.2.2.6. Execution Evidence for Sprint Review.
+
+Durante el Sprint 2 nos enfocamos en optimizar la experiencia de usuario y fortalecer la interacción entre la aplicación web, el backend y, en especial, la aplicación móvil.
+
+En la aplicación web, hemos implementado el flujo completo para la creación de publicaciones, permitiendo a los usuarios añadir objetos con todos sus detalles. También se integró el perfil de usuario, dando a cada miembro de la plataforma un espacio personalizado. Para la aplicación móvil, el enfoque estuvo en pulir las interfaces existentes, mejorar la navegación y asegurar una experiencia responsiva y fluida. Esto incluyó la optimización de la pantalla de exploración y los flujos de inicio de sesión/registro. 
+
+Desarrollamos el edge application que nos permitió simular el comportamiento de los lockers físicos, validando flujos como la asignación, desbloqueo y verificación de entrega de objetos, con el fin de asegurar una experiencia realista y robusta para el usuario en futuros escenarios de intercambio físico.
+
+Por el lado del backend, extendimos la API para soportar la creación de publicaciones, así como la gestión de perfiles de usuario. Se realizaron pruebas exhaustivas en todos los endpoints para garantizar la integridad y seguridad de los datos. La integración continua sigue siendo un pilar, con mejoras en los procesos de despliegue que nos permiten iterar rápidamente y mantener la estabilidad del sistema.
+
+**Landing Page:**<br>
+
++ Landing Page: https://cambiazo-landing-page.netlify.app/<br><br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing1.png" alt="landing page" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing2.png" alt="landing page" ><br>
+</div>
+<br><br>
+
+**Página Web:**<br>
+
++ Aplicación Web: https://cambiazo-webapp.netlify.app/home/ <br><br>
+
+<div align="center">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web1.png?raw=true" alt="web app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web2.png?raw=true" alt="web app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web3.png?raw=true" alt="web app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web4.png?raw=true" alt="web app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web5.png?raw=true" alt="web app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web5.png?raw=true" alt="web app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web6.png?raw=true" alt="web app" ><br>
+</div>
+<br><br>
+
+**Movil:**<br>
+
++ Movil Apk: https://drive.google.com/file/d/1c94ybxLDEBBoxn6ti-MZPGEtKRmuB3Xw/view?usp=sharing<br><br>
+
+  <div align="center">
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/movil1.png?raw=true" alt="movil app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/movil2.png?raw=true" alt="movil app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/movil3.png?raw=true" alt="movil app" ><br>
+</div>
+
+
+**Backend:**<br>
+
++ Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
+
+<div align="center">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/backend.png?raw=true" alt="backend" ><br>
+</div>
+
+**Embedded System:**<br>
+
++ Embedded System: https://wokwi.com/projects/433610065578331137<br><br>
+
+
+<div align="center">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/embedded.png?raw=true" alt="embedded" ><br>
+</div>
+
+<br><br>
+
+### 6.2.2.7. Services Documentation Evidence for Sprint Review
+
+<p>
+Durante el <strong>Sprint 2</strong>, se ha logrado culminar casi por completo el desarrollo de la plataforma. El <strong>frontend</strong> ha sido actualizado con las últimas características, integrando plenamente la funcionalidad <strong>IoT</strong>. El <strong>backend</strong> completó las validaciones y pruebas necesarias, garantizando un sistema robusto, seguro y confiable.
+</p>
+
+<p>
+Se ha implementado una primera versión de la <strong>embedded app</strong>, la cual permite interactuar con el sistema desde la misma página web, mejorando la accesibilidad y experiencia de los usuarios desde múltiples dispositivos. Asimismo, se ha liberado una versión inicial de la <strong>Edge Application</strong>, diseñada para optimizar el rendimiento del sistema en condiciones de conectividad limitada y permitir futuras integraciones con dispositivos físicos.
+</p>
+
+<p>
+La <strong>aplicación móvil</strong> también ha sido optimizada, incorporando mejoras clave que ofrecen una experiencia de usuario más fluida. La integración con dispositivos <strong>IoT</strong> se ha consolidado como un componente fundamental del sistema, permitiendo la trazabilidad completa de los intercambios a través de <strong>lockers inteligentes</strong>.
+</p>
+
+<p>
+El backend respalda esta integración con endpoints específicos para funcionalidades críticas como <strong>gestión de contraseñas</strong>, <strong>reseñas de usuarios</strong> y <strong>eliminación de cuentas</strong>, cumpliendo con estándares de seguridad y protección de datos.
+</p>
+
+<p>
+La coordinación técnica mediante <strong>GitHub</strong>, estructurada en <strong>ramas por módulo y por User Story</strong>, ha facilitado una integración continua eficiente y estableció las bases para la <strong>escalabilidad</strong> del sistema en futuras versiones.
+</p>
+
+
+### 6.2.2.8. Software Deployment Evidence for Sprint Review
+
+<p>
+Durante el Sprint 2, se consolidaron los procesos de despliegue del sistema, abarcando tanto la aplicación web como los componentes embebidos y del Edge. Se fortaleció la estructura de los repositorios en GitHub, que han sido fundamentales para organizar el trabajo del equipo y garantizar la integración continua de nuevas funcionalidades.
+</p>
+
+<p>
+El despliegue se realizó siguiendo la metodología <strong>GitFlow</strong>, con ramas diferenciadas por funcionalidades y por historia de usuario, lo que permitió a los integrantes trabajar de forma paralela y ordenada. Se mantuvo la convención de nomenclatura <code>feature/US-[número]</code> para mantener trazabilidad con el backlog y facilitar la revisión cruzada del código.
+</p>
+
+<p>
+En este sprint, se avanzó significativamente en los siguientes despliegues:
+</p>
+<ul>
+  <li><strong>Aplicación Web:</strong> Se desplegó una nueva versión con integración de endpoints de backend y pruebas funcionales completas.</li>
+  <li><strong>Embedded App:</strong> Se desarrolló la interfaz y lógica necesaria para su ejecución en el entorno físico de lockers, con conexión directa al sistema central.</li>
+  <li><strong>Edge Application:</strong> Se construyó el componente intermedio encargado de gestionar la comunicación entre el backend y los dispositivos IoT, validando su funcionamiento mediante simulaciones y pruebas de conectividad.</li>
+  <li><strong>Backend:</strong> Se integraron endpoints adicionales para operaciones críticas como autenticación, gestión de contraseñas, manejo de reseñas y soporte para la eliminación de cuentas.</li>
+</ul>
+
+<p>
+Además, se ejecutaron pruebas automatizadas y de aceptación que validaron las funcionalidades de cada módulo antes de su integración final. Este enfoque de trabajo ha permitido consolidar un entorno robusto y seguro, con una arquitectura modular escalable.
+</p>
+
+<div align="center">
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/web.png?raw=true"  alt="Repositorio App Web">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/mobile.png?raw=true"  alt="Repositorio App Movil">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/embebbed.png?raw=true"  alt="Repositorio Embedded App">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/backend.png?raw=true" alt="Repositorio Backend">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/edge.png?raw=true" alt="Repositorio Edge Application">
+  </div><br><br>
+
+</div>
+
+
+
+### 6.2.2.9. Team Collaboration Insights during Sprint
+
+<p>
+Durante el Sprint 2, el equipo trabajó de manera coordinada para avanzar en las funcionalidades clave del sistema, incluyendo la actualización de la <strong>landing page</strong>, la implementación de nuevas secciones en el <strong>frontend</strong>, la consolidación del <strong>backend</strong>, y el desarrollo de la <strong>embedded app</strong> y la <strong>Edge Application</strong>. Cada miembro asumió un rol de liderazgo específico, permitiendo un desarrollo en paralelo sin comprometer la cohesión del proyecto.
+</p>
+
+<p>
+Se mantuvieron reuniones técnicas recurrentes para alinear criterios de integración, resolver obstáculos de conectividad entre módulos y acordar decisiones sobre arquitectura. La gestión por ramas de GitHub permitió a los integrantes trabajar por feature de manera aislada y ordenada, facilitando las pruebas y validaciones antes del merge final.
+</p>
+
+<p>
+Gracias a esta dinámica colaborativa se logró avanzar con eficiencia en todos los frentes, garantizando la calidad del código mediante revisiones cruzadas, y sentando una base técnica sólida para futuras integraciones con sistemas IoT y dispositivos físicos.
+</p>
+
+Landing Page: 
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Insights/mobilea.png?raw=true" alt="Insights">
+</div><br><br>
+
+Aplicación Web: 
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Insights/web.png?raw=true" alt="Insights">
+</div><br><br>
+
+Aplicación Movil: 
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Insights/mobile.png?raw=true" alt="Insights">
+</div><br><br>
+
+Backend: 
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Insights/backend.png?raw=true" alt="Insights">
+</div><br><br>
+
+
+
+
+## 6.3. Validation Interviews
+
+### 6.3.1. Diseño de Entrevistas
+
+**Preguntas generales**
+
+* ¿Cuál es su nombre completo?  
+* ¿Qué edad tiene?  
+* ¿A qué se dedica?  
+* ¿En qué distrito reside?  
+
+<br>
+
+**Segmento objetivo 1:** Personas adultas que desean obtener nuevos artículos (Intercambiadores)
+
+1. ¿Qué le pareció la landing page y la presentación general de CambiaZo? ¿Le resultó clara la propuesta de valor?
+
+2. ¿La aplicación le pareció intuitiva y fácil de usar? ¿Hubo algo que le generó confusión?
+
+3. ¿Qué opina sobre el sistema de intercambio mediante lockers asignados automáticamente por la app? ¿Le parece una alternativa viable frente a intercambios presenciales?
+
+4. ¿Se sentiría cómodo dejando su objeto en un locker y confiando en que el otro usuario hará lo mismo? ¿Por qué?
+
+5. ¿Cómo percibe el proceso de validación que incluye enviar una fotografía del objeto depositado como prueba antes de desbloquear el locker?
+
+6. ¿Cree que el hecho de que ambas partes deban confirmar el objeto antes de recibir el suyo aumenta la seguridad del intercambio?
+
+7. ¿Considera útil que la aplicación le notifique cuando el otro usuario haya dejado su objeto en el locker correspondiente?
+
+8. ¿Qué tan importante es para usted contar con un código único de desbloqueo que solo se genere cuando ambas partes hayan completado y confirmado el proceso?
+
+9. ¿Qué le daría más confianza a la hora de usar este sistema de lockers? ¿Cambiaría o añadiría alguna medida de verificación adicional?
+
+10. ¿Qué tipo de artículos estaría más interesado en intercambiar mediante CambiaZo? ¿Por qué?
+
+11. En comparación con otras plataformas, ¿considera que CambiaZo aporta algún valor diferencial con su sistema de lockers inteligentes y validación de objetos?
+
+12. ¿Qué mejoras propondría en la experiencia general de la aplicación para que el sistema de intercambio por lockers le resulte más confiable y cómodo?
+<br>
+
+**Cierre**
+
+Le agradezco nuevamente por su tiempo y sus respuestas. Esta información es muy valiosa para seguir construyendo una plataforma más segura y confiable. ¡Muchas gracias!
+
+
+
+### 6.3.2. Registro de Entrevistas
+
+En esta sección presentaremos el registro de cada entrevista de validación que hemos realizado para nuestro segmento objetivo principal de nuestro proyecto.
+
+**Segmento Intercambiadores**<br>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Franco</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Barrionuevo</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Isidro</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Agusto Pin</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Validation-Interview/franco.png?raw=true" alt="Franco Evidence"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZ7rQsoFLMVKteWmsVXPpeQBbSaw1GzYdNea0ex7Zri5hA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Z7a9Oc" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - 06:43 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td> Erick Maycol, en la Validation Interview, nos menciona que CambiaZo tiene un diseño visualmente atractivo y funcional, pero podría mejorar destacando secciones como testimonios y botones de acción, además de incluir preguntas frecuentes. Resalta la importancia de optimizar filtros, el sistema de calificación de usuarios y tiempos de carga. Sugiere añadir validaciones de identidad, opciones de transacciones protegidas y eventos comunitarios para fortalecer la confianza. Aunque valora el enfoque comunitario, destaca la necesidad de mejoras en la seguridad y experiencia del usuario para consolidar su potencial. </td>
+  </tr>
+</tbody>
+</table>
+
+
+	    
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Edu</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Gutierrez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Zoom</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Ian Santisteban</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Validation-Interview/edu.png?raw=true" alt="Edu Evidence"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZ7rQsoFLMVKteWmsVXPpeQBbSaw1GzYdNea0ex7Zri5hA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Z7a9Oc" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>06:44 min - 12:56 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Edu reconoce que la aplicación CambiaZo tiene un enfoque social interesante y podría consolidarse como una herramienta útil para fomentar una economía más circular. Sin embargo, remarca que para llegar a ese punto, es necesario implementar mejoras clave. Entre ellas, sugiere incorporar una sección de favoritos para guardar objetos de interés, así como un sistema de chat en tiempo real que facilite la comunicación directa entre usuarios. Además, considera crucial el desarrollo de filtros más específicos por categoría, estado del producto o ubicación para mejorar la búsqueda. También señala que el sistema de reputación debería ser más visible y claro, mostrando valoraciones y comentarios antes de concretar cualquier tipo de intercambio, lo cual ayudaría a generar mayor confianza entre los participantes.</td>
+  </tr>
+</tbody>
+</table>
+	    
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Mathias</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Kunimoto</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Isidro</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Meet</td>
+  </tr>  
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop y Computadora</td>
+  </tr>
+  <tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Agusto Pin</td>
+  </tr>
+   <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Validation-Interview/mathias.png?raw=true" alt="Mathias Evidence"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZ7rQsoFLMVKteWmsVXPpeQBbSaw1GzYdNea0ex7Zri5hA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Z7a9Oc" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>12:57 min - 19:00 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Mathias opina que CambiaZo cuenta con un diseño visualmente atractivo y bien organizado, lo que genera una buena primera impresión. No obstante, enfatiza que hay áreas clave que podrían mejorarse para optimizar la experiencia del usuario. Por ejemplo, sugiere destacar secciones como los testimonios y las preguntas frecuentes, ya que esto aportaría mayor credibilidad y resolvería dudas comunes rápidamente. También recomienda mejorar el rendimiento y los tiempos de carga, pues considera que la fluidez es esencial en una aplicación moderna. En cuanto a la seguridad, propone implementar validaciones de identidad, un sistema de transacciones protegidas y fomentar la organización de eventos comunitarios que refuercen el sentido de comunidad. A pesar de valorar el enfoque colaborativo de la app, insiste en que la confianza y la protección del usuario deben ser prioridades para que CambiaZo pueda consolidarse a largo plazo.
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+### 6.3.3. Evaluaciones según heurísticas
+
+<br><div align="center">
+
+**UX Heuristics & Principles Evaluation**
+**Usability - Inclusive Design - Information Architecture**
+
+</div><br>
+
+**Site o App a evaluar:**
+CambiaZo
+<br>
+
+**TAREAS A EVALUAR:**
+
+1. **Registro e Inicio de Sesión**
+   - Evaluar la facilidad de completar el registro como nuevo usuario.
+   - Verificar la claridad de los mensajes de error durante el registro o inicio de sesión fallido.
+   - Probar el proceso de recuperación de contraseña.
+
+2. **Navegación General en la Aplicación**
+   - Comprobar la facilidad de navegación a través del menú principal.
+   - Evaluar la estructura de la información para encontrar secciones como “Mi Perfil”, “Publicaciones”, “Intercambios”, etc.
+   - Verificar si el usuario puede orientarse fácilmente dentro de la app.
+
+3. **Creación de una Publicación**
+   - Probar el proceso de creación de una publicación para intercambio, desde seleccionar categoría hasta subir fotos y agregar descripción.
+   - Evaluar la comprensión de los campos requeridos y la claridad de las instrucciones.
+
+4. **Búsqueda y Filtrado de Artículos**
+   - Evaluar la efectividad del motor de búsqueda para encontrar artículos específicos.
+   - Probar los filtros de búsqueda (categoría, estado del artículo, ubicación, etc.) y verificar su comprensión y facilidad de uso.
+   - Verificar si hay un botón claro para “Borrar filtros”.
+
+5. **Interacción con Otras Publicaciones**
+   - Evaluar la facilidad para ver los detalles de una publicación (imágenes, descripción, condiciones de intercambio).
+   - Probar el envío de ofertas de intercambio y mensajes directos al propietario del artículo.
+
+6. **Gestión de Suscripciones o Compras**
+   - Probar el proceso de suscripción o compra de productos o servicios dentro de la app.
+   - Verificar la facilidad para gestionar la suscripción o compra, como cambiar planes o cancelar suscripciones.
+   - Evaluar la claridad de los mensajes sobre el estado de la suscripción o compra (confirmación, errores, etc.).
+
+7. **Gestión de Intercambios**
+   - Probar la facilidad para ver el estado de los intercambios activos.
+   - Evaluar la claridad del proceso para aceptar o rechazar ofertas de intercambio.
+   - Comprobar si el usuario entiende cómo finalizar un intercambio exitoso.
+
+8. **Personalización del Perfil de Usuario**
+   - Evaluar la facilidad para editar información del perfil (nombre, foto de perfil, ubicación).
+   - Probar las opciones de personalización, como cambiar al modo oscuro.
+
+9. **Feedback del Usuario**
+   - Evaluar la presencia y accesibilidad de opciones para dejar feedback sobre la experiencia o reportar problemas.
+
+10. **Experiencia General en Diferentes Dispositivos**
+    - Probar la consistencia y usabilidad de la app en diferentes dispositivos (móviles, tablets).
+    - Evaluar si la interfaz es responsiva y si se adapta adecuadamente al tamaño de la pantalla.
+
+
+<br><br>
+
+
+**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|**Nivel**|**Descripción**|
+| - | - |
+|**1**|Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|**2**|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.|
+|**3**|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|**4**|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+<br><br>
+
+
+**TABLA DE RESUMEN:**
+
+
+| **N** | **Problema** | **Escala de severidad** | **Heurística/Principio violada(o)** |
+|:------:|:-------------:|:----------------------:|:---------------------------------:|
+| 1 | Cuando las contraseñas no coinciden al cambiar la contraseña, no se muestra un mensaje de error claro. | 3 (Problema mayor) | Visibilidad del estado del sistema |
+| 2 | No hay skeleton loading mientras se cargan las publicaciones, lo que genera una experiencia menos fluida. | 2 (Problema menor) | Usabilidad: Estética y diseño minimalista |
+| 3 | No se muestra un mensaje cuando no hay productos disponibles para mostrar. | 3 (Problema mayor) | Visibilidad del estado del sistema |
+| 4 | En "Mis Artículos", si no hay publicaciones, no se muestra un mensaje indicando que no hay artículos disponibles. | 2 (Problema menor) | Visibilidad del estado del sistema |
+| 5 | En "Favoritos", si no hay productos guardados, la sección está vacía sin mensaje informativo. | 2 (Problema menor) | Visibilidad del estado del sistema |
+| 6 | En "Mis Reseñas", cuando no hay reseñas, no se muestra un mensaje informativo. | 2 (Problema menor) | Visibilidad del estado del sistema |
+
+
+<br><br>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+<br>
+
+**Problema 1: Cuando las contraseñas no coinciden al cambiar la contraseña, no se muestra un mensaje de error claro.**
+
+Severidad: 3 (Problema mayor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+Cuando el usuario intenta cambiar su contraseña y las contraseñas no coinciden, la aplicación no muestra un mensaje claro indicando el error. Esto puede generar frustración, ya que el usuario no sabe qué ha salido mal, lo que podría llevar a múltiples intentos sin éxito hasta que se descubra la causa del problema.
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/UX-Heuristics/problem-1.png?raw=true" alt="Problema 1"></div>
+
+<br>
+
+Recomendación:
+
+Implementar un mensaje de error claro y específico que indique que las contraseñas no coinciden y que debe asegurarse de que ambas contraseñas coincidan antes de proceder.
+
+<br><br>
+
+
+**Problema 2: No hay skeleton loading mientras se cargan las publicaciones, lo que genera una experiencia menos fluida.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Usabilidad: Estética y diseño minimalista
+
+Problema:
+
+Al cargar las publicaciones, no se muestra un "skeleton loading", lo que puede dar la sensación de que la aplicación está congelada o no responde mientras se cargan los datos. Este vacío puede generar incertidumbre en el usuario sobre si la app está trabajando correctamente.
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/UX-Heuristics/problem-2.png?raw=true" alt="Problema 2"></div>
+
+<br>
+
+Recomendación:
+
+Implementar un "skeleton loading" para mostrar que la aplicación está trabajando en la carga de las publicaciones, mejorando la experiencia del usuario.
+
+<br><br>
+
+
+**Problema 3: No se muestra un mensaje cuando no hay productos disponibles para mostrar.**
+
+Severidad: 3 (Problema mayor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+Cuando no hay productos disponibles en la sección correspondiente, no se muestra ningún mensaje informativo que indique que no hay productos disponibles en ese momento. Esto puede confundir al usuario, quien podría pensar que hay un error o que la función no está funcionando.
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/UX-Heuristics/problem-3.png?raw=true" alt="Problema 3"></div>
+
+<br>
+
+Recomendación:
+
+Incluir un mensaje claro que informe al usuario que no hay productos disponibles en ese momento, como "No hay productos disponibles en esta categoría."
+
+<br><br>
+
+
+**Problema 4: En "Mis Artículos", si no hay publicaciones, no se muestra un mensaje indicando que no hay artículos disponibles.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+En la sección "Mis Artículos", si no hay publicaciones realizadas por el usuario, no se muestra ningún mensaje informando que no hay artículos disponibles. El usuario se queda con una pantalla vacía y no sabe si es un error o si no ha subido artículos.
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/UX-Heuristics/problem-4.png?raw=true" alt="Problema 4"></div>
+
+
+<br>
+
+Recomendación:
+
+Agregar un mensaje que diga "No tienes artículos publicados" para indicar al usuario que la falta de contenido es intencional y no un error.
+
+<br><br>
+
+
+**Problema 5: En "Favoritos", si no hay productos guardados, la sección está vacía sin mensaje informativo.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+Si el usuario no tiene productos guardados en la sección "Favoritos", la pantalla aparece vacía sin ningún mensaje explicativo. Esto puede generar confusión o inquietud, ya que el usuario no sabe si algo ha fallado o si simplemente no ha guardado artículos aún.
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/UX-Heuristics/problem-5.png?raw=true" alt="Problema 5"></div>
+
+
+<br>
+
+Recomendación:
+
+Mostrar un mensaje que indique "No has guardado ningún artículo en favoritos aún" para dejar claro al usuario el estado de la sección.
+
+<br><br>
+
+
+**Problema 6: En "Mis Reseñas", cuando no hay reseñas, no se muestra un mensaje informativo.**
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Visibilidad del estado del sistema
+
+Problema:
+
+En la sección "Mis Reseñas", si no hay reseñas disponibles, no se muestra ningún mensaje informativo. Esto podría causar confusión, ya que el usuario no sabe si hay un problema con la sección o si simplemente no ha recibido reseñas.
+
+<div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/UX-Heuristics/problem-6.png?raw=true" alt="Problema 6"></div>
+
+<br>
+
+Recomendación:
+
+Añadir un mensaje informativo como "Aún no has recibido reseñas" para aclarar la situación al usuario.
+
+
+<br><br>
+
+
+A través de todo el proceso de realización del proyecto hemos conseguido validar las siguientes heurísticas relacionadas a nuestra landing page y aplicación móvil:
+
+| **Heurística** | **Descripción** |
+| :-: | :-: |
+| **Usabilidad** | La navegación en la aplicación es intuitiva, permitiendo que los usuarios se deslicen fácilmente por las pantallas sin esfuerzo. Todas las opciones clave se encuentran a la vista y son accesibles con solo unos pocos toques. Esto asegura que los usuarios puedan encontrar rápidamente lo que buscan, como la posibilidad de ver publicaciones o gestionar su perfil, sin perderse en un mar de opciones. Además, las transiciones entre pantallas son suaves, lo que contribuye a una experiencia continua y agradable. |
+| **Accesibilidad** | La interfaz se adapta de manera óptima a distintos tamaños de pantalla, garantizando que los elementos clave sean visibles y utilizables en dispositivos tanto pequeños como grandes. Los colores, fuentes y botones son lo suficientemente grandes para que puedan ser fácilmente seleccionados con el toque de un dedo, asegurando que usuarios con diferentes capacidades físicas puedan interactuar sin dificultades. También, los textos se presentan de forma legible, con suficiente contraste para ser fácilmente leídos bajo diferentes condiciones de luz. |
+| **Libertad y control por parte del usuario** | Los usuarios tienen un control total sobre su experiencia, ya que pueden moverse libremente entre las distintas secciones de la aplicación en cualquier momento. Si desean retroceder o cancelar una acción, siempre existe una opción para hacerlo sin consecuencias irreversibles. Además, los usuarios pueden elegir el contenido que desean ver primero y ajustar la visualización de acuerdo con sus preferencias, brindándoles la flexibilidad de personalizar su interacción sin estar sujetos a un flujo rígido de navegación. |
+| **Consistencia entre el sistema y el mundo real** | La aplicación emplea íconos y elementos visuales que siguen convenciones ampliamente reconocidas, como símbolos de "inicio", "búsqueda" y "perfil", lo cual facilita la familiarización de los usuarios con la interfaz. Estos elementos visuales son intuitivos y evocan acciones que los usuarios están acostumbrados a realizar en otros entornos digitales, como realizar búsquedas o gestionar configuraciones personales, lo que reduce la curva de aprendizaje. |
+| **Diseño estético y minimalista** | La aplicación presenta un diseño limpio y organizado, donde los elementos no se sobrecargan visualmente. Cada pantalla se centra en una acción o función específica, eliminando distracciones innecesarias. Esto no solo facilita la navegación, sino que también permite que el usuario se concentre en lo que realmente necesita hacer. Los iconos, tipografía y paleta de colores están cuidadosamente seleccionados para garantizar que la interfaz no solo sea funcional, sino también visualmente agradable. |
+| **Consistencia y estándares** | La aplicación sigue patrones de diseño establecidos que son familiares para los usuarios de aplicaciones móviles. Esto asegura que las interacciones sean consistentes en todas las pantallas, desde la presentación de opciones hasta la respuesta a las acciones del usuario. Los botones, campos de entrada y otras interacciones siguen convenciones estándar, lo que permite que los usuarios naveguen con confianza sin necesidad de aprender nuevas reglas o comportamientos específicos para cada pantalla. |
+| **Prevención de errores** | La aplicación está diseñada para reducir las posibilidades de error mediante retroalimentación clara y mensajes preventivos. Si un usuario intenta realizar una acción sin completar los campos requeridos o realiza una selección incorrecta, la aplicación informa de manera clara lo que debe corregirse. Además, los botones de acción ofrecen una retroalimentación visual para confirmar que se ha realizado una selección, y las opciones para deshacer acciones son fácilmente accesibles para que los usuarios puedan rectificar cualquier error. |
+| **Flexibilidad y eficiencia de uso** | La aplicación ofrece opciones para personalizar la experiencia del usuario de acuerdo con sus preferencias. Los usuarios experimentados pueden acceder rápidamente a las funciones avanzadas sin tener que navegar a través de pantallas adicionales, mientras que los nuevos usuarios se benefician de un recorrido sencillo que les permite familiarizarse con las funciones esenciales. La estructura flexible permite a los usuarios explorar la aplicación de la manera que mejor se ajuste a sus necesidades y rutinas, optimizando su flujo de trabajo dentro de la app. |
+<br>
+
+## 6.4. Video About-the-Product
+
+En esta sección se presenta el video promocional de CambiaZo, una aplicación diseñada para facilitar el intercambio de objetos a través de lockers inteligentes. El video expone el propósito de la plataforma, sus características principales y los beneficios que ofrece a los usuarios. Incluye demostraciones reales de la interfaz, así como un testimonio que refuerza el valor percibido del producto. La edición mantiene una secuencia coherente de escenas, incorpora música de fondo y resalta los elementos de branding de la startup, logrando una presentación profesional y atractiva.
+
+Youtube: https://youtu.be/9nQ0t5Dicuc<br><br>
+
+Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Ec22UIJgCHVLl7dPCf6Ho-sBDYkPP4fapUd2i_-s3J8InA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aDwtkH <br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Videos/about-the.product.png?raw=true" alt="About the Product">
+ </div>
+
 
 ## Conclusiones
 
@@ -4102,10 +6163,10 @@ La arquitectura propuesta, basada en EventStorming y Domain-Driven Design, estab
 
 El conjunto de epics, user stories y technical stories definido cubre exhaustivamente todos los escenarios críticos: desde la gestión de cuentas y la publicación de intercambios, hasta la aceptación de ofertas, el manejo de suscripciones y la atención al usuario. Este backlog estructurado sienta las bases de un roadmap de desarrollo ágil que facilite la entrega temprana de valor y permita ajustar el producto de manera iterativa según el feedback real de los usuarios.
 
-Durante el Trabajo Parcial se cumplió con éxito el desarrollo de la landing page, el frontend inicial y la primera versión funcional del backend, integrando funcionalidades clave como registro, login, visualización de productos y filtros. Gracias a una coordinación efectiva, uso de GitFlow y enfoque colaborativo, se avanzó de forma sólida en la construcción de la plataforma CambiaZo, sentando las bases para los siguientes sprints.
+Durante el desarrollo del proyecto se cumplió con éxito el desarrollo de la landing page, el frontend inicial y la primera versión funcional del backend, integrando funcionalidades clave como registro, login, visualización de productos y filtros. Gracias a una coordinación efectiva, uso de GitFlow y enfoque colaborativo, se avanzó de forma sólida en la construcción de la plataforma CambiaZo, sentando las bases para los siguientes sprints.
 
+Se consolidó un ecosistema funcional con la incorporación de la Embedded App y la Edge Application, conectando efectivamente el software con el hardware de lockers físicos. La validación técnica fue complementada con entrevistas y pruebas de usabilidad, lo que reafirmó el potencial del producto y permitió pulir detalles críticos para una futura implementación en entornos reales.
 
-Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular y la sostenibilidad. Más allá de optimizar los procesos de trueque, la plataforma propone un modelo socialmente responsable que incluye donaciones a comunidades vulnerables y promueve hábitos de consumo consciente. De este modo, se alinea con la misión de impulsar un cambio positivo en la reducción de residuos y en la adopción de prácticas de reutilización a través de la tecnología.
 
 # Bibliografía
 <br>
@@ -4151,6 +6212,8 @@ Finalmente, CambiaZo refuerza el compromiso de TechZo con la economía circular 
 
 + Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
 
++ Edge: https://cambiazo-edge.onrender.com <br><br>
+
 + Repositorio GitHub de la Organización: https://github.com/TechZo-1ASI0572-2942<br><br>
 
 + Repositorio GitHub de la Web App: https://github.com/TechZo-1ASI0572-2942/CambiaZo-WebApp<br><br>
@@ -4186,5 +6249,28 @@ Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/
 
 
 Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/Ee1ze5XOD9lGkPIIbQm65D8BaSOlNgXmkSBD2DgIrUb4hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gCQhQW
+
+## Validation Interviews
+
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EZ7rQsoFLMVKteWmsVXPpeQBbSaw1GzYdNea0ex7Zri5hA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=F7N5uP
+
+
+
+## About the Team
+
+Youtube: https://youtu.be/bqYlbluvIF8
+
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EePpSqQpSARPlTmbiqooN08BeajG_Pi2D_M6qaV6mI7emQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=izHwrx
+
+
+## Exposure video TB2
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Videos/expo.png?raw=true" alt="Exposure video Tb1">
+ </div>
+
+
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EYSYg3R3BO1Aqs1aP8oqmsoBPvP7XyXfF9U_9dJE7y7PFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=osEOv1
+
 
 </div>
