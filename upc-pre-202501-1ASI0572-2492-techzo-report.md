@@ -5519,12 +5519,14 @@ Por el lado del backend, extendimos la API para soportar la creación de publica
 
 **Movil:**<br>
 
++ Movil Apk: https://drive.google.com/file/d/1c94ybxLDEBBoxn6ti-MZPGEtKRmuB3Xw/view?usp=sharing<br><br>
+
   <div align="center">
-  <img src="" alt="movil app" ><br>
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/movil1.png?raw=true" alt="movil app" ><br>
 
-  <img src="" alt="movil app" ><br>
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/movil2.png?raw=true" alt="movil app" ><br>
 
-  <img src="" alt="movil app" ><br>
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/movil3.png?raw=true" alt="movil app" ><br>
 </div>
 
 
@@ -5532,15 +5534,17 @@ Por el lado del backend, extendimos la API para soportar la creación de publica
 
 + Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
 
-<img src="" alt="backend" ><br>
+<div align="center">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/backend.png?raw=true" alt="backend" ><br>
+</div>
 
 **Embedded System:**<br>
 
-+ Edge Application: https://cambiazo-edge.onrender.com<br><br>
++ Embedded System: https://wokwi.com/projects/433610065578331137<br><br>
 
 
 <div align="center">
-<img src="" alt="embedded" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/embedded.png?raw=true" alt="embedded" ><br>
 </div>
 
 <br><br>
