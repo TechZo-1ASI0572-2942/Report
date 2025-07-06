@@ -5661,6 +5661,246 @@ Backend:
 </div><br><br>
 
 
+### 6.2.3. Sprint 3
+#### 6.2.3.1.Sprint Planning 3.
+#### 6.2.3.2.Aspect Leaders and Collaborators.
+#### 6.2.3.3.Sprint Backlog 3.
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Description</td>
+      <td>Estimation (Hours)</td>
+      <td>Assigned to</td>
+      <td>Status</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">US02</td>
+      <td rowspan="3">Editar perfil del usuario</td>
+      <td>WI-01</td>
+      <td>Diseñar interfaz de edición de perfil</td>
+      <td>Diseñar y maquetar la interfaz donde el usuario podrá visualizar y editar su información personal.</td>
+      <td>1.5</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-02</td>
+      <td>Implementar funcionalidad de edición</td>
+      <td>Desarrollar lógica para permitir la actualización de los datos del perfil del usuario mediante el backend.</td>
+      <td>2</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-03</td>
+      <td>Validación de datos ingresados</td>
+      <td>Agregar validaciones a los campos de edición del perfil para evitar valores incompletos o incorrectos.</td>
+      <td>1</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US04</td>
+      <td rowspan="3">Cambiar contraseña</td>
+      <td>WI-04</td>
+      <td>Diseñar interfaz de cambio de contraseña</td>
+      <td>Crear una sección dentro de Configuración para ingresar la contraseña actual y la nueva.</td>
+      <td>1</td>
+      <td>Augusto Pin</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-05</td>
+      <td>Implementar lógica de cambio</td>
+      <td>Conectar con backend para verificar contraseña actual y actualizar con la nueva si es válida.</td>
+      <td>2</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-06</td>
+      <td>Manejo de errores y confirmaciones</td>
+      <td>Mostrar mensajes adecuados para errores de validación y éxito tras el cambio de contraseña.</td>
+      <td>1</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US08</td>
+      <td rowspan="3">Brindar reseña sobre el Intercambiador</td>
+      <td>WI-07</td>
+      <td>Diseñar interfaz para dejar reseña</td>
+      <td>Crear formulario que permita seleccionar estrellas y escribir un comentario sobre el otro usuario.</td>
+      <td>1.5</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-08</td>
+      <td>Guardar y mostrar reseña</td>
+      <td>Implementar funcionalidad para almacenar la reseña y mostrarla en el perfil del usuario reseñado.</td>
+      <td>1.5</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-09</td>
+      <td>Listar reseñas en perfil</td>
+      <td>Visualizar todas las reseñas recibidas por un usuario, con estrellas y comentarios, en su perfil.</td>
+      <td>1</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US09</td>
+      <td rowspan="3">Eliminación de cuenta</td>
+      <td>WI-10</td>
+      <td>Agregar botón de eliminar cuenta</td>
+      <td>Incluir opción visible dentro de configuración de cuenta para solicitar eliminación.</td>
+      <td>0.5</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-11</td>
+      <td>Confirmación doble de eliminación</td>
+      <td>Diseñar lógica de confirmación con mensaje emergente y advertencia final antes de eliminar la cuenta.</td>
+      <td>1</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-12</td>
+      <td>Eliminar datos y cerrar sesión</td>
+      <td>Desarrollar lógica para borrar los datos del usuario de la base y cerrar sesión automáticamente.</td>
+      <td>1.5</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US21</td>
+      <td rowspan="3">Cancelar una suscripción</td>
+      <td>WI-13</td>
+      <td>Mostrar sección “Mi membresía”</td>
+      <td>Habilitar el acceso a la sección “Mi membresía” desde el perfil del usuario, tanto en la web como en mobile.</td>
+      <td>1.5</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-14</td>
+      <td>Visualizar detalles de suscripción</td>
+      <td>Mostrar fecha de renovación y tipo de plan dentro de la vista de membresía.</td>
+      <td>1.5</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-15</td>
+      <td>Implementar botón para anular suscripción</td>
+      <td>Desarrollar funcionalidad para cancelar la suscripción, actualizando el plan a uno gratuito según el contexto (web o mobile).</td>
+      <td>2</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td rowspan="3">US23</td>
+      <td rowspan="3">Gestionar mis favoritos en la aplicación</td>
+      <td>WI-16</td>
+      <td>Mostrar lista de objetos favoritos</td>
+      <td>Diseñar e implementar una sección dentro del perfil para visualizar objetos guardados como favoritos.</td>
+      <td>1.5</td>
+      <td>Augusto Pin</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-17</td>
+      <td>Mostrar detalles del objeto favorito</td>
+      <td>Incluir imagen, nombre, descripción y valor estimado para cada objeto en la lista de favoritos.</td>
+      <td>1.5</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-18</td>
+      <td>Eliminar objeto de favoritos</td>
+      <td>Permitir al usuario eliminar un objeto de favoritos con confirmación mediante popup.</td>
+      <td>1.5</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">US24</td>
+      <td rowspan="3">Ver reseñas recibidas</td>
+      <td>WI-19</td>
+      <td>Acceder a sección “Mis Reseñas”</td>
+      <td>Agregar acceso desde el perfil a una nueva sección que muestre las reseñas recibidas.</td>
+      <td>1</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-20</td>
+      <td>Visualizar calificación general</td>
+      <td>Mostrar el promedio de estrellas y número total de reseñas en la parte superior de la sección.</td>
+      <td>1</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-21</td>
+      <td>Listar reseñas con detalles</td>
+      <td>Listar reseñas mostrando nombre del usuario, estrellas y comentario.</td>
+      <td>1.5</td>
+      <td>Joseph Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td rowspan="3">TS04</td>
+      <td rowspan="3">API Memberships</td>
+      <td>WI-22</td>
+      <td>Diseñar estructura de endpoints</td>
+      <td>Definir rutas para crear, leer y eliminar membresías, con enfoque RESTful y requisitos de autenticación.</td>
+      <td>2</td>
+      <td>Mathias Mendoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-23</td>
+      <td>Implementar GET y POST de membresías</td>
+      <td>Desarrollar los endpoints para obtener y registrar membresías, incluyendo validaciones.</td>
+      <td>2</td>
+      <td>Jeremy Quispe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>WI-24</td>
+      <td>Manejo de errores y respuestas</td>
+      <td>Agregar manejo de errores para casos como membresía no encontrada o ya existente, con códigos y mensajes adecuados.</td>
+      <td>1.5</td>
+      <td>Ian Santisteban</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 6.2.3.4.Development Evidence for Sprint Review.
+#### 6.2.3.5.Testing Suite Evidence for Sprint Review.
+#### 6.2.3.6.Execution Evidence for Sprint Review.
+#### 6.2.3.7.Services Documentation Evidence for Sprint Review.
+#### 6.2.3.8.Software Deployment Evidence for Sprint Review.
+#### 6.2.3.9.Team Collaboration Insights during Sprint.
 
 
 ## 6.3. Validation Interviews
