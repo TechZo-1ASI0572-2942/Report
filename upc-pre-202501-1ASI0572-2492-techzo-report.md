@@ -6377,17 +6377,17 @@ LINK
 + Aplicación Web: https://cambiazo-webapp.netlify.app/home/ <br><br>
 
 <div align="center">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/web1.png?raw=true" alt="web app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/web1.png?raw=true" alt="web app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/web2.png?raw=true" alt="web app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/web2.png?raw=true" alt="web app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/web3.png?raw=true" alt="web app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/web3.png?raw=true" alt="web app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/web4.png?raw=true" alt="web app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/web4.png?raw=true" alt="web app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/web5.png?raw=true" alt="web app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/web5.png?raw=true" alt="web app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/web6.png?raw=true" alt="web app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/web6.png?raw=true" alt="web app" ><br>
 
 </div>
 <br><br>
@@ -6397,17 +6397,17 @@ LINK
 + Movil Apk: https://drive.google.com/file/d/1c94ybxLDEBBoxn6ti-MZPGEtKRmuB3Xw/view?usp=sharing<br><br>
 
   <div align="center">
-  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/mobile1.png?raw=true" alt="movil app" ><br>
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/mobile1.png?raw=true" alt="movil app" ><br>
 
-  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/mobile2.png?raw=true" alt="movil app" ><br>
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/mobile2.png?raw=true" alt="movil app" ><br>
   
-  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/mobile3.png?raw=true" alt="movil app" ><br>
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/mobile3.png?raw=true" alt="movil app" ><br>
 
-  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/mobile4.png?raw=true" alt="movil app" ><br>
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/mobile4.png?raw=true" alt="movil app" ><br>
 
-  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/mobile5.png?raw=true" alt="movil app" ><br>
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/mobile5.png?raw=true" alt="movil app" ><br>
 
-  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/mobile6.png?raw=true" alt="movil app" ><br>
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/mobile6.png?raw=true" alt="movil app" ><br>
  
 </div>
 
@@ -6417,7 +6417,7 @@ LINK
 + Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
 
 <div align="center">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/backendtf.png?raw=true" alt="backend" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/backendtf.png?raw=true" alt="backend" ><br>
 </div>
 
 **Maqueta Fisica:**<br>
@@ -6425,7 +6425,7 @@ LINK
 + Embedded System: https://wokwi.com/projects/433610065578331137<br><br>
 
 <div align="center">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/maqueta.png?raw=true" alt="embedded" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/maqueta.png?raw=true" alt="embedded" ><br>
 </div>
 
 <br><br>
