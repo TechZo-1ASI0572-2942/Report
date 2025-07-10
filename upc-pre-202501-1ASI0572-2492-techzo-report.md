@@ -6425,7 +6425,7 @@ LINK
 + Embedded System: https://wokwi.com/projects/433610065578331137<br><br>
 
 <div align="center">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/maqueta.png?raw=true" alt="embedded" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/maqueta.jpg?raw=true" alt="embedded" ><br>
 </div>
 
 <br><br>
