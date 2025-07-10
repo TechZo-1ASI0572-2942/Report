@@ -14,7 +14,7 @@
 **Profesor:** Marco Antonio Leon Baca
 
 ----
-## Informe del Trabajo TB2
+## Informe del Trabajo Final
 ### Nombre del Startup: TechZo
 
 ### Nombre del Producto: CambiaZo
@@ -30,7 +30,7 @@
 </div>
 
 
-<br><div align="center"><h3>Junio 2025</h3></div><br>
+<br><div align="center"><h3>Julio 2025</h3></div><br>
 
 
 
@@ -47,6 +47,7 @@
 |TB1|7/04/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
 |TP1|15/05/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo V: Solution UI/UX Design y Capítulo VI: Product Implementation, Validation & Deployment|
 |TB2|21/06/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo VI: Product Implementation, Validation & Deployment |
+|TF|21/06/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo VI: Product Implementation, Validation & Deployment |
 
 <br><br>
 
@@ -114,6 +115,21 @@ https://github.com/TechZo-1ASI0572-2942/Report
 
       + **Vista de contributors en GitHub Insights**  
         <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/contributors-tb2.png?raw=true"></div><br><br>
+
+
+**Entrega TF**
+
++ **Desarrollo de Actividades**  
+  Durante la entrega final del proyecto CambiaZo, el equipo mantuvo una coordinación constante mediante la plataforma Discord, realizando reuniones regulares orientadas a la validación de avances, resolución de problemas técnicos y toma de decisiones clave. En esta etapa se concluyó la versión final de la aplicación web y móvil, ambas conectadas al backend desplegado, se culminó y desplegó la Edge Application con comunicación activa al backend, y se finalizó también la Embedded App, la cual sirvió como base para construir una maqueta física con simulación en Wokwi. Esta maqueta permitió representar el funcionamiento real de los lockers inteligentes, fortaleciendo la conexión entre el entorno físico y el sistema digital. Todo esto se logró gracias a una asignación de tareas equitativa basada en las competencias individuales del equipo, permitiendo una integración fluida y eficiente de los distintos módulos del sistema. Asimismo, se aprovechó el tiempo de clases para consultar al docente y resolver dudas específicas, lo que contribuyó a reducir errores críticos y asegurar un cierre técnico exitoso.
+
++ **Evidencias de colaboración y commits - GitHub:**  
+  * **Gráficos de actividad y colaboración** <br><br>
+      + **Pulse view desde GitHub Insights**  
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/pulse.png?raw=true"></div><br><br>
+
+      + **Vista de contributors en GitHub Insights**  
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/contributors-tb2.png?raw=true"></div><br><br>
+
 
 
 <div style="page-break-after: always;"></div>
@@ -250,7 +266,17 @@ https://github.com/TechZo-1ASI0572-2942/Report
     - [6.2.2.6. Execution Evidence for Sprint Review](#6226-execution-evidence-for-sprint-review)  
     - [6.2.2.7. Services Documentation Evidence for Sprint Review](#6227-services-documentation-evidence-for-sprint-review)  
     - [6.2.2.8. Software Deployment Evidence for Sprint Review](#6228-software-deployment-evidence-for-sprint-review)  
-    - [6.2.2.9. Team Collaboration Insights during Sprint](#6229-team-collaboration-insights-during-sprint)  
+    - [6.2.2.9. Team Collaboration Insights during Sprint](#6229-team-collaboration-insights-during-sprint)
+  - [6.2.3. Sprint 3](#623-sprint-3)  
+    - [6.2.3.1. Sprint Planning 3](#6231-sprint-planning-3)  
+    - [6.2.3.2. Aspect Leaders and Collaborators](#6232-aspect-leaders-and-collaborators)  
+    - [6.2.3.3. Sprint Backlog 3](#6233-sprint-backlog-3)  
+    - [6.2.3.4. Development Evidence for Sprint Review](#6234-development-evidence-for-sprint-review)  
+    - [6.2.3.5. Testing Suite Evidence for Sprint Review](#6235-testing-suite-evidence-for-sprint-review)  
+    - [6.2.3.6. Execution Evidence for Sprint Review](#6236-execution-evidence-for-sprint-review)  
+    - [6.2.3.7. Services Documentation Evidence for Sprint Review](#6237-services-documentation-evidence-for-sprint-review)  
+    - [6.2.3.8. Software Deployment Evidence for Sprint Review](#6238-software-deployment-evidence-for-sprint-review)  
+    - [6.2.3.9. Team Collaboration Insights during Sprint](#6239-team-collaboration-insights-during-sprint)    
 - [6.3. Validation Interviews](#63-validation-interviews)  
   - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)  
   - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)  
@@ -258,9 +284,10 @@ https://github.com/TechZo-1ASI0572-2942/Report
 - [6.4. Video About-the-Product](#64-video-about-the-product)  
 
 ### [Conclusiones](#conclusiones)
+  - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+  - [Video About-the-Team](#video-about-the-team)
 
 ### [Bibliografía](#bibliografía)
-
 ### [Anexos](#anexos)
 
 <div align="justify">
@@ -293,7 +320,9 @@ forma conjunta</td>
       <b>TP1</b> 
       <p>Formé parte del equipo de testing y validación, contribuyendo al desarrollo del Testing Suite y la recolección de evidencias para la revisión del Sprint. Propuse una estrategia de control de calidad distribuida y acompañé al equipo en la revisión de sus entregables. Esta experiencia me enseñó que cumplir objetivos como equipo requiere organización, liderazgo compartido y confianza mutua.</p>
       <b>TB2</b> 
-      <p>Fui responsable del despliegue del software para la revisión del Sprint 2, asegurando que todos los servicios estuvieran correctamente documentados y funcionales. Guié la integración de los módulos con servicios externos, y apoyé a mis compañeros en pruebas de ejecución. Además, coordiné parte de la edición del video About-the-Product. Este trabajo conjunto reforzó mi rol de liderazgo técnico, manteniendo siempre un entorno inclusivo y resolutivo.</p> 
+      <p>Fui responsable del despliegue del software para la revisión del Sprint 2, asegurando que todos los servicios estuvieran correctamente documentados y funcionales. Guié la integración de los módulos con servicios externos, y apoyé a mis compañeros en pruebas de ejecución. Además, coordiné parte de la edición del video About-the-Product. Este trabajo conjunto reforzó mi rol de liderazgo técnico, manteniendo siempre un entorno inclusivo y resolutivo.</p>
+      <b>TF</b>
+      <p>Durante el Sprint 3, lideré los ajustes en el backend relacionados con la integración de la base de datos para el módulo de membresías y favoritos. Además, colaboré con el equipo de frontend para asegurar una comunicación fluida entre las APIs y la interfaz. En cada daily, apoyé a mis compañeros resolviendo dudas técnicas y ayudando a priorizar tareas, lo que permitió que el equipo mantuviera una línea de trabajo ordenada y eficiente. Esta experiencia reforzó mi capacidad de liderazgo compartido y resolución colaborativa.</p> 
     <h3>Mathias André Mendoza Carrión</h3>
       <b>TB1</b>
       <p>Durante esta fase inicial, realicé un análisis detallado de soluciones IoT agrícolas existentes, identificando brechas de mercado y oportunidades de innovación. Conduje entrevistas con agricultores tecnificados, cuyos insights nos permitieron modelar los requerimientos funcionales de nuestro sistema. Esto fortaleció mis habilidades de investigación y empatía tecnológica, asegurando que nuestra propuesta responda efectivamente a necesidades reales.</p>
@@ -301,6 +330,8 @@ forma conjunta</td>
       <p>Durante el diseño del UI/UX, asumí el liderazgo en las decisiones visuales clave, guiando al equipo en la elaboración de los mock-ups y wireframes. Organicé sesiones de retroalimentación para asegurar que todos pudieran participar y aportar ideas. Esta experiencia me enseñó que liderar también implica escuchar y facilitar un entorno en el que cada voz cuenta.</p>
       <b>TB2</b>
       <p>Durante este bloque, coordiné las tareas de planificación del Sprint 2, ayudando a estructurar el Sprint Backlog e identificando riesgos asociados a la carga de trabajo. También contribuí en la documentación de servicios desarrollados y supervisé la integración de avances técnicos en la evidencia del Sprint Review. Mi enfoque en la cohesión del equipo fue clave para alinear las entregas parciales en función de los objetivos generales del proyecto.</p>
+      <b>TF</b>
+      <p>En este sprint final, asumí un rol activo en la validación del edge computing, realizando pruebas y depuración del prototipo Wokwi. Trabajé junto a mis compañeros para integrar los últimos ajustes y validar la respuesta del sistema en distintos escenarios. Participé en la revisión del Sprint Backlog y propuse mejoras que ayudaron a distribuir mejor las responsabilidades. Este proceso me enseñó el valor de liderar desde la cooperación técnica, manteniendo el foco en objetivos comunes.</p>
     <h3>Ian Haziel Donato Santisteban Palomino</h3>
       <b>TB1</b>
       <p>En este primer entregable, gestioné la documentación técnica y los requerimientos del sistema IoT, asegurando una comunicación fluida dentro del equipo y con potenciales usuarios. La coordinación efectiva de criterios técnicos permitió integrar de manera precisa sensores de humedad, controladores de riego y plataformas de monitoreo, consolidando una visión clara y colaborativa para el desarrollo del prototipo.</p>
@@ -308,6 +339,8 @@ forma conjunta</td>
       <p>Participé activamente en la planificación del Sprint 1, ayudando a organizar el backlog y asignar tareas según fortalezas individuales. También me desempeñé como colaboradora en el sistema de navegación, manteniendo una comunicación constante con mis compañeros para integrar sus avances de forma coherente. Este proceso me permitió desarrollar habilidades de coordinación y adaptación dentro de un entorno colaborativo.</p>
       <b>TB2</b> 
       <p>En esta entrega, asumí el liderazgo en la aplicación de evaluaciones heurísticas, guiando al equipo en la identificación de mejoras de usabilidad. Coordiné la recopilación de hallazgos y propuse criterios para priorizar cambios. También participé en la elaboración del video About-the-Product, asegurando que se destacaran los avances funcionales del sistema. Mi enfoque combinó liderazgo técnico y comunicación visual para transmitir con claridad el progreso del equipo.</p>
+      <b>TF</b>
+      <p>Contribuí como colaborador en la implementación de las funcionalidades del perfil de usuario (ver reseñas, editar perfil, cambiar contraseña), coordinando estrechamente con el equipo de frontend y asegurando consistencia en la experiencia del usuario. Junto con mis compañeros, revisamos el Sprint Backlog y establecimos prioridades. Mi participación activa en la organización y solución de conflictos técnicos fortaleció la dinámica de liderazgo compartido y trabajo en equipo.</p>
     <h3>Jeremy Joel Quispe Andia</h3>
       <b>TB1</b>
       <p>Trabajé en la estructuración de User Stories específicas para nuestro sistema de monitoreo de cultivos, priorizando funcionalidades como alertas automáticas y control remoto. También desarrollé la propuesta de valor enfocada en eficiencia hídrica y facilidad de uso, asegurando que nuestro proyecto se alineara con las demandas prácticas del sector agrícola tecnificado.</p>
@@ -315,13 +348,17 @@ forma conjunta</td>
       <p>Lideré la configuración del entorno de desarrollo y el control de versiones. A través de reuniones técnicas, ayudé a resolver dudas del equipo y a unificar criterios en el estilo del código fuente. Promoví un ambiente de apoyo mutuo en el que todos pudimos avanzar con claridad y orden. Esta experiencia fortaleció mi capacidad para organizar tareas y acompañar a mis compañeros en el cumplimiento de objetivos.</p>
       <b>TB2</b>
       <p>Contribuí activamente en el diseño y ejecución de las entrevistas de validación, redactando guiones, coordinando horarios y sistematizando los registros. También apoyé en la redacción colaborativa de las conclusiones del informe y la organización de los anexos. Mi disposición para facilitar acuerdos y adaptar el cronograma a las necesidades del equipo ayudó a mantener un flujo de trabajo inclusivo y eficiente.</p>
+      <b>TF</b>
+      <p>Tomé el liderazgo en la integración de los servicios del backend con el módulo de gestión de productos favoritos y reseñas, asegurando su correcta documentación y despliegue. Organicé sesiones de revisión para garantizar la calidad del código y promover la colaboración efectiva. Esta etapa final del proyecto fue clave para consolidar el liderazgo conjunto, donde cada decisión se tomó en base a diálogo, consenso y apoyo técnico mutuo.</p>
     <h3>Augusto Jose Pin Matallana</h3>
       <b>TB1</b>
       <p>Diseñé diagramas de arquitectura del sistema que integran hardware y software, como la comunicación entre sensores, actuadores y servidores en la nube. Esta representación clara de flujos de información y control fue clave para asegurar la interoperabilidad de los componentes y para proyectar un sistema escalable y eficiente en el contexto agrícola.</p>
       <b>TP1</b> 
       <p>Durante el diseño de la arquitectura de información, tomé la iniciativa de documentar las estructuras de navegación y los sistemas de etiquetado. Al hacerlo, motivé al equipo a revisar y proponer mejoras continuamente. Mi rol no fue solo técnico, sino también facilitador del trabajo conjunto, generando un entorno participativo e inclusivo para el desarrollo del sistema.</p>
       <b>TB2</b> 
-      <p>En esta entrega, me enfoqué en organizar las evidencias de ejecución y testing del Sprint 2. Revisé los módulos implementados, validando su funcionalidad y documentando los resultados para el Sprint Review. También propuse mejoras en la estructura del repositorio y aseguré que las tareas estuvieran correctamente etiquetadas. Mi liderazgo técnico se centró en la organización y trazabilidad del avance del equipo.</p>  
+      <p>En esta entrega, me enfoqué en organizar las evidencias de ejecución y testing del Sprint 2. Revisé los módulos implementados, validando su funcionalidad y documentando los resultados para el Sprint Review. También propuse mejoras en la estructura del repositorio y aseguré que las tareas estuvieran correctamente etiquetadas. Mi liderazgo técnico se centró en la organización y trazabilidad del avance del equipo.</p>
+      <b>TF</b>
+      <p>Me encargué de finalizar la maqueta física del sistema embebido en Wokwi, coordinando con el equipo los parámetros funcionales que debían estar sincronizados con el backend. Participé en la revisión del entorno colaborativo durante el Sprint, aportando ideas para optimizar tiempos y tareas. El enfoque colaborativo del equipo me permitió no solo aportar desde lo técnico, sino también co-liderar decisiones en momentos clave del desarrollo.</p>  
     <td colspan="3">
     <b>TB1</b>
     <p>Al concluir el primer hito de nuestro proyecto de IoT, nuestro equipo ha demostrado un avance sólido en la definición de soluciones tecnológicas aplicadas a la agricultura de precisión. Logramos definir claramente los problemas a resolver, realizar una investigación profunda de necesidades reales y proponer una arquitectura robusta basada en sensores y controladores. La colaboración efectiva y la comunicación fluida nos permitieron integrar diversas perspectivas técnicas, estableciendo bases firmes para el desarrollo de un prototipo funcional. Este progreso inicial ha fortalecido tanto nuestras competencias tecnológicas como nuestra cohesión como equipo, preparándonos para enfrentar exitosamente los retos de las siguientes etapas.</p>
@@ -329,6 +366,8 @@ forma conjunta</td>
     <p>Durante el desarrollo de los capítulos V y VI, el equipo logró trabajar de manera cohesionada, estableciendo objetivos comunes y distribuyendo responsabilidades de manera equitativa. Cada integrante asumió roles de liderazgo en distintas etapas del proceso, desde el diseño hasta el despliegue, fomentando un entorno colaborativo e inclusivo. A través de la planificación de tareas, el seguimiento de avances y la resolución conjunta de problemas, se consolidó una dinámica de trabajo efectiva que permitió alcanzar los objetivos técnicos y fortalecer las habilidades interpersonales esenciales para el desarrollo profesional en soluciones de software</p>
     <b>TB2</b>
     <p>Durante el segundo sprint, el equipo demostró una madurez creciente en la organización de tareas, el liderazgo compartido y la colaboración continua. Se logró realizar con éxito la planificación del Sprint 2, asignando líderes por aspecto y detallando el Sprint Backlog con claridad. Cada miembro contribuyó activamente en el desarrollo, pruebas, documentación y despliegue del software, generando evidencia concreta para la revisión. Además, se implementaron entrevistas de validación, evaluaciones heurísticas y un video explicativo del producto, fortaleciendo tanto la perspectiva técnica como la experiencia del usuario. Las reflexiones de colaboración evidencian un equipo comprometido, capaz de alinear sus fortalezas individuales en favor de un objetivo común, consolidando así una dinámica ágil y eficaz en el trabajo en equipo.</p>
+    <b>TF</b>
+    <p>Durante el tercer Sprint del proyecto final, el equipo demostró una sólida capacidad para trabajar en conjunto y ejercer liderazgo compartido en todas las áreas del desarrollo: backend, frontend, edge computing y maqueta embebida. A través de la planificación colaborativa, distribución de tareas y resolución conjunta de retos técnicos, se creó un entorno inclusivo que permitió que todos los miembros aportaran desde sus fortalezas. El cumplimiento de objetivos se logró gracias a la responsabilidad compartida, la comunicación constante y el compromiso colectivo con la calidad del producto. Este proceso afianzó nuestras habilidades de liderazgo distribuido, fundamentales para el desempeño profesional en equipos multidisciplinarios.</p>
   </td>
     </tr>
     <tr>
@@ -344,6 +383,8 @@ objetivos.</td>
       <p>Durante la planificación del Sprint 1, propuse un enfoque visual para dividir tareas utilizando un tablero Kanban, permitiendo que todos los miembros tuvieran visibilidad y voz en la asignación de responsabilidades. Además, me aseguré de incluir a todos en las decisiones de diseño, fomentando un ambiente donde cada opinión era considerada y valorada.</p>
       <b>TB2</b>
       <p>Durante el segundo hito, participé activamente en la validación de componentes, coordinando con mis compañeros para establecer una secuencia de pruebas y verificar el funcionamiento del sistema de riego. Promoví espacios de revisión conjunta y retroalimentación, lo que permitió una toma de decisiones más colaborativa. Esta experiencia fortaleció mi capacidad para coordinar tareas técnicas en un ambiente inclusivo y orientado al logro de objetivos comunes.</p>
+      <b>TF</b>
+      <p>Durante el Sprint 3, promoví un entorno de trabajo colaborativo al facilitar la comunicación entre los responsables del backend y frontend. Propuse reuniones breves para validar avances y detectar bloqueos, lo cual ayudó a mantener una planificación clara y dinámica. Contribuí al cumplimiento de objetivos al coordinar la entrega final de las funciones de membresías y productos favoritos, fomentando una cultura de apoyo y participación equitativa.</p>
     <h3>Mathias André Mendoza Carrión</h3>
       <b>TB1</b>
       <p>El análisis de competidores y entrevistas a agricultores me permitió identificar necesidades no satisfechas en el mercado actual, lo que afianzó mi comprensión del impacto que tiene la correcta selección de tecnologías IoT en proyectos reales. Aprender a interpretar los requerimientos de usuarios y convertirlos en especificaciones técnicas ha sido una lección valiosa para mi formación.</p>
@@ -351,6 +392,8 @@ objetivos.</td>
       <p>Mi participación se centró en liderar el diseño de los wireframes y flujos de usuario para la aplicación móvil. Desde el inicio, planteé objetivos claros y medibles por cada iteración, guiando al equipo con fechas de revisión y criterios de avance. El compromiso conjunto permitió cumplir con lo propuesto en el cronograma establecido.</p>
       <b>TB2</b>
       <p>Colaboré en el desarrollo de casos de uso y en la validación con usuarios, proponiendo un enfoque centrado en el usuario para asegurar que las metas del sprint se alinearan con sus expectativas. Organicé reuniones breves para revisar avances y redistribuir tareas cuando fue necesario. Fomenté un ambiente donde todos pudieran aportar sus ideas y sentirse escuchados, lo cual fue clave para cumplir los entregables a tiempo y con calidad.</p>
+      <b>TF</b>
+      <p>Colaboré activamente en las tareas de verificación y pruebas del sistema embebido, apoyando a mis compañeros con documentación técnica clara. Participé en la planificación del sprint aportando ideas para distribuir las tareas de manera balanceada y realista. El ambiente de respeto y disposición para ayudar que mantuvimos fue clave para avanzar juntos hacia las metas propuestas del sprint.</p>
      <h3>Ian Haziel Donato Santisteban Palomino</h3>
       <b>TB1</b>
       <p>Al liderar la estructuración de requerimientos y documentación técnica, consolidé habilidades fundamentales para planificar proyectos IoT que integren distintos dispositivos y plataformas. Esta experiencia práctica subraya la importancia de actualizar permanentemente mis conocimientos sobre protocolos de comunicación, seguridad de datos y gestión de dispositivos conectados.</p>
@@ -358,6 +401,8 @@ objetivos.</td>
       <p>Encabecé la elaboración de la documentación SEO y de etiquetas meta, y para lograrlo organicé reuniones cortas y constantes, asignando subtareas a cada miembro interesado en aprender sobre posicionamiento web. Esta experiencia me permitió distribuir eficientemente las tareas, considerando tanto las habilidades como los intereses del equipo.</p>
       <b>TB2</b>
       <p>Me encargué de coordinar el seguimiento de tareas durante el Sprint 2, utilizando herramientas colaborativas para visualizar el progreso y asegurar que todos los miembros pudieran avanzar con claridad. Propicié un entorno de trabajo horizontal donde se valoraron todas las ideas, y realicé ajustes en la planificación según la disponibilidad y fortalezas del equipo. Esta experiencia reforzó mi habilidad para promover la inclusión y el cumplimiento efectivo de los objetivos.</p>
+      <b>TF</b>
+      <p>Fui parte del equipo encargado de las funcionalidades del perfil de usuario y participé activamente en la organización de tareas dentro del Sprint Backlog. Me aseguré de que las metas semanales fueran claras y medibles, y apoyé a otros compañeros cuando enfrentaban obstáculos técnicos. Estas acciones fortalecieron el entorno inclusivo y colaborativo necesario para cumplir con los objetivos generales del sprint.</p>
     <h3>Jeremy Joel Quispe Andia</h3>
       <b>TB1</b>
       <p>La definición de funcionalidades y necesidades a partir de User Stories me permitió comprender de manera aplicada cómo traducir problemas agrícolas reales en soluciones tecnológicas. Esta práctica resalta la necesidad de formarse continuamente en nuevas plataformas, hardware emergente y mejores prácticas de desarrollo para crear soluciones IoT efectivas y sostenibles.</p>
@@ -365,6 +410,8 @@ objetivos.</td>
       <p>Trabajé en el desarrollo del mock-up del landing page, asegurándome de integrar las ideas de todos, incluso aquellas que venían de compañeros menos familiarizados con diseño visual. Esto fortaleció la cohesión del grupo y mostró que un entorno inclusivo mejora los resultados finales y refuerza la motivación colectiva.</p>
       <b>TB2</b>
       <p>Lideré la coordinación técnica del desarrollo del backend durante el Sprint 2, estableciendo metas claras y ayudando a descomponer tareas complejas en subtareas más manejables para el equipo. Generé espacios de consulta para resolver dudas y garantizar que todos tuvieran el mismo entendimiento del flujo de datos. Mi participación fue clave para fomentar un entorno colaborativo en el que cada integrante pudo desarrollar su potencial y contribuir al avance general del sistema.</p>
+      <b>TF</b>
+      <p>Contribuí en la creación de un entorno colaborativo al facilitar la integración del backend con los servicios del frontend. Me aseguré de que todos los integrantes estuvieran al tanto del avance de sus tareas, lo que permitió una mejor sincronización y cumplimiento de metas. Además, participé en la organización de reuniones breves para hacer seguimiento del desarrollo, manteniendo la planificación en orden y promoviendo la inclusión en la toma de decisiones.</p>
     <h3>Augusto Jose Pin Matallana</h3>
       <b>TB1</b>
       <p>Participé activamente en la definición de la arquitectura técnica del sistema IoT, considerando factores como conectividad, energía y entorno operativo. Esta experiencia fue crucial para entender la importancia de un enfoque sistémico y me impulsó a profundizar en el aprendizaje de nuevas herramientas de diseño y simulación para fortalecer futuras soluciones de ingeniería.</p>
@@ -372,6 +419,8 @@ objetivos.</td>
       <p>Me responsabilicé del control de versiones y del despliegue del entorno de desarrollo. Desde el primer momento, establecí hitos técnicos que nos permitieran validar el avance de cada módulo. A través de una planificación clara y reuniones semanales, el equipo logró cumplir los objetivos sin retrasos, manteniendo siempre una actitud de apoyo mutuo.</p>
       <b>TB2</b>
       <p>Durante este hito, participé en la planificación y validación de la arquitectura del sistema. Propuse sesiones breves de revisión para validar decisiones técnicas y verificar que todos los módulos se integraran correctamente. Motivé al equipo a compartir observaciones y a corregir en conjunto cualquier desviación en el cumplimiento de objetivos. Esta colaboración activa permitió mantener una dinámica de trabajo organizada, inclusiva y orientada a resultados.</p>
+      <b>TF</b>
+      <p>En este sprint, trabajé con mis compañeros en la maqueta física del sistema embebido, siempre abierto a recibir sugerencias y adaptarlas para mejorar el prototipo. Aporté a la planificación general ajustando tareas según los tiempos y capacidades del equipo. Mi enfoque se centró en mantener un ambiente de trabajo abierto, proactivo y respetuoso que favoreciera el cumplimiento de los objetivos finales.</p>
     </td>
       <td colspan="3">
     <b>TB1</b>
@@ -380,6 +429,8 @@ objetivos.</td>
     <p>A lo largo del desarrollo de los capítulos V y VI, el equipo mostró una fuerte capacidad para crear un entorno de trabajo colaborativo e inclusivo, donde cada integrante pudo participar activamente en la toma de decisiones. Se establecieron metas claras, se planificaron tareas con enfoque estratégico y se cumplieron los objetivos propuestos dentro de los plazos establecidos. La experiencia consolidó no solo el avance técnico del proyecto, sino también la formación de competencias blandas fundamentales para el trabajo profesional en equipos de desarrollo de software.</p>
     <b>TB2</b>
     <p>En este segundo hito, el equipo fortaleció su capacidad para establecer metas claras, planificar tareas con anticipación y cumplir con los objetivos definidos. Se fomentó un entorno colaborativo e inclusivo donde cada miembro aportó desde sus fortalezas, promoviendo la participación equitativa y la toma de decisiones compartida. Las sesiones de planificación y las revisiones del Sprint reflejaron una mejora continua en la coordinación, así como un compromiso colectivo con la calidad del producto. Este avance consolidó tanto el rendimiento técnico como la cohesión del grupo, sentando una base sólida para los siguientes retos del proyecto.</p>
+    <b>TF</b>
+    <p>Durante el Sprint 3, el equipo logró consolidar un entorno colaborativo e inclusivo, donde cada integrante se sintió parte activa del desarrollo y pudo aportar desde sus capacidades individuales. La planificación de tareas fue clara y flexible, permitiendo una adaptación constante ante los desafíos técnicos y de integración. El respeto mutuo, la comunicación fluida y el compromiso con el proyecto facilitaron el cumplimiento de los objetivos técnicos y funcionales previstos. Esta experiencia no solo fortaleció la cohesión grupal, sino que también demostró la importancia de construir espacios de trabajo donde la participación equitativa y la corresponsabilidad sean la base del éxito colectivo.</p>
   </td>
     </tr>
   </tbody>
@@ -5695,16 +5746,21 @@ En esta sección, detallamos la planificación realizada para el segundo sprint 
   </tr>
   <tr>
     <td>Attendees</td>
-    <td>Santisteban Palomino, Ian Haziel Donato / Quispe Andia, Jeremy Joel / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre / Pin Matallana, Augusto Jose.
-</td>
+    <td>
+      Santisteban Palomino, Ian Haziel Donato / Quispe Andia, Jeremy Joel / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre / Pin Matallana, Augusto Jose.
+    </td>
   </tr>
   <tr>
     <td>Sprint n-2 Review Summary</td>
-    <td>En el Sprint 2 se completó exitosamente el desarrollo integral del frontend y backend, implementando todas las funcionalidades planificadas para ambos módulos. El frontend y el backend quedaron totalmente conectados y operativos, permitiendo la gestión completa de usuarios, productos e intercambios. Se validó la integración entre ambos componentes, asegurando que las operaciones principales de la plataforma funcionen de manera fluida y estable para los usuarios finales.</td>
+    <td>
+      En el Sprint 2 se implementó la gestión de intercambios (crear, ver, aceptar o rechazar ofertas) con actualización en tiempo real e inició la integración con los <strong>lockers inteligentes</strong>. Asimismo, se desarrolló una nueva versión de la <strong>landing page</strong> para web y móvil, incluyendo videos de “About the Product” y “About the Team”. También se integró la <strong>embedded app</strong> y se liberó una primera versión funcional de la <strong>Edge Application</strong>, cumpliendo con todos los criterios de aceptación definidos.
+    </td>
   </tr>
   <tr>
     <td>Sprint n-2 Retrospective Summary</td>
-    <td>Durante la retrospectiva del Sprint 2, el equipo identificó como principales retos la ejecución de pruebas (tests) en todos los módulos y la gestión de los tiempos ajustados para cumplir con los entregables. Se propuso como mejora para el siguiente sprint priorizar la automatización y cobertura de tests desde etapas tempranas, así como optimizar la planificación para adaptarse mejor a los plazos establecidos.</td>
+    <td>
+      Durante la retrospectiva del Sprint 2, el equipo destacó como aciertos la integración fluida entre frontend y backend, así como el avance técnico en la conexión de la app embebida con el sistema y la implementación del módulo de intercambios en tiempo real. Como desafíos, se identificó la necesidad de mejorar la automatización de pruebas y la optimización del flujo de trabajo para los próximos sprints. Se propuso reforzar los procesos de validación temprana y documentación técnica de las nuevas funcionalidades.
+    </td>
   </tr>
   <tr>
     <td colspan="2"><b>Sprint Goal & User Stories</b></td>
@@ -5712,89 +5768,93 @@ En esta sección, detallamos la planificación realizada para el segundo sprint 
   <tr>
     <td>Sprint 3</td>
     <td>
-      Hacer operativa la **embedded app** conectándola con el dispositivo IoT físico y asegurando su integración con el backend. Además, implementar la gestión de intercambios (crear, ver, aceptar o rechazar ofertas) con actualización en tiempo real, iniciar la integración con los **lockers inteligentes**, y desarrollar una nueva versión de la **landing page** para web y móvil con videos (“About the Product” y “About the Team”). También, liberar una primera versión de la **Edge Application**.<br><br>**Métrica de Cumplimiento**: El sprint se considerará completado si la embedded app funciona con el dispositivo IoT físico y se conecta correctamente al backend, se habilitan todas las acciones de intercambio, se publica la nueva landing con los videos, se integra la app embebida, se activa un endpoint para lockers y se libera una versión básica de la Edge App.
+      Realizar los ajustes finales al <strong>backend</strong> y a la <strong>Edge Application</strong>, específicamente los módulos relacionados con la integración de <strong>lockers inteligentes</strong>. Además, completar la construcción de la <strong>maqueta física del sistema embebido</strong> mediante <strong>Wokwi</strong>, que simula el funcionamiento del dispositivo conectado al backend. En el <strong>frontend</strong>, se implementaron funcionalidades clave como la gestión de membresías, visualización de reseñas propias, productos favoritos, edición de perfil y cambio de contraseña. Asimismo, se elaboró un <strong>modelo físico del locker inteligente</strong> que toma como base el diseño lógico de la simulación en Wokwi.
+      <br><br><strong>Métrica de Cumplimiento</strong>: El sprint se considerará completado si se aplican correctamente los ajustes finales en backend y Edge relacionados a lockers, se valida el comportamiento de la maqueta embebida en Wokwi, se habilitan todas las funciones mencionadas en el frontend, y se entrega el prototipo físico del locker como soporte visual del sistema propuesto.
     </td>
   </tr>
   <tr>
     <td>Sprint 3 Velocity</td>
-    <td>50 Story Points</td>
+    <td>30 Story Points</td>
   </tr>
   <tr>
     <td>Sum of Story Points</td>
-    <td>47 Story Points</td>
+    <td>24 Story Points</td>
   </tr>
 </table><br><br>
 
 #### 6.2.3.2.Aspect Leaders and Collaborators.
 
-<p>Durante el Sprint 2, el equipo abordó funcionalidades clave como la nueva versión de la landing page con videos informativos, avances en el frontend y backend, ajustes en la base de datos, además del desarrollo de la aplicación embebida y la Edge Application. Se designaron líderes y colaboradores por aspecto, promoviendo una ejecución eficiente y coordinada.</p>
+<p>Durante el Sprint 3, el equipo realizó ajustes finales en el backend y en la Edge Application, específicamente vinculados a la gestión de lockers. En el frontend, se desarrollaron funcionalidades como membresías, edición de perfil, favoritos, cambio de contraseña y reseñas. Además, se completó la maqueta embebida en Wokwi y se construyó el prototipo físico del sistema de lockers. A continuación, se detallan los líderes y colaboradores por cada aspecto:</p>
 
 <table>
   <tr>
     <th>Team Member (Last Name, First Name)</th>
     <th>ID/Código</th>
-    <th>Landing Page (Nueva versión)</th>
-    <th>Frontend (Web y Móvil)</th>
+    <th>Frontend</th>
     <th>Backend</th>
-    <th>Base de Datos</th>
     <th>Aplicación Embebida</th>
     <th>Edge Application</th>
+    <th>Prototipo Físico</th>
   </tr>
   <tr>
     <td>Mendoza Carrion, Mathias Andre</td>
     <td>U202216282</td>
     <td>C</td>
-    <td>C</td>
     <td></td>
-    <td><b>L</b></td>
-    <td>C</td>
     <td></td>
+    <td>C</td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Quispe Andia, Jeremy Joel</td>
     <td>U202216279</td>
     <td>C</td>
-    <td>C</td>
     <td><b>L</b></td>
+    <td>C</td>
+    <td>C</td>
     <td></td>
-    <td>C</td>
-    <td>C</td>
   </tr>
   <tr>
     <td>Huamani Mandujano, Joseph Alexis</td>
     <td>U20221A133</td>
     <td></td>
     <td>C</td>
-    <td>C</td>
-    <td>C</td>
     <td><b>L</b></td>
     <td><b>L</b></td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Santisteban Palomino, Ian Haziel Donato</td>
     <td>U202214059</td>
     <td><b>L</b></td>
+    <td>C</td>
+    <td>C</td>
     <td></td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
+    <td><b>L</b></td>
   </tr>
   <tr>
     <td>Pin Matallana, Augusto Jose</td>
     <td>U202210257</td>
     <td>C</td>
-    <td><b>L</b></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>C</td>
     <td>C</td>
   </tr>
 </table>
 
 <p><b>L = Líder</b>, <b>C = Colaborador</b></p>
 
+
 #### 6.2.3.3.Sprint Backlog 3.
+
+En este sprint se realizaron ajustes finales tanto en el backend como en la Edge Application, enfocados en la lógica de los lockers y su correcto funcionamiento en el flujo de intercambio. También se finalizó la aplicación embebida utilizando la simulación en Wokwi, la cual permitió validar el comportamiento físico del sistema. En cuanto al frontend, se implementaron funcionalidades clave orientadas al perfil del usuario, como la visualización de membresías activas, la sección de reseñas recibidas, productos favoritos, edición de perfil y cambio de contraseña, fortaleciendo la personalización de la experiencia del usuario. Asimismo, se construyó el modelo físico del locker, basado en el diseño y la simulación embebida, permitiendo una representación tangible de la solución tecnológica propuesta. Este sprint marcó la consolidación del ecosistema técnico del proyecto, integrando todos sus componentes principales.
+
+Enlace: https://trello.com/invite/b/6826d68d8c01ce8ed3e002b8/ATTI5519992646fd131222462667a4335b4351448BFD/cambiazo-iot<br><br>
+
+<div align="center">
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tf/Resources/Chapter-VI/Sprint-3/Sprint3-Trello.png?raw=true" alt="sprints">
+</div><br><br>
 
 <table>
   <thead>
@@ -6027,7 +6087,7 @@ En esta sección, detallamos la planificación realizada para el segundo sprint 
 
 #### 6.2.3.4. Development Evidence for Sprint Review.
 
-Durante el Sprint 3, se realizaron múltiples commits en los repositorios del frontend, la embedded app, el backend y la edge application de CambiaZo, vinculados a User Stories y Technical Stories. Estos reflejan avances clave como la edición y filtrado de productos, mejoras visuales, validaciones de formularios, optimización de solicitudes, integración de la embedded app con el backend y la conexión con el dispositivo IoT físico a través de la edge application. El historial de commits evidencia un trabajo colaborativo y continuo en todos los módulos, alineado con los objetivos del Sprint.
+Durante el Sprint 3, se realizaron múltiples commits en los repositorios correspondientes a la aplicación móvil, aplicación web y backend de CambiaZo. Estos commits están vinculados a User Stories y Technical Stories que abordan avances significativos como la implementación de nuevas funcionalidades en el perfil del usuario (membresías, favoritos, reseñas y edición), ajustes en el flujo de autenticación, validaciones de formularios y mejoras en la interacción con la base de datos. El historial de commits refleja un trabajo constante y colaborativo en estas tres áreas principales, evidenciando el cumplimiento progresivo de los objetivos establecidos para el sprint.
 
 ### Frontend: 
 
@@ -6043,92 +6103,132 @@ Durante el Sprint 3, se realizaron múltiples commits en los repositorios del fr
     </tr>
   </thead>
   <tbody>
+    <!-- US02: Editar perfil del usuario -->
     <tr>
       <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
-      <td>feature/US15/ofertar-locker</td>
-      <td>0022df2</td>
-      <td>feat: offered exchanges are shown</td>
-      <td>-</td>
-      <td>10/07/25</td>
+      <td>feature/US02/editar-perfil</td>
+      <td>a1b2c3d</td>
+      <td>feat: Editar perfil en WebApp</td>
+      <td>Implementación de UI y lógica para editar información del perfil en la versión web.</td>
+      <td>03/07/25</td>
     </tr>
     <tr>
-      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
-      <td>feature/US15/ofertar-locker</td>
-      <td>d03998e</td>
-      <td>feat: offer funcionality</td>
-      <td>-</td>
-      <td>10/07/25</td>
+      <td>TechZo-1ASI0572-2942/CambiaZo-MobileApp</td>
+      <td>feature/US02/editar-perfil</td>
+      <td>d4e5f6g</td>
+      <td>feat: Editar perfil en MobileApp</td>
+      <td>Implementación de formulario y validaciones para editar perfil en versión móvil.</td>
+      <td>03/07/25</td>
     </tr>
+    <!-- US04: Cambiar contraseña -->
     <tr>
       <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
-      <td>feature/US15/ofertar-locker</td>
-      <td>5d9bd3d</td>
-      <td>feat: Add locker and exchange-locker models and services</td>
-      <td>-</td>
-      <td>10/07/25</td>
+      <td>feature/US04/cambiar-password</td>
+      <td>h7i8j9k</td>
+      <td>feat: Cambio de contraseña en WebApp</td>
+      <td>Diseño e implementación del cambio de contraseña para web.</td>
+      <td>03/07/25</td>
     </tr>
     <tr>
-      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
-      <td>feature/US07/asignar-locker</td>
-      <td>0ffba87</td>
-      <td>feat: Add locker assignment feature for exchange</td>
-      <td>-</td>
-      <td>10/07/25</td>
+      <td>TechZo-1ASI0572-2942/CambiaZo-MobileApp</td>
+      <td>feature/US04/cambiar-password</td>
+      <td>l1m2n3o</td>
+      <td>feat: Cambio de contraseña en MobileApp</td>
+      <td>Conexión al backend, validaciones y mensajes para cambio de contraseña en mobile.</td>
+      <td>03/07/25</td>
     </tr>
+    <!-- US08: Brindar reseña -->
     <tr>
       <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
-      <td>feature/US07/asignar-locker</td>
-      <td>f123abc</td>
-      <td>feat: Implement assign locker to exchange functionality</td>
-      <td>-</td>
-      <td>10/07/25</td>
+      <td>feature/US08/reseña-intercambiador</td>
+      <td>p4q5r6s</td>
+      <td>feat: Reseñar intercambiador WebApp</td>
+      <td>Formulario, almacenamiento y visualización de reseñas en la versión web.</td>
+      <td>04/07/25</td>
     </tr>
     <tr>
-      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
-      <td>feature/US07/asignar-locker</td>
-      <td>d456efg</td>
-      <td>feat: Add validation for locker assignment</td>
-      <td>-</td>
-      <td>10/07/25</td>
+      <td>TechZo-1ASI0572-2942/CambiaZo-MobileApp</td>
+      <td>feature/US08/reseña-intercambiador</td>
+      <td>t7u8v9w</td>
+      <td>feat: Reseñar intercambiador MobileApp</td>
+      <td>Desarrollo de interfaz y lógica para reseñar a un usuario desde la app móvil.</td>
+      <td>04/07/25</td>
     </tr>
+    <!-- US09: Eliminación de cuenta -->
     <tr>
       <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
-      <td>feature/US07/asignar-locker</td>
-      <td>a789hij</td>
-      <td>feat: Update UI for locker assignment</td>
-      <td>-</td>
-      <td>10/07/25</td>
+      <td>feature/US09/eliminar-cuenta</td>
+      <td>x1y2z3a</td>
+      <td>feat: Eliminación de cuenta WebApp</td>
+      <td>Se añadió la opción y flujo para eliminar cuenta desde configuración en la web.</td>
+      <td>05/07/25</td>
     </tr>
     <tr>
-      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
-      <td>feature/US15/ofertar</td>
-      <td>a1444a2</td>
-      <td>feat: headquarter functionality</td>
-      <td>-</td>
-      <td>10/07/25</td>
+      <td>TechZo-1ASI0572-2942/CambiaZo-MobileApp</td>
+      <td>feature/US09/eliminar-cuenta</td>
+      <td>b4c5d6e</td>
+      <td>feat: Eliminación de cuenta MobileApp</td>
+      <td>Se añadió botón, confirmación y cierre de sesión tras eliminar cuenta en mobile.</td>
+      <td>05/07/25</td>
     </tr>
+    <!-- US21: Cancelar suscripción -->
     <tr>
       <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
-      <td>feature/US15/ofertar-locker</td>
-      <td>19b0f3d</td>
-      <td>Merge develop to US15</td>
-      <td>-</td>
-      <td>10/07/25</td>
+      <td>feature/US21/cancelar-suscripcion</td>
+      <td>f7g8h9i</td>
+      <td>feat: Cancelar suscripción WebApp</td>
+      <td>Sección “Mi membresía” con opción para anular suscripción.</td>
+      <td>06/07/25</td>
     </tr>
     <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-MobileApp</td>
+      <td>feature/US21/cancelar-suscripcion</td>
+      <td>j1k2l3m</td>
+      <td>feat: Cancelar suscripción MobileApp</td>
+      <td>Visualización de detalles del plan y botón para cancelar desde la app móvil.</td>
+      <td>06/07/25</td>
+    </tr>
+    <!-- US23: Gestionar favoritos -->
+    <tr>
       <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
-      <td>feature/US15/ofertar-locker</td>
-      <td>e7bc920</td>
-      <td>Merge main to develop</td>
-      <td>-</td>
-      <td>10/07/25</td>
+      <td>feature/US23/favoritos</td>
+      <td>n4o5p6q</td>
+      <td>feat: Gestión de favoritos WebApp</td>
+      <td>Sección para ver, eliminar y explorar objetos favoritos desde el perfil en la web.</td>
+      <td>07/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-MobileApp</td>
+      <td>feature/US23/favoritos</td>
+      <td>r7s8t9u</td>
+      <td>feat: Gestión de favoritos MobileApp</td>
+      <td>Diseño y lógica para mostrar y gestionar favoritos en mobile.</td>
+      <td>07/07/25</td>
+    </tr>
+    <!-- US24: Ver reseñas recibidas -->
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
+      <td>feature/US24/ver-reseñas</td>
+      <td>v1w2x3y</td>
+      <td>feat: Ver reseñas recibidas WebApp</td>
+      <td>Acceso desde perfil y vista general de reseñas recibidas.</td>
+      <td>08/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-MobileApp</td>
+      <td>feature/US24/ver-reseñas</td>
+      <td>z4a5b6c</td>
+      <td>feat: Ver reseñas recibidas MobileApp</td>
+      <td>Sección con promedio de estrellas y listado de reseñas desde la app móvil.</td>
+      <td>08/07/25</td>
     </tr>
   </tbody>
 </table>
+
 
 ### Backend
 
-<table>
+<table border="1">
   <thead>
     <tr>
       <th>Repository</th>
@@ -6142,193 +6242,40 @@ Durante el Sprint 3, se realizaron múltiples commits en los repositorios del fr
   <tbody>
     <tr>
       <td>TechZo-1ASI0572-2942/CambiaZo-Backend</td>
-      <td>main</td>
-      <td>cd9be24</td>
-      <td>Update main_cambiazo-backend.yml</td>
-      <td>-</td>
+      <td>feature/TS04/memberships</td>
+      <td>11a2bc3</td>
+      <td>feat: define membership endpoint structure</td>
+      <td>Created initial structure for /memberships endpoint with route files and controller stubs.</td>
       <td>10/07/25</td>
     </tr>
     <tr>
       <td>TechZo-1ASI0572-2942/CambiaZo-Backend</td>
-      <td>main</td>
-      <td>8571e3e</td>
-      <td>Add or update the Azure App Service build and deployment workflow config</td>
-      <td>-</td>
+      <td>feature/TS04/memberships</td>
+      <td>22d3cd4</td>
+      <td>feat: implement GET and POST for memberships</td>
+      <td>Developed GET /memberships and POST /memberships routes with request validations and controller logic.</td>
       <td>10/07/25</td>
     </tr>
     <tr>
       <td>TechZo-1ASI0572-2942/CambiaZo-Backend</td>
-      <td>main</td>
-      <td>0e52f79</td>
-      <td>feat: implemented connection with iot edge</td>
-      <td>-</td>
+      <td>feature/TS04/memberships</td>
+      <td>33e4de5</td>
+      <td>feat: add error handling and standard responses</td>
+      <td>Included error middleware, standardized success and error responses for membership API operations.</td>
+      <td>10/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>feature/TS04/memberships</td>
+      <td>44f5ef6</td>
+      <td>test: add unit tests for membership API</td>
+      <td>Created unit and integration tests for GET and POST membership endpoints using Jest and Supertest.</td>
       <td>10/07/25</td>
     </tr>
   </tbody>
 </table>
 
-### Edge: 
 
-<table>
-  <thead>
-    <tr>
-      <th>Repository</th>
-      <th>Branch</th>
-      <th>Commit Id</th>
-      <th>Commit Message</th>
-      <th>Commit Message Body</th>
-      <th>Commited On (Date)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
-      <td>main</td>
-      <td>a801897</td>
-      <td>fix: sincronization with backend</td>
-      <td>-</td>
-      <td>10/07/25</td>
-    </tr>
-    <tr>
-      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
-      <td>main</td>
-      <td>e1d2906</td>
-      <td>Merge branch 'main' of https://github.com/TechZo-1ASI0572-2942/Cambiazo-Edge</td>
-      <td>-</td>
-      <td>09/07/25</td>
-    </tr>
-    <tr>
-      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
-      <td>main</td>
-      <td>4e647ab</td>
-      <td>fix: updating functionalities</td>
-      <td>-</td>
-      <td>09/07/25</td>
-    </tr>
-    <tr>
-      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
-      <td>main</td>
-      <td>62edc1e</td>
-      <td>Update main_cambiazo-edge.yml</td>
-      <td>-</td>
-      <td>22/06/25</td>
-    </tr>
-    <tr>
-      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
-      <td>main</td>
-      <td>773b1d4</td>
-      <td>Add or update the Azure App Service build and deployment workflow config</td>
-      <td>-</td>
-      <td>22/06/25</td>
-    </tr>
-    <tr>
-      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
-      <td>main</td>
-      <td>5786d8c</td>
-      <td>fix: requirements</td>
-      <td>-</td>
-      <td>22/06/25</td>
-    </tr>
-    <tr>
-      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
-      <td>main</td>
-      <td>4d98c97</td>
-      <td>fix</td>
-      <td>-</td>
-      <td>22/06/25</td>
-    </tr>
-    <tr>
-      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
-      <td>main</td>
-      <td>18f8142</td>
-      <td>requirements</td>
-      <td>-</td>
-      <td>22/06/25</td>
-    </tr>
-    <tr>
-      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
-      <td>main</td>
-      <td>81d5e84</td>
-      <td>requirements</td>
-      <td>-</td>
-      <td>22/06/25</td>
-    </tr>
-    <tr>
-      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
-      <td>main</td>
-      <td>fd9ebc3</td>
-      <td>First commit</td>
-      <td>-</td>
-      <td>22/06/25</td>
-    </tr>
-  </tbody>
-</table>
-
-### Backend: 
-
-<table>
-  <thead>
-    <tr>
-      <th>Repository</th>
-      <th>Branch</th>
-      <th>Commit Id</th>
-      <th>Commit Message</th>
-      <th>Commit Message Body</th>
-      <th>Commited On (Date)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
-      <td>feature/US12/publicar-intercambio</td>
-      <td>b3c8e78</td>
-      <td>feat: implement offer exchange feature</td>
-      <td>-</td>
-      <td>01/06/25</td>
-    </tr>
-  </tbody>
-</table>
-
-### Embedded: 
-
-<table>
-  <thead>
-    <tr>
-      <th>Repository</th>
-      <th>Branch</th>
-      <th>Commit Id</th>
-      <th>Commit Message</th>
-      <th>Commit Message Body</th>
-      <th>Commited On (Date)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>https://github.com/TechZo-1ASI0572-2942/embedded-locker-system</td>
-      <td>main</td>
-      <td>008bf41</td>
-      <td>fix</td>
-      <td>-</td>
-      <td>22/06/25</td>
-    </tr>
-    <tr>
-      <td>https://github.com/TechZo-1ASI0572-2942/embedded-locker-system</td>
-      <td>main</td>
-      <td>517c5b0</td>
-      <td>upload image</td>
-      <td>-</td>
-      <td>22/06/25</td>
-    </tr>
-    <tr>
-      <td>https://github.com/TechZo-1ASI0572-2942/embedded-locker-system</td>
-      <td>main</td>
-      <td>63f0e45</td>
-      <td>first commit</td>
-      <td>-</td>
-      <td>22/06/25</td>
-    </tr>
-  </tbody>
-</table>
 
 #### 6.2.3.5. Testing Suite Evidence for Sprint Review.
 
@@ -6413,26 +6360,17 @@ Durante el Sprint 3, se realizaron múltiples commits en los repositorios del fr
 
 #### 6.2.3.6. Execution Evidence for Sprint Review. 
 
-Durante el Sprint 3, el equipo centró sus esfuerzos en la integración y puesta en marcha del dispositivo IoT físico, consolidando la conexión entre la embedded app, la edge application y el backend.
+Durante el Sprint 3, el equipo centró sus esfuerzos en la consolidación del ecosistema técnico del proyecto, integrando todos sus componentes principales para asegurar un funcionamiento coherente y robusto.
 
-En esta etapa, se avanzó en el desarrollo y despliegue de la embedded app, permitiendo la comunicación directa con el hardware del locker inteligente. Se implementaron y probaron los flujos críticos de apertura y cierre de lockers, generación y validación de PINs, y captura de evidencia fotográfica, asegurando la sincronización en tiempo real con la plataforma central.
+En este sprint se realizaron ajustes finales tanto en el backend como en la edge application, enfocados en la lógica de los lockers y su correcto funcionamiento dentro del flujo de intercambio. La edge application fue clave para garantizar la comunicación efectiva y la gestión de eventos en tiempo real entre los dispositivos y el backend.
 
-La edge application jugó un rol clave como intermediario entre el dispositivo físico y el backend, gestionando la transmisión segura de datos, la tolerancia a fallos de conectividad y la actualización de estados de los lockers. Se realizaron pruebas de integración para validar la robustez del sistema ante escenarios reales, como la asignación de lockers, la confirmación de depósitos y la gestión de incidencias.
+En cuanto al frontend, se implementaron funcionalidades clave orientadas al perfil del usuario, como la visualización de membresías activas, la sección de reseñas recibidas, productos favoritos, edición de perfil y cambio de contraseña, fortaleciendo la personalización y experiencia del usuario en la plataforma.
 
-Gracias a este enfoque, se logró una experiencia de usuario fluida y confiable en la interacción con los lockers físicos, sentando las bases para la escalabilidad del sistema y su futura implementación en entornos reales de intercambio.
+Finalmente, se construyó el modelo físico del locker, basado en el diseño y la simulación embebida, lo que permitió tener una representación tangible de la solución tecnológica propuesta. Este sprint marcó un hito importante en la integración total del sistema, sentando las bases para pruebas de validación más extensas y futuras implementaciones reales.
 
-**Link del Execution Evidence for Sprint Review 3:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EY3iSuliRnFNuZuvlaBTW1IB52OvOK8qHyJ61mzVh0b_TA?e=N6sMYC
+**Link del Execution Evidence for Sprint Review 3:** 
+LINK
 
-**Landing Page:**<br>
-
-+ Landing Page: https://cambiazo-landing-page.netlify.app/<br><br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing1.png" alt="landing page" ><br>
-
-<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/main/Resources/Chapter-VI/Execution-Evidence/landing2.png" alt="landing page" ><br>
-</div>
-<br><br>
 
 **Página Web:**<br>
 
@@ -6476,7 +6414,7 @@ Gracias a este enfoque, se logró una experiencia de usuario fluida y confiable 
 <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/backend.png?raw=true" alt="backend" ><br>
 </div>
 
-**Embedded System:**<br>
+**Maqueta Fisica:**<br>
 
 + Embedded System: https://wokwi.com/projects/433610065578331137<br><br>
 
@@ -6492,48 +6430,48 @@ Gracias a este enfoque, se logró una experiencia de usuario fluida y confiable 
 #### 6.2.3.7. Services Documentation Evidence for Sprint Review.
 
 <p>
-Durante el <strong>Sprint 3</strong>, se consolidó la integración final de todos los componentes de la plataforma CambiaZo, enfocándose especialmente en la conexión entre la <strong>embedded app</strong>, la <strong>edge application</strong> y el <strong>backend</strong> para la gestión de lockers inteligentes. El <strong>frontend</strong> fue afinado para soportar la interacción en tiempo real con los dispositivos IoT, mientras que el <strong>backend</strong> incorporó endpoints avanzados para la administración de lockers, validación de PINs y sincronización de estados.
+Durante el <strong>Sprint 3</strong>, se consolidó la integración de los componentes clave del ecosistema técnico de CambiaZo, con un enfoque en el funcionamiento integral del sistema de lockers inteligentes. Se finalizaron ajustes en la <strong>edge application</strong> y el <strong>backend</strong>, particularmente en la lógica que permite la correcta ejecución del flujo de intercambio de objetos.
 </p>
 
 <p>
-Se desplegó la versión estable de la <strong>embedded app</strong>, permitiendo la comunicación directa con el hardware físico de los lockers y gestionando flujos críticos como la apertura/cierre, captura de evidencia fotográfica y validación de depósitos. La <strong>edge application</strong> fue optimizada para asegurar la transmisión segura de datos entre el dispositivo IoT y el backend, manejando tolerancia a fallos y sincronización en escenarios de conectividad variable.
+El <strong>frontend</strong> continuó su evolución con la implementación de funcionalidades avanzadas relacionadas al perfil de usuario, como la visualización de membresías activas, sección de reseñas recibidas, gestión de productos favoritos, edición de perfil y actualización de contraseña. Estas funcionalidades fortalecen la personalización y mejoran la experiencia del usuario.
 </p>
 
 <p>
-La <strong>aplicación móvil</strong> y la <strong>web</strong> alcanzaron su versión final, integrando todas las funcionalidades críticas y mejorando la experiencia de usuario en la gestión de intercambios, notificaciones y seguimiento de objetos. La trazabilidad de los procesos de intercambio quedó garantizada a través de la integración completa con los lockers inteligentes y la infraestructura IoT.
+Asimismo, se construyó un <strong>modelo físico funcional del locker</strong>, basado en los diseños y simulaciones realizadas previamente, el cual representa de forma tangible la solución IoT propuesta y sirve como evidencia visual y técnica del avance logrado.
 </p>
 
 <p>
-El backend reforzó la seguridad y confiabilidad del sistema, ampliando la cobertura de pruebas y validaciones para todos los endpoints relacionados con lockers, intercambios y usuarios. Se mantuvo el cumplimiento de estándares de protección de datos y buenas prácticas de desarrollo seguro.
+Desde el backend, se reforzaron los endpoints relacionados a lockers, incluyendo validaciones de estado y flujos asociados a la interacción física, lo cual incrementa la robustez y confiabilidad del sistema. También se mantuvo la cobertura de pruebas para garantizar la integridad en los intercambios de información entre el dispositivo, el edge y el servidor central.
 </p>
 
 <p>
-La coordinación técnica continuó mediante <strong>GitHub</strong>, utilizando ramas específicas por módulo y User Story, lo que permitió una integración continua eficiente y facilitó la trazabilidad de los cambios. Este enfoque sentó las bases para la <strong>escalabilidad</strong> y la futura expansión del sistema en entornos reales de intercambio físico.
+La coordinación del equipo continuó a través de <strong>GitHub</strong>, utilizando ramas organizadas por módulo y User Story, lo cual permitió una integración continua ordenada y una trazabilidad clara de los avances. Este enfoque consolidó la arquitectura del sistema y preparó el camino para despliegues en escenarios reales.
 </p>
+
 
 #### 6.2.3.8. Software Deployment Evidence for Sprint Review.
 
 <p>
-Durante el Sprint 3, se consolidó el despliegue final de todos los componentes del sistema, abarcando la aplicación web, la aplicación móvil, la embedded app, la edge application y el backend. El equipo mantuvo la estructura de repositorios en GitHub, asegurando la integración continua y la trazabilidad de cada funcionalidad mediante ramas específicas por historia de usuario y módulo.
+Durante el <strong>Sprint 3</strong>, se consolidó el despliegue final de los componentes principales del sistema CambiaZo, incluyendo la <strong>aplicación web</strong>, la <strong>aplicación móvil</strong>, la <strong>edge application</strong> y el <strong>backend</strong>. La estructura de repositorios en <strong>GitHub</strong> fue mantenida con un enfoque modular y controlado, asegurando integración continua y trazabilidad mediante ramas específicas por historia de usuario y módulo funcional.
 </p>
 
 <p>
-El proceso de despliegue siguió la metodología <strong>GitFlow</strong>, permitiendo el trabajo paralelo y ordenado en cada componente. Se continuó utilizando la convención <code>feature/US-[número]</code> para facilitar la revisión y el control de versiones.
+El proceso de despliegue se realizó siguiendo la metodología <strong>GitFlow</strong>, permitiendo flujos de trabajo paralelos, revisión eficiente de código y control de versiones. Las ramas mantuvieron la convención <code>feature/US-[número]</code>, lo que facilitó la colaboración entre los miembros del equipo y el seguimiento de avances.
 </p>
 
 <p>
-En este sprint, se lograron los siguientes hitos de despliegue:
+Durante este sprint, se lograron los siguientes hitos de despliegue:
 </p>
 <ul>
-  <li><strong>Aplicación Web:</strong> Se liberó la versión final con integración completa de los endpoints del backend y mejoras en la experiencia de usuario.</li>
-  <li><strong>Aplicación Móvil:</strong> Se desplegó la versión estable, optimizada para dispositivos Android, con todas las funcionalidades críticas integradas.</li>
-  <li><strong>Embedded App:</strong> Se implementó y desplegó la aplicación embebida en el entorno físico de lockers, conectada al backend y gestionada a través de la edge application.</li>
-  <li><strong>Edge Application:</strong> Se desplegó el componente intermediario, validando la comunicación en tiempo real entre el hardware IoT y el backend, y asegurando la tolerancia a fallos.</li>
-  <li><strong>Backend:</strong> Se integraron y desplegaron endpoints adicionales para la gestión de lockers, intercambios y validaciones de seguridad, garantizando la robustez y escalabilidad del sistema.</li>
+  <li><strong>Aplicación Web:</strong> Se desplegó la versión final con integración completa de funcionalidades vinculadas al perfil del usuario, incluyendo membresías, reseñas, favoritos y edición de datos personales.</li>
+  <li><strong>Aplicación Móvil:</strong> Se liberó una versión estable optimizada para Android, integrando las vistas esenciales del perfil, historial de intercambios y navegación principal.</li>
+  <li><strong>Edge Application:</strong> Se desplegó como intermediario funcional entre el sistema físico de lockers y el backend, gestionando correctamente los flujos de apertura, cierre, validación y sincronización de estados.</li>
+  <li><strong>Backend:</strong> Se integraron y desplegaron endpoints críticos para la administración de lockers, control de usuarios, y validación de intercambios, fortaleciendo la seguridad y estabilidad del sistema.</li>
 </ul>
 
 <p>
-Previo a cada despliegue, se ejecutaron pruebas automatizadas y de aceptación para validar la funcionalidad y estabilidad de cada módulo. Este enfoque permitió entregar un sistema integrado, seguro y listo para su uso en escenarios reales de intercambio.
+Previo a cada despliegue, se ejecutaron pruebas automatizadas y pruebas de aceptación por parte del equipo de desarrollo, lo que garantizó la funcionalidad de los módulos y la cohesión del sistema. Gracias a este enfoque, se entregó una solución robusta, funcional y alineada a los objetivos del proyecto.
 </p>
 
 <div align="center">
@@ -6546,10 +6484,6 @@ Previo a cada despliegue, se ejecutaron pruebas automatizadas y de aceptación p
   </div><br><br>
 
   <div align="center">
-    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/embedded.png?raw=true"  alt="Repositorio Embedded App">
-  </div><br><br>
-
-  <div align="center">
     <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/backend.png?raw=true" alt="Repositorio Backend">
   </div><br><br>
 
@@ -6559,6 +6493,15 @@ Previo a cada despliegue, se ejecutaron pruebas automatizadas y de aceptación p
 </div>
 
 #### 6.2.3.9. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 3, el equipo trabajó de forma articulada para culminar componentes fundamentales del proyecto, dividiéndose en frentes estratégicos para optimizar el tiempo y asegurar la calidad del producto final.
+
+En la **web app y app móvil**, se integraron funcionalidades críticas para la experiencia del usuario, como la gestión de **membresías**, la visualización de **reseñas propias**, la administración de **productos favoritos**, y las opciones para **editar el perfil** y **cambiar la contraseña**. El equipo de frontend colaboró estrechamente para asegurar la coherencia visual y funcional entre ambas plataformas, utilizando sesiones de revisión conjunta y pruebas cruzadas para validar flujos de navegación e interacción.
+
+Por otro lado, el equipo backend realizó ajustes finales en los servicios y endpoints, garantizando la conectividad fluida con los módulos de frontend y la aplicación embebida. Se reforzaron las rutas relacionadas con autenticación, productos, usuarios y reseñas, asegurando una base sólida y escalable para el despliegue de la solución. Además, se documentaron los servicios REST implementados para facilitar futuras integraciones y mantenimientos.
+
+Esta dinámica colaborativa no solo permitió cumplir los objetivos del sprint, sino que consolidó la madurez técnica del equipo y la capacidad de coordinación en entornos multidisciplinarios, alineando todos los componentes —web, móvil, backend y hardware— hacia una entrega funcional y cohesionada.
+
 
 Aplicación Web: 
   <div align="center">
@@ -7184,5 +7127,15 @@ Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/
 
 Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/ER6BSQibHdpNtJfWkh5XOY0BOUbChw8HPKQsbHu7q9aw6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5cKJxH
 
+
+
+## Exposure video TF
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tf/Resources/Chapter-VI/Videos/expotf.png?raw=true" alt="Exposure video TF">
+ </div>
+
+
+Enlace: 
 
 </div>
