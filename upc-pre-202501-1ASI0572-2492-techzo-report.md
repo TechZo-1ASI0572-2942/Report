@@ -4419,11 +4419,11 @@ Backend:
     <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration3.png" alt="Repositorio archivos feature">
 </div><br><br>
 
-## 6.2.2. Sprint 2
+### 6.2.2. Sprint 2
 
 En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
 
-### 6.2.2.1. Sprint Planning 2.
+#### 6.2.2.1. Sprint Planning 2.
 
 En esta sección, detallamos la planificación realizada para el segundo sprint del proyecto. Durante la reunión de planificación del Sprint 2, el equipo definió las funcionalidades clave a implementar, así como los objetivos a alcanzar.
 
@@ -4484,7 +4484,7 @@ En esta sección, detallamos la planificación realizada para el segundo sprint 
 </table><br><br>
 
 
-### 6.2.2.2. Aspect Leaders and Collaborators
+#### 6.2.2.2. Aspect Leaders and Collaborators
 
 <p>Durante el Sprint 2, el equipo abordó funcionalidades clave como la nueva versión de la landing page con videos informativos, avances en el frontend y backend, ajustes en la base de datos, además del desarrollo de la aplicación embebida y la Edge Application. Se designaron líderes y colaboradores por aspecto, promoviendo una ejecución eficiente y coordinada.</p>
 
@@ -4554,7 +4554,7 @@ En esta sección, detallamos la planificación realizada para el segundo sprint 
 <p><b>L = Líder</b>, <b>C = Colaborador</b></p>
 
 
-### 6.2.2.3. Sprint Backlog 2
+#### 6.2.2.3. Sprint Backlog 2
 
 En este sprint se continuó con el desarrollo de funcionalidades fundamentales para la operatividad de la aplicación. Se implementaron procesos clave como la creación y envío de ofertas de intercambio, la visualización y gestión de intercambios recibidos, enviados y aceptados, así como la edición y eliminación de publicaciones existentes. Además, se trabajó en la asignación automática y manual de lockers, asegurando una experiencia fluida en los procesos logísticos del intercambio. También se desarrollaron e integraron las APIs necesarias para manejar datos relacionados a los lockers y a los intercambios, fortaleciendo así la conectividad del sistema. Estas mejoras consolidan los flujos críticos de la plataforma y aportan a una experiencia de usuario más completa y dinámica.
 
@@ -5573,7 +5573,7 @@ La coordinación técnica mediante <strong>GitHub</strong>, estructurada en <str
 </p>
 
 
-### 6.2.2.8. Software Deployment Evidence for Sprint Review
+#### 6.2.2.8. Software Deployment Evidence for Sprint Review
 
 <p>
 Durante el Sprint 2, se consolidaron los procesos de despliegue del sistema, abarcando tanto la aplicación web como los componentes embebidos y del Edge. Se fortaleció la estructura de los repositorios en GitHub, que han sido fundamentales para organizar el trabajo del equipo y garantizar la integración continua de nuevas funcionalidades.
@@ -5622,7 +5622,7 @@ Además, se ejecutaron pruebas automatizadas y de aceptación que validaron las 
 
 
 
-### 6.2.2.9. Team Collaboration Insights during Sprint
+#### 6.2.2.9. Team Collaboration Insights during Sprint
 
 <p>
 Durante el Sprint 2, el equipo trabajó de manera coordinada para avanzar en las funcionalidades clave del sistema, incluyendo la actualización de la <strong>landing page</strong>, la implementación de nuevas secciones en el <strong>frontend</strong>, la consolidación del <strong>backend</strong>, y el desarrollo de la <strong>embedded app</strong> y la <strong>Edge Application</strong>. Cada miembro asumió un rol de liderazgo específico, permitiendo un desarrollo en paralelo sin comprometer la cohesión del proyecto.
@@ -5662,8 +5662,138 @@ Backend:
 
 
 ### 6.2.3. Sprint 3
+
+En esta sección, documentaremos y explicaremos el progreso del Sprint 3 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
+
 #### 6.2.3.1.Sprint Planning 3.
+
+En esta sección, detallamos la planificación realizada para el segundo sprint del proyecto. Durante la reunión de planificación del Sprint 3, el equipo definió las funcionalidades clave a implementar, así como los objetivos a alcanzar.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 3</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-07-06</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>10:00 AM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual mediante Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Santisteban Palomino, Ian Haziel Donato / Quispe Andia, Jeremy Joel / Huamani Mandujano, Joseph Alexis / Mendoza Carrion, Mathias Andre / Pin Matallana, Augusto Jose.
+</td>
+  </tr>
+  <tr>
+    <td>Sprint n-2 Review Summary</td>
+    <td>En el Sprint 2 se completó exitosamente el desarrollo integral del frontend y backend, implementando todas las funcionalidades planificadas para ambos módulos. El frontend y el backend quedaron totalmente conectados y operativos, permitiendo la gestión completa de usuarios, productos e intercambios. Se validó la integración entre ambos componentes, asegurando que las operaciones principales de la plataforma funcionen de manera fluida y estable para los usuarios finales.</td>
+  </tr>
+  <tr>
+    <td>Sprint n-2 Retrospective Summary</td>
+    <td>Durante la retrospectiva del Sprint 2, el equipo identificó como principales retos la ejecución de pruebas (tests) en todos los módulos y la gestión de los tiempos ajustados para cumplir con los entregables. Se propuso como mejora para el siguiente sprint priorizar la automatización y cobertura de tests desde etapas tempranas, así como optimizar la planificación para adaptarse mejor a los plazos establecidos.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 3</td>
+    <td>
+      Hacer operativa la **embedded app** conectándola con el dispositivo IoT físico y asegurando su integración con el backend. Además, implementar la gestión de intercambios (crear, ver, aceptar o rechazar ofertas) con actualización en tiempo real, iniciar la integración con los **lockers inteligentes**, y desarrollar una nueva versión de la **landing page** para web y móvil con videos (“About the Product” y “About the Team”). También, liberar una primera versión de la **Edge Application**.<br><br>**Métrica de Cumplimiento**: El sprint se considerará completado si la embedded app funciona con el dispositivo IoT físico y se conecta correctamente al backend, se habilitan todas las acciones de intercambio, se publica la nueva landing con los videos, se integra la app embebida, se activa un endpoint para lockers y se libera una versión básica de la Edge App.
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Velocity</td>
+    <td>50 Story Points</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>47 Story Points</td>
+  </tr>
+</table><br><br>
+
 #### 6.2.3.2.Aspect Leaders and Collaborators.
+
+<p>Durante el Sprint 2, el equipo abordó funcionalidades clave como la nueva versión de la landing page con videos informativos, avances en el frontend y backend, ajustes en la base de datos, además del desarrollo de la aplicación embebida y la Edge Application. Se designaron líderes y colaboradores por aspecto, promoviendo una ejecución eficiente y coordinada.</p>
+
+<table>
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>ID/Código</th>
+    <th>Landing Page (Nueva versión)</th>
+    <th>Frontend (Web y Móvil)</th>
+    <th>Backend</th>
+    <th>Base de Datos</th>
+    <th>Aplicación Embebida</th>
+    <th>Edge Application</th>
+  </tr>
+  <tr>
+    <td>Mendoza Carrion, Mathias Andre</td>
+    <td>U202216282</td>
+    <td>C</td>
+    <td>C</td>
+    <td></td>
+    <td><b>L</b></td>
+    <td>C</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Quispe Andia, Jeremy Joel</td>
+    <td>U202216279</td>
+    <td>C</td>
+    <td>C</td>
+    <td><b>L</b></td>
+    <td></td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Huamani Mandujano, Joseph Alexis</td>
+    <td>U20221A133</td>
+    <td></td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td><b>L</b></td>
+    <td><b>L</b></td>
+  </tr>
+  <tr>
+    <td>Santisteban Palomino, Ian Haziel Donato</td>
+    <td>U202214059</td>
+    <td><b>L</b></td>
+    <td></td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Pin Matallana, Augusto Jose</td>
+    <td>U202210257</td>
+    <td>C</td>
+    <td><b>L</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>C</td>
+  </tr>
+</table>
+
+<p><b>L = Líder</b>, <b>C = Colaborador</b></p>
+
 #### 6.2.3.3.Sprint Backlog 3.
 
 <table>
@@ -6106,7 +6236,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Resumen</td>
-    <td> Erick Maycol, en la Validation Interview, nos menciona que CambiaZo tiene un diseño visualmente atractivo y funcional, pero podría mejorar destacando secciones como testimonios y botones de acción, además de incluir preguntas frecuentes. Resalta la importancia de optimizar filtros, el sistema de calificación de usuarios y tiempos de carga. Sugiere añadir validaciones de identidad, opciones de transacciones protegidas y eventos comunitarios para fortalecer la confianza. Aunque valora el enfoque comunitario, destaca la necesidad de mejoras en la seguridad y experiencia del usuario para consolidar su potencial. </td>
+    <td>Jean Franco Barrionuevo, como nuevo intercambiador, considera que CambiaZo resulta muy atractivo y le genera interés por su propuesta innovadora. Destaca el diseño visual y la funcionalidad de la plataforma, señalando que la experiencia inicial es positiva y motivadora para quienes buscan realizar intercambios de manera segura. Sugiere que, para potenciar aún más la confianza de nuevos usuarios, sería útil resaltar testimonios, preguntas frecuentes y mejorar la visibilidad de los botones de acción. Además, menciona la importancia de optimizar los filtros, el sistema de calificación y los tiempos de carga, así como incorporar validaciones de identidad y opciones de transacciones protegidas. En general, valora el enfoque comunitario y ve en CambiaZo un gran potencial para quienes desean iniciarse en el intercambio de objetos.</td>
   </tr>
 </tbody>
 </table>
@@ -6235,9 +6365,6 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
 </tbody>
 </table>
-
-
-
 
 ### 6.3.3. Evaluaciones según heurísticas
 
