@@ -6411,10 +6411,154 @@ Durante el Sprint 3, se realizaron múltiples commits en los repositorios del fr
   </tbody>
 </table>
 
-#### 6.2.3.6.Execution Evidence for Sprint Review.
-#### 6.2.3.7.Services Documentation Evidence for Sprint Review.
-#### 6.2.3.8.Software Deployment Evidence for Sprint Review.
-#### 6.2.3.9.Team Collaboration Insights during Sprint.
+#### 6.2.3.6. Execution Evidence for Sprint Review. 
+
+Durante el Sprint 3, el equipo centró sus esfuerzos en la integración y puesta en marcha del dispositivo IoT físico, consolidando la conexión entre la embedded app, la edge application y el backend.
+
+En esta etapa, se avanzó en el desarrollo y despliegue de la embedded app, permitiendo la comunicación directa con el hardware del locker inteligente. Se implementaron y probaron los flujos críticos de apertura y cierre de lockers, generación y validación de PINs, y captura de evidencia fotográfica, asegurando la sincronización en tiempo real con la plataforma central.
+
+La edge application jugó un rol clave como intermediario entre el dispositivo físico y el backend, gestionando la transmisión segura de datos, la tolerancia a fallos de conectividad y la actualización de estados de los lockers. Se realizaron pruebas de integración para validar la robustez del sistema ante escenarios reales, como la asignación de lockers, la confirmación de depósitos y la gestión de incidencias.
+
+Gracias a este enfoque, se logró una experiencia de usuario fluida y confiable en la interacción con los lockers físicos, sentando las bases para la escalabilidad del sistema y su futura implementación en entornos reales de intercambio.
+
+**Link del Execution Evidence for Sprint Review 3:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EY3iSuliRnFNuZuvlaBTW1IB52OvOK8qHyJ61mzVh0b_TA?e=N6sMYC
+
+**Landing Page:**<br>
+
++ Landing Page: https://cambiazo-landing-page.netlify.app/<br><br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Execution-Evidence/landing1.png" alt="landing page" ><br>
+
+<img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/main/Resources/Chapter-VI/Execution-Evidence/landing2.png" alt="landing page" ><br>
+</div>
+<br><br>
+
+**Página Web:**<br>
+
++ Aplicación Web: https://cambiazo-webapp.netlify.app/home/ <br><br>
+
+<div align="center">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web1.png?raw=true" alt="web app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web2.png?raw=true" alt="web app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web3.png?raw=true" alt="web app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web4.png?raw=true" alt="web app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web5.png?raw=true" alt="web app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web5.png?raw=true" alt="web app" ><br>
+
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web6.png?raw=true" alt="web app" ><br>
+</div>
+<br><br>
+
+**Movil:**<br>
+
++ Movil Apk: https://drive.google.com/file/d/1c94ybxLDEBBoxn6ti-MZPGEtKRmuB3Xw/view?usp=sharing<br><br>
+
+  <div align="center">
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/movil1.png?raw=true" alt="movil app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/movil2.png?raw=true" alt="movil app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/movil3.png?raw=true" alt="movil app" ><br>
+</div>
+
+
+**Backend:**<br>
+
++ Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
+
+<div align="center">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/backend.png?raw=true" alt="backend" ><br>
+</div>
+
+**Embedded System:**<br>
+
++ Embedded System: https://wokwi.com/projects/433610065578331137<br><br>
+
+
+<div align="center">
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/embedded.png?raw=true" alt="embedded" ><br>
+</div>
+
+<br><br>
+
+<br>
+
+#### 6.2.3.7. Services Documentation Evidence for Sprint Review.
+
+<p>
+Durante el <strong>Sprint 3</strong>, se consolidó la integración final de todos los componentes de la plataforma CambiaZo, enfocándose especialmente en la conexión entre la <strong>embedded app</strong>, la <strong>edge application</strong> y el <strong>backend</strong> para la gestión de lockers inteligentes. El <strong>frontend</strong> fue afinado para soportar la interacción en tiempo real con los dispositivos IoT, mientras que el <strong>backend</strong> incorporó endpoints avanzados para la administración de lockers, validación de PINs y sincronización de estados.
+</p>
+
+<p>
+Se desplegó la versión estable de la <strong>embedded app</strong>, permitiendo la comunicación directa con el hardware físico de los lockers y gestionando flujos críticos como la apertura/cierre, captura de evidencia fotográfica y validación de depósitos. La <strong>edge application</strong> fue optimizada para asegurar la transmisión segura de datos entre el dispositivo IoT y el backend, manejando tolerancia a fallos y sincronización en escenarios de conectividad variable.
+</p>
+
+<p>
+La <strong>aplicación móvil</strong> y la <strong>web</strong> alcanzaron su versión final, integrando todas las funcionalidades críticas y mejorando la experiencia de usuario en la gestión de intercambios, notificaciones y seguimiento de objetos. La trazabilidad de los procesos de intercambio quedó garantizada a través de la integración completa con los lockers inteligentes y la infraestructura IoT.
+</p>
+
+<p>
+El backend reforzó la seguridad y confiabilidad del sistema, ampliando la cobertura de pruebas y validaciones para todos los endpoints relacionados con lockers, intercambios y usuarios. Se mantuvo el cumplimiento de estándares de protección de datos y buenas prácticas de desarrollo seguro.
+</p>
+
+<p>
+La coordinación técnica continuó mediante <strong>GitHub</strong>, utilizando ramas específicas por módulo y User Story, lo que permitió una integración continua eficiente y facilitó la trazabilidad de los cambios. Este enfoque sentó las bases para la <strong>escalabilidad</strong> y la futura expansión del sistema en entornos reales de intercambio físico.
+</p>
+
+#### 6.2.3.8. Software Deployment Evidence for Sprint Review.
+
+<p>
+Durante el Sprint 3, se consolidó el despliegue final de todos los componentes del sistema, abarcando la aplicación web, la aplicación móvil, la embedded app, la edge application y el backend. El equipo mantuvo la estructura de repositorios en GitHub, asegurando la integración continua y la trazabilidad de cada funcionalidad mediante ramas específicas por historia de usuario y módulo.
+</p>
+
+<p>
+El proceso de despliegue siguió la metodología <strong>GitFlow</strong>, permitiendo el trabajo paralelo y ordenado en cada componente. Se continuó utilizando la convención <code>feature/US-[número]</code> para facilitar la revisión y el control de versiones.
+</p>
+
+<p>
+En este sprint, se lograron los siguientes hitos de despliegue:
+</p>
+<ul>
+  <li><strong>Aplicación Web:</strong> Se liberó la versión final con integración completa de los endpoints del backend y mejoras en la experiencia de usuario.</li>
+  <li><strong>Aplicación Móvil:</strong> Se desplegó la versión estable, optimizada para dispositivos Android, con todas las funcionalidades críticas integradas.</li>
+  <li><strong>Embedded App:</strong> Se implementó y desplegó la aplicación embebida en el entorno físico de lockers, conectada al backend y gestionada a través de la edge application.</li>
+  <li><strong>Edge Application:</strong> Se desplegó el componente intermediario, validando la comunicación en tiempo real entre el hardware IoT y el backend, y asegurando la tolerancia a fallos.</li>
+  <li><strong>Backend:</strong> Se integraron y desplegaron endpoints adicionales para la gestión de lockers, intercambios y validaciones de seguridad, garantizando la robustez y escalabilidad del sistema.</li>
+</ul>
+
+<p>
+Previo a cada despliegue, se ejecutaron pruebas automatizadas y de aceptación para validar la funcionalidad y estabilidad de cada módulo. Este enfoque permitió entregar un sistema integrado, seguro y listo para su uso en escenarios reales de intercambio.
+</p>
+
+<div align="center">
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/web.png?raw=true"  alt="Repositorio App Web">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/mobile.png?raw=true"  alt="Repositorio App Movil">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/embedded.png?raw=true"  alt="Repositorio Embedded App">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/backend.png?raw=true" alt="Repositorio Backend">
+  </div><br><br>
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Deployment/edge.png?raw=true" alt="Repositorio Edge Application">
+  </div><br><br>
+</div>
+
+#### 6.2.3.9. Team Collaboration Insights during Sprint.
 
 Aplicación Web: 
   <div align="center">
