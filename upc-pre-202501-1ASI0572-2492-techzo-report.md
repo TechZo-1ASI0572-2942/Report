@@ -47,7 +47,7 @@
 |TB1|7/04/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Solution Software Design |
 |TP1|15/05/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo V: Solution UI/UX Design y Capítulo VI: Product Implementation, Validation & Deployment|
 |TB2|21/06/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo VI: Product Implementation, Validation & Deployment |
-|TF|21/06/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo VI: Product Implementation, Validation & Deployment |
+|TF1|21/06/25|Ian Haziel Donato Santisteban Palomino, Pin Matallana, Augusto Jose, Joseph Alexis Huamani Mandujano, Jeremy Joel Quispe Andia y Mathias Andre Mendoza Carrion | Capítulo VI: Product Implementation, Validation & Deployment |
 
 <br><br>
 
@@ -128,7 +128,7 @@ https://github.com/TechZo-1ASI0572-2942/Report
         <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tp1/Resources/Chapter-I/Insights/pulse.png?raw=true"></div><br><br>
 
       + **Vista de contributors en GitHub Insights**  
-        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/contributors-tb2.png?raw=true"></div><br><br>
+        <div align="center"><img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-I/Insights/contributors-tf.png?raw=true"></div><br><br>
 
 
 
@@ -6377,19 +6377,18 @@ LINK
 + Aplicación Web: https://cambiazo-webapp.netlify.app/home/ <br><br>
 
 <div align="center">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web1.png?raw=true" alt="web app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/web1.png?raw=true" alt="web app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web2.png?raw=true" alt="web app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/web2.png?raw=true" alt="web app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web3.png?raw=true" alt="web app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/web3.png?raw=true" alt="web app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web4.png?raw=true" alt="web app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/web4.png?raw=true" alt="web app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web5.png?raw=true" alt="web app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/web5.png?raw=true" alt="web app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web5.png?raw=true" alt="web app" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/web6.png?raw=true" alt="web app" ><br>
 
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/web6.png?raw=true" alt="web app" ><br>
 </div>
 <br><br>
 
@@ -6398,11 +6397,18 @@ LINK
 + Movil Apk: https://drive.google.com/file/d/1c94ybxLDEBBoxn6ti-MZPGEtKRmuB3Xw/view?usp=sharing<br><br>
 
   <div align="center">
-  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/movil1.png?raw=true" alt="movil app" ><br>
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/mobile1.png?raw=true" alt="movil app" ><br>
 
-  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/movil2.png?raw=true" alt="movil app" ><br>
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/mobile2.png?raw=true" alt="movil app" ><br>
+  
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/mobile3.png?raw=true" alt="movil app" ><br>
 
-  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/movil3.png?raw=true" alt="movil app" ><br>
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/mobile4.png?raw=true" alt="movil app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/mobile5.png?raw=true" alt="movil app" ><br>
+
+  <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/mobile6.png?raw=true" alt="movil app" ><br>
+ 
 </div>
 
 
@@ -6411,16 +6417,15 @@ LINK
 + Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
 
 <div align="center">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/backend.png?raw=true" alt="backend" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/backendtf.png?raw=true" alt="backend" ><br>
 </div>
 
 **Maqueta Fisica:**<br>
 
 + Embedded System: https://wokwi.com/projects/433610065578331137<br><br>
 
-
 <div align="center">
-<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Execution-Evidence/embedded.png?raw=true" alt="embedded" ><br>
+<img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/main/Resources/Chapter-VI/Sprint-3/Execution/Execution-Evidence/maqueta.png?raw=true" alt="embedded" ><br>
 </div>
 
 <br><br>
