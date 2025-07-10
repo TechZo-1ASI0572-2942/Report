@@ -3271,7 +3271,7 @@ Para desplegar nuestro backend, hemos optado por usar Microsoft Azure, el cual p
 + Backend: https://cambiazo-backend-bjdkd7hhgqa8gygw.eastus-01.azurewebsites.net/swagger-ui/index.html#/<br><br>
 
 
-## 6.2.1 Sprint 1
+### 6.2.1 Sprint 1
 En esta sección, documentaremos y explicaremos el progreso del Sprint 1 en términos de desarrollo del producto y colaboración del equipo. Abordaremos varios aspectos clave, incluyendo la planificación del sprint, el backlog del sprint, la evidencia de desarrollo para la Revisión del Sprint.
 
 #### 6.2.1.1. Sprint Planning 1.
@@ -4078,7 +4078,7 @@ Durante el Sprint 1, se realizaron múltiples commits en el repositorio del fron
   </tbody>
 </table>
 
-## Backend
+### Backend
 
 <table>
   <thead>
@@ -6025,9 +6025,312 @@ En esta sección, detallamos la planificación realizada para el segundo sprint 
   </tbody>
 </table>
 
-#### 6.2.3.4.Development Evidence for Sprint Review.
+#### 6.2.3.4. Development Evidence for Sprint Review.
 
-#### 6.2.3.5.Testing Suite Evidence for Sprint Review.
+Durante el Sprint 3, se realizaron múltiples commits en los repositorios del frontend, la embedded app, el backend y la edge application de CambiaZo, vinculados a User Stories y Technical Stories. Estos reflejan avances clave como la edición y filtrado de productos, mejoras visuales, validaciones de formularios, optimización de solicitudes, integración de la embedded app con el backend y la conexión con el dispositivo IoT físico a través de la edge application. El historial de commits evidencia un trabajo colaborativo y continuo en todos los módulos, alineado con los objetivos del Sprint.
+
+### Frontend: 
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>0022df2</td>
+      <td>feat: offered exchanges are shown</td>
+      <td>-</td>
+      <td>10/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>d03998e</td>
+      <td>feat: offer funcionality</td>
+      <td>-</td>
+      <td>10/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>5d9bd3d</td>
+      <td>feat: Add locker and exchange-locker models and services</td>
+      <td>-</td>
+      <td>10/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
+      <td>feature/US07/asignar-locker</td>
+      <td>0ffba87</td>
+      <td>feat: Add locker assignment feature for exchange</td>
+      <td>-</td>
+      <td>10/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
+      <td>feature/US07/asignar-locker</td>
+      <td>f123abc</td>
+      <td>feat: Implement assign locker to exchange functionality</td>
+      <td>-</td>
+      <td>10/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
+      <td>feature/US07/asignar-locker</td>
+      <td>d456efg</td>
+      <td>feat: Add validation for locker assignment</td>
+      <td>-</td>
+      <td>10/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
+      <td>feature/US07/asignar-locker</td>
+      <td>a789hij</td>
+      <td>feat: Update UI for locker assignment</td>
+      <td>-</td>
+      <td>10/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar</td>
+      <td>a1444a2</td>
+      <td>feat: headquarter functionality</td>
+      <td>-</td>
+      <td>10/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>19b0f3d</td>
+      <td>Merge develop to US15</td>
+      <td>-</td>
+      <td>10/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-WebApp</td>
+      <td>feature/US15/ofertar-locker</td>
+      <td>e7bc920</td>
+      <td>Merge main to develop</td>
+      <td>-</td>
+      <td>10/07/25</td>
+    </tr>
+  </tbody>
+</table>
+
+### Backend
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>cd9be24</td>
+      <td>Update main_cambiazo-backend.yml</td>
+      <td>-</td>
+      <td>10/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>8571e3e</td>
+      <td>Add or update the Azure App Service build and deployment workflow config</td>
+      <td>-</td>
+      <td>10/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/CambiaZo-Backend</td>
+      <td>main</td>
+      <td>0e52f79</td>
+      <td>feat: implemented connection with iot edge</td>
+      <td>-</td>
+      <td>10/07/25</td>
+    </tr>
+  </tbody>
+</table>
+
+### Edge: 
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
+      <td>main</td>
+      <td>a801897</td>
+      <td>fix: sincronization with backend</td>
+      <td>-</td>
+      <td>10/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
+      <td>main</td>
+      <td>e1d2906</td>
+      <td>Merge branch 'main' of https://github.com/TechZo-1ASI0572-2942/Cambiazo-Edge</td>
+      <td>-</td>
+      <td>09/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
+      <td>main</td>
+      <td>4e647ab</td>
+      <td>fix: updating functionalities</td>
+      <td>-</td>
+      <td>09/07/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
+      <td>main</td>
+      <td>62edc1e</td>
+      <td>Update main_cambiazo-edge.yml</td>
+      <td>-</td>
+      <td>22/06/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
+      <td>main</td>
+      <td>773b1d4</td>
+      <td>Add or update the Azure App Service build and deployment workflow config</td>
+      <td>-</td>
+      <td>22/06/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
+      <td>main</td>
+      <td>5786d8c</td>
+      <td>fix: requirements</td>
+      <td>-</td>
+      <td>22/06/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
+      <td>main</td>
+      <td>4d98c97</td>
+      <td>fix</td>
+      <td>-</td>
+      <td>22/06/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
+      <td>main</td>
+      <td>18f8142</td>
+      <td>requirements</td>
+      <td>-</td>
+      <td>22/06/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
+      <td>main</td>
+      <td>81d5e84</td>
+      <td>requirements</td>
+      <td>-</td>
+      <td>22/06/25</td>
+    </tr>
+    <tr>
+      <td>TechZo-1ASI0572-2942/Cambiazo-Edge</td>
+      <td>main</td>
+      <td>fd9ebc3</td>
+      <td>First commit</td>
+      <td>-</td>
+      <td>22/06/25</td>
+    </tr>
+  </tbody>
+</table>
+
+### Backend: 
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-3585-Funda/CambiaZo-WebApp</td>
+      <td>feature/US12/publicar-intercambio</td>
+      <td>b3c8e78</td>
+      <td>feat: implement offer exchange feature</td>
+      <td>-</td>
+      <td>01/06/25</td>
+    </tr>
+  </tbody>
+</table>
+
+### Embedded: 
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>https://github.com/TechZo-1ASI0572-2942/embedded-locker-system</td>
+      <td>main</td>
+      <td>008bf41</td>
+      <td>fix</td>
+      <td>-</td>
+      <td>22/06/25</td>
+    </tr>
+    <tr>
+      <td>https://github.com/TechZo-1ASI0572-2942/embedded-locker-system</td>
+      <td>main</td>
+      <td>517c5b0</td>
+      <td>upload image</td>
+      <td>-</td>
+      <td>22/06/25</td>
+    </tr>
+    <tr>
+      <td>https://github.com/TechZo-1ASI0572-2942/embedded-locker-system</td>
+      <td>main</td>
+      <td>63f0e45</td>
+      <td>first commit</td>
+      <td>-</td>
+      <td>22/06/25</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 6.2.3.5. Testing Suite Evidence for Sprint Review.
 
 <table border="1">
   <thead>
