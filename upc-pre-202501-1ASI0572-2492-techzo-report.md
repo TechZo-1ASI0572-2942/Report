@@ -5769,7 +5769,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
   </tr>
   <tr>
     <td>Resumen</td>
-    <td> Erick Maycol, en la Validation Interview, nos menciona que CambiaZo tiene un diseño visualmente atractivo y funcional, pero podría mejorar destacando secciones como testimonios y botones de acción, además de incluir preguntas frecuentes. Resalta la importancia de optimizar filtros, el sistema de calificación de usuarios y tiempos de carga. Sugiere añadir validaciones de identidad, opciones de transacciones protegidas y eventos comunitarios para fortalecer la confianza. Aunque valora el enfoque comunitario, destaca la necesidad de mejoras en la seguridad y experiencia del usuario para consolidar su potencial. </td>
+    <td>Jean Franco Barrionuevo, como nuevo intercambiador, considera que CambiaZo resulta muy atractivo y le genera interés por su propuesta innovadora. Destaca el diseño visual y la funcionalidad de la plataforma, señalando que la experiencia inicial es positiva y motivadora para quienes buscan realizar intercambios de manera segura. Sugiere que, para potenciar aún más la confianza de nuevos usuarios, sería útil resaltar testimonios, preguntas frecuentes y mejorar la visibilidad de los botones de acción. Además, menciona la importancia de optimizar los filtros, el sistema de calificación y los tiempos de carga, así como incorporar validaciones de identidad y opciones de transacciones protegidas. En general, valora el enfoque comunitario y ve en CambiaZo un gran potencial para quienes desean iniciarse en el intercambio de objetos.</td>
   </tr>
 </tbody>
 </table>
