@@ -5896,12 +5896,108 @@ Backend:
 </table>
 
 #### 6.2.3.4.Development Evidence for Sprint Review.
+
 #### 6.2.3.5.Testing Suite Evidence for Sprint Review.
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed On (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>3785547</td>
+      <td>feat: Create US-24</td>
+      <td>In this part, we applied Gherkin to the US-24</td>
+      <td>7/10/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>904a772</td>
+      <td>feat: Create US-23</td>
+      <td>In this part, we applied Gherkin to the US-23</td>
+      <td>7/10/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>11ff401</td>
+      <td>feat: Create US-21</td>
+      <td>In this part, we applied Gherkin to the US-21</td>
+      <td>7/10/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>c11dc81</td>
+      <td>feat: Create US-09</td>
+      <td>In this part, we applied Gherkin to the US-09</td>
+      <td>7/10/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>ffe758a</td>
+      <td>feat: Create US-08</td>
+      <td>In this part, we applied Gherkin to the US-08</td>
+      <td>7/10/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>fa90538</td>
+      <td>feat: Create US-04</td>
+      <td>In this part, we applied Gherkin to the US-04</td>
+      <td>7/10/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>4f19034</td>
+      <td>feat: Create US-02</td>
+      <td>In this part, we applied Gherkin to the US-02</td>
+      <td>7/10/25</td>
+    </tr>
+    <tr>
+      <td>123-Mathias/TechZo-1ASI0572-2942/Acceptance-Tests</td>
+      <td>main</td>
+      <td>fc1525f</td>
+      <td>feat: Create TS-04</td>
+      <td>In this part, we applied Gherkin to the TS-04</td>
+      <td>7/10/25</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 6.2.3.6.Execution Evidence for Sprint Review.
 #### 6.2.3.7.Services Documentation Evidence for Sprint Review.
 #### 6.2.3.8.Software Deployment Evidence for Sprint Review.
 #### 6.2.3.9.Team Collaboration Insights during Sprint.
 
+Aplicación Web: 
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration2.png" alt="Repositorio archivos feature">
+</div><br><br>
+
+Aplicación Movil: 
+
+  <div align="center">
+    <img src="https://github.com/TechZo-1ASI0572-2942/Report/blob/doc-tb2/Resources/Chapter-VI/Sprint-2/Insights/mobile.png?raw=true" alt="Insights">
+</div><br><br>
+
+Backend: 
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TechZo-1ASI0572-2942/Report/refs/heads/doc-tp1/Resources/Chapter-VI/Team%20Colaboration%20Insights/colaboration3.png" alt="Repositorio archivos feature">
+</div><br><br>
 
 ## 6.3. Validation Interviews
 
