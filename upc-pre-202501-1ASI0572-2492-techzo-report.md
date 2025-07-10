@@ -6369,7 +6369,7 @@ En cuanto al frontend, se implementaron funcionalidades clave orientadas al perf
 Finalmente, se construyó el modelo físico del locker, basado en el diseño y la simulación embebida, lo que permitió tener una representación tangible de la solución tecnológica propuesta. Este sprint marcó un hito importante en la integración total del sistema, sentando las bases para pruebas de validación más extensas y futuras implementaciones reales.
 
 **Link del Execution Evidence for Sprint Review 3:** 
-LINK
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a133_upc_edu_pe/EdmUbm84SolCgd8vz9reB5oB5hOyYna2ws-5pyb-mbFNLA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=X8qyix 
 
 
 **Página Web:**<br>
@@ -7141,6 +7141,6 @@ Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/
  </div>
 
 
-Enlace: 
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EVG0ew3E-3ZNrXU_RzwcO1UBqCw2Nqu0TZc8kdLjVaNLFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=LEG3jt
 
 </div>
